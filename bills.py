@@ -1,6 +1,7 @@
 import sys
 import requests
 import json
+import math
 # import re
 # import time
 # import sys
@@ -39,17 +40,18 @@ def get_bill_ids(congress='116',
     r = requests.get(url=url, params=PARAMS)
     if r.status_code == 200:
         data = r.json()
-        with open(f"data/ids/{congress}_{docClass}_{billVersion}.json", "w") as outfile:
+        with open(f"data/ids/{congress}/{congress}_{docClass}_{billVersion}.json", "w") as outfile:
             json.dump(data, outfile)
         print(f"{data['count']} bill ids for congress '{congress}', docClass '{docClass}', billVersion '{billVersion}' saved to disk.")
         # Get bill texts
-        get_package(data['packages'], congress, billVersion, data['count'])
+        # print(outfile.name)
+        get_package(outfile.name)
     else:
         print(f"Status code: {r.status_code}")
         return r.status_code
 
 
-def get_package(all_bill_ids, congress, bill_version, bill_count):
+def get_package(id_file):
     '''
     Given a list of bill ids, this function makes a govinfo API call to
     request the bill text.
@@ -67,8 +69,18 @@ def get_package(all_bill_ids, congress, bill_version, bill_count):
         dictionary keys are the bill ids. The nested dictionary values are the
         bill text.
     '''
+    congress = id_file.split("/")[2]
+    with open(id_file, "rb") as read_content:
+        id_content = json.load(read_content)
+        all_bill_ids = id_content['packages']
+        bill_count = id_content['count']
 
     # The API allows a maximum of 1000 requests per hour for a given API key.
+    max_bills = 1000
+    num_machines = math.ceil(bill_count / max_bills)
+    print(f"{num_machines} machines required to get all {bill_count} bills in 1 hour.")
+    print("As a trial, we will get the first 10 bills.")
+
     bill_ids_saved = []
     for bill in all_bill_ids[:10]:
         bill_id = bill["packageId"]
@@ -83,5 +95,9 @@ def get_package(all_bill_ids, congress, bill_version, bill_count):
 
 
 if __name__ == '__main__':
-    get_bill_ids(*sys.argv[1:])
+    if sys.argv[0] == 'get_package':
+        get_package(*sys.argv[1:])
+    else:
+        get_bill_ids(*sys.argv[2:])
+    
 
