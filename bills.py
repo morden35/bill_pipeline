@@ -2,12 +2,25 @@ import sys
 import requests
 import json
 import math
+from os.path import exists
 # import re
 # import time
 # import sys
 # import boto3
 
 API_KEY = 'nt5nhSpwSqMbrGJ7hcsBkXFI1mfk80X0fexbnt45'
+
+CONGRESS_YRS = ['103', '104', '105', '106', '107', '108', '109', '110',
+                '111', '112', '113', '114', '115', '116', '117']
+DOC_CLASSES = ['s', 'sres', 'sconres', 'sjres', 'hr', 'hres', 'hconres',
+               'hjres']
+BILL_VERSIONS = ['as', 'ash', 'ath', 'ats', 'cdh', 'cds', 'cph', 'cps', 'eah',
+                   'eas', 'eh', 'eph', 'phs', 'enr', 'es', 'fah', 'fph', 'fps',
+                   'hdh', 'hds', 'ih', 'iph', 'ips', 'is', 'lth', 'lts', 'oph',
+                   'ops', 'pav', 'pch', 'pcs', 'pp', 'pap', 'pwah', 'rah',
+                   'ras', 'rch', 'rcs', 'rdh', 'rds', 'reah', 'res', 'renr',
+                   'rfh', 'rfs', 'rh', 'rih', 'ris', 'rs', 'rth', 'rts', 'sas',
+                   'sc']
 
 def get_bill_ids(congress='116',
                  docClass='s',
@@ -34,6 +47,12 @@ def get_bill_ids(congress='116',
             and get_package() is called
         if the requests does not succeed, returns status code
     '''
+    bill_id_file = f'data/ids/{congress}/{congress}_{docClass}_{billVersion}.json'
+    if exists(bill_id_file):
+        # Skip getting bill ids
+        # Just get bill texts
+        return get_package(bill_id_file)
+    
     url = f'https://api.govinfo.gov/collections/BILLS/{lastModifiedStartDate}?offset={offset}&pageSize={pageSize}&congress={congress}&docClass={docClass}&billVersion={billVersion}&api_key={API_KEY}'
     PARAMS = {'headers': 'accept: application/json'}
 
@@ -44,33 +63,24 @@ def get_bill_ids(congress='116',
             json.dump(data, outfile)
         print(f"{data['count']} bill ids for congress '{congress}', docClass '{docClass}', billVersion '{billVersion}' saved to disk.")
         # Get bill texts
-        # print(outfile.name)
-        get_package(outfile.name)
-    else:
-        print(f"Status code: {r.status_code}")
-        return r.status_code
+        return get_package(outfile.name)
+    print(f"Status code: {r.status_code}")
+    return r.status_code
 
 
-def get_package(id_file):
+def get_package(bill_id_file):
     '''
-    Given a list of bill ids, this function makes a govinfo API call to
+    Given a file containing bill ids, this function makes a govinfo API call to
     request the bill text.
 
     Inputs:
-        all_bill_ids (list) - A list of dictionaries that contain all
-            bill ids
-        congress (str) - the congress number
-        billVersion (str) - the bill version (there are 53 possible types)
-        bill_count (int) - the number of bills to retrieve
+        bill_id_file (str) - Path to a file containing json with all bill ids
     Returns:
-        This function dumps a dictionary of dictionaries to
-        climate_bills/{congress}_bills.json. The dictionary key is the congress
-        number. The dictionary value is another nested dictionary. The nested
-        dictionary keys are the bill ids. The nested dictionary values are the
-        bill text.
+        This function dumps pdf files containing bill texts into their respective
+        folders on disk.
     '''
-    congress = id_file.split("/")[2]
-    with open(id_file, "rb") as read_content:
+    congress = bill_id_file.split("/")[2]
+    with open(bill_id_file, "rb") as read_content:
         id_content = json.load(read_content)
         all_bill_ids = id_content['packages']
         bill_count = id_content['count']
@@ -82,22 +92,24 @@ def get_package(id_file):
     print("As a trial, we will get the first 10 bills.")
 
     bill_ids_saved = []
-    for bill in all_bill_ids[:10]:
+    for bill in all_bill_ids:
+        if len(bill_ids_saved) == 10:
+            break
         bill_id = bill["packageId"]
+        bill_pdf_path = f"data/bills/{congress}/{bill_id}.pdf"
+        if exists(bill_pdf_path):
+            continue
         bill_ids_saved.append(bill_id)
         url = f'https://api.govinfo.gov/packages/{bill_id}/xml?api_key={API_KEY}'
         PARAMS = {'headers': 'accept: */*'}
         r = requests.get(url = url, params = PARAMS)
-
-        with open(f"data/bills/{congress}/{bill_id}.pdf", "wb") as outfile:
+        with open(bill_pdf_path, "wb") as outfile:
             outfile.write(r.content)
-    print(f"10 bill texts (.pdfs) for congress '{congress}' saved to disk: {bill_ids_saved}")
+    print(f"{len(bill_ids_saved)} bill texts (.pdfs) for congress '{congress}' saved to disk: {bill_ids_saved}")
 
 
 if __name__ == '__main__':
-    if sys.argv[0] == 'get_package':
-        get_package(*sys.argv[1:])
-    else:
-        get_bill_ids(*sys.argv[2:])
-    
-
+    try:
+        get_bill_ids(*sys.argv[1:])
+    except:
+        print("Please try again with valid command line arguments.")

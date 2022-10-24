@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-private="public" slc-id="S1-CAN19A10-3LD-H2-V1F"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 S3039 IS: To authorize the Secretary of Veterans Affairs to establish a grant program to conduct cemetery research and produce educational materials for the Veterans Legacy Program, and for other purposes. </dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2019-12-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>116th CONGRESS</congress><session>1st Session</session><legis-num>S. 3039</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20191212">December 12, 2019</action-date><action-desc><sponsor name-id="S314">Mr. Tester</sponsor> (for himself and <cosponsor name-id="S381">Mr. Rounds</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSVA00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To authorize the Secretary of Veterans Affairs to establish a grant program to conduct cemetery
+			 research and produce educational materials for the Veterans Legacy
+			 Program, and for other purposes. </official-title></form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause" id="HB60471CE3CD94288ADB929E3A8AB1130" style="OLC">
+		<section id="HAC40A5C81FBF42DC87C9D5B5D893399D" section-type="section-one"><enum>1.</enum><header>Grant program for cemetery research and the production of educational materials for the Veterans
+			 Legacy Program of the National Cemetery Administration</header>
+			<subsection id="HCB20BC2655F44790B0C91C37EAEDDA6F"><enum>(a)</enum><header>Grant program authorized</header>
+ <paragraph id="H6EB90DE8BE8C47CC83148ABE5C9BF711"><enum>(1)</enum><header>In general</header><text>The Secretary of Veterans Affairs may establish a grant program to conduct cemetery research and produce educational materials for the Veterans Legacy Program.</text>
+ </paragraph><paragraph id="H71803CEE2BB54DC3A540A4C274BFFE8C"><enum>(2)</enum><header>Eligible recipients</header><text>The Secretary may award a grant under this section to any of the following recipients:</text> <subparagraph id="H7C67010D6AB642E6B010AA35CBFE6972"><enum>(A)</enum><text>An institution of higher learning.</text>
+ </subparagraph><subparagraph id="HC64095224FC94728BE0E9AF95A5DA869"><enum>(B)</enum><text>A local educational agency.</text> </subparagraph><subparagraph id="HE3B44413771B4441B286F78F677E59A5"><enum>(C)</enum><text display-inline="yes-display-inline">A nonprofit entity that the Secretary determines has a demonstrated history of community engagement.</text>
+ </subparagraph><subparagraph id="H4C4756A6EBD6425BA3A85D27A68AEEFE"><enum>(D)</enum><text>Such other recipient as the Secretary determines to be appropriate.</text> </subparagraph></paragraph><paragraph id="HE2DDB1DA76004D6ABD9EDDF2D6707990"><enum>(3)</enum><header>Use of funds</header><text>The recipient of a grant under this section may use the grant amount for the following purposes:</text>
+ <subparagraph id="H8CEE191A28984674A2B37BF7DBD093FE"><enum>(A)</enum><text>To conduct research relating to national, State, or Tribal veterans’ cemeteries.</text> </subparagraph><subparagraph id="HCAF5BF7CD87A49408B2FFDD4715FE9D8"><enum>(B)</enum><text>To produce educational materials for the purpose of teaching about the histories of veterans interred in national, State, or Tribal veterans’ cemeteries.</text>
+ </subparagraph><subparagraph id="H0A060E42B11E44B0AE45218A992F1C7E"><enum>(C)</enum><text>To promote community engagement with the histories of veterans interred in national, State, or Tribal veterans’ cemeteries.</text>
+ </subparagraph></paragraph><paragraph id="H1E0303B2ABB04B6694A5CE3CFCD1541F"><enum>(4)</enum><header>Maximum grant amount</header><text>The amount of a grant awarded under this section may not exceed $500,000.</text> </paragraph></subsection><subsection id="HB885BAB8D50C4CBC8B0858A96A7FE125"><enum>(b)</enum><header>Regulations</header><text>If the Secretary establishes a grant program under this section, the Secretary shall prescribe regulations regarding—</text>
+ <paragraph id="H596E4E6C30FA4F16BF11BB307C60A8E2"><enum>(1)</enum><text>the evaluation of applications for grants under the program; and</text> </paragraph><paragraph id="HBBB8C593A97645A68BB7230392302D4A"><enum>(2)</enum><text>administration of the program.</text>
+ </paragraph></subsection><subsection id="H2CF1C102EEA24043AF22E555A9E44474"><enum>(c)</enum><header>Report required</header><text display-inline="yes-display-inline">Not later than 2 years after the date on which the Secretary establishes a grant program under this section, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the determination of the Secretary as to whether the grant program is a financially effective means to promote the purposes under subsection (a)(3).</text>
+ </subsection><subsection id="H08BA83AFFF4D403FB32655E1D3DE1624"><enum>(d)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HAC67C3FF662C4E769275ED202C2E8ACD"><enum>(1)</enum><header>Institution of higher learning</header><text>The term <term>institution of higher learning</term> has the meaning given that term in section 3452(f) of title 38, United States Code.</text>
+ </paragraph><paragraph id="HDB84E4B1A5A841C69B9DFD703B67EADA"><enum>(2)</enum><header>Local educational agency</header><text>The term <term>local educational agency</term> has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>).</text>
+ </paragraph><paragraph id="id49C3951E63E9448EACC53D0B849E60D5"><enum>(3)</enum><header>Veterans Legacy Program</header><text>The term <term>Veterans Legacy Program</term> means the program of the National Cemetery Administration that is responsible for providing engagement and educational tools and opportunities for the public regarding the service and sacrifice of veterans interred in national, State, and Tribal veterans’ cemeteries.</text></paragraph></subsection></section></legis-body></bill>
+
+
