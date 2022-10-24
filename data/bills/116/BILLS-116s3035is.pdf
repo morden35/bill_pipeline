@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-private="public" slc-id="S1-ALB19B33-2TF-Y2-87Y"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 S3035 IS: Elderly Home Detention Pilot Program Technical Corrections Act of 2019</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2019-12-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>116th CONGRESS</congress><session>1st Session</session><legis-num>S. 3035</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20191212">December 12, 2019</action-date><action-desc><sponsor name-id="S253">Mr. Durbin</sponsor> (for himself, <cosponsor name-id="S346">Mr. Lee</cosponsor>, <cosponsor name-id="S316">Mr. Whitehouse</cosponsor>, <cosponsor name-id="S370">Mr. Booker</cosponsor>, <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>, <cosponsor name-id="S337">Mr. Coons</cosponsor>, <cosponsor name-id="S387">Ms. Harris</cosponsor>, <cosponsor name-id="S311">Ms. Klobuchar</cosponsor>, <cosponsor name-id="S361">Ms. Hirono</cosponsor>, and <cosponsor name-id="S057">Mr. Leahy</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To provide that the amount of time that an elderly offender must serve before being eligible for
+			 placement in home detention is to be reduced by the amount of good time
+			 credits earned by the prisoner, and for other purposes.</official-title></form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause" id="HB374AD1948F147538C47D9AFA344E998" style="OLC">
+ <section id="idDA231ACAD2784BC9888A386E95C79B34" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Elderly Home Detention Pilot Program Technical Corrections Act of 2019</short-title></quote>.</text> </section><section id="H3CCCE59752D3499A8DBF4B796E41A04C" section-type="subsequent-section"><enum>2.</enum><header>Credits for certain elderly nonviolent offenders</header><text display-inline="no-display-inline">Section 231(g)(5)(A)(ii) of the Second Chance Act of 2007 (<external-xref legal-doc="usc" parsable-cite="usc/34/60541">34 U.S.C. 60541(g)(5)(A)(ii)</external-xref>) is amended by striking <quote>to which the offender was sentenced</quote> and inserting <quote>reduced by any credit toward the service of the prisoner’s sentence awarded under section 3624(b) of title 18, United States Code</quote>.</text></section></legis-body></bill>
+
+

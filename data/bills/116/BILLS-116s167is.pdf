@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 S167 IS: Eastern Legacy Extension Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2019-01-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>116th CONGRESS</congress><session>1st Session</session><legis-num>S. 167</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20190116">January 16, 2019</action-date><action-desc><sponsor name-id="S391">Mr. Young</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the National Trails System Act to extend the Lewis and Clark National Historic Trail, and
+			 for other purposes.</official-title></form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause" id="HB6F29AD8EE4244F8B2516C4F4639DAF0" style="OLC">
+ <section id="H328A6BC93FD9430E97DF2D0B217F1EEA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Eastern Legacy Extension Act</short-title></quote>.</text> </section><section id="HE4B6F4DDA08F43C4AA6F346C0E31D663" section-type="subsequent-section"><enum>2.</enum><header>Extension of Lewis and Clark National Historic Trail</header> <subsection id="HF61E04256E764C3B87A8E35021158404"><enum>(a)</enum><header>Extension</header><text display-inline="yes-display-inline">Section 5(a)(6) of the National Trails System Act (<external-xref legal-doc="usc" parsable-cite="usc/16/1244">16 U.S.C. 1244(a)(6)</external-xref>) is amended, in the first sentence—</text>
+ <paragraph id="HE839BC96923140DF8E77C2A089A26B1E"><enum>(1)</enum><text>by striking <quote>three thousand seven hundred</quote> and inserting <quote>4,900</quote>;</text> </paragraph><paragraph id="H6F5FF08571474B51B6A1DE9BFACCA55D"><enum>(2)</enum><text>by striking <quote>Wood River, Illinois,</quote> and inserting <quote>the Ohio River in Pittsburgh, Pennsylvania,</quote>; and</text>
+ </paragraph><paragraph id="H40F1966C9A1245AEAD74BD33D1D1A0A8"><enum>(3)</enum><text>by striking <quote>maps identified as, <quote>Vicinity Map, Lewis and Clark Trail</quote> study report dated April 1977</quote> and inserting <quote>the map entitled Lewis and Clark National Historic Trail Authorized Trail Including Proposed Eastern Legacy Extension, dated April 2018, and numbered 648/143721</quote>.</text>
+ </paragraph></subsection><subsection id="HE4E181B026274C66B6CC4871EB30F8BD"><enum>(b)</enum><header>Effective Date</header><text>The amendments made by subsection (a) take effect on the date that is 60 days after the date of enactment of this Act.</text></subsection></section></legis-body></bill>
+
+

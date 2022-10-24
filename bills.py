@@ -1,70 +1,65 @@
 import sys
 import requests
-import re
-# import time
 import json
+# import re
+# import time
 # import sys
 # import boto3
 
 API_KEY = 'nt5nhSpwSqMbrGJ7hcsBkXFI1mfk80X0fexbnt45'
 
-def get_bill_ids(lastModifiedStartDate='1990-05-13T02:22:08Z',
-                 offset=0,
-                 pageSize=1000,
-                 congress='116',
+def get_bill_ids(congress='116',
                  docClass='s',
-                 billVersion='is'):
+                 billVersion='is',
+                 lastModifiedStartDate='1990-05-13T02:22:08Z',
+                 offset=0,
+                 pageSize=1000):
     '''
-    Given an offset value and congress number, this function makes a govinfo
+    For the given  inputs, this function makes a govinfo
     API call to request a list of 'collections' (bill ids).
+    The requested bill ids are saved as json to disk.
 
     Inputs:
+        congress (str) - congress number (116 default)
+        docClass (str) - bill/collection categories (s, hr, hres, sconres)
+        billVersion (str) - the bill version (there are 53 possible types)
         lastModifiedStartDate (str) - This is the start date and time in
             ISO8601 format (yyyy-MM-dd'T'HH:mm:ss'Z')
         offset (int) - This is the starting record you wish to retrieve
         pageSize (int) - The number of records you would like to return within
             a given request
-        congress (str) - congress number (116 default)
-        docClass (str) - bill/collection categories (s, hr, hres, sconres)
-        billVersion (str) - the bill version (there are 53 possible types)
     Returns:
-        data (dictionary) - dictionary returned by API call. contains the
-            following keys: count, message, nextPage, previousPage, packages
-        returns None if the API call results in bad status code
+        if the request succeeds, data (dictionary) is saved to disk
+            and get_package() is called
+        if the requests does not succeed, returns status code
     '''
-
-    # if docClass == 'all'
-    # if billVersion == 'all'
-
     url = f'https://api.govinfo.gov/collections/BILLS/{lastModifiedStartDate}?offset={offset}&pageSize={pageSize}&congress={congress}&docClass={docClass}&billVersion={billVersion}&api_key={API_KEY}'
     PARAMS = {'headers': 'accept: application/json'}
 
     r = requests.get(url=url, params=PARAMS)
-    # if re.search(r"OVER_RATE_LIMIT", r.content.decode('utf8')):
-        # print("Reached limit at offset", offset)
     if r.status_code == 200:
         data = r.json()
-        # packages = data['packages']  
-        # return data
-        with open(f"data/{congress}_{docClass}_{billVersion}.json", "w") as outfile:
+        with open(f"data/ids/{congress}_{docClass}_{billVersion}.json", "w") as outfile:
             json.dump(data, outfile)
         print(f"{data['count']} bill ids for congress '{congress}', docClass '{docClass}', billVersion '{billVersion}' saved to disk.")
+        # Get bill texts
+        get_package(data['packages'], congress, billVersion, data['count'])
     else:
         print(f"Status code: {r.status_code}")
-        # print(r.json()['message'])
         return r.status_code
 
 
-def get_package(all_bill_ids, congress, version):
+def get_package(all_bill_ids, congress, bill_version, bill_count):
     '''
-    Given a list of bill ids (pre filtered for those that contain 'climate' in
-    title), this function makes a govinfo API call to request the bill text.
+    Given a list of bill ids, this function makes a govinfo API call to
+    request the bill text.
 
     Inputs:
-        all_bill_ids (dict) - A dictionary with the congress number as
-            the key, and a list of climate_bill_ids (list of bill ids) as the
-            value
+        all_bill_ids (list) - A list of dictionaries that contain all
+            bill ids
         congress (str) - the congress number
+        billVersion (str) - the bill version (there are 53 possible types)
+        bill_count (int) - the number of bills to retrieve
     Returns:
         This function dumps a dictionary of dictionaries to
         climate_bills/{congress}_bills.json. The dictionary key is the congress
@@ -72,37 +67,21 @@ def get_package(all_bill_ids, congress, version):
         dictionary keys are the bill ids. The nested dictionary values are the
         bill text.
     '''
-    all_bills = {congress: {}}
-    # all_bills = {'116': {}, '115': {}, '114': {}, '113': {}, '112': {},
-    #             '111': {}, '110': {}, '109': {}, '108': {}, '107': {},
-    #             '106': {}, '105': {}, '104': {}, '103': {}}
 
-    # for congress in all_bill_ids.keys():
-    # for num, package in enumerate(all_bill_ids[congress]):
-    for num, package in enumerate(all_bill_ids):
-        print(num)
-        bill_id = package["packageId"]
-        # url = f"https://api.govinfo.gov/packages/{bill_id}/summary?api_key={API_KEY}"
-        url = f'https://api.govinfo.gov/packages/{bill_id}/htm?api_key={API_KEY}'
+    # The API allows a maximum of 1000 requests per hour for a given API key.
+    bill_ids_saved = []
+    for bill in all_bill_ids[:10]:
+        bill_id = bill["packageId"]
+        bill_ids_saved.append(bill_id)
+        url = f'https://api.govinfo.gov/packages/{bill_id}/xml?api_key={API_KEY}'
         PARAMS = {'headers': 'accept: */*'}
-        # PARAMS = {'headers': 'accept: application/json'}
         r = requests.get(url = url, params = PARAMS)
-        # need to decode the bytes object
-        # bill_summary = json.loads(r.content)
-        # bill_text = json.loads(r.content)["download"]["txtLink"]
-        if re.search(r"OVER_RATE_LIMIT", r.content.decode('utf8')):
-            print("Reached limit at bill", bill_id)
-            break
-        all_bills[congress][bill_id] = r.content.decode('utf8')
 
-    # NEEDS TO GO IN S3
-    bucket_resource.put_object(Key=f'{congress}_bills_v{version}', Body=json.dumps(all_bills))
-    print("check S3 again")
-    print(len(all_bills[congress]), "bill texts gathered")
-#     with open(f'bills/{congress}_bills.json', 'w') as outfile:
-#         json.dump(all_bills, outfile)
-    # return all_bills
+        with open(f"data/bills/{congress}/{bill_id}.pdf", "wb") as outfile:
+            outfile.write(r.content)
+    print(f"10 bill texts (.pdfs) for congress '{congress}' saved to disk: {bill_ids_saved}")
 
 
 if __name__ == '__main__':
-    get_bill_ids()
+    get_bill_ids(*sys.argv[1:])
+
