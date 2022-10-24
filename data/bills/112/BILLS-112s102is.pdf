@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 102</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110125" legis-day="20110105">January 25
+			 (legislative day, January 5), 2011</action-date>
+			<action-desc><sponsor name-id="S197">Mr. McCain</sponsor> (for himself,
+			 <cosponsor name-id="S277">Mr. Carper</cosponsor>, <cosponsor name-id="S349">Mr.
+			 Portman</cosponsor>, <cosponsor name-id="S325">Mr. Udall of
+			 Colorado</cosponsor>, <cosponsor name-id="S212">Mr. Coats</cosponsor>,
+			 <cosponsor name-id="S330">Mr. Bennet</cosponsor>, <cosponsor name-id="S254">Mr.
+			 Enzi</cosponsor>, <cosponsor name-id="S312">Mrs. McCaskill</cosponsor>,
+			 <cosponsor name-id="S266">Mr. Crapo</cosponsor>, <cosponsor name-id="S311">Ms.
+			 Klobuchar</cosponsor>, <cosponsor name-id="S335">Mr. Brown of
+			 Massachusetts</cosponsor>, <cosponsor name-id="S321">Mr. Johanns</cosponsor>,
+			 <cosponsor name-id="S281">Mr. Ensign</cosponsor>, <cosponsor name-id="S347">Mr.
+			 Moran</cosponsor>, <cosponsor name-id="S316">Mr. Whitehouse</cosponsor>,
+			 <cosponsor name-id="S301">Mr. Coburn</cosponsor>, <cosponsor name-id="S308">Mr.
+			 Cardin</cosponsor>, <cosponsor name-id="S319">Mr. Begich</cosponsor>,
+			 <cosponsor name-id="S323">Mr. Risch</cosponsor>, <cosponsor name-id="S210">Mr.
+			 Lieberman</cosponsor>, <cosponsor name-id="S327">Mr. Warner</cosponsor>,
+			 <cosponsor name-id="S303">Mr. Thune</cosponsor>, and <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>) introduced the following bill;
+			 which was read twice and referred to the <committee-name committee-id="SSBU00">Committee on the Budget</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To provide an optional fast-track procedure
+		  the President may use when submitting rescission requests, and for other
+		  purposes.</official-title>
+	</form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC">
+		<section commented="no" display-inline="no-display-inline" id="id6772408FE62A4E0BBC5B30018BBD0362" section-type="section-one"><enum>1.</enum><header display-inline="yes-display-inline">Short title and purposes</header>
+			<subsection commented="no" display-inline="no-display-inline" id="ID9b931d2c20f84593bee9c1f843762e41"><enum>(a)</enum><header display-inline="yes-display-inline">Short Title</header><text display-inline="yes-display-inline">This Act may be cited as the
+			 <quote><short-title>Reduce Unnecessary Spending Act of
+			 2011</short-title></quote>.</text>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="ID1020bc7edf4649899b6e3a82f549eddc"><enum>(b)</enum><header display-inline="yes-display-inline">Purpose</header><text display-inline="yes-display-inline">The purpose of this Act is to create an
+			 optional fast-track procedure the President may use when submitting rescission
+			 requests, which would lead to an up-or-down vote by Congress on the President’s
+			 package of rescissions, without amendment.</text>
+			</subsection></section><section commented="no" display-inline="no-display-inline" id="ID517a506dabad4a8f981b1a8d14458606" section-type="subsequent-section"><enum>2.</enum><header display-inline="yes-display-inline">Rescissions of funding</header><text display-inline="no-display-inline">The Impoundment Control Act of 1974 is
+			 amended by striking part C and inserting the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id889E457586A74893BE109AC30B751EA6" style="OLC">
+				<part commented="no" id="id229F159176D543CB85A91DDDC22045AA" level-type="subsequent"><enum>C</enum><header display-inline="yes-display-inline">Expedited consideration of proposed
+				rescissions</header>
+					<section commented="no" display-inline="no-display-inline" id="ID123a41e8acb347c29b3d0e7bb521d9a9" section-type="subsequent-section"><enum>1021.</enum><header display-inline="yes-display-inline">Applicability and disclaimer</header><text display-inline="no-display-inline">The rules, procedures, requirements, and
+				definitions in this part apply only to executive and legislative actions
+				explicitly taken under this part. They do not apply to actions taken under part
+				B or to other executive and legislative actions not taken under this
+				part.</text>
+					</section><section commented="no" display-inline="no-display-inline" id="IDf361e3b48aad4c748c01b4d7e3aa10c2" section-type="subsequent-section"><enum>1022.</enum><header display-inline="yes-display-inline">Definitions</header><text display-inline="no-display-inline">In this part:</text>
+						<paragraph commented="no" display-inline="no-display-inline" id="ID4b0c2ed9139c40fc84e087ba422582ca"><enum>(1)</enum><text display-inline="yes-display-inline">The terms <term>appropriations Act</term>,
+				<term>budget authority</term>, and <term>new budget authority</term> have the
+				same meanings as in section 3 of the Congressional Budget Act of 1974.</text>
+						</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID2586161887ae4922a4bf9e72ffda3ecc"><enum>(2)</enum><text display-inline="yes-display-inline">The terms <term>account</term>,
+				<term>current year</term>, <term>CBO</term>, and <term>OMB</term> have the same
+				meanings as in section 250 of the Balanced Budget and Emergency Deficit Control
+				Act of 1985 as in effect on September 30, 2002.</text>
+						</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID49cad89cefd248f1bf3149c823a31344"><enum>(3)</enum><text display-inline="yes-display-inline">The term <term>days of session</term> shall
+				be calculated by excluding weekends and national holidays. Any day during which
+				a chamber of Congress is not in session shall not be counted as a day of
+				session of that chamber. Any day during which neither chamber is in session
+				shall not be counted as a day of session of Congress.</text>
+						</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID5da9a8f7c68d49048ac5ddd234dc218f"><enum>(4)</enum><text display-inline="yes-display-inline">The term <term>entitlement law</term> means
+				the statutory mandate or requirement of the United States to incur a financial
+				obligation unless that obligation is explicitly conditioned on the
+				appropriation in subsequent legislation of sufficient funds for that purpose,
+				and the Supplemental Nutrition Assistance Program.</text>
+						</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDc34cfcdee8fb4a2a93dec9b1fd24387c"><enum>(5)</enum><text display-inline="yes-display-inline">The term <term>funding</term> refers to new
+				budget authority and obligation limits except to the extent that the funding is
+				provided for entitlement law.</text>
+						</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID1f94d0e22d67438d8913e6dba37fba88"><enum>(6)</enum><text display-inline="yes-display-inline">The term <term>rescind</term> means to
+				eliminate or reduce the amount of enacted funding.</text>
+						</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID9a43747eb9034873a8991fca5de7c498"><enum>(7)</enum><text display-inline="yes-display-inline">The terms <term>withhold</term> and
+				<term>withholding</term> apply to any executive action or inaction that
+				precludes the obligation of funding at a time when it would otherwise have been
+				available to an agency for obligation. The terms do not include administrative
+				or preparatory actions undertaken prior to obligation in the normal course of
+				implementing budget laws.</text>
+						</paragraph></section><section commented="no" display-inline="no-display-inline" id="IDce918d3b613a4335bf276c7c657b9188" section-type="subsequent-section"><enum>1023.</enum><header display-inline="yes-display-inline">Timing and packaging of rescission
+				requests</header>
+						<subsection commented="no" display-inline="no-display-inline" id="IDd8396896ef5e437ebd03c41915e21f43"><enum>(a)</enum><header display-inline="yes-display-inline">Timing</header><text display-inline="yes-display-inline">If the President proposes that Congress
+				rescind funding under the procedures in this part, OMB shall transmit a message
+				to Congress containing the information specified in section 1024, and the
+				message transmitting the proposal shall be sent to Congress not later than 45
+				calendar days after the date of enactment of the funding.</text>
+						</subsection><subsection commented="no" display-inline="no-display-inline" id="IDd2d124e7793e40b4a5a63fa53dbddc3c"><enum>(b)</enum><header display-inline="yes-display-inline">Packaging and Transmittal of Requested
+				Rescissions</header><text display-inline="yes-display-inline">Except as
+				provided in subsection (c), for each piece of legislation that provides
+				funding, the President shall request at most 1 package of rescissions and the
+				rescissions in that package shall apply only to funding contained in that
+				legislation. OMB shall deliver each message requesting a package of rescissions
+				to the Secretary of the Senate if the Senate is not in session and to the Clerk
+				of the House of Representatives if the House is not in session. OMB shall make
+				a copy of the transmittal message publicly available, and shall publish in the
+				Federal Register a notice of the message and information on how it can be
+				obtained.</text>
+						</subsection><subsection commented="no" display-inline="no-display-inline" id="ID0731c0f1b0ae4905b2c68561604d7c60"><enum>(c)</enum><header display-inline="yes-display-inline">Special Packaging Rules</header><text display-inline="yes-display-inline">After enactment of—</text>
+							<paragraph commented="no" display-inline="no-display-inline" id="id71F1497FE539493E9D3AF99C0AD9FCB5"><enum>(1)</enum><text display-inline="yes-display-inline">a joint resolution making continuing
+				appropriations;</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID1e00f92ac2534eaf9123787271f2060a"><enum>(2)</enum><text display-inline="yes-display-inline">a supplemental appropriations bill;
+				or</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID2532ea83cabb42f6b3006803f8d1aaa7"><enum>(3)</enum><text display-inline="yes-display-inline">an omnibus appropriations bill;</text>
+							</paragraph><continuation-text commented="no" continuation-text-level="subsection">covering some or all of the
+				activities customarily funded in more than 1 regular appropriations bill, the
+				President may propose as many as 2 packages rescinding funding contained in
+				that legislation, each within the 45-day period specified in subsection (a).
+				OMB shall not include the same rescission in both packages, and, if the
+				President requests the rescission of more than one discrete amount of funding
+				under the jurisdiction of a single subcommittee, OMB shall include each of
+				those discrete amounts in the same package.</continuation-text></subsection></section><section commented="no" display-inline="no-display-inline" id="ID34b134e0aca44344b0faa1b12c7f7a90" section-type="subsequent-section"><enum>1024.</enum><header display-inline="yes-display-inline">Requests to rescind funding</header><text display-inline="no-display-inline">For each request to rescind funding under
+				this part, the transmittal message shall—</text>
+						<paragraph commented="no" display-inline="no-display-inline" id="IDefbf9934b9944d1388a2c973ea59117d"><enum>(1)</enum><text display-inline="yes-display-inline">specify—</text>
+							<subparagraph commented="no" display-inline="no-display-inline" id="id349AB24AC5F04FD58998B5B2DD02DBFE"><enum>(A)</enum><text display-inline="yes-display-inline">the dollar amount to be rescinded;</text>
+							</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDb3da25f3bc5a4da699a6339ef09c2300"><enum>(B)</enum><text display-inline="yes-display-inline">the agency, bureau, and account from which
+				the rescission shall occur;</text>
+							</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID332e8c1cab1f466585a0d572745c2632"><enum>(C)</enum><text display-inline="yes-display-inline">the program, project, or activity within
+				the account (if applicable) from which the rescission shall occur;</text>
+							</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID0a5d3ae5ca524a1586a8725125d0ccf6"><enum>(D)</enum><text display-inline="yes-display-inline">the amount of funding, if any, that would
+				remain for the account, program, project, or activity if the rescission request
+				is enacted; and</text>
+							</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDe5f02b49fbed4448a14016947da717da"><enum>(E)</enum><text display-inline="yes-display-inline">the reasons the President requests the
+				rescission;</text>
+							</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idCCFACCE49F924B1A9A418890A42433DC"><enum>(2)</enum><text display-inline="yes-display-inline">designate each separate rescission request
+				by number; and</text>
+						</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id7BACDB0FD84449B2854CBBBC38423ECE"><enum>(3)</enum><text display-inline="yes-display-inline">include proposed legislative language to
+				accomplish the requested rescissions which may not include—</text>
+							<subparagraph commented="no" display-inline="no-display-inline" id="id95DFC28996C74D59A3C6505EE99A6A07"><enum>(A)</enum><text display-inline="yes-display-inline">any changes in existing law, other than the
+				rescission of funding; or</text>
+							</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id107EE226F5CC4FC7B042585516CC739F"><enum>(B)</enum><text display-inline="yes-display-inline">any supplemental appropriations, transfers,
+				or reprogrammings.</text>
+							</subparagraph></paragraph></section><section commented="no" display-inline="no-display-inline" id="IDfde6a7b5d33b4fdb927581934f82a7fb" section-type="subsequent-section"><enum>1025.</enum><header display-inline="yes-display-inline">Grants of and limitations on presidential
+				authority</header>
+						<subsection commented="no" display-inline="no-display-inline" id="ID81928067328742fabc9c4ab4f0c9e0e7"><enum>(a)</enum><header display-inline="yes-display-inline">Presidential authority To withhold
+				funding</header><text display-inline="yes-display-inline">Notwithstanding any
+				other provision of law and if the President proposes a rescission of funding
+				under this part, OMB may, subject to the time limits provided in subsection
+				(c), temporarily withhold that funding from obligation.</text>
+						</subsection><subsection commented="no" display-inline="no-display-inline" id="IDa02d63932adc46f2b6a2b0633e44dfa5"><enum>(b)</enum><header display-inline="yes-display-inline">Expedited Procedures Available only Once
+				per Bill</header><text display-inline="yes-display-inline">The President may
+				not invoke the procedures of this part, or the authority to withhold funding
+				granted by subsection (a), on more than 1 occasion for any Act providing
+				funding.</text>
+						</subsection><subsection commented="no" display-inline="no-display-inline" id="ID9a523b5b377a4d9dbfeabad274f9d5cd"><enum>(c)</enum><header display-inline="yes-display-inline">Time Limits</header><text display-inline="yes-display-inline">OMB shall make available for obligation any
+				funding withheld under subsection (a) on the earliest of—</text>
+							<paragraph commented="no" display-inline="no-display-inline" id="ID69bc688cefca4155894185f69edcbd35"><enum>(1)</enum><text display-inline="yes-display-inline">the day on which the President determines
+				that the continued withholding or reduction no longer advances the purpose of
+				legislative consideration of the rescission request;</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID6967e7cd595d4a8289ee35b4082ea754"><enum>(2)</enum><text display-inline="yes-display-inline">starting from the day on which OMB
+				transmitted a message to Congress requesting the rescission of funding, 25
+				calendar days in which the House of Representatives has been in session or 25
+				calendar days in which the Senate has been in session, whichever occurs second;
+				or</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID745e7ea91105438581feda2035c644b9"><enum>(3)</enum><text display-inline="yes-display-inline">the last day after which the obligation of
+				the funding in question can no longer be fully accomplished in a prudent manner
+				before its expiration.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="H75F01C1E446E4D4D912657EFF672852F"><enum>(d)</enum><header display-inline="yes-display-inline">Deficit reduction</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="H9DDACF7E8E0E4CA59C96738000A7C286"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Funds that are rescinded under this part
+				shall be dedicated only to reducing the deficit or increasing the
+				surplus.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="H507B85EF940D4988968E8662FF291D8E"><enum>(2)</enum><header display-inline="yes-display-inline">Adjustment of levels in the concurrent
+				resolution on the budget</header><text display-inline="yes-display-inline">Not
+				later than 5 days after the date of enactment of an approval bill as provided
+				under this part, the chairs of the Committees on the Budget of the Senate and
+				the House of Representatives shall revise allocations and aggregates and other
+				appropriate levels under the appropriate concurrent resolution on the budget to
+				reflect the repeal or cancellation, and the applicable committees shall report
+				revised suballocations pursuant to section 302(b), as appropriate.</text>
+							</paragraph></subsection></section><section commented="no" display-inline="no-display-inline" id="ID1d7fe4333aa14618bd474be94ff913f5" section-type="subsequent-section"><enum>1026.</enum><header display-inline="yes-display-inline">Congressional consideration of rescission
+				requests</header>
+						<subsection commented="no" display-inline="no-display-inline" id="ID9f57f505d7e24938b262bc1d251b5dbd"><enum>(a)</enum><header display-inline="yes-display-inline">Preparation of Legislation To Consider a
+				Package of Expedited Rescission Requests</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="idAEA7A80404964C0684CB84DF322D93F0"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">If the House of Representatives receives a
+				package of expedited rescission requests, the Clerk shall prepare a House bill
+				that only rescinds the amounts requested which shall read as follows:</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID45203a6f5ea24e0b93c78f87a5b92ec6"><enum></enum><text display-inline="yes-display-inline"><quote>There are enacted the rescissions
+				numbered [insert number or numbers] as set forth in the Presidential message of
+				[insert date] transmitted under part C of the Impoundment Control Act of 1974
+				as amended.</quote></text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID0bfeb0a08c424a45b9d89bc14dc3b9b2"><enum>(2)</enum><header display-inline="yes-display-inline">Exclusion procedure</header><text display-inline="yes-display-inline">The Clerk shall include in the bill each
+				numbered rescission request listed in the Presidential package in question,
+				except that the Clerk shall omit a numbered rescission request if the Chairman
+				of the Committee on the Budget of the House, after consulting with the Chairman
+				of the Committee on the Budget of the Senate, CBO, GAO, and the House and
+				Senate committees that have jurisdiction over the funding, determines that the
+				numbered rescission does not refer to funding or includes matter not permitted
+				under a request to rescind funding.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="IDcb62155ee04e4d9bbc03f679191570c9"><enum>(b)</enum><header display-inline="yes-display-inline">Introduction and Referral of Legislation To
+				Enact a Package of Expedited Rescissions</header><text display-inline="yes-display-inline">The majority leader or the minority leader
+				of the House or Representatives, or a designee, shall (by request) introduce
+				each bill prepared under subsection (a) not later than 4 days of session of the
+				House after its transmittal, or, if no such bill is introduced within that
+				period, any member of the House may introduce the required bill in the required
+				form on the fifth or sixth day of session of the House after its transmittal.
+				If such an expedited rescission bill is introduced in accordance with the
+				preceding sentence, it shall be referred to the House committee of
+				jurisdiction. A copy of the introduced House bill shall be transmitted to the
+				Secretary of the Senate, who shall provide it to the Senate committee of
+				jurisdiction.</text>
+						</subsection><subsection commented="no" display-inline="no-display-inline" id="ID24d7c71685514045814982b9e924e6d3"><enum>(c)</enum><header display-inline="yes-display-inline">House report and consideration of
+				legislation To enact a package of expedited rescissions</header><text display-inline="yes-display-inline">The House committee of jurisdiction shall
+				report without amendment the bill referred to it under subsection (b) not more
+				than 5 days of session of the House after the referral. The committee may order
+				the bill reported favorably, unfavorably, or without recommendation. If the
+				committee has not reported the bill by the end of the 5-day period, the
+				committee shall be automatically discharged from further consideration of the
+				bill and it shall be placed on the appropriate calendar.</text>
+						</subsection><subsection commented="no" display-inline="no-display-inline" id="ID9b55ac1d16f7450fa146d42377cf4b85"><enum>(d)</enum><header display-inline="yes-display-inline">House Motion To Proceed</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="id7663E14AC9A44360B1A2570FD1631B26"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">After a bill to enact an expedited
+				rescission package has been reported or the committee of jurisdiction has been
+				discharged under subsection (c), it shall be in order to move to proceed to
+				consider the bill in the House. A Member who wishes to move to proceed to
+				consideration of the bill shall announce that fact, and the motion to proceed
+				shall be in order only during a time designated by the Speaker within the
+				legislative schedule for the next calendar day of legislative session or the
+				one immediately following it.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id4871CB226CA34B70A6565C8836A7F6AF"><enum>(2)</enum><header display-inline="yes-display-inline">Failure to set time</header><text display-inline="yes-display-inline">If the Speaker does not designate a time
+				under paragraph (1), 3 or more calendar days of legislative session after the
+				bill has been reported or discharged, it shall be in order for any Member to
+				move to proceed to consider the bill.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idBA0FBE793F93492B9B42528661EF35CB"><enum>(3)</enum><header display-inline="yes-display-inline">Procedure</header><text display-inline="yes-display-inline">A motion to proceed under this subsection
+				shall not be in order after the House has disposed of a prior motion to proceed
+				with respect to that package of expedited rescissions. The previous question
+				shall be considered as ordered on the motion to proceed, without intervening
+				motion. A motion to reconsider the vote by which the motion to proceed has been
+				disposed of shall not be in order.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id673AAE6238DB46E4AA21DF3854B44897"><enum>(4)</enum><header display-inline="yes-display-inline">Removal from calendar</header><text display-inline="yes-display-inline">If 5 calendar days of legislative session
+				have passed since the bill was reported or discharged under this subsection and
+				no Member has made a motion to proceed, the bill shall be removed from the
+				calendar.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID1b61da15c7224ef0bb5b7b3bbf7171db"><enum>(e)</enum><header display-inline="yes-display-inline">House Consideration</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="idA9814E5B68FB4997ADEC9B333ACC7E83"><enum>(1)</enum><header display-inline="yes-display-inline">Considered as read</header><text display-inline="yes-display-inline">A bill consisting of a package of
+				rescissions under this part shall be considered as read.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idF5E60D515039409F91A777107CDCF040"><enum>(2)</enum><header display-inline="yes-display-inline">Points of order</header><text display-inline="yes-display-inline">All points of order against the bill are
+				waived, except that a point of order may be made that 1 or more numbered
+				rescissions included in the bill would enact language containing matter not
+				requested by the President or not permitted under this part as part of that
+				package. If the Presiding Officer sustains such a point of order, the numbered
+				rescission or rescissions that would enact such language are deemed to be
+				automatically stripped from the bill and consideration proceeds on the bill as
+				modified.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id9C42764D2D0041B4A54E31FB3C0D1718"><enum>(3)</enum><header display-inline="yes-display-inline">Previous question</header><text display-inline="yes-display-inline">The previous question shall be considered
+				as ordered on the bill to its passage without intervening motion, except that 4
+				hours of debate equally divided and controlled by a proponent and an opponent
+				are allowed, as well as 1 motion to further limit debate on the bill.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id2883C3E239C64F4F8D5CECCF3FACE7D2"><enum>(4)</enum><header display-inline="yes-display-inline">Motion to reconsider</header><text display-inline="yes-display-inline">A motion to reconsider the vote on passage
+				of the bill shall not be in order.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID99c41f5a92eb4f969105ed9e9a76ad49"><enum>(f)</enum><header display-inline="yes-display-inline">Senate Consideration</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="id7B0E09FF1E714F9DA52C88AF8D296EA3"><enum>(1)</enum><header display-inline="yes-display-inline">Referral</header><text display-inline="yes-display-inline">If the House of Representatives approves a
+				House bill enacting a package of rescissions, that bill as passed by the House
+				shall be sent to the Senate and referred to the Senate committee of
+				jurisdiction.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id3C3F54718B774B9D8D8226C9CA42C685"><enum>(2)</enum><header display-inline="yes-display-inline">Committee action</header><text display-inline="yes-display-inline">The committee of jurisdiction shall report
+				without amendment the bill referred to it under this subsection not later than
+				3 days of session of the Senate after the referral. The committee may order the
+				bill reported favorably, unfavorably, or without recommendation.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id2C9BD9619A8C4932B5D3035407FEBC4E"><enum>(3)</enum><header display-inline="yes-display-inline">Discharge</header><text display-inline="yes-display-inline">If the committee has not reported the bill
+				by the end of the 3-day period, the committee shall be automatically discharged
+				from further consideration of the bill and it shall be placed on the
+				appropriate calendar.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id7F24311B3B804CBBB92D895418090FD9"><enum>(4)</enum><header display-inline="yes-display-inline">Motion to proceed</header><text display-inline="yes-display-inline">On the following day and for 3 subsequent
+				calendar days in which the Senate is in session, it shall be in order for any
+				Senator to move to proceed to consider the bill in the Senate. Upon such a
+				motion being made, it shall be deemed to have been agreed to and the motion to
+				reconsider shall be deemed to have been laid on the table.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idA44F8DE270DD4AE2A90F6E5C93E45C46"><enum>(5)</enum><header display-inline="yes-display-inline">Debate</header><text display-inline="yes-display-inline">Debate on the bill in the Senate under this
+				subsection, and all debatable motions and appeals in connection therewith,
+				shall not exceed 10 hours, equally divided and controlled in the usual form.
+				Debate in the Senate on any debatable motion or appeal in connection with such
+				a bill shall be limited to not more than 1 hour, to be equally divided and
+				controlled in the usual form. A motion to further limit debate on such a bill
+				is not debatable.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idFB7341B5030944459D02BE832DBB107A"><enum>(6)</enum><header display-inline="yes-display-inline">Motions not in order</header><text display-inline="yes-display-inline">A motion to amend such a bill or strike a
+				provision from it is not in order. A motion to recommit such a bill is not in
+				order.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID528278de3d574b2f95333d6fe4c8eda7"><enum>(g)</enum><header display-inline="yes-display-inline">Senate Point of Order</header><text display-inline="yes-display-inline">It shall not be in order under this part
+				for the Senate to consider a bill approved by the House enacting a package of
+				rescissions under this part if any numbered rescission in the bill would enact
+				matter not requested by the President or not permitted under this Act as part
+				of that package. If a point of order under this subsection is sustained, the
+				bill may not be considered under this
+				part.</text>
+						</subsection></section></part><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section commented="no" display-inline="no-display-inline" id="ID1fb4be391a384cf49adc0992ff02e519" section-type="subsequent-section"><enum>3.</enum><header display-inline="yes-display-inline">Technical and conforming
+			 amendments</header>
+			<subsection commented="no" display-inline="no-display-inline" id="IDe96819ff795c4a06b17daaeb45b73e23"><enum>(a)</enum><header display-inline="yes-display-inline">Table of contents</header><text display-inline="yes-display-inline">Section 1(b) of the Congressional Budget
+			 and Impoundment Control Act of 1974 is amended by striking the matter for part
+			 C of title X and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id626d27be-3fa4-41d5-99ed-88e9cedb0f7b" style="OLC">
+					<toc>
+						<toc-entry bold="off" idref="id229F159176D543CB85A91DDDC22045AA" level="part">PART C—Expedited consideration of proposed rescissions</toc-entry>
+						<toc-entry bold="off" idref="ID123a41e8acb347c29b3d0e7bb521d9a9" level="section">Sec. 1021. Applicability and disclaimer.</toc-entry>
+						<toc-entry bold="off" idref="IDf361e3b48aad4c748c01b4d7e3aa10c2" level="section">Sec. 1022. Definitions.</toc-entry>
+						<toc-entry bold="off" idref="IDce918d3b613a4335bf276c7c657b9188" level="section">Sec. 1023. Timing and packaging of rescission
+				requests.</toc-entry>
+						<toc-entry bold="off" idref="ID34b134e0aca44344b0faa1b12c7f7a90" level="section">Sec. 1024. Requests to rescind funding.</toc-entry>
+						<toc-entry bold="off" idref="IDfde6a7b5d33b4fdb927581934f82a7fb" level="section">Sec. 1025. Grants of and limitations on presidential
+				authority.</toc-entry>
+						<toc-entry bold="off" idref="ID1d7fe4333aa14618bd474be94ff913f5" level="section">Sec. 1026. Congressional consideration of rescission
+				requests.</toc-entry>
+					</toc>
+					<after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="ID2fa74923be344d62ae9500566d321598"><enum>(b)</enum><header display-inline="yes-display-inline">Temporary withholding</header><text display-inline="yes-display-inline">Section 1013(c) of the Impoundment Control
+			 Act of 1974 is amended by striking <quote>section 1012</quote> and inserting
+			 <quote>section 1012 or section 1025</quote>.</text>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="IDf086fcbd30e3428e8d6b912615d01c17"><enum>(c)</enum><header display-inline="yes-display-inline">Rulemaking</header>
+				<paragraph commented="no" display-inline="no-display-inline" id="id04DA667803DF4C8F93DD6B9E18319CD5"><enum>(1)</enum><header display-inline="yes-display-inline">904<enum-in-header>(a)</enum-in-header></header><text display-inline="yes-display-inline">Section 904(a) of the Congressional Budget
+			 Act of 1974 is amended by striking <quote>and 1017</quote> and inserting
+			 <quote>1017, and 1026</quote>.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id53E29F0BB88648BDB13BD4DDCBEF4B1E"><enum>(2)</enum><header display-inline="yes-display-inline">904<enum-in-header>(d)(1)</enum-in-header></header><text display-inline="yes-display-inline">Section 904(d)(1) of the Congressional
+			 Budget Act of 1974 is amended by striking <quote>1017</quote> and inserting
+			 <quote>1017 or 1026</quote>.</text>
+				</paragraph></subsection></section><section commented="no" display-inline="no-display-inline" id="IDae5cfdbcec024fa5a84b743477f02462" section-type="subsequent-section"><enum>4.</enum><header display-inline="yes-display-inline">Amendments to Part A of the Impoundment
+			 Control Act</header>
+			<subsection commented="no" display-inline="no-display-inline" id="id52E2D740946047AE806E5552AD291121"><enum>(a)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Part A of the Impoundment Control Act of
+			 1974 is amended by inserting at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id98E91FB3EED143E482708D3E3FB959AB" style="OLC">
+					<section commented="no" display-inline="no-display-inline" id="IDff3a4593f30041fba3b7716e26db10a4" section-type="subsequent-section"><enum>1002.</enum><header display-inline="yes-display-inline">Severability</header><text display-inline="no-display-inline">If the judicial branch of the United States
+				finally determines that 1 or more of the provisions of parts B or C violate the
+				Constitution of the United States, the remaining provisions of those parts
+				shall continue in
+				effect.</text>
+					</section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="id1E39B8A0A25A4C56AB41A4AE53AE8403"><enum>(b)</enum><header display-inline="yes-display-inline">Table of contents</header><text display-inline="yes-display-inline">Section 1(b) of the Congressional Budget
+			 and Impoundment Control Act of 1974 is amended by inserting at the end of the
+			 matter for part A of title X the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id89cdf755-15f8-4d79-800e-19fe95ea0b67" style="OLC">
+					<toc>
+						<toc-entry bold="off" level="section">Sec. 1002.
+				Severability.</toc-entry>
+					</toc>
+					<after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section commented="no" display-inline="no-display-inline" id="id6CC5AC94773340B792A165F613814337" section-type="subsequent-section"><enum>5.</enum><header display-inline="yes-display-inline">Expiration</header><text display-inline="no-display-inline">Part C of the Impoundment Control Act of
+			 1974 (as amended by this Act) shall expire on December 31, 2015.</text>
+		</section></legis-body>
+</bill>

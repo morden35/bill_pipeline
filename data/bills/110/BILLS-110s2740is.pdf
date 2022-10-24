@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 2740</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20080311">March 11, 2008</action-date>
+			<action-desc><sponsor name-id="S258">Ms. Landrieu</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSEV00">Committee on Environment and Public
+			 Works</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To modify the project area for the project for
+		  navigation, Atchafalaya River, Bayous Chene, Bouef, and Black,
+		  Louisiana.</official-title>
+	</form>
+	<legis-body>
+		<section id="id1CC4D68127EC483F857084E03EFA2FB7" section-type="section-one"><enum>1.</enum><header>Modification of project area
+			 for Atchafalaya River, Bayous Chene, Bouef, and Black, Louisiana</header><text display-inline="no-display-inline">The Chief of Engineers may—</text>
+			<paragraph id="id1D5D58D90C2141629FEC6343EA2C7633"><enum>(1)</enum><text display-inline="yes-display-inline">include in the project area for the project
+			 for navigation, Atchafalaya River, Bayous Chene, Bouef, and Black, Louisiana,
+			 authorized by section 101 of the River and Harbor Act of 1968 (82 Stat. 731;
+			 121 Stat. 1126) the portion, known as the <quote>Crewboat Cut</quote>, of the
+			 Lower Atchafalaya River located south of the convergence of Bayou Chene into
+			 the Atchafalaya River and east of the authorized part of the channel known as
+			 the <quote>Horseshoe</quote>; and</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id22123C6D0E4D448FADA3157E19D57C90"><enum>(2)</enum><text>carry out
+			 projects for bank stabilization on the eastern shore of Crewboat Cut to prevent
+			 erosion from wave action and scouring.</text>
+			</paragraph></section></legis-body>
+</bill>

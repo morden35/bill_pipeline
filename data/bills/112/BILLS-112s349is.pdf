@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 349</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110215">February 15, 2011</action-date>
+			<action-desc><sponsor name-id="S307">Mr. Brown of Ohio</sponsor> (for
+			 himself and <cosponsor name-id="S349">Mr. Portman</cosponsor>) introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSGA00">Committee on Homeland Security and
+			 Governmental Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To designate the facility of the United States Postal
+		  Service located at 4865 Tallmadge Road in Rootstown, Ohio, as the <quote>Marine
+		  Sgt. Jeremy E. Murray Post Office</quote>. </official-title>
+	</form>
+	<legis-body style="OLC">
+		<section display-inline="no-display-inline" id="HFD38F33218D3422AA953F729F4856971" section-type="section-one"><enum>1.</enum><header>Marine Sgt. Jeremy E. Murray
+			 Post Office</header>
+			<subsection id="HE475DDB024C14C51B6922A2E0C84F5B3"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal
+			 Service located at 4865 Tallmadge Road in Rootstown, Ohio, shall be known and
+			 designated as the <quote>Marine Sgt. Jeremy E. Murray Post
+			 Office</quote>.</text>
+			</subsection><subsection id="H217BFBC84BAD4EAA9AD94CA1146C3EDC"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation,
+			 document, paper, or other record of the United States to the facility referred
+			 to in subsection (a) shall be deemed to be a reference to the <quote>Marine
+			 Sgt. Jeremy E. Murray Post Office</quote>.</text>
+			</subsection></section></legis-body>
+</bill>

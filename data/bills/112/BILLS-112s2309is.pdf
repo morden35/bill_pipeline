@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 2309</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20120419">April 19, 2012</action-date>
+			<action-desc><sponsor name-id="S210">Mr. Lieberman</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To extend the temporary suspension of duty on camel hair,
+		  carded or combed. </official-title>
+	</form>
+	<legis-body id="HBAEFBE56ACAA4270AE56F3ABFCA9F804" style="OLC">
+		<section id="HB8BF52F2A3C641038795A8703BC8F71F" section-type="section-one"><enum>1.</enum><header>Camel hair, carded or
+			 combed</header>
+			<subsection id="H71345AB17A4C4F7EBCB8CFFDB96D3E20"><enum>(a)</enum><header>In
+			 general</header><text display-inline="yes-display-inline">Heading 9902.12.22 of
+			 the Harmonized Tariff Schedule of the United States (relating to camel hair,
+			 carded or combed) is amended by striking the date in the effective period
+			 column and inserting <quote>12/31/2015</quote>.</text>
+			</subsection><subsection id="H0B2B7E89A61E433CADB030FE1C4600E0"><enum>(b)</enum><header>Effective
+			 date</header><text>The amendment made by subsection (a) applies with respect to
+			 goods entered, or withdrawn from warehouse for consumption, on or after the
+			 15th day after the date of enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>

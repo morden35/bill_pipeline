@@ -1,0 +1,314 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 692</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110330">March 30, 2011</action-date>
+			<action-desc><sponsor name-id="S282">Mr. Nelson of Florida</sponsor>
+			 introduced the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSCM00">Committee on Commerce, Science, and
+			 Transportation</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To improve hurricane preparedness by establishing the
+		  National Hurricane Research Initiative, and for other
+		  purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="idAF795EB9B3A14B1E978F8EB194DCBBD0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>National Hurricane Research Initiative
+			 Act of 2011</short-title></quote>.</text>
+		</section><section id="id447FBE4DAD794D83804BEC63BB25BC0A"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text>
+			<paragraph id="IDa1ea006b266a4a819c8b1022ca8d2530"><enum>(1)</enum><header>Eligible
+			 entities</header><text>The term <term>eligible entities</term> means Federal,
+			 State, regional, and local government agencies and departments, tribal
+			 governments, universities, research institutes, for-profit entities, and
+			 nongovernmental organizations.</text>
+			</paragraph><paragraph id="IDd1101177ba094e61a66e93cf7e095b0c"><enum>(2)</enum><header>Indian
+			 tribe</header><text>The term <term>Indian tribe</term> has the meaning given
+			 the term in section 102 of the Federally Recognized Indian Tribe List Act of
+			 1994 (25 U.S.C. 479a).</text>
+			</paragraph><paragraph id="id206DFBFF2961473C86D9EE3491085C98"><enum>(3)</enum><header>Initiative</header><text>The
+			 term <term>Initiative</term> means the National Hurricane Research Initiative
+			 established under section 3(a)(1).</text>
+			</paragraph><paragraph id="ID7334f445014b4feab7b5320b9498dbfe"><enum>(4)</enum><header>State</header><text>The
+			 term <term>State</term> means any State of the United States, the District of
+			 Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana
+			 Islands, Puerto Rico, and the Virgin Islands.</text>
+			</paragraph><paragraph id="ID34d5706e40414927b9279496a39038e9"><enum>(5)</enum><header>Tribal
+			 government</header><text>The term <term>tribal government</term> means the
+			 governing body of an Indian tribe.</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID9307aa322b8849818bdf4c001a97b114"><enum>(6)</enum><header>Under
+			 Secretary</header><text>The term <term>Under Secretary</term> means the Under
+			 Secretary for Oceans and Atmosphere.</text>
+			</paragraph></section><section id="ID37963e1bf88c45f6bf9295b86d1ff239"><enum>3.</enum><header>National
+			 Hurricane Research Initiative</header>
+			<subsection id="IDbe474edb349644779de30fdc72726cab"><enum>(a)</enum><header>Establishment</header>
+				<paragraph id="id58C8F9A63B2A4EB3A3164EB8A4C4E027"><enum>(1)</enum><header>In
+			 general</header><text>The Under Secretary shall establish an initiative to be
+			 known as the <term>National Hurricane Research Initiative</term> for the
+			 purposes described in paragraph (2). The Initiative shall consist of—</text>
+					<subparagraph commented="no" id="id9F14E51F02D74AD69F53A836A1F38BC8"><enum>(A)</enum><text>the activities
+			 carried out under this section; and</text>
+					</subparagraph><subparagraph commented="no" id="id5AA98F0C44BF4E1AB17C166386E22526"><enum>(B)</enum><text>the research
+			 carried out under section 4.</text>
+					</subparagraph></paragraph><paragraph id="idF743D9A3D51D4B389C4233B5AB332ECF"><enum>(2)</enum><header>Purposes</header><text>The
+			 purposes described in this paragraph are as follows:</text>
+					<subparagraph id="idD1EDE42D3ABF4C73A229D8B7A68F0348"><enum>(A)</enum><text>To conduct
+			 research, incorporating to the maximum extent practicable the needs of eligible
+			 entities, to enable the following:</text>
+						<clause id="IDc12b34e4c64a4557bee57afcf46094c6"><enum>(i)</enum><text>Improvement of
+			 the understanding and prediction of hurricanes and other tropical storms,
+			 including—</text>
+							<subclause id="id83A53B250DD24566824C938891D15C62"><enum>(I)</enum><text>storm tracking
+			 and prediction;</text>
+							</subclause><subclause id="idDAFD29C807984149B6849E322B6721FC"><enum>(II)</enum><text>forecasting of
+			 storm formation, intensity, and wind and rain patterns, both within the tropics
+			 and as the storms move poleward;</text>
+							</subclause><subclause id="id2C716DD75DBE4435A6DF297DBF22A837"><enum>(III)</enum><text>storm surge
+			 modeling, inland flood modeling, and coastal erosion;</text>
+							</subclause><subclause id="id66974C1852734E0BA0E4C33C0BBDB4AD"><enum>(IV)</enum><text>the interaction
+			 with and impacts of storms with the natural and built environment; and</text>
+							</subclause><subclause id="id2385534BFFFA4ED6A95E923F883B0192"><enum>(V)</enum><text>the impacts to
+			 and response of society to destructive storms, including the socioeconomic
+			 impacts requiring emergency management, response, and recovery.</text>
+							</subclause></clause><clause id="ID381c1dd58b6c4f5f97e38a2fb2638bf2"><enum>(ii)</enum><text>Development of
+			 infrastructure that is resilient to the forces associated with hurricanes and
+			 other tropical storms.</text>
+						</clause><clause id="ID905d7199f13e45cb8cb7c4cb29f539dc"><enum>(iii)</enum><text>Mitigation of
+			 the impacts of hurricanes on coastal populations, the coastal built
+			 environment, and natural resources, including—</text>
+							<subclause id="id58CFE98EFC384156B3A7923CF8D9FA4E"><enum>(I)</enum><text>coral
+			 reefs;</text>
+							</subclause><subclause id="id5A2799B3E1124205843A13579B688CA4"><enum>(II)</enum><text>mangroves;</text>
+							</subclause><subclause id="id86B78F0205C74F5898D0129433A6676A"><enum>(III)</enum><text>wetlands;
+			 and</text>
+							</subclause><subclause id="id5EF525770A46471B979F1A49831B1158"><enum>(IV)</enum><text>other natural
+			 systems that can reduce hurricane wind and flood forces.</text>
+							</subclause></clause><clause id="id3253BB64031847C09AEBECBFD9D2CF9D"><enum>(iv)</enum><text>Improvement of
+			 communication with the public about hurricane forecasts and risks associated
+			 with hurricanes to reduce the harmful impacts of hurricanes and improve the
+			 response of society to destructive storms.</text>
+						</clause></subparagraph><subparagraph id="id014D3FEEE06749C4A1AFBA4C11607096"><enum>(B)</enum><text>To provide
+			 training for the next generation of hurricane researchers and
+			 forecasters.</text>
+					</subparagraph></paragraph></subsection><subsection id="ID441663524e9449e89fdd4facde874452"><enum>(b)</enum><header>Implementation
+			 plan</header>
+				<paragraph id="idA4A8CF3F006F4C5089C1D95950B18B10"><enum>(1)</enum><header>In
+			 general</header><text>Not later than 1 year after the date of the enactment of
+			 this Act, the Under Secretary shall, in coordination with the Director of the
+			 National Science Foundation, develop a detailed, 5-year implementation plan for
+			 the Initiative that—</text>
+					<subparagraph id="id3766E45976A04820B192575D5CB610F1"><enum>(A)</enum><text>incorporates the
+			 priorities for Federal science and technology investments set forth in the June
+			 2005 publication, <term>Grand Challenges for Disaster Reduction</term>, and in
+			 related 2008 implementation plans for hurricane and coastal inundation hazards
+			 of the Subcommittee on Disaster Reduction of the Committee on Environment and
+			 Natural Resources of the National Science and Technology Council;</text>
+					</subparagraph><subparagraph id="idCB9C4FDDFE7241D986A31D37DFB1F468"><enum>(B)</enum><text>to the extent
+			 practicable and as appropriate, establishes strategic goals, benchmarks,
+			 milestones, and a set of systematic criteria and performance metrics by which
+			 the overall effectiveness of the Initiative may be evaluated on a periodic
+			 basis, including evaluation of mechanisms for the effective transition of
+			 research to operations and the application of research results for reducing
+			 hurricane losses and related public benefits; and</text>
+					</subparagraph><subparagraph id="ID34a7fba7b4974344b1828f070a140e90"><enum>(C)</enum><text>identifies
+			 opportunities to leverage the results of the research carried out under section
+			 4 with other Federal and non-Federal hurricane research, coordination, and
+			 loss-reduction initiatives, such as—</text>
+						<clause id="id605A0657469A435F8CF5266ECB0DA044"><enum>(i)</enum><text>the
+			 National Windstorm Impact Reduction Program established by section 204(a) of
+			 the National Windstorm Impact Reduction Act of 2004 (15 U.S.C. 15703);</text>
+						</clause><clause id="id94397BE7276D4018A4E9E58F3476FAEA"><enum>(ii)</enum><text>the National
+			 Flood Insurance Program established under chapter 1 of the National Flood
+			 Insurance Act of 1968 (42 U.S.C. 4011 et seq.);</text>
+						</clause><clause id="id0C3AC0B01371447CB0FC04DB8BCF00B2"><enum>(iii)</enum><text>the initiatives
+			 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42
+			 U.S.C. 5121 et seq.);</text>
+						</clause><clause id="id8ABD6F0C28D14FF289941BEE9C7870F5"><enum>(iv)</enum><text>wind hazard
+			 mitigation initiatives carried out by a State;</text>
+						</clause><clause id="id2685843444BE4A3BA82E14889EFA76D9"><enum>(v)</enum><text>the
+			 Science Advisory Board, Social Science Working Group, and Hurricane Forecast
+			 Improvement Project of the National Oceanic and Atmospheric Administration;
+			 and</text>
+						</clause><clause id="idFF78BA8D0FAD4D3ABDFB58A095B25F39"><enum>(vi)</enum><text>the Working
+			 Group for Tropical Cyclone Research of the Office of the Federal Coordinator
+			 for Meteorological Services and Supporting Research.</text>
+						</clause></subparagraph></paragraph><paragraph id="IDa8acc482b6d041ca81faf1d95b70ef47"><enum>(2)</enum><header>Review</header><text>Not
+			 later than 1 year after the date of the enactment of this Act, the Under
+			 Secretary shall make the implementation plan required by paragraph (1)
+			 available for review by the following:</text>
+					<subparagraph id="idCC397A729FED4CF4BD5B857A91B6B98C"><enum>(A)</enum><text>The Director of
+			 the National Science Foundation.</text>
+					</subparagraph><subparagraph id="id49CCF09F34D344929829178161B45BAB"><enum>(B)</enum><text>The Secretary of
+			 Homeland Security.</text>
+					</subparagraph><subparagraph id="id132102FEF6C64E60974BCBF1DC5ABA14"><enum>(C)</enum><text>The Director of
+			 the National Institute for Standards and Technology.</text>
+					</subparagraph><subparagraph id="id1738A7066D724F8FA34530F1852935E2"><enum>(D)</enum><text>The Commanding
+			 General of the U.S. Army Corps of Engineers.</text>
+					</subparagraph><subparagraph id="idD5F6ABD5D6764A9C8ECFCA967EBA7BD4"><enum>(E)</enum><text>The Commander of
+			 the Naval Meteorology and Oceanography Command.</text>
+					</subparagraph><subparagraph id="id41AAEC193FD44484B963050F19BC20F8"><enum>(F)</enum><text>The Associate
+			 Administrator for Science Mission Directorate of the National Aeronautics and
+			 Space Administration.</text>
+					</subparagraph><subparagraph id="idA398C2FBADCB426BABC6549FD2E36728"><enum>(G)</enum><text>The Director of
+			 the U.S. Geological Survey.</text>
+					</subparagraph><subparagraph id="id3224EC8750DE4556A8168D1534E33A55"><enum>(H)</enum><text>The Director of
+			 the Office of Science and Technology Policy.</text>
+					</subparagraph><subparagraph id="id24D90E8013CC40C3B7167CECF8506C1C"><enum>(I)</enum><text>The Director of
+			 the National Economic Council.</text>
+					</subparagraph></paragraph><paragraph id="IDcfbbebe270714e50a81ba95dfb771b3a"><enum>(3)</enum><header>Revisions</header><text>The
+			 Under Secretary shall revise the implementation plan required by paragraph (1)
+			 not less frequently than once every 5 years.</text>
+				</paragraph></subsection><subsection id="ID88c618df4d1d472297d56729168bee09"><enum>(c)</enum><header>Research</header>
+				<paragraph id="ID158d4d76116e4505a21b7dcae0a144ac"><enum>(1)</enum><header>Establishment
+			 of research objectives</header><text>The Under Secretary shall, in consultation
+			 with the Director of the National Science Foundation, establish objectives for
+			 research carried out pursuant to section 4 that are—</text>
+					<subparagraph id="idA8E6692F9A504573BCC83FF2D58DEFD9"><enum>(A)</enum><text>consistent with
+			 the purposes described in subsection (a)(2); and</text>
+					</subparagraph><subparagraph id="id22CC479D628844F8AB9F067A61FB8928"><enum>(B)</enum><text>based on the
+			 findings of the expert assessments and strategies published in the
+			 following:</text>
+						<clause commented="no" display-inline="no-display-inline" id="id656F9AEE3F784001A8D1EBE434D0A4F7"><enum>(i)</enum><text>The June 2005
+			 publication entitled, <term>Grand Challenges for Disaster Reduction</term>, and
+			 the related 2008 implementation plans for hurricane and coastal inundation
+			 hazards of the Subcommittee on Disaster Reduction of the Committee on
+			 Environment and Natural Resources of the National Science and Technology
+			 Council.</text>
+						</clause><clause id="ID51f94960a4ab4c3c9647c3ad53369e36"><enum>(ii)</enum><text>The January 2007
+			 report by the National Science Board entitled, <term>Hurricane Warning: The
+			 Critical Need for a National Hurricane Initiative</term>.</text>
+						</clause><clause id="ID26894e92796e4490ba6e7f6b9cc005f4"><enum>(iii)</enum><text>The February
+			 2007 report by the Office of the Federal Coordinator for Meteorological
+			 Services and Supporting Research entitled, <term>Interagency Strategic Research
+			 Plan for Tropical Cyclones: The Way Ahead</term>.</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="ID3f3781d2fd47466b9b7716abde9bd360"><enum>(iv)</enum><text>Reports from the
+			 Hurricane Intensity Working Group of the National Science Advisory Board of the
+			 National Oceanic and Atmospheric Administration.</text>
+						</clause></subparagraph></paragraph><paragraph id="id8B5E0F3B16974A4FAB3CA7E0DAC12AF0"><enum>(2)</enum><header>Areas of
+			 concentration</header><text>The objectives required by paragraph (1) shall
+			 provide for 3 areas of concentration as follows:</text>
+					<subparagraph id="id3A3B4CAB51FA4481BACF553D70678C19"><enum>(A)</enum><text>Fundamental
+			 hurricane research, which may include research to support continued development
+			 and maintenance of community weather research and forecast models, including
+			 advanced methods of observing storm structure and assimilating observations
+			 into the models, in which the agency or institution hosting the models ensures
+			 broad access and use of the model by the civilian research community.</text>
+					</subparagraph><subparagraph id="id4E654D67F27E4EBC988B8335F8263382"><enum>(B)</enum><text>Technology
+			 assessment and development.</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id8107B84FB29D46B1AB1CF11B181F5DEB"><enum>(C)</enum><text>Research on
+			 integration, transition, and application of research results.</text>
+					</subparagraph></paragraph></subsection><subsection id="ID2b58d70b63f24fcaaffdfe503e8fe76e"><enum>(d)</enum><header>National
+			 workshops and conferences</header><text>The Under Secretary may, in
+			 coordination with the Director of the National Science Foundation, carry out a
+			 series of national workshops and conferences that assemble a broad collection
+			 of scientific disciplines—</text>
+				<paragraph id="id37F46E035ABF46CF8E3F5C84A8D10340"><enum>(1)</enum><text>to address
+			 hurricane-related research questions; and</text>
+				</paragraph><paragraph id="idBE905FDBB7DC4BA4A8FF4D03F8F8540B"><enum>(2)</enum><text>to encourage
+			 researchers to work collaboratively to carry out the purposes described in
+			 subsection (a)(2).</text>
+				</paragraph></subsection><subsection id="ID9369e706f6dd4ba3a339b4c499325209"><enum>(e)</enum><header>Public Internet
+			 Web site</header><text>The Under Secretary shall facilitate the establishment
+			 of a public Internet Web site for the Initiative—</text>
+				<paragraph id="idE9046A6671084E0B987141CC4CB96561"><enum>(1)</enum><text>to foster
+			 collaboration and interactive dialogues among the Under Secretary, the Director
+			 of the National Science Foundation, and the public;</text>
+				</paragraph><paragraph id="idA177D3FB29FD409B8705BDCDA434018D"><enum>(2)</enum><text>to enhance public
+			 access to Initiative documents and products, including—</text>
+					<subparagraph id="ID105c091981da4714ac61e08affa1cffe"><enum>(A)</enum><text>reports and
+			 publications of the Initiative;</text>
+					</subparagraph><subparagraph id="ID7362e840883642d9a62c58d4d424aca3"><enum>(B)</enum><text>the most recent
+			 5-year implementation plan developed under subsection (b); and</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID86f64e46d49041a397c1de66f59bc586"><enum>(C)</enum><text>each annual
+			 cross-cut budget and report submitted to Congress under subsection (f);
+			 and</text>
+					</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idB4BFC42F2C6543F893ACDEF419ACC205"><enum>(3)</enum><text>that includes a
+			 publicly accessible clearinghouse of Federal research and development centers
+			 engaged in research and development efforts that are complementary to the
+			 Initiative.</text>
+				</paragraph></subsection><subsection id="ID1aaaa86846d947e280f1aafe83396c78"><enum>(f)</enum><header>Annual
+			 Cross-Cut Budget and Report</header>
+				<paragraph id="idAC9A585E84794B2D813D157AE45DFB11"><enum>(1)</enum><header>Requirement for
+			 annual cross-cut budget and report</header><text>Beginning with the first
+			 fiscal year beginning after the date the Under Secretary completes the
+			 implementation plan required by subsection (b), the Director of the Office of
+			 Science and Technology Policy shall, in conjunction with the Under Secretary,
+			 the Director of the National Science Foundation, and the Director of the Office
+			 of Management and Budget, submit to Congress each year, together with documents
+			 submitted to Congress in support of the budget of the President for the fiscal
+			 year beginning in such year (as submitted pursuant to section 1105 of title 31,
+			 United States Code)—</text>
+					<subparagraph id="id4BE9EF48301442279B27B8FD7DDE0271"><enum>(A)</enum><text>a coordinated
+			 annual report for the Initiative for the last fiscal year ending before the
+			 date on which the report is submitted; and</text>
+					</subparagraph><subparagraph id="idBB86E01E402B49CEA92CDFB8E9428A7D"><enum>(B)</enum><text>a cross-cut
+			 budget for the Initiative for the first fiscal year beginning after the date on
+			 which the report is submitted.</text>
+					</subparagraph></paragraph><paragraph id="id46E4D98DDE1145D8A7C34F89024B0442"><enum>(2)</enum><header>Contents</header><text>The
+			 report required by paragraph (1)(A) shall—</text>
+					<subparagraph id="id6A79D73C2D6C4602A1787A95210E0400"><enum>(A)</enum><text>document the
+			 grants and contracts awarded to eligible entities under section 4;</text>
+					</subparagraph><subparagraph id="ID07f69b6c32ba467da0fd14b2f83e50c0"><enum>(B)</enum><text>for each eligible
+			 entity that receives a grant or contract under section 4, identify what major
+			 activities were undertaken with such funds, grants, and contracts; and</text>
+					</subparagraph><subparagraph id="IDa58e5449b14e4a74b4510901e70ecde1"><enum>(C)</enum><text>for each research
+			 activity or group of activities in an area of concentration described in
+			 subsection (c)(2), as appropriate, identify any accomplishments, which may
+			 include full or partial achievement of any strategic goals, benchmarks,
+			 milestones, or systematic criteria and performance metrics established for the
+			 implementation plan under subsection (b)(1)(B).</text>
+					</subparagraph></paragraph></subsection></section><section id="IDc2927734dda64a89aebab3a5eb71aaff"><enum>4.</enum><header>National
+			 Hurricane Research</header>
+			<subsection id="idCFEE13278E97440DB2FC4E9121A288D8"><enum>(a)</enum><header>National
+			 Science Foundation competitive grant research program</header>
+				<paragraph id="id178C1019168C460DA99E12F9016393C4"><enum>(1)</enum><header>In
+			 general</header><text>The Director of the National Science Foundation shall, in
+			 coordination with the Under Secretary, establish a program to award grants to
+			 eligible entities to carry out research that is consistent with the research
+			 objectives established under section 3(c)(1).</text>
+				</paragraph><paragraph id="id04E326A613A440408B39B62925B3C997"><enum>(2)</enum><header>Selection</header><text>The
+			 National Science Foundation shall select grant recipients under this section
+			 through its merit review process.</text>
+				</paragraph></subsection><subsection id="idA8DF57F284E84697A5AAE11267180FF6"><enum>(b)</enum><header>National
+			 Oceanic and Atmospheric Administration research program</header>
+				<paragraph id="id2C912199E6B842C896DD17A46B76B757"><enum>(1)</enum><header>In
+			 general</header><text>The Under Secretary shall, in coordination with the
+			 Director of the National Science Foundation, carry out a program of research
+			 that is consistent with the research objectives established under section
+			 3(c)(1).</text>
+				</paragraph><paragraph id="id5F88D2938B084EB6A5CA2611B0F2E138"><enum>(2)</enum><header>Research
+			 activities</header><text>Research carried out under paragraph (1) may be
+			 carried out through—</text>
+					<subparagraph id="id1E62A226AF7442A5A25FA8004632B9D9"><enum>(A)</enum><text>intramural
+			 research;</text>
+					</subparagraph><subparagraph id="idB60DA2574CD8409E9E84BB10E12816CB"><enum>(B)</enum><text>awarding grants
+			 to eligible entities to carry out research;</text>
+					</subparagraph><subparagraph id="id2B404E3F4FCC4444B69EBCF13AC9DCF6"><enum>(C)</enum><text>contracting with
+			 eligible entities to carry out research; or</text>
+					</subparagraph><subparagraph id="idF231B1E8D7D14EAAA3F5724CE6E120A4"><enum>(D)</enum><text>entering into
+			 cooperative agreements to carry out research.</text>
+					</subparagraph></paragraph><paragraph id="id6296A1D581234979B4F6BDE3827CAB58"><enum>(3)</enum><header>Demonstration
+			 projects authorized</header><text>Research carried out under this subsection
+			 may include demonstration projects.</text>
+				</paragraph></subsection><subsection id="id219D5BD05C1B4374970BAB114EDFD362"><enum>(c)</enum><header>Collaboration</header><text>To
+			 the maximum extent practicable, each entity carrying out research under this
+			 section shall collaborate with existing Federal and federally funded research
+			 centers operating in related fields, for-profit organizations, and
+			 international, regional, State, local, and tribal governments—</text>
+				<paragraph id="id172ACB4E595A49958C1EE3EDD3D457F6"><enum>(1)</enum><text>to gather and
+			 share experiential information; and</text>
+				</paragraph><paragraph id="id8927ED8B278648C7AAC631C1F6274CAB"><enum>(2)</enum><text>to advance
+			 scientific and engineering knowledge, technology transfer, and technology
+			 commercialization in the course of conduct of hurricane-related research and
+			 its application to mitigating the impacts of hurricanes and other tropical
+			 storms on society.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 2239</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20120327">March 27, 2012</action-date>
+			<action-desc><sponsor name-id="S282">Mr. Nelson of Florida</sponsor>
+			 (for himself, <cosponsor name-id="S245">Ms. Snowe</cosponsor>,
+			 <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>, and
+			 <cosponsor name-id="S311">Ms. Klobuchar</cosponsor>) introduced the following
+			 bill; which was read twice and referred to the
+			 <committee-name committee-id="SSGA00">Committee on Homeland Security and
+			 Governmental Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To direct the head of each agency to treat relevant
+		  military training as sufficient to satisfy training or certification
+		  requirements for Federal licenses.</official-title>
+	</form>
+	<legis-body id="H1AA895C75CAB44BB89BC32298B73E37C" style="OLC">
+		<section id="H3F5DE744192944E1B000C93DE6275B16" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Veteran Skills to Jobs Act of
+			 2012</short-title></quote>.</text>
+		</section><section id="H25D8DE429F17499C9E03B2560224EFBF"><enum>2.</enum><header>Treatment of
+			 relevant military training as sufficient to satisfy training or certification
+			 requirements for Federal licenses</header><text display-inline="no-display-inline">The head of each agency (as defined under
+			 section 551 of title 5, United States Code) shall deem an applicant for a
+			 license issued by the agency who has received relevant training while serving
+			 as a member of the Armed Forces, as determined by the head of the agency, to
+			 have satisfied any training or certification requirements for the license,
+			 unless the head of the agency determines that the training received by the
+			 applicant is substantially different from the training or certification
+			 required for the license.</text>
+		</section></legis-body>
+</bill>

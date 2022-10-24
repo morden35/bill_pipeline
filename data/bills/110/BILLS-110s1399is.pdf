@@ -1,0 +1,576 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-print="no" public-private="public" stage-count="1" star-print="no-star-print">
+	<form display="yes">
+		<distribution-code display="yes">II</distribution-code>
+		<congress display="yes">110th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num display="yes">S. 1399</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED
+		  STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20070515">May 15, 2007</action-date>
+			<action-desc><sponsor name-id="S010">Mr. Biden</sponsor> introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name></action-desc>
+		</action>
+		<legis-type display="yes">A BILL</legis-type>
+		<official-title display="yes">To amend the Internal Revenue Code of 1986
+		  to combine the Hope Scholarship Credit and the deduction for qualified tuition
+		  and related expenses into a refundable college affordability and creating
+		  chances for educational success for students (ACCESS) credit, to establish an
+		  Early Federal Pell Grant Commitment Demonstration Program, and to increase the
+		  maximum Federal Pell Grant Award.</official-title>
+	</form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC">
+		<section commented="no" display-inline="no-display-inline" id="idCD6C99C562274CDFAFF973B3DE4FD491" section-type="section-one"><enum>1.</enum><header display-inline="yes-display-inline">Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>College Affordability and Creating
+			 Chances for Educational Success for Students Act of
+			 2007</short-title></quote>.</text>
+		</section><title commented="no" id="idE98430EC313D4696AAB39A1223705132" level-type="subsequent"><enum>I</enum><header display-inline="yes-display-inline">College Access tax credit act</header>
+			<section commented="no" display-inline="no-display-inline" id="id0BA666B17FEB4CF6890BA502E28C54AA" section-type="subsequent-section"><enum>101.</enum><header display-inline="yes-display-inline">Short title</header><text display-inline="no-display-inline">This title may be cited as the
+			 <quote><short-title>College ACCESS Tax Credit
+			 Act</short-title></quote>.</text>
+			</section><section commented="no" display-inline="no-display-inline" id="id1FB01D6E085A43C7A130590563305573" section-type="subsequent-section"><enum>102.</enum><header display-inline="yes-display-inline">College affordability and creating chances
+			 for educational success for students (ACCESS) credit</header>
+				<subsection commented="no" display-inline="no-display-inline" id="id432C3407A8FB48B185D8A5F7E7E37197"><enum>(a)</enum><header display-inline="yes-display-inline">Allowance of credit</header>
+					<paragraph commented="no" display-inline="no-display-inline" id="id15A7B332F2A843799AEE34D2471314AB"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Subpart C of part IV of subchapter A of
+			 chapter 1 of the Internal Revenue Code of 1986 (relating to refundable credits)
+			 is amended by redesignating section 36 as section 37 and by inserting after
+			 section 35 the following new section:</text>
+						<quoted-block display-inline="no-display-inline" id="idF24C766251544CDBA34EFED540AD134A" style="OLC">
+							<section commented="no" display-inline="no-display-inline" id="idF558A3A496E54B249F0514C12F7D0EEA" section-type="subsequent-section"><enum>36.</enum><header display-inline="yes-display-inline">College affordability and creating chances
+				for educational success for students (ACCESS) credit</header>
+								<subsection commented="no" display-inline="no-display-inline" id="idCAF33FB82DF2447691695B02569CC63A"><enum>(a)</enum><header display-inline="yes-display-inline">Allowance of credit</header><text display-inline="yes-display-inline">There shall be allowed as a credit against
+				the tax imposed by this subtitle for any taxable year an amount equal to the
+				qualified tuition and related expenses paid by the taxpayer during the taxable
+				year (for education furnished during any academic period beginning in such
+				taxable year).</text>
+								</subsection><subsection commented="no" display-inline="no-display-inline" id="idF14E79771BD54952B6DC177CC2C94031"><enum>(b)</enum><header display-inline="yes-display-inline">Limitations</header>
+									<paragraph commented="no" display-inline="no-display-inline" id="idAEF9F1E3919F433C99730A5F13638C1B"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">The credit allowed under this section shall
+				not exceed $3,000 with respect to any student for any taxable year.</text>
+									</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id575BBA4191FC411BA0342DEEFF3556EB"><enum>(2)</enum><header display-inline="yes-display-inline">Lifetime limitation</header><text display-inline="yes-display-inline">The credit allowed under this section with
+				respect to any student shall not exceed—</text>
+										<subparagraph commented="no" display-inline="no-display-inline" id="idB4D8BA5E9C85481595C63AA732FE87F8"><enum>(A)</enum><text display-inline="yes-display-inline">the excess (if any) of —</text>
+											<clause commented="no" display-inline="no-display-inline" id="idE9B4FF234AAB459589F48DAB040D581C"><enum>(i)</enum><text display-inline="yes-display-inline">$12,000 with respect to education furnished
+				prior to the date such student receives a baccalaureate degree, over</text>
+											</clause><clause commented="no" display-inline="no-display-inline" id="id11DDD11D51EE4CE082C6E3972492544D"><enum>(ii)</enum><text display-inline="yes-display-inline">the aggregate credit allowed under this
+				section with respect to such education for all prior taxable years, and</text>
+											</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idE0846DC943334B81B33B0603CF82D01E"><enum>(B)</enum><text display-inline="yes-display-inline">the excess (if any) of—</text>
+											<clause commented="no" display-inline="no-display-inline" id="id58412F1CE3664641984249DE65C8131E"><enum>(i)</enum><text display-inline="yes-display-inline">$6,000 with respect to education furnished
+				after to the date such student receives a baccalaureate degree, over</text>
+											</clause><clause commented="no" display-inline="no-display-inline" id="id4B964BC447ED4A2B8454869481D298B8"><enum>(ii)</enum><text display-inline="yes-display-inline">the aggregate credit allowed under this
+				section with respect to such education for all prior taxable years.</text>
+											</clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id76CAD70ACBA4429481470BDB793711DC"><enum>(3)</enum><header display-inline="yes-display-inline">Limitation based on modified adjusted gross
+				income</header>
+										<subparagraph commented="no" display-inline="no-display-inline" id="idEB4E707AEE9B43AAB271522D82DD7837"><enum>(A)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">The amount which would (but for this
+				subsection) be taken into account under subsection (a) for the taxable year
+				shall be reduced (but not below zero) by the amount determined under
+				subparagraph (B).</text>
+										</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idC7BFCB2595574DDC9FD257F6C4166E7E"><enum>(B)</enum><header display-inline="yes-display-inline">Amount of reduction</header><text display-inline="yes-display-inline">The amount determined under this
+				subparagraph is the amount which bears the same ratio to the amount which would
+				be so taken into account as—</text>
+											<clause commented="no" display-inline="no-display-inline" id="IDd2e838c50c624ee89b3ade880c0c012b"><enum>(i)</enum><text display-inline="yes-display-inline">the excess of—</text>
+												<subclause commented="no" display-inline="no-display-inline" id="IDb6192b20f08e4619bd1c1db0ecde6246"><enum>(I)</enum><text display-inline="yes-display-inline">the taxpayer's modified adjusted gross
+				income for such taxable year, over</text>
+												</subclause><subclause commented="no" display-inline="no-display-inline" id="ID9b55f40348f8481d976c6a211891f59a"><enum>(II)</enum><text display-inline="yes-display-inline">$65,000 ($130,000 in the case of a joint
+				return), bears to</text>
+												</subclause></clause><clause commented="no" display-inline="no-display-inline" id="IDca5f326819854709880cb52ad4d090de"><enum>(ii)</enum><text display-inline="yes-display-inline">$18,500 ($37,000 in the case of a joint
+				return).</text>
+											</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id3F07BE1EFF96403CA3457115B1F6E323"><enum>(C)</enum><header display-inline="yes-display-inline">Modified adjusted gross
+				income</header><text display-inline="yes-display-inline">The term
+				<term>modified adjusted gross income</term> means the adjusted gross income of
+				the taxpayer for the taxable year increased by any amount excluded from gross
+				income under section 911, 931, or 933.</text>
+										</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id7D805D869D6A458493DDB4BA5868FA16"><enum>(4)</enum><header display-inline="yes-display-inline">Denial of credit if student convicted of a
+				felony drug offense</header><text display-inline="yes-display-inline">The
+				credit under subsection (a) shall not be allowed for qualified tuition and
+				related expenses for the enrollment or attendance of a student for any academic
+				period if such student has been convicted of a Federal or State felony offense
+				consisting of the possession or distribution of a controlled substance before
+				the end of the taxable year with or within which such period ends.</text>
+									</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID38dc97b7f8cc4daba4b9733d6e436b7f"><enum>(c)</enum><header display-inline="yes-display-inline">Election not To have section
+				apply</header><text display-inline="yes-display-inline">A taxpayer may elect
+				not to have this section apply with respect to the qualified tuition and
+				related expenses of an individual for any taxable year.</text>
+								</subsection><subsection commented="no" display-inline="no-display-inline" id="ID7f69026b46fb4b099acc911c954aefe4"><enum>(d)</enum><header display-inline="yes-display-inline">Definitions</header><text display-inline="yes-display-inline">For purposes of this section, the terms
+				<term>qualified tuition and related expenses</term> and <term>eligible
+				educational institution</term> shall have the meaning give such terms under
+				section 25A(d).</text>
+								</subsection><subsection commented="no" display-inline="no-display-inline" id="ID804a6d7df8ab4c7d8ed131f7e70501ea"><enum>(e)</enum><header display-inline="yes-display-inline">Special rules</header><text display-inline="yes-display-inline">For purposes of this section, rules similar
+				to the rules of paragraphs (1) through (7) of section 25A shall apply.</text>
+								</subsection><subsection commented="no" display-inline="no-display-inline" id="idF7273562A9194CB5AC84C3E2B110D67B"><enum>(f)</enum><header display-inline="yes-display-inline">Inflation adjustment</header>
+									<paragraph commented="no" display-inline="no-display-inline" id="ID2dad95c235de4af0807abdf898eb7b30"><enum>(1)</enum><header display-inline="yes-display-inline">Dollar limitation on amount of
+				credit</header>
+										<subparagraph commented="no" display-inline="no-display-inline" id="IDb4664a258d6b4b93bb87d5e4c4fb9d55"><enum>(A)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">In the case of a taxable year beginning
+				after 2007, the $3,000 amount under subsection (b)(1) shall be increased by an
+				amount equal to—</text>
+											<clause commented="no" display-inline="no-display-inline" id="ID4a4ad8eb6ea347f394bef655ca38e62b"><enum>(i)</enum><text display-inline="yes-display-inline">such dollar amount, multiplied by</text>
+											</clause><clause commented="no" display-inline="no-display-inline" id="ID9c6ec9c47bcd4403af51ee2bf6fa977c"><enum>(ii)</enum><text display-inline="yes-display-inline">the cost-of-living adjustment determined
+				under section 1(f)(3) for the calendar year in which the taxable year begins,
+				determined by substituting <quote>calendar year 2006</quote> for
+				<quote>calendar year 1992</quote> in subparagraph (B) thereof.</text>
+											</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDc357d78cfe744dd290ac5c9ae4c10681"><enum>(B)</enum><header display-inline="yes-display-inline">Rounding</header><text display-inline="yes-display-inline">If any amount as adjusted under
+				subparagraph (A) is not a multiple of $100, such amount shall be rounded to the
+				next lowest multiple of $100.</text>
+										</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID7944092076b1487899f4c9a31cd154d1"><enum>(2)</enum><header display-inline="yes-display-inline">Income limits</header>
+										<subparagraph commented="no" display-inline="no-display-inline" id="IDb90fa31a9f9b402ead4a2245d891a830"><enum>(A)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">In the case of a taxable year beginning
+				after 2007, each of the dollar amounts in subsection (b)(2)(B) shall each be
+				increased by an amount equal to—</text>
+											<clause commented="no" display-inline="no-display-inline" id="IDd277308cc2ad42898d6fd3ce264bb0f5"><enum>(i)</enum><text display-inline="yes-display-inline">such dollar amount, multiplied by</text>
+											</clause><clause commented="no" display-inline="no-display-inline" id="IDefcef7c706a34f46a95970287b6497ac"><enum>(ii)</enum><text display-inline="yes-display-inline">the cost-of-living adjustment determined
+				under section 1(f)(3) for the calendar year in which the taxable year begins,
+				determined by substituting <quote>calendar year 2006</quote> for
+				<quote>calendar year 1992</quote> in subparagraph (B) thereof.</text>
+											</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDec8e0e5b861446179088ae0cde5536f8"><enum>(B)</enum><header display-inline="yes-display-inline">Rounding</header><text display-inline="yes-display-inline">If any amount as adjusted under
+				subparagraph (A) is not a multiple of $1,000, such amount shall be rounded to
+				the next lowest multiple of $1,000.</text>
+										</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID0e41472213114f2d93777149f8acb542"><enum>(g)</enum><header display-inline="yes-display-inline">Regulations</header><text display-inline="yes-display-inline">The Secretary may prescribe such
+				regulations as may be necessary or appropriate to carry out this section,
+				including regulations providing for a recapture of the credit allowed under
+				this section in cases where there is a refund in a subsequent taxable year of
+				any amount which was taken into account in determining the amount of such
+				credit.</text>
+								</subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id5A2FA875C3A048CF8B7C545D41BD2B1D"><enum>(2)</enum><header display-inline="yes-display-inline">Refundability of credit</header><text display-inline="yes-display-inline">Paragraph (2) of section 1324(b) of title
+			 31, United States Code, is amended by inserting before the period <quote>or
+			 enacted by the College ACCESS Tax Credit Act</quote>.</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id4764BFDEB4F94F1D80FCE2B278044FCD"><enum>(3)</enum><header display-inline="yes-display-inline">Conforming amendments</header>
+						<subparagraph commented="no" display-inline="no-display-inline" id="ID977BFEF5B0BC4CC291EF425096A8E5F4"><enum>(A)</enum><text display-inline="yes-display-inline">Subparagraph (A) of section 135(d)(2) of
+			 the Internal Revenue Code of 1986 is amended by striking <quote>section
+			 25A</quote> and inserting <quote>sections 25A and 36</quote>.</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idECE9939FC5EA4DB283690B15070A0141"><enum>(B)</enum><text display-inline="yes-display-inline">Section 529 of such Code is amended by
+			 striking <quote>the credit allowed to the taxpayer or any other person under
+			 section 25A</quote> in subclause (II) of subsection (c)(3)(B)(v) and inserting
+			 <quote>any credit allowed to the taxpayer or any other person under sections
+			 25A and 36</quote>.</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id01C9BC7C45BD4D8881500D13187D9A4B"><enum>(C)</enum><text display-inline="yes-display-inline">Section 530 of such Code is amended by
+			 striking <quote>the credit allowed to the taxpayer or any other person under
+			 section 25A</quote> in subclause (II) of subsection (d)(2)(C)(i) and inserting
+			 <quote>any credit allowed to the taxpayer or any other person under sections
+			 25A and 36</quote>.</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idDE6D237BE98F46A88A313C08DA8E7DCA"><enum>(D)</enum><text display-inline="yes-display-inline">Subparagraph (J) of section 6213(g)(2) of
+			 such Code is amended by striking <quote>section 25A(g)(1)</quote> and inserting
+			 <quote>section 25A(g)(1) or 36(e)(1)</quote>.</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idB5F96724712D47EABB63300C0235877B"><enum>(E)</enum><text display-inline="yes-display-inline">Section 6501(m) of such Code is amended by
+			 inserting <quote>36(c),</quote> before <quote>, 40(f)</quote></text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id0D32A99948064AE4A85B0F3679ACBE73"><enum>(F)</enum><text display-inline="yes-display-inline">The table of sections for subpart C of part
+			 IV of subchapter A of chapter 1 of such Code is amended by striking the item
+			 relating to section 36 and inserting the following:</text>
+							<quoted-block display-inline="no-display-inline" id="id1D79B1085F1C476EBBBFAA81C22093B5" style="OLC">
+								<toc regeneration="no-regeneration">
+									<toc-entry bold="off" level="section">Sec. 36. College affordability
+				and creating chances for educational success for students (ACCESS)
+				credit.</toc-entry>
+									<toc-entry bold="off" level="section">Sec. 37. Overpayments of
+				tax.</toc-entry>
+								</toc>
+								<after-quoted-block>.</after-quoted-block></quoted-block>
+						</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="idB6EEAF1E97D24B3CB80A3CFFFCC36A71"><enum>(b)</enum><header display-inline="yes-display-inline">Repeal of Hope Scholarship credit</header>
+					<paragraph commented="no" display-inline="no-display-inline" id="id7C0730FE763B4223A2B2C08244FEFD77"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Subsection (a) of section 25A of the
+			 Internal Revenue Code of 1986 is amended to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="idE6B9CAD2A6D84B729A332FD68E12EC4C" style="OLC">
+							<subsection commented="no" display-inline="no-display-inline" id="id450AAEBDD9B1437B987720E1E420BEF8"><enum>(a)</enum><header display-inline="yes-display-inline">Allowance of credit</header><text display-inline="yes-display-inline">In the case of an individual, there shall
+				be allowed as a credit against the tax imposed by this chapter for the taxable
+				year an amount equal to 20 percent of so much of the qualified tuition and
+				related expenses paid by the taxpayer during the taxable year (for education
+				furnished during any academic period beginning in such taxable year) as does
+				not exceed
+				$10,000.</text>
+							</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idD168EE54B8B74A56A4BE9585C07623C6"><enum>(2)</enum><header display-inline="yes-display-inline">Conforming amendments</header>
+						<subparagraph commented="no" display-inline="no-display-inline" id="id6D539CD54D60456B960441F5DFA5932E"><enum>(A)</enum><text display-inline="yes-display-inline">Section 25A of such Code is amended by
+			 striking subsections (b) and (c) and by redesignating subsections (d), (e),
+			 (f), (g), (h), and (i) as subsections (b), (c), (d), (e), (f), and (g).</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idD8263B149866465AAD98AF1FADD7EC9C"><enum>(B)</enum><text display-inline="yes-display-inline">Section 25A(e) of such Code, as
+			 redesignated by subparagraph (A), is amended by adding at the end the
+			 following:</text>
+							<quoted-block display-inline="no-display-inline" id="id0D243B063DA446D5B72B2AB3C3C0957C" style="OLC">
+								<paragraph commented="no" display-inline="no-display-inline" id="id052BA364F5994AD488A3C18DEAB27A37"><enum>(8)</enum><header display-inline="yes-display-inline">Coordination with college affordability and
+				creating chances for educational success for students (ACCESS)
+				credit</header><text display-inline="yes-display-inline">The qualified tuition
+				and related expenses with respect to an individual for whom a credit under
+				section 36 is allowed for the taxable year shall not be taken into account
+				under this section.</text>
+								</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idCC95BE4EAFC34E4C8F19F7088D72180B"><enum>(9)</enum><header display-inline="yes-display-inline">Certain expenses eligible</header><text display-inline="yes-display-inline">For purposes of this section, qualified
+				tuition and related expenses shall include expenses described in subsection
+				(d)(1) with respect to any course of instruction at an eligible educational
+				institution to acquire or improve job skills of the
+				individual.</text>
+								</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idC492B510DA4143BFA5A4062A2F84C743"><enum>(C)</enum><text display-inline="yes-display-inline">Paragraph (2) of section 25A(e) of such
+			 Code, as redesignated by subparagraph (A), is amended by striking <quote>before
+			 the application of subsections (b), (c), and (d)</quote> and inserting
+			 <quote>before the application of subsection (b) and paragraphs (8) and (9) of
+			 this subsection</quote>.</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id5344BB2CEE69413DA8A1B5C4815948DC"><enum>(D)</enum><text display-inline="yes-display-inline">Section 25A(f) of such Code, as
+			 redesignated by subparagraph (A), is amended to read as follows:</text>
+							<quoted-block display-inline="no-display-inline" id="id6F7A46F920B14D7E89045EE087060879" style="OLC">
+								<subsection commented="no" display-inline="no-display-inline" id="idE356BA8732F2474983D84526A369C371"><enum>(f)</enum><header display-inline="yes-display-inline">Inflation adjustment</header>
+									<paragraph commented="no" display-inline="no-display-inline" id="id0A7A5C5F411E450A9D8F6FDEBECF7C21"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">In the case of a taxable year beginning
+				after 2001, the $40,000 and $80,000 amounts in subsection (b)(2) shall each be
+				increased by an amount equal to—</text>
+										<subparagraph commented="no" display-inline="no-display-inline" id="idB324BE751B0A40F1955A6411FBFFF474"><enum>(A)</enum><text display-inline="yes-display-inline">such dollar amount, multiplied by</text>
+										</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idAD6FEF8F6EBC4E728D87123F4306171E"><enum>(B)</enum><text display-inline="yes-display-inline">the cost-of-living adjustment determined
+				under section 1(f)(3) for the calendar year in which the taxable year begins,
+				determined by substituting <quote>calendar year 2000</quote> for
+				<quote>calendar year 1992</quote> in subparagraph (B) thereof.</text>
+										</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id5B3CFF7EFF5142BB892FCC9ED1416D55"><enum>(2)</enum><header display-inline="yes-display-inline">Rounding</header><text display-inline="yes-display-inline">If any amount as adjusted under
+				subparagraph (A) is not a multiple of $1,000, such amount shall be rounded to
+				the next lowest multiple of
+				$1,000.</text>
+									</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id95FE284B27F341EAAA7E2DC6A9EB64FF"><enum>(E)</enum><text display-inline="yes-display-inline">The heading for section 25A of such Code is
+			 amended—</text>
+							<clause commented="no" display-inline="no-display-inline" id="id0EA097F5A6CF4873B6F4F43BECA11675"><enum>(i)</enum><text display-inline="yes-display-inline">by striking <quote><header-in-text level="section" style="OLC">Hope and</header-in-text></quote>, and</text>
+							</clause><clause commented="no" display-inline="no-display-inline" id="id872E8EA6F6F746649DB6ECF15EEE0CC8"><enum>(ii)</enum><text display-inline="yes-display-inline">by striking <quote><header-in-text level="section" style="OLC">credits</header-in-text></quote> and inserting
+			 <quote><header-in-text level="section" style="OLC">credit</header-in-text></quote>.</text>
+							</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id1639F512BFF54B8AB83399A7FD928E8B"><enum>(F)</enum><text display-inline="yes-display-inline">The item relating to section 25A in the
+			 table of sections for subpart A of part IV of subchapter A of chapter 1 of such
+			 Code is amended to read as follows:</text>
+							<quoted-block display-inline="no-display-inline" id="id73897FF7B0CE48118BAFB2D5EBCD3E21" style="OLC">
+								<toc>
+									<toc-entry bold="off" level="section">25A. Lifetime Learning
+				credit.</toc-entry>
+								</toc>
+								<after-quoted-block>.</after-quoted-block></quoted-block>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id6C69687B6CD047B7BA90E8EEFCCC19AF"><enum>(G)</enum><clause commented="no" display-inline="yes-display-inline" id="idA81B5DDE415048FE9ADFC1C3FD3415BF"><enum>(i)</enum><text display-inline="yes-display-inline">Subparagraph (B) of section 72(t)(7) of
+			 such Code is amended by striking <quote>section 25A(g)(2)</quote> and inserting
+			 <quote>section 25A(e)(2)</quote>.</text>
+							</clause><clause commented="no" display-inline="no-display-inline" id="IDD7F9C5388F5E491585058858691F8923" indent="up1"><enum>(ii)</enum><text display-inline="yes-display-inline">Section 221(d) of such Code is
+			 amended—</text>
+								<subclause commented="no" display-inline="no-display-inline" id="ID5B6B80DC4A5F4CD09D9DEBBAB2DBB4A5"><enum>(I)</enum><text display-inline="yes-display-inline">by striking <quote>section
+			 25A(g)(2)</quote> in paragraph (2)(B) and inserting <quote>section
+			 25A(e)(2)</quote>,</text>
+								</subclause><subclause commented="no" display-inline="no-display-inline" id="IDDDF89E33797A48578CCA8AF259ABF36E"><enum>(II)</enum><text display-inline="yes-display-inline">by striking <quote>section
+			 25A(f)(2)</quote> in paragraph (2)(B) and inserting <quote>section
+			 25A(d)(2)</quote>, and</text>
+								</subclause><subclause commented="no" display-inline="no-display-inline" id="IDA3EC4D0A3520482F9211AC64B4299957"><enum>(III)</enum><text display-inline="yes-display-inline">by striking <quote>section
+			 25A(b)(3)</quote> in paragraph (3) and inserting <quote>section
+			 25A(b)(3)(B)</quote>.</text>
+								</subclause></clause><clause commented="no" display-inline="no-display-inline" id="ID66B91154843449E1AD47A0003021BF3D" indent="up1"><enum>(iii)</enum><text display-inline="yes-display-inline">Section 529 of such Code is amended—</text>
+								<subclause commented="no" display-inline="no-display-inline" id="ID9BF039D3331847E7A07730998E83F6AA"><enum>(I)</enum><text display-inline="yes-display-inline">by striking <quote>section
+			 25A(g)(2)</quote> in subclause (I) of subsection (c)(3)(B)(v) and inserting
+			 <quote>section 25A(e)(2)</quote>, and</text>
+								</subclause><subclause commented="no" display-inline="no-display-inline" id="IDDB9F0F978C134DD39470597827E4C889"><enum>(II)</enum><text display-inline="yes-display-inline">by striking <quote>section
+			 25A(b)(3)</quote> in clause (i) of subsection (e)(3)(B) and inserting
+			 <quote>section 25A(b)(3)(A)</quote>.</text>
+								</subclause></clause><clause commented="no" display-inline="no-display-inline" id="ID573DF98F3556415DA53DADDD222E2479" indent="up1"><enum>(iv)</enum><text display-inline="yes-display-inline">Section 530 of such Code is amended—</text>
+								<subclause commented="no" display-inline="no-display-inline" id="IDC0DAC60D18E14D208BADE759976A056F"><enum>(I)</enum><text display-inline="yes-display-inline">by striking <quote>section
+			 25A(g)(2)</quote> in subclause (I) of subsection (d)(2)(C)(i) and inserting
+			 <quote>section 25A(e)(2)</quote>, and</text>
+								</subclause><subclause commented="no" display-inline="no-display-inline" id="ID9CC2F2F598894027BC645EDA3E202E54"><enum>(II)</enum><text display-inline="yes-display-inline">by striking <quote>section
+			 25A(g)(2)</quote> in clause (iii) of subsection (d)(4)(B) and inserting
+			 <quote>section 25A(e)(2)</quote>.</text>
+								</subclause></clause><clause commented="no" display-inline="no-display-inline" id="IDD7F528479F8E4B7D869509AA5E1460F3" indent="up1"><enum>(v)</enum><text display-inline="yes-display-inline">Subsection (e) of section 6050S of such
+			 Code is amended by striking <quote>(g)(2) thereof</quote> and inserting
+			 <quote>(e)(2) thereof</quote>.</text>
+							</clause><clause commented="no" display-inline="no-display-inline" id="IDDD46E97BD46D40A39F3928776E17BF65" indent="up1"><enum>(vi)</enum><text display-inline="yes-display-inline">Subparagraph (J) of section 6213(g)(2) of
+			 such Code, as amended by subsection 9a)(3), is amended by striking
+			 <quote>section 25A(g)(1)</quote> and inserting <quote>section
+			 25A(e)(1)</quote>.</text>
+							</clause></subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id44A3058172594C2082425004334B4638"><enum>(c)</enum><header display-inline="yes-display-inline">Repeal of deduction for qualified tuition
+			 and related expenses</header>
+					<paragraph commented="no" display-inline="no-display-inline" id="id571F3C0CBD514536B2B33511C9029590"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Part VII of subchapter B of chapter 1 of
+			 the Internal Revenue Code of 1986 is amended by striking section 222.</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id8399A4480DB24D569DC2D337CDA16DC8"><enum>(2)</enum><header display-inline="yes-display-inline">Conforming amendments</header>
+						<subparagraph commented="no" display-inline="no-display-inline" id="id42CF19810EDB424EB984AF37B910A6C2"><enum>(A)</enum><text display-inline="yes-display-inline">The table of sections for part VII of
+			 subchapter B of chapter 1 of such Code is amended by striking the item relating
+			 to section 222.</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id300BBEA976874ED2AD7BDFF36C9121D5"><enum>(B)</enum><text display-inline="yes-display-inline">The following sections of the Internal
+			 Revenue Code of 1986 are each amended by striking <quote>222,</quote>:</text>
+							<clause commented="no" display-inline="no-display-inline" id="id0FEB77271C444BDA9A6BD8C3762CE115"><enum>(i)</enum><text display-inline="yes-display-inline">Section 86(b)(2)(A).</text>
+							</clause><clause commented="no" display-inline="no-display-inline" id="idF1EC54909CFE46329FFC35C72E08FC57"><enum>(ii)</enum><text display-inline="yes-display-inline">Section 135(c)(4)(A).</text>
+							</clause><clause commented="no" display-inline="no-display-inline" id="idBE1BB6A626C84B0CB043F73B1895093C"><enum>(iii)</enum><text display-inline="yes-display-inline">Section 137(b)(3)(A).</text>
+							</clause><clause commented="no" display-inline="no-display-inline" id="idFD98FB4F45AF4FB4AB2A10B57699E798"><enum>(iv)</enum><text display-inline="yes-display-inline">Section 199(d)(2)(A).</text>
+							</clause><clause commented="no" display-inline="no-display-inline" id="id49BDD711B09844F3B693B3DFA2B799D2"><enum>(v)</enum><text display-inline="yes-display-inline">Section 219(g)(3)(A)(ii).</text>
+							</clause><clause commented="no" display-inline="no-display-inline" id="idB998DA2FFC014E04A81AA42679A521EC"><enum>(vi)</enum><text display-inline="yes-display-inline">Section 221(b)(2)(C)(i).</text>
+							</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idF208DEEED2B34C2C8BB0BEB038C1C839"><enum>(C)</enum><text display-inline="yes-display-inline">Section 469(i)(3)(F)(iii) of such Code is
+			 amended by striking <quote>221, and 222</quote> and inserting <quote>and
+			 221</quote>.</text>
+						</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID92F327A6FA8F46018657447989573E42"><enum>(d)</enum><header display-inline="yes-display-inline">Effective
+			 date</header><text display-inline="yes-display-inline">The amendments made by
+			 this section shall apply to expenses paid after December 31, 2006, for
+			 education furnished in academic periods beginning after such date.</text>
+				</subsection></section></title><title commented="no" id="id3856A394528144108C032BE71A128C4D" level-type="subsequent"><enum>II</enum><header display-inline="yes-display-inline">Early Federal Pell Grant Commitment
+			 Demonstration Program</header>
+			<section commented="no" display-inline="no-display-inline" id="S1" section-type="subsequent-section"><enum>201.</enum><header display-inline="yes-display-inline">Early Federal Pell Grant commitment
+			 demonstration program</header><text display-inline="no-display-inline">Subpart
+			 1 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a et
+			 seq.) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idC6790FB9ED4B4027A17B1FB8F3083BD0" style="OLC">
+					<section commented="no" display-inline="no-display-inline" id="idD6CA2F830FE040379842620EBE5ED440" section-type="subsequent-section"><enum>401B.</enum><header display-inline="yes-display-inline">Early Federal Pell Grant commitment
+				demonstration program</header>
+						<subsection commented="no" display-inline="no-display-inline" id="id0D82DD5498474217BDA3B89CFA1EFC59"><enum>(a)</enum><header display-inline="yes-display-inline">Demonstration program authority</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="id37A65AB3437C4EE79DFAD418D1AB449C"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">The Secretary is authorized to carry out an
+				Early Federal Pell Grant Commitment Demonstration Program under which—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="id4E22257F28944BB587CE571156DE6501"><enum>(A)</enum><text display-inline="yes-display-inline">the Secretary awards grants to 4 State
+				educational agencies, in accordance with paragraph (2), to pay the
+				administrative expenses incurred in participating in the demonstration program
+				under this section; and</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id29E907FB2DA742D4A40069F48F674041"><enum>(B)</enum><text display-inline="yes-display-inline">the Secretary awards Federal Pell Grants to
+				participating students in accordance with this section.</text>
+								</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id692DBEF2411E46DBA9F72DE89576D3FA"><enum>(2)</enum><header display-inline="yes-display-inline">Grants</header>
+								<subparagraph commented="no" display-inline="no-display-inline" id="idBDC3385AED2F4A1A8FBD4F73B6CBDC03"><enum>(A)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">From amounts appropriated under subsection
+				(g) for a fiscal year, the Secretary is authorized to award grants to 4 State
+				educational agencies to enable the State educational agencies to pay the
+				administrative expenses incurred in participating in a demonstration program
+				under which students in 8th grade who are eligible for a free or reduced price
+				meal receive a commitment to receive a Federal Pell Grant early in their
+				academic careers.</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id2133FEDA27DF443EA705D0D0B46B2F52"><enum>(B)</enum><header display-inline="yes-display-inline">Equal amounts</header><text display-inline="yes-display-inline">The Secretary shall award grants under this
+				section in equal amounts to each of the 4 participating State educational
+				agencies.</text>
+								</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id435C672394D340FAAAFA9EF6A4EC3000"><enum>(b)</enum><header display-inline="yes-display-inline">Demonstration project
+				requirements</header><text display-inline="yes-display-inline">Each of the 4
+				demonstration projects assisted under this section shall meet the following
+				requirements:</text>
+							<paragraph commented="no" display-inline="no-display-inline" id="id89935C44C0C1459DA941C770F14F9387"><enum>(1)</enum><header display-inline="yes-display-inline">Participants</header>
+								<subparagraph commented="no" display-inline="no-display-inline" id="idB48F47232B264BACB9653DAA19137674"><enum>(A)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">The State educational agency shall make
+				participation in the demonstration project available to 2 cohorts of students,
+				which shall consist of—</text>
+									<clause commented="no" display-inline="no-display-inline" id="id1A5B142D933D4E70AB4AAB26185E1623"><enum>(i)</enum><text display-inline="yes-display-inline">1 cohort of 8th grade students who begin
+				the participation in academic year 2007–2008; and</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="id7F655E59D978496D8186F20D551F22E3"><enum>(ii)</enum><text display-inline="yes-display-inline">1 cohort of 8th grade students who begin
+				the participation in academic year 2008–2009.</text>
+									</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id9CF4109D097B431E98F7CDB3810CBB4B"><enum>(B)</enum><header display-inline="yes-display-inline">Students in each cohort</header><text display-inline="yes-display-inline">Each cohort of students shall consist of
+				not more than 10,000 8th grade students who qualify for a free or reduced price
+				meal under the Richard B. Russell National School Lunch Act or the Child
+				Nutrition Act of 1966.</text>
+								</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idFADEDD55D1454AF2BE110C176808C13A"><enum>(2)</enum><header display-inline="yes-display-inline">Student data</header><text display-inline="yes-display-inline">The State educational agency shall ensure
+				that student data from local educational agencies serving students who
+				participate in the demonstration project, as well as student data from local
+				educational agencies serving a comparable group of students who do not
+				participate in the demonstration project, are available for evaluation of the
+				demonstration project.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idAA9AFDC74A5544679B157E84D050B158"><enum>(3)</enum><header display-inline="yes-display-inline">Federal Pell Grant commitment</header><text display-inline="yes-display-inline">Each student who participates in the
+				demonstration project receives a commitment from the Secretary to receive a
+				Federal Pell Grant during the first academic year that student is in attendance
+				at an institution of higher education as an undergraduate, if the student
+				applies for Federal financial aid (via the FAFSA) during the student's senior
+				year of secondary school and during succeeding years.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id0BCE11BB8B204415895B52222BA499B0"><enum>(4)</enum><header display-inline="yes-display-inline">Applicability of Federal Pell Grant
+				requirements</header><text display-inline="yes-display-inline">The requirements
+				of section 401 shall apply to Federal Pell Grants awarded pursuant to this
+				section, except that the amount of each participating student's Federal Pell
+				Grant only shall be calculated by deeming such student to have an expected
+				family contribution equal to zero.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id8C3092DFDEE841909979B8E255B13E4A"><enum>(5)</enum><header display-inline="yes-display-inline">Application process</header><text display-inline="yes-display-inline">The Secretary shall establish an
+				application process to select State educational agencies to participate in the
+				demonstration program and State educational agencies shall establish an
+				application process to select local educational agencies within the State to
+				participate in the demonstration project.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id1C4C06291DFD472F9B6550A9365E99AF"><enum>(6)</enum><header display-inline="yes-display-inline">Local educational agency
+				participation</header><text display-inline="yes-display-inline">Subject to the
+				10,000 statewide student limitation described in paragraph (1), a local
+				educational agency serving students, not less than 50 percent of whom are
+				eligible for a free or reduced price meal under the Richard B. Russell National
+				School Lunch Act or the Child Nutritional Act of 1966, shall be eligible to
+				participate in the demonstration project.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id6BBFF9D017604AE9BB6BF560DFE3C7B5"><enum>(c)</enum><header display-inline="yes-display-inline">State educational agency
+				applications</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="idBA051B17AD9F473EB745A0B436DC4BD8"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Each State educational agency desiring to
+				participate in the demonstration program under this section shall submit an
+				application to the Secretary at such time and in such manner as the Secretary
+				may require.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idB74CEBCC6653428292932594BB62EDE0"><enum>(2)</enum><header display-inline="yes-display-inline">Contents</header><text display-inline="yes-display-inline">Each application shall include—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="idBAB75E1A5E93487CAAB6D48E6423F988"><enum>(A)</enum><text display-inline="yes-display-inline">a description of the proposed targeted
+				information campaign for the demonstration project and a copy of the plan
+				described in subsection (f)(2);</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idFB41D7C5433B498F830884A2A6214E18"><enum>(B)</enum><text display-inline="yes-display-inline">a description of the student population
+				that will receive an early commitment to receive a Federal Pell Grant under
+				this section;</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id3BEC2DD652E04B2C82515C69AA491764"><enum>(C)</enum><text display-inline="yes-display-inline">an assurance that the State educational
+				agency will fully cooperate with the ongoing evaluation of the demonstration
+				project; and</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id8364F1D60D194E3488C7B5A28614AA52"><enum>(D)</enum><text display-inline="yes-display-inline">such other information as the Secretary may
+				require.</text>
+								</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id10CE7FFB514A4E8CBBE80A20509A1C09"><enum>(d)</enum><header display-inline="yes-display-inline">Selection considerations</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="id00C40DDC255F4EA2877764225FCD26C5"><enum>(1)</enum><header display-inline="yes-display-inline">Selection of State educational
+				agencies</header><text display-inline="yes-display-inline">In selecting State
+				educational agencies to participate in the demonstration program, the Secretary
+				shall consider—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="id75F5044940B342B7A501C4375BAE22D0"><enum>(A)</enum><text display-inline="yes-display-inline">the number and quality of State educational
+				agency applications received;</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id3939034C9D354BEDB4EC82920135761A"><enum>(B)</enum><text display-inline="yes-display-inline">the Department's capacity to oversee and
+				monitor each State educational agency's participation in the demonstration
+				program;</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id4766876F69DA4B5EBD734E9329C0F8FB"><enum>(C)</enum><text display-inline="yes-display-inline">a State educational agency's—</text>
+									<clause commented="no" display-inline="no-display-inline" id="idF296BE96A5024B58B2AF5C5413A0692F"><enum>(i)</enum><text display-inline="yes-display-inline">financial responsibility;</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="id67627DC8AD704F40BDA7D3901B069A01"><enum>(ii)</enum><text display-inline="yes-display-inline">administrative capability;</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="id608E7C35C1E44910A88D1C1F3A13F16C"><enum>(iii)</enum><text display-inline="yes-display-inline">commitment to focusing State resources, in
+				addition to any resources provided under part A of title I of the Elementary
+				and Secondary Education Act of 1965, on students who receive assistance under
+				such part A;</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="id84B92F3B1E6F403E87F1F1B15D691F41"><enum>(iv)</enum><text display-inline="yes-display-inline">the ability and plans of a State
+				educational agency to run an effective and thorough targeted information
+				campaign for students served by local educational agencies eligible to
+				participate in the demonstration project; and</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="idF584B4C5BA7A4D6A85E816A000DC0BCE"><enum>(v)</enum><text display-inline="yes-display-inline">ensuring the participation in the
+				demonstration program of a diverse group of students with respect to ethnicity
+				and gender.</text>
+									</clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id5C15727A71184F12ACCF508FDD071F83"><enum>(2)</enum><header display-inline="yes-display-inline">Local educational agency</header><text display-inline="yes-display-inline">In selecting local educational agencies to
+				participate in a demonstration project under this section, the State
+				educational agency shall consider—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="id7C8C29F3F32949529D5CCCE8DDBFEF3F"><enum>(A)</enum><text display-inline="yes-display-inline">the number and quality of local educational
+				agency applications received;</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id3360C7E7045A4313AC8A0F8B367F6D54"><enum>(B)</enum><text display-inline="yes-display-inline">the State educational agency's capacity to
+				oversee and monitor each local educational agency's participation in the
+				demonstration project;</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idF328C3759DA6426DA23650E955F8FE6F"><enum>(C)</enum><text display-inline="yes-display-inline">a local educational agency's—</text>
+									<clause commented="no" display-inline="no-display-inline" id="id986557CB09784ED1837E2E843276AEFE"><enum>(i)</enum><text display-inline="yes-display-inline">financial responsibility;</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="id3FDF597147C84162958B600FB646A9D4"><enum>(ii)</enum><text display-inline="yes-display-inline">administrative capability;</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="idDC29DC6ADEE2492391D3FF7B4009F764"><enum>(iii)</enum><text display-inline="yes-display-inline">commitment to focusing local resources, in
+				addition to any resources provided under part A of title I of the Elementary
+				and Secondary Education Act of 1965, on students who receive assistance under
+				such part A;</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="idA35041E8EE344BF983BCFACE1DE63A9E"><enum>(iv)</enum><text display-inline="yes-display-inline">the ability and plans of a local
+				educational agency to run an effective and thorough targeted information
+				campaign for students served by the local educational agency; and</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="id0136E03BA8A040068CEA98664FAC12CC"><enum>(v)</enum><text display-inline="yes-display-inline">ensuring the participation in the
+				demonstration project of a diverse group of students with respect to ethnicity
+				and gender.</text>
+									</clause></subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID7178082fde7d4f7c98a776281087d397"><enum>(e)</enum><header display-inline="yes-display-inline">Evaluation</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="IDbe3dc3fbe751452b9acbf6e14451d32c"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">From amounts appropriated under section (g)
+				for a fiscal year, the Secretary shall reserve not more than $1,000,000 to
+				award a grant or contract to an organization outside the Department for an
+				independent evaluation of the impact of the demonstration program assisted
+				under this section.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDff1ecc1a08ae4a8ea0a190a1f2360b24"><enum>(2)</enum><header display-inline="yes-display-inline">Competitive basis</header><text display-inline="yes-display-inline">The grant or contract shall be awarded on a
+				competitive basis.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID41f04cccd79b4a99b59736eefdb90e7c"><enum>(3)</enum><header display-inline="yes-display-inline">Matters evaluated</header><text display-inline="yes-display-inline">The evaluation described in this subsection
+				shall—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="ID8fc15a31d0174d1189ef3ef493608f5d"><enum>(A)</enum><text display-inline="yes-display-inline">determine the number of individuals who
+				were encouraged by the demonstration program to pursue higher education;</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID9fa4d892cc244f3b83cd1c34ce3b0328"><enum>(B)</enum><text display-inline="yes-display-inline">identify the barriers to the effectiveness
+				of the demonstration program;</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDf154ef54879e4a08ae8a7c92ea89b09d"><enum>(C)</enum><text display-inline="yes-display-inline">assess the cost-effectiveness of the
+				demonstration program in improving access to higher education;</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDeee8316178824ce8aa9abb739014b029"><enum>(D)</enum><text display-inline="yes-display-inline">identify the reasons why participants in
+				the demonstration program either received or did not receive a Federal Pell
+				Grant;</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID49886516dc524667b734270f43d14243"><enum>(E)</enum><text display-inline="yes-display-inline">identify intermediate outcomes (relative to
+				postsecondary education attendance), such as whether participants—</text>
+									<clause commented="no" display-inline="no-display-inline" id="idB9A989711A9D4C759C220C1F533A278D"><enum>(i)</enum><text display-inline="yes-display-inline">were more likely to take a college-prep
+				curriculum while in secondary school;</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="id8217A7F1D2894BF2916CE4FE960630A8"><enum>(ii)</enum><text display-inline="yes-display-inline">submitted any college applications;
+				and</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="id6363BFD78CA14358AD92B378EE8988B0"><enum>(iii)</enum><text display-inline="yes-display-inline">took the PSAT, SAT, or ACT;</text>
+									</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID9b290febfb624119bb89ae1ff7f43eb1"><enum>(F)</enum><text display-inline="yes-display-inline">identify the number of individuals
+				participating in the demonstration program who pursued an associate's degree or
+				a bachelor's degree, as well as other forms of postsecondary education;</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDaad1c7cd106e484dbdc07aceb3245d98"><enum>(G)</enum><text display-inline="yes-display-inline">compare the findings of the demonstration
+				program with respect to participants to comparison groups (of similar size and
+				demographics) that did not participate in the demonstration program; and</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idA19C9AF29762425FB5AED3720B71763F"><enum>(H)</enum><text display-inline="yes-display-inline">identify the impact on the parents of
+				students eligible to participate in the demonstration program.</text>
+								</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID237551c687e4455e9c12e03b446378c7"><enum>(4)</enum><header display-inline="yes-display-inline">Dissemination</header><text display-inline="yes-display-inline">The findings of the evaluation shall be
+				widely disseminated to the public by the organization conducting the evaluation
+				as well as by the Secretary.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID72cb09360d7640bbb517491904e27e35"><enum>(f)</enum><header display-inline="yes-display-inline">Targeted information campaign</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="ID4c9dc93eaa0a4020b0c4b7b7302f53df"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Each State educational agency receiving a
+				grant under this section shall, in cooperation with the participating local
+				educational agencies within the State and the Secretary, develop a targeted
+				information campaign for the demonstration program assisted under this
+				section.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID8f4fbefe6a9e408397aba87bec4be011"><enum>(2)</enum><header display-inline="yes-display-inline">Plan</header><text display-inline="yes-display-inline">Each State educational agency receiving a
+				grant under this section shall include in the application submitted under
+				subsection (c) a written plan for their proposed targeted information campaign.
+				The plan shall include the following:</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="ID0ede20e4bab64710bfd1e2ec02f9a7d0"><enum>(A)</enum><header display-inline="yes-display-inline">Outreach</header><text display-inline="yes-display-inline">Outreach to students and their families, at
+				a minimum, at the beginning and end of each academic year of the demonstration
+				project.</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID8560599f3b9543cc911fee202c217821"><enum>(B)</enum><header display-inline="yes-display-inline">Distribution</header><text display-inline="yes-display-inline">How the State educational agency plans to
+				provide the outreach described in subparagraph (A) and to provide the
+				information described in subparagraph (C).</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID4173489b92bb47a88f1f357dad1807e9"><enum>(C)</enum><header display-inline="yes-display-inline">Information</header><text display-inline="yes-display-inline">The annual provision by the State
+				educational agency to all students and families participating in the
+				demonstration program of information regarding—</text>
+									<clause commented="no" display-inline="no-display-inline" id="ID3e98138266f04d81bcd6929ecf94251c"><enum>(i)</enum><text display-inline="yes-display-inline">the estimated statewide average higher
+				education institution cost data for each academic year, which cost data shall
+				be disaggregated by—</text>
+										<subclause commented="no" display-inline="no-display-inline" id="IDc58ccb11573b44beabb1f811517172ba"><enum>(I)</enum><text display-inline="yes-display-inline">type of institution, including—</text>
+											<item commented="no" display-inline="no-display-inline" id="ID8562e61d684248ed97e5d012e82d4f0c"><enum>(aa)</enum><text display-inline="yes-display-inline">2-year public colleges;</text>
+											</item><item commented="no" display-inline="no-display-inline" id="ID2482ade61baf4a09bb6425617307a7e8"><enum>(bb)</enum><text display-inline="yes-display-inline">4-year public colleges; and</text>
+											</item><item commented="no" display-inline="no-display-inline" id="IDb33f7acd5c454dfdb116051082b6b3d0"><enum>(cc)</enum><text display-inline="yes-display-inline">4-year private colleges;</text>
+											</item></subclause><subclause commented="no" display-inline="no-display-inline" id="ID45c86c24747b4b92b24808bbae745042"><enum>(II)</enum><text display-inline="yes-display-inline">by component, including—</text>
+											<item commented="no" display-inline="no-display-inline" id="ID4a9c2a697ee74e839e83525eda53edc8"><enum>(aa)</enum><text display-inline="yes-display-inline">tuition and fees; and</text>
+											</item><item commented="no" display-inline="no-display-inline" id="IDdb241d07d68744b4bed6e77b2c94dfa2"><enum>(bb)</enum><text display-inline="yes-display-inline">room and board;</text>
+											</item></subclause></clause><clause commented="no" display-inline="no-display-inline" id="ID12253871c3c843fdad547127251f4657"><enum>(ii)</enum><text display-inline="yes-display-inline">Federal Pell Grants, including—</text>
+										<subclause commented="no" display-inline="no-display-inline" id="ID31a72114c38c413a93ecc242ac156821"><enum>(I)</enum><text display-inline="yes-display-inline">the maximum Federal Pell Grant for each
+				academic year;</text>
+										</subclause><subclause commented="no" display-inline="no-display-inline" id="IDcaacb4124a6e471a91ee5cf9bb98e13e"><enum>(II)</enum><text display-inline="yes-display-inline">when and how to apply for a Federal Pell
+				Grant; and</text>
+										</subclause><subclause commented="no" display-inline="no-display-inline" id="IDd7705f8996904d48a20b7d251607445a"><enum>(III)</enum><text display-inline="yes-display-inline">what the application process for a Federal
+				Pell Grant requires;</text>
+										</subclause></clause><clause commented="no" display-inline="no-display-inline" id="ID35278f29718e4ae6b4cc60365a0136c4"><enum>(iii)</enum><text display-inline="yes-display-inline">State-specific college savings
+				programs;</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="ID28dfea491c0b46678e512d79443efa0b"><enum>(iv)</enum><text display-inline="yes-display-inline">State-based merit aid;</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="ID52e678562eda47459948cc5bf454cf81"><enum>(v)</enum><text display-inline="yes-display-inline">State-based financial aid; and</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="id282B205A218E4E07B0C14DDC399E2AC3"><enum>(vi)</enum><text display-inline="yes-display-inline">Federal financial aid available to
+				students, including eligibility criteria for the Federal financial aid and an
+				explanation of the Federal financial aid programs.</text>
+									</clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idFC79DBABDA444BA4AC38953F4EB1CDF0"><enum>(3)</enum><header display-inline="yes-display-inline">Cohorts</header><text display-inline="yes-display-inline">The information described in paragraph
+				(2)(C) shall be provided to 2 cohorts of students annually for the duration of
+				the students' participation in the demonstration program. The 2 cohorts shall
+				consist of—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="idDCD9EEF1145A4DA8B7CDC278131B6ABD"><enum>(A)</enum><text display-inline="yes-display-inline">1 cohort of 8th grade students who begin
+				the participation in academic year 2007–2008; and</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idA28F4AF38AD54FB088800027D2F331E5"><enum>(B)</enum><text display-inline="yes-display-inline">1 cohort of 8th grade students who begin
+				the participation in academic year 2008–2009.</text>
+								</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID85ef863fb6ff489fbb6616e2aee05699"><enum>(4)</enum><header display-inline="yes-display-inline">Reservation</header><text display-inline="yes-display-inline">Each State educational agency receiving a
+				grant under this section shall reserve $200,000 of the grant funds received
+				each fiscal year for each of the 2 cohorts of students (for a total reservation
+				of $400,000 each fiscal year) served by the State to carry out their targeted
+				information campaign described in this subsection.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id6B68846BE8BA49EF8EAA1F67C7184581"><enum>(g)</enum><header display-inline="yes-display-inline">Authorization of
+				appropriations</header><text display-inline="yes-display-inline">There are
+				authorized to be appropriated to carry out this section—</text>
+							<paragraph commented="no" display-inline="no-display-inline" id="idA51136358F264A14B797243DE271EEBB"><enum>(1)</enum><text display-inline="yes-display-inline">$1,300,000 for fiscal year 2008, of
+				which—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="id5DFDBF21C28E49DF9872343441B9B40C"><enum>(A)</enum><text display-inline="yes-display-inline">$500,000 shall be available to carry out
+				subsection (e); and</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id6C8E7C4655694168977DF15ABF21A076"><enum>(B)</enum><text display-inline="yes-display-inline">$800,000 shall be available to carry out
+				subsection (f)(2)(C);</text>
+								</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id343D2DFA6C114FFA9D49BE9DD42E3093"><enum>(2)</enum><text display-inline="yes-display-inline">$1,600,000 for fiscal year 2009, of which
+				$1,600,000 shall be available to carry out subsection (f)(2)(C);</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id8C81B46059304DDDAEBF6DC4DECE7D76"><enum>(3)</enum><text display-inline="yes-display-inline">$1,600,000 for fiscal year 2010, of which
+				$1,600,000 shall be available to carry out subsection (f)(2)(C);</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id16E9B7A986694947B01400738C094B3E"><enum>(4)</enum><text display-inline="yes-display-inline">$2,100,000 for fiscal year 2011, of
+				which—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="id2F171F3EEC1D417EB6C42D2E7292E34D"><enum>(A)</enum><text display-inline="yes-display-inline">$500,000 shall be available to carry out
+				subsection (e); and</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id69EA56DF2A864B0AB4205614F6BA146C"><enum>(B)</enum><text display-inline="yes-display-inline">$1,600,000 shall be available to carry out
+				subsection (f)(2)(C);</text>
+								</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id4E451FFEB09E4C4093ED7197444530AD"><enum>(5)</enum><text display-inline="yes-display-inline">$1,600,000 for fiscal year 2012, of which
+				$1,600,000 shall be available to carry out subsection (f)(2)(C);</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id5B03CDC18450416D8E3B70CD087F966D"><enum>(6)</enum><text display-inline="yes-display-inline">$14,600,000 for fiscal year 2013, of
+				which—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="id7FD3D6E0549D4FCFBA4058B00D893EC3"><enum>(A)</enum><text display-inline="yes-display-inline">$800,000 shall be available to carry out
+				subsection (f)(2)(C); and</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idC3D7810D9BB0469E9E62AE343C78B0AD"><enum>(B)</enum><text display-inline="yes-display-inline">$13,800,000 shall be available for Federal
+				Pell Grants provided in accordance with this section; and</text>
+								</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id2C1094E989484437A161DC3D7501A531"><enum>(7)</enum><text display-inline="yes-display-inline">$13,800,000 for fiscal year 2014, of which
+				$13,800,000 shall be available for Federal Pell Grants provided in accordance
+				with this
+				section.</text>
+							</paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section></title><title commented="no" id="id6317A05CD9F345FDB55646C901AF8DB0" level-type="subsequent"><enum>III</enum><header display-inline="yes-display-inline">Increase in Federal Pell Grant maximum
+			 award</header>
+			<section commented="no" display-inline="no-display-inline" id="id2E4357B9F6084C94B93405D24836F565" section-type="subsequent-section"><enum>301.</enum><header display-inline="yes-display-inline">Increase of maximum Federal Pell Grant
+			 amount</header><text display-inline="no-display-inline">Section 401(b)(2)(A) of
+			 the Higher Education Act of 1965 (20 U.S.C. 1070a(b)(2)(A)) is amended by
+			 striking clauses (i) through (v) and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id2357E465E65E452B9BDD7825F9B8A513" style="OLC">
+					<clause commented="no" display-inline="no-display-inline" id="id8FD9B4CD6CB04DE7888ADB20C32353AB" indent="up2"><enum>(i)</enum><text display-inline="yes-display-inline">$5,100 for academic year 2007–2008;</text>
+					</clause><clause commented="no" display-inline="no-display-inline" id="id79D9E255AAAA4CD1B68F7C7A8F73C843" indent="up2"><enum>(ii)</enum><text display-inline="yes-display-inline">$5,400 for academic year 2008–2009;</text>
+					</clause><clause commented="no" display-inline="no-display-inline" id="id48FE26C3B0A245D1B20EF947E189894F" indent="up2"><enum>(iii)</enum><text display-inline="yes-display-inline">$5,700 for academic year 2009–2010;</text>
+					</clause><clause commented="no" display-inline="no-display-inline" id="id7A5F0BF96926493CA323AA99F678A029" indent="up2"><enum>(iv)</enum><text display-inline="yes-display-inline">$6,000 for academic year 2010–2011;
+				and</text>
+					</clause><clause commented="no" display-inline="no-display-inline" id="idDA70CB0105BF41F2BAF2D96526632B78" indent="up2"><enum>(v)</enum><text display-inline="yes-display-inline">$6,300 for academic year
+				2011–2012,</text>
+					</clause><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section></title></legis-body>
+</bill>

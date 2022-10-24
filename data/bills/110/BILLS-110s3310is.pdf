@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 3310</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20080723">July 23, 2008</action-date>
+			<action-desc><sponsor name-id="S247">Mr. Wyden</sponsor> (for himself,
+			 <cosponsor name-id="S153">Mr. Grassley</cosponsor>, and
+			 <cosponsor name-id="S311">Ms. Klobuchar</cosponsor>) introduced the following
+			 bill; which was read twice and referred to the
+			 <committee-name committee-id="SSAS00">Committee on Armed
+			 Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide benefits under the
+		  Post-Deployment/Mobilization Respite Absence program for certain periods before
+		  the implementation of the program. </official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Benefits under
+			 Post-Deployment/Mobilization Respite Absence program for certain periods before
+			 implementation of program</header>
+			<subsection id="id26C73FC77A6C4597A0C56AAA23177CFD"><enum>(a)</enum><header>In
+			 general</header><text>Under regulations prescribed by the Secretary of Defense,
+			 the Secretary concerned shall provide any member or former member of the Armed
+			 Forces with the benefits specified in subsection (b) if the member or former
+			 member would, on any day during the period beginning on January 19, 2007, and
+			 ending on the date of the implementation of the Post-Deployment/Mobilization
+			 Respite Absence (PDMRA) program by the Secretary concerned, have qualified for
+			 a day of administrative absence under the Post-Deployment/Mobilization Respite
+			 Absence program had the program been in effect during such period.</text>
+			</subsection><subsection id="id2F383B0D42594A15A7656C5BCD715C8B"><enum>(b)</enum><header>Benefits</header><text>The
+			 benefits specified in this subsection are the following:</text>
+				<paragraph id="idEDA262EB79C14ACFAD01466E204EBDE8"><enum>(1)</enum><text>In the case of an
+			 individual who is a former member of the Armed Forces at the time of the
+			 provision of benefits under this section, payment of an amount not to exceed
+			 $200 for each day the individual would have qualified for a day of
+			 administrative absence as described in subsection (a) during the period
+			 specified in that subsection.</text>
+				</paragraph><paragraph id="id71E6C7D8DB53418081DF8C14358C9BFB"><enum>(2)</enum><text>In the case of an
+			 individual who is a member of the Armed Forces at the time of the provision of
+			 benefits under this section, either one day of administrative absence or
+			 payment of an amount not to exceed $200, as selected by the Secretary
+			 concerned, for each day the individual would have qualified for a day of
+			 administrative absence as described in subsection (a) during the period
+			 specified in that subsection.</text>
+				</paragraph></subsection><subsection id="id25B0BB9D398D4B31996768D73BC8A5E0"><enum>(c)</enum><header>Exclusion of
+			 certain former members</header><text>A former member of the Armed Forces is not
+			 eligible under this section for the benefits specified in subsection (b)(1) if
+			 the former member was discharged or released from the Armed Forces under other
+			 than honorable conditions.</text>
+			</subsection><subsection id="idE741929537A54F8DB556F6222CF436F7"><enum>(d)</enum><header>Maximum number
+			 of days of benefits providable</header><text>The number of days of benefits
+			 providable to a member or former member of the Armed Forces under this section
+			 may not exceed 40 days of benefits.</text>
+			</subsection><subsection id="id39BFD0FEA8E1494784FCC94D255273E5"><enum>(e)</enum><header>Form of
+			 payment</header><text>The paid benefits providable under subsection (b) may be
+			 paid in a lump sum or installments, at the election of the Secretary
+			 concerned.</text>
+			</subsection><subsection id="idA270550A4C2442C1A5696FB8B5545B77"><enum>(f)</enum><header>Construction
+			 with other pay and leave</header><text>The benefits provided a member or former
+			 member of the Armed Forces under this section are in addition to any other pay,
+			 absence, or leave provided by law.</text>
+			</subsection><subsection id="id51882B57DC9A41A4A38214DD0322DBDB"><enum>(g)</enum><header>Definitions</header><text>In
+			 this section:</text>
+				<paragraph id="idCAE3BBF6B68346E8A9F61253B51DF3A0"><enum>(1)</enum><text>The term
+			 <term>Post-Deployment/Mobilization Respite Absence program</term> means the
+			 program of a military department to provide days of administrative absence not
+			 chargeable against available leave to certain deployed or mobilized members of
+			 the Armed Forces in order to assist such members in reintegrating into civilian
+			 life after deployment or mobilization.</text>
+				</paragraph><paragraph id="idD77BA401C80E4C168333D44B43C85479"><enum>(2)</enum><text>The term
+			 <term>Secretary concerned</term> has the meaning given that term in section
+			 101(5) of title 37, United States Code.</text>
+				</paragraph></subsection><subsection id="id516EDC3D7F494638B4AC6BA4118E5221"><enum>(h)</enum><header>Termination</header>
+				<paragraph id="idAAD20D4B35BA49869EBBAA8BBC798B36"><enum>(1)</enum><header>In
+			 general</header><text>The authority to provide benefits under this section
+			 shall expire on the date that is one year after the date of the enactment of
+			 this Act.</text>
+				</paragraph><paragraph id="id319364F99E4443468E98FFB3C5EA6643"><enum>(2)</enum><header>Construction</header><text>Expiration
+			 under this subsection of the authority to provide benefits under this section
+			 shall not affect the utilization of any day of administrative absence provided
+			 a member of the Armed Forces under subsection (b)(2), or the payment of any
+			 payment authorized a member or former member of the Armed Forces under
+			 subsection (b), before the expiration of the authority in this section.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>

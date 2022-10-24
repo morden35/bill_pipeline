@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 898</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110505">May 5, 2011</action-date>
+			<action-desc><sponsor name-id="S308">Mr. Cardin</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSEV00">Committee on Environment and Public
+			 Works</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 23, United States Code, to direct the
+		  Secretary to establish a comprehensive design standard program to prevent,
+		  control, and treat polluted stormwater runoff from federally funded highways
+		  and roads, and for other purposes. </official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>Safe Treatment of Polluted
+			 Stormwater Runoff Act</short-title></quote> or the <quote><short-title>STOPS Runoff Act</short-title></quote>.</text>
+		</section><section id="ID4009907f890f496a87ced3498c272da0"><enum>2.</enum><header>Federal-aid
+			 highway runoff pollution management program</header>
+			<subsection id="ID06f61eb3ab364da68a484e0d17d23797"><enum>(a)</enum><header>In
+			 general</header><text>Chapter 3 of title 23, United States Code, is amended by
+			 adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idC213A456B907413B85F22499DE463729" style="OLC">
+					<section id="ID95a31b41f554472aaa58b47f82734112"><enum>330.</enum><header>Federal-aid
+				highway runoff pollution management program</header>
+						<subsection id="ID9dbd954d052341b9bf625e3c56775972"><enum>(a)</enum><header>Definitions</header><text>In
+				this section:</text>
+							<paragraph id="ID541c2e024b9c489c859444480009f108"><enum>(1)</enum><header>Control
+				measure</header><text>The term <term>control measure</term> means a program,
+				structural or nonstructural management practice, operational procedure, or
+				policy on or off the project site that is intended to prevent, reduce, or
+				control highway runoff pollution.</text>
+							</paragraph><paragraph id="IDa8f41ff8f0b54770921a8cad24889727"><enum>(2)</enum><header>Covered
+				project</header><text>The term <term>covered project</term> means a
+				rehabilitation, reconfiguration, renovation, major resurfacing, or construction
+				project carried out under this title that—</text>
+								<subparagraph id="IDb92ca87f93394aa28651276594309977"><enum>(A)</enum><text>results in a
+				10-percent or greater increase in impervious surface of the aerial extent
+				within the right-of-way of the project limit on a Federal-aid highway or
+				associated facility; or</text>
+								</subparagraph><subparagraph id="ID45435ecd34474a5fb45daf40cdcce023"><enum>(B)</enum><text>results in an
+				increase of 1 acre or more in impervious surface coverage.</text>
+								</subparagraph></paragraph><paragraph id="IDacfed5f1f866459995816eff51501953"><enum>(3)</enum><header>Highway runoff
+				pollution</header><text>The term <term>highway runoff pollution</term> means,
+				in relation to a Federal-aid highway, associated facility, or control measure
+				retrofit project, one or more of the following:</text>
+								<subparagraph id="ID6996d3f855c242d99f087ec423f3c494"><enum>(A)</enum><text>A discharge of
+				sediment, metals, chemicals, nitrogen and phosphorous, or oil and grease in
+				runoff.</text>
+								</subparagraph><subparagraph id="IDcee5814c0a0844269b79498972f688ba"><enum>(B)</enum><text>A discharge of
+				peak flow rate, water temperature, or volume of runoff that exceeds
+				predevelopment amounts.</text>
+								</subparagraph></paragraph><paragraph id="ID0c08ceb1e91344c9bf5abe9721548c63"><enum>(4)</enum><header>Predevelopment
+				hydrology</header><text>The term <term>predevelopment hydrology</term> means,
+				for project sites covered by this section, that—</text>
+								<subparagraph id="ID19dbd5dae9fd40168de561ce66b2cc33"><enum>(A)</enum><text>the precipitation
+				from all rainfall events less than or equal to the 95th percentile rain event
+				shall be managed on-site through stormwater management practices designed,
+				constructed, and maintained to prevent off-site discharge, to the maximum
+				extent technically feasible; or</text>
+								</subparagraph><subparagraph id="IDb88eb38b52b3440dafcc8cba5a27364e"><enum>(B)</enum><text>runoff typical of
+				natural conditions prior to anthropogenic disturbance, as determined by
+				site-specific conditions, local meteorology, and continuous simulation modeling
+				techniques, are preserved through stormwater management practices that are
+				designed, constructed, and maintained to manage the volume, rate, and
+				temperature of stormwater runoff following construction.</text>
+								</subparagraph></paragraph><paragraph id="IDa65164acb17e433aaba9cc549e3a676e"><enum>(5)</enum><header>Watershed-based
+				environmental management approach</header><text>The term <term>watershed-based
+				environmental management approach</term> means an approach under which—</text>
+								<subparagraph id="IDe1d8c281c4294723a9f6e8326df3da30"><enum>(A)</enum><text>the selection of
+				solutions that prevent or minimize the environmental impact of an individual
+				project is made within the broader context of the environmental protection and
+				restoration goals of any watershed that drains the project site, rather than
+				selecting solutions solely based on site level considerations; and</text>
+								</subparagraph><subparagraph id="ID530a3809f77b4f419e102137011e8538"><enum>(B)</enum><text>priority
+				consideration is given to—</text>
+									<clause id="IDf51c62114d4440cda4f3c843b39dfa18"><enum>(i)</enum><text>protection of
+				drinking water supplies;</text>
+									</clause><clause id="ID7276c8499694427dbc05c95238831974"><enum>(ii)</enum><text>protection and
+				restoration of waterways listed by a State as impaired in accordance with
+				section 303(d) of the Federal Water Pollution Control Act (33 U.S.C.
+				1313(d));</text>
+									</clause><clause id="ID3f50803a50074e8e9169c38e80da5eca"><enum>(iii)</enum><text>preservation of
+				aquatic ecosystems and fisheries; and</text>
+									</clause><clause id="IDd14e6322bafd4c01a88a7d01d8a09a09"><enum>(iv)</enum><text>cost-effective
+				expenditure of Federal funds.</text>
+									</clause></subparagraph></paragraph></subsection><subsection id="ID4ae259e834c343059a5e5ccd9a975a80"><enum>(b)</enum><header>Establishment</header><text>The
+				Secretary, with the concurrence of the Administrator of the Environmental
+				Protection Agency, shall establish a Federal-aid highway runoff pollution
+				avoidance and management program to ensure that covered projects are sited,
+				constructed, and maintained in accordance with design standards intended to
+				protect surface and ground water quality and ensure the long-term management of
+				stormwater originating from Federal-aid highways.</text>
+						</subsection><subsection id="IDa66a7fad80d14990ad12532d9eaf928f"><enum>(c)</enum><header>Project
+				approval</header><text>The Secretary may approve a covered project of a State
+				under section 106 only if the State provides assurances satisfactory to the
+				Secretary that the State will site, design, and construct the covered project
+				in accordance with the design standards described in subsection (d).</text>
+						</subsection><subsection id="ID2914d101e81743e1b354e4a4b4f259a0"><enum>(d)</enum><header>Design
+				standards</header>
+							<paragraph id="idB097879B41964A6C8967FA0AE91E4D68"><enum>(1)</enum><header>In
+				general</header><text>The post-construction condition of a covered project
+				shall maintain or restore, to the maximum extent technically feasible, the
+				predevelopment hydrology of the project site with regard to the temperature,
+				rate, chemical composition, volume, and duration of flow.</text>
+							</paragraph><paragraph id="ID3d38c7fc9b464b0c9d4aed8e70d07ca3"><enum>(2)</enum><header>Covered
+				projects in impaired watersheds</header><text>Any covered project carried out
+				within a watershed that contains an impaired water listed under section 303(d)
+				of the Federal Water Pollution Control Act (33 U.S.C. 1313(d)) shall be in
+				accordance with—</text>
+								<subparagraph id="id9C5370B3F66E4671801F79BA5A99E64F"><enum>(A)</enum><text>the load or
+				wasteload allocation requirements established by the Administrator of the
+				Environmental Protection Agency or the State; and</text>
+								</subparagraph><subparagraph id="id01764CE91ECB4EFF97D1A16D211C4C66"><enum>(B)</enum><text>the requirements
+				relating to predevelopment hydrology under paragraph (1).</text>
+								</subparagraph></paragraph><paragraph id="id79F5B1D99E5543778B2B232966CEEFDE"><enum>(3)</enum><header>Additional
+				prioritized requirements</header><text>In addition to the requirements
+				described in paragraphs (1) and (2), a covered project shall, in the following
+				order of priority—</text>
+								<subparagraph id="ID533cf85ec2134ed5822474652f739a5e"><enum>(A)</enum><text>reduce the
+				creation of highway runoff pollution from the covered project by—</text>
+									<clause id="ID98192bb003c241e18921d1ea994eaa62"><enum>(i)</enum><text>avoiding or
+				minimizing the alteration of natural features and hydrology; and</text>
+									</clause><clause id="IDcf9fc43b019d4f4db0b8a03e9bf006bc"><enum>(ii)</enum><text>maximizing the
+				use of pollution source control measures that use existing terrain and natural
+				features, including natural drainage ways, soils, and vegetation, to reduce
+				creation of pollution from the covered project;</text>
+									</clause></subparagraph><subparagraph id="ID28c0199b51c8460ca737343eafd05f21"><enum>(B)</enum><text>maximize the
+				capture of highway runoff pollution created by the covered project through
+				control measures, including environmental site design techniques and other
+				control measures that promote evapotranspiration, infiltration, reuse, and
+				retention; and</text>
+								</subparagraph><subparagraph id="IDd812d08960764861b061e37de9d60311"><enum>(C)</enum><text>for highway
+				runoff pollution remaining after the application of the onsite measures in
+				subparagraphs (A) and (B), use a watershed-based environmental management or
+				equivalent approach to avoid adverse water quality effects from the covered
+				project through—</text>
+									<clause id="ID7b72427a1ff440e4bc7a603a2f12d330"><enum>(i)</enum><text>capture and
+				treatment of highway runoff pollution with appropriate control measures on the
+				site;</text>
+									</clause><clause id="IDc04ddcbc1a0c4f70bf022e58e00e30ae"><enum>(ii)</enum><text>discharge of
+				highway runoff pollution directly to an off-site control measure under the
+				control of the State with documented capacity to provide functionally and
+				quantitatively equivalent management of runoff pollution to that required to
+				achieve the minimum standards of this subsection for the design life of the
+				project; and</text>
+									</clause><clause id="ID5b7f3cf36e1f44c09c3f32fb4e64b4db"><enum>(iii)</enum><text>if the control
+				measures described in clauses (i) and (ii) are found to be technically
+				infeasible based on site conditions or other appropriate factors, and an
+				appropriate off-site runoff pollution mitigation program exists, contribution
+				to a mitigation program that would produce functionally and quantitatively
+				equivalent or greater control and management of runoff pollution to that
+				required by this subsection.</text>
+									</clause></subparagraph></paragraph><paragraph id="id085CE127236B4A59A62271F0E2231B3F"><enum>(4)</enum><header>Off-site
+				control measures</header><text>Of the control measures described in paragraph
+				(3)(C)(iii), the Secretary shall give priority to off-site control measures
+				that address the impacts of runoff pollution to waterways that are—</text>
+								<subparagraph id="idD2B7549F1C3E40BBB2C27D416792BC28"><enum>(A)</enum><text>listed as
+				impaired in accordance with section 303(d) of the Federal Water Pollution
+				Control Act (33 U.S.C. 1313(d)); and</text>
+								</subparagraph><subparagraph id="id5CBFDFD5735141C58126974E20CC81A4"><enum>(B)</enum><text>located
+				in—</text>
+									<clause id="idF34A929334AE463C80AB08CDC2C82E6D"><enum>(i)</enum><text>the same 8-digit
+				Hydrologic Unit Code as the covered project; or</text>
+									</clause><clause id="id0DEEBF941DE24CE39F9EEFC27ED8618C"><enum>(ii)</enum><text>the lowest
+				Hydrologic Unit Code that is the most protective of the waters receiving the
+				discharge.</text>
+									</clause></subparagraph></paragraph></subsection><subsection id="ID4c031454ec184575aa3ed441c2faaa64"><enum>(e)</enum><header>Guidance</header>
+							<paragraph id="ID379e281d8a4140fbb4d5cd8a18035b79"><enum>(1)</enum><header>In
+				general</header><text>Not later than 180 days after the date of enactment of
+				this section, the Secretary, with the concurrence of the Administrator of the
+				Environmental Protection Agency, shall publish guidance to assist States in
+				complying with this section.</text>
+							</paragraph><paragraph id="id772A4CF01AC340578ADD4122559527BA"><enum>(2)</enum><header>Contents of
+				guidance</header><text>The guidance shall include guidelines for the
+				establishment of State processes and programs that will be used to assist in
+				avoiding, minimizing, and managing highway runoff pollution from covered
+				projects in accordance with the design standards described in subsection (d),
+				including guidelines—</text>
+								<subparagraph id="ID2cc98770ceaa4bfd9972dafbc3b51ccb"><enum>(A)</enum><text>to help States
+				integrate the planning, selection, design, and long-term operation and
+				maintenance of control measures consistent with the design standards in the
+				overall project planning process;</text>
+								</subparagraph><subparagraph id="ID86b5ff9ee6344704b98dcb77fede0e7c"><enum>(B)</enum><text>for a
+				watershed-based environmental management approach to assist projects in
+				achieving consistency with the design standards;</text>
+								</subparagraph><subparagraph id="ID28430725e31f4c5c8118f3d20d264c84"><enum>(C)</enum><text>for the
+				development and use of off-site runoff pollution mitigation programs to achieve
+				compliance with the design standards; and</text>
+								</subparagraph><subparagraph id="ID445485f543ef4080a46a58cba70409e2"><enum>(D)</enum><text>for State
+				inspection and reporting to document State compliance and project consistency
+				with this section.</text>
+								</subparagraph></paragraph><paragraph id="ID0467329d79414f8f8e46e070575411e3"><enum>(3)</enum><header>Updating
+				standards</header><text>Not later than 5 years after the date of publication of
+				the guidance, and every 5 years thereafter, the Secretary, with concurrence of
+				the Administrator of the Environmental Protection Agency, shall update, as
+				applicable, the guidance described in this subsection.</text>
+							</paragraph></subsection><subsection id="ID3ba862882f2e499fade902714de5793a"><enum>(f)</enum><header>Limitation on
+				statutory construction</header><text>Nothing in this section affects the
+				applicability of any provision of Federal, State, or local law that is more
+				stringent than the requirements of this section.</text>
+						</subsection><subsection id="IDee6fe1e9d9d0415a85f44e13c263f915"><enum>(g)</enum><header>Reporting</header>
+							<paragraph id="id7564FE6325FC46159AC684A1839E10FB"><enum>(1)</enum><header>In
+				general</header><text>Except as provided in paragraph (2)(A), the Secretary
+				shall require each State to submit to the Secretary an annual report that
+				describes the highway runoff pollution reductions achieved for covered projects
+				carried out by the State after the date of enactment of this section.</text>
+							</paragraph><paragraph id="id6C363B079699440ABDA2FCF4D00AD03D"><enum>(2)</enum><header>Reporting
+				requirements under permit</header>
+								<subparagraph id="idC72BFA31466C481CA877105EA956C0DB"><enum>(A)</enum><header>In
+				general</header><text>A State shall not be required to submit an annual report
+				described in paragraph (1) if the State—</text>
+									<clause id="id1E46FF946191404ABA04B4077A11A5BC"><enum>(i)</enum><text>is operating
+				Federal-aid highways in the State in a post-construction condition in
+				accordance with a permit issued under the Federal Water Pollution Control Act
+				(33 U.S.C. 1251 et seq.);</text>
+									</clause><clause id="id61261DE1CC224D178EA500DE9F162E96"><enum>(ii)</enum><text>is subject to an
+				annual reporting requirement under such a permit (regardless of whether the
+				permitting authority is a Federal or State agency); and</text>
+									</clause><clause id="id8167D123C3B34CEE84E2E42C99201A39"><enum>(iii)</enum><text>carries out a
+				covered project with respect to a Federal-aid highway in the State described in
+				clause (i).</text>
+									</clause></subparagraph><subparagraph id="id3F48C4C80AB54DED8FEDF204E5A4F189"><enum>(B)</enum><header>Transmission of
+				report</header><text>A Federal or State permitting authority that receives an
+				annual report described in subparagraph (A)(ii) shall, upon receipt of such a
+				report, transmit a copy of the report to the
+				Secretary.</text>
+								</subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="IDe268c6e5f31748f099cf1483b5a2d3ef"><enum>(b)</enum><header>Effective
+			 date</header><text>This Act and the amendments made by this Act apply to
+			 covered projects (as defined in section 330(a)(2) of title 23, United States
+			 Code) (as added by subsection (a)), the construction of which commences on or
+			 after the date that is 1 year after the date of enactment of this Act.</text>
+			</subsection><subsection id="ID677d5e0945fa4a84a9eac270558d84bb"><enum>(c)</enum><header>Clerical
+			 amendment</header><text>The analysis for chapter 3 of title 23, United States
+			 Code, is amended by adding at the end the following:</text>
+				<quoted-block id="id5466d12a-346b-4625-930d-d86616684703" style="OLC">
+					<toc>
+						<toc-entry idref="ID95a31b41f554472aaa58b47f82734112" level="section">330. Federal-aid highway runoff pollution management
+				program.</toc-entry>
+					</toc>
+					<after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section></legis-body>
+</bill>

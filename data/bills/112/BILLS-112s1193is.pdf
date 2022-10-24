@@ -1,0 +1,544 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 1193</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110614">June 14, 2011</action-date>
+			<action-desc><sponsor name-id="S308">Mr. Cardin</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSEV00">Committee on Environment and Public
+			 Works</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 23, United States Code, to preserve and
+		  renew Federal-aid highways to reduce long-term costs, improve safety, and
+		  improve the condition of Federal-aid highways. </official-title>
+	</form>
+	<legis-body>
+		<section id="id99D960E02E1242D79E09EB1471BE6C24" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Federal-Aid Highway Preservation and
+			 Renewal Program Act of 2011</short-title></quote>.</text>
+		</section><section id="ID0460c8a4e3a747f88297194242a2d584"><enum>2.</enum><header>System
+			 preservation and renewal program</header>
+			<subsection id="ID6462968428064b54986514ea4caeebf0"><enum>(a)</enum><header>In
+			 general</header><text>Section 119 of title 23, United States Code, is amended
+			 to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="idA421296256CC40A4AB8E3A79420DF489" style="USC">
+					<section id="ID9c7f92853e804c0590fc8272c1604c67"><enum>119.</enum><header>System
+				preservation and renewal program</header>
+						<subsection id="ID6e372d132af845d8aa5af4590f74c784"><enum>(a)</enum><header>Definitions</header><text>In
+				this section:</text>
+							<paragraph id="IDcf65e252123141448cd75bd30ad2507f"><enum>(1)</enum><header>Asset
+				management</header><text>The term <term>asset management</term> means a
+				strategic process for the management of transportation infrastructure that
+				takes into consideration economic and engineering factors to make
+				cost-effective investment decisions to improve the overall state of good repair
+				of facilities.</text>
+							</paragraph><paragraph id="IDaeeaac6eb9b84ab29a357e990fa621fd"><enum>(2)</enum><header>Eligible
+				cost</header><text>The term <term>eligible cost</term> means, with respect to
+				costs incurred for a project, costs of—</text>
+								<subparagraph id="ID3d7fe1c45ace4ef6a5cf75a8e8ffea65"><enum>(A)</enum><text>development and
+				implementation of asset management systems in support of system preservation
+				and renewal plans;</text>
+								</subparagraph><subparagraph id="ID6273a25306c241cd94e5ca16f9a1a16a"><enum>(B)</enum><text>inspection
+				activities for highway bridges and tunnels in the State;</text>
+								</subparagraph><subparagraph id="ID8ba5deb4019745628a51cb4ab262bdfa"><enum>(C)</enum><text>reducing or
+				eliminating an identified highway or bridge safety problem;</text>
+								</subparagraph><subparagraph id="IDc0afed7a89384fa9bbae05c68ff0720e"><enum>(D)</enum><text>training of
+				personnel responsible for inspection of highway tunnels and inspection and load
+				rating of highway bridges in the State;</text>
+								</subparagraph><subparagraph id="IDdb2d6bb255d04a56b31c8df701b472c0"><enum>(E)</enum><text>data collection
+				to monitor the condition of highways and highway bridges in the State;</text>
+								</subparagraph><subparagraph id="IDc60cf14ab7e64928b9bd47045838de29"><enum>(F)</enum><text>environmental
+				restoration and pollution abatement to offset or mitigate the impacts of a
+				project eligible under subparagraph (A);</text>
+								</subparagraph><subparagraph id="ID93374c0b5de341a6a0afdc47d928c6e8"><enum>(G)</enum><text>control of
+				terrestrial and aquatic noxious weeds and establishment of non-native plant
+				species within the limits of a project eligible under subparagraph (A);
+				and</text>
+								</subparagraph><subparagraph id="ID3db5135f0daf45888dcb6750a935f7f0"><enum>(H)</enum><text>implementation of
+				the policy established pursuant to subsection (l)(1).</text>
+								</subparagraph></paragraph><paragraph id="ID3f96ab7d66c14330b6ca503cb4d187df"><enum>(3)</enum><header>Eligible
+				highway facility</header><text>The term <term>eligible highway facility</term>
+				means—</text>
+								<subparagraph id="IDbdfd37e60c0e4c71841a5e2cddfca7cd"><enum>(A)</enum><text>a highway located
+				on a Federal-aid highway;</text>
+								</subparagraph><subparagraph id="ID51452c3dbf424765a5edf9ede0eef95c"><enum>(B)</enum><text>a bridge located
+				on a Federal-aid highway;</text>
+								</subparagraph><subparagraph id="IDd866c80fee05433c8b9b441b00e49315"><enum>(C)</enum><text>a bridge not
+				located on a Federal-aid highway; and</text>
+								</subparagraph><subparagraph id="ID2a0d0494e4644c8d97a36880f31d5d89"><enum>(D)</enum><text>a bicycle or
+				pedestrian lane, path, walkway, or similar travel surface located within the
+				right-of-way of a Federal-aid highway.</text>
+								</subparagraph></paragraph><paragraph id="IDcded7b9904464617b83f48cb3966b7ce"><enum>(4)</enum><header>Eligible
+				project</header><text>The term <term>eligible project</term> means a project
+				that is—</text>
+								<subparagraph id="IDb89a0fbbc50d4665b9b9a7915fcf9017"><enum>(A)</enum><clause commented="no" display-inline="yes-display-inline" id="idA3FA8021A6274ADB891F70CAA1AF0ABF"><enum>(i)</enum><text>a project for
+				resurfacing, restoration, rehabilitation, replacement, or reconstruction of an
+				eligible highway facility;</text>
+									</clause><clause id="id760C517980314A4EB030CE6ED00D9208" indent="up1"><enum>(ii)</enum><text>a project for preservation,
+				protection, or other preventive repair of an eligible highway facility;
+				or</text>
+									</clause><clause id="id11A894A0FD1049A883BB0D9900F3D4BA" indent="up1"><enum>(iii)</enum><text>a project to reduce or eliminate
+				an identified highway safety problem, if the project—</text>
+										<subclause id="id01DBFC2F836C40A782BA484CBE77FCB8"><enum>(I)</enum><text>is eligible under section 148; and</text>
+										</subclause><subclause id="id76E67A652FA14E4A98DBBF4AEDC52B5D"><enum>(II)</enum><text>has a cost of less than $10,000,000;
+				and</text>
+										</subclause></clause></subparagraph><subparagraph id="IDa3bcc01eacf04e94ad985db610aa3d7f"><enum>(B)</enum><text>consistent with
+				the investment strategy of the State in which the project is to be carried
+				out.</text>
+								</subparagraph></paragraph><paragraph id="ID073651dac1d2498da7c660b86f6bda98"><enum>(5)</enum><header>Investment
+				strategy</header><text>The term <term>investment strategy</term> means a State
+				investment strategy established under subsection (h)(2)(B).</text>
+							</paragraph><paragraph id="ID8c20b94759d540a6b9dde624861e80af"><enum>(6)</enum><header>Overall State
+				of good repair standards</header><text>The term <term>overall state of good
+				repair standards</term> means the performance standards established under
+				subsection (f)(1)(B).</text>
+							</paragraph><paragraph id="IDb36408857d2744d38730291f63e64f07"><enum>(7)</enum><header>Preservation</header>
+								<subparagraph id="ID9098c4cc5a024c10b868083c77b967b4"><enum>(A)</enum><header>In
+				general</header><text>The term <term>preservation</term> means any
+				cost-effective activity to prevent, delay, or reduce deterioration on an
+				eligible highway facility, including preventive and corrective actions.</text>
+								</subparagraph><subparagraph id="IDf8806ad51afc42249b79c8cad186432a"><enum>(B)</enum><header>Exclusion</header><text>The
+				term <term>preservation</term> does not include structural or operational
+				improvement beyond the originally designed traffic capacity of an existing
+				highway facility except to the extent the improvement occurs as an incidental
+				result of the preservation activity or improves safety.</text>
+								</subparagraph></paragraph><paragraph id="IDa7298e0b14524239b8f50d589a3143c9"><enum>(8)</enum><header>Program</header><text>The
+				term <term>program</term> means the system preservation and renewal program
+				established under subsection (b).</text>
+							</paragraph><paragraph id="IDf340486c396a4934b18f7ceda2e75cb3"><enum>(9)</enum><header>Protection</header><text>The
+				term <term>protection</term>, with respect to a highway, means the conduct of
+				an activity or action associated with the design and construction of measures
+				to protect highways from hazards such as earthquakes, floods, scour, icing,
+				vessel collision, vehicular impact, and security threats.</text>
+							</paragraph><paragraph id="IDa489888025b04a37b557b1a652262325"><enum>(10)</enum><header>State of good
+				repair performance target</header><text>The term <term>state of good repair
+				performance target</term> means a performance target established under
+				subsection (f)(2).</text>
+							</paragraph><paragraph id="ID810d4c26fb154331a199b06c25708b79"><enum>(11)</enum><header>System
+				preservation and renewal funds</header><text>The term <term>system preservation
+				and renewal funds</term> means funds apportioned under sections 104(b)(4),
+				104(m), and 144(e) for the program.</text>
+							</paragraph><paragraph id="IDc20b2d02ec2340c19e35b60e36c5a4b6"><enum>(12)</enum><header>System
+				preservation and renewal plan</header><text>The term <term>system preservation
+				and renewal plan</term> means a system preservation and renewal plan
+				established by a State under subsection (h).</text>
+							</paragraph></subsection><subsection id="ID7a35261d7fef4e70bf735a8d4d7f47a8"><enum>(b)</enum><header>Establishment</header><text>The
+				Secretary shall establish and implement a surface transportation infrastructure
+				preservation and renewal program designed to maintain and preserve the quality,
+				efficiency, safety, and value of Federal-aid highways and Federal-aid and
+				non-Federal-aid bridges in accordance with this section.</text>
+						</subsection><subsection id="ID8c88944eb65f4feabfdcee116f8798c2"><enum>(c)</enum><header>Purposes</header><text>The
+				purposes of the program shall be—</text>
+							<paragraph id="IDbf59dfec94ee4aa491f0fbd3ce6a1c94"><enum>(1)</enum><text>to establish
+				national priorities and goals for bringing Federal-aid highways and Federal-aid
+				and non-Federal-aid bridges into a state of good repair and preserving that
+				state of good repair;</text>
+							</paragraph><paragraph id="ID6d047eee70484a0f94bd5a3203402190"><enum>(2)</enum><text>to focus Federal
+				investment on preserving and improving the condition of roadways and bridges;
+				and</text>
+							</paragraph><paragraph id="IDc347ceab407144edb75ecfcef48bf5db"><enum>(3)</enum><text>to strengthen the
+				connection between the use by a State of Federal surface transportation funding
+				and the accomplishment of performance outcomes.</text>
+							</paragraph></subsection><subsection id="ID64a2294c1e5d4a07bc490dadb32e5c89"><enum>(d)</enum><header>Use of
+				apportioned funds</header>
+							<paragraph id="ID0d36e2e7bbc540bf9a03d94c2ef12bce"><enum>(1)</enum><header>In
+				general</header><text>A State may obligate funds apportioned to the State under
+				the program for—</text>
+								<subparagraph id="IDa3b8e9be7e394ef88c071eb1498b27fc"><enum>(A)</enum><text>eligible
+				projects; and</text>
+								</subparagraph><subparagraph id="ID1fd1833d12e04a9aa84079f6ad0218e6"><enum>(B)</enum><text>eligible
+				costs.</text>
+								</subparagraph></paragraph><paragraph id="IDf3d5cae26c574faea4c4dcd979a3061d"><enum>(2)</enum><header>Priority for
+				national highway system projects</header>
+								<subparagraph id="ID23d66580b72b44caa5b6baa868a35def"><enum>(A)</enum><header>In
+				general</header><text>Except as provided in subparagraph (B), a State shall
+				give priority to eligible projects that help meet the overall state of good
+				repair standards for the National Highway System under subsection
+				(f)(1)(B).</text>
+								</subparagraph><subparagraph id="ID4032cb92d2f24efb85eb4166f6309215"><enum>(B)</enum><header>Exception</header><text>This
+				paragraph shall not apply to any State that is meeting the overall state of
+				good repair standards for the National Highway System established under
+				subsection (f)(1)(B), as determined by the Secretary.</text>
+								</subparagraph></paragraph><paragraph id="ID7c9fad4c9a0741e6ba402f0386100663"><enum>(3)</enum><header>Limitation</header>
+								<subparagraph id="IDd8b5859c0abc43c9acace69d7f801f75"><enum>(A)</enum><header>In
+				general</header><text>A project cost attributable to expansion of the capacity
+				of a highway located on a Federal-aid highways shall not be eligible for
+				funding under this section if the new capacity consists of 1 or more new travel
+				lanes that are not auxiliary lanes.</text>
+								</subparagraph><subparagraph id="ID1682013a81ba4235a92ba95417895393"><enum>(B)</enum><header>Non-Federal-aid
+				bridges</header>
+									<clause id="ID0ffab9a09c984c749204be36297e35dd"><enum>(i)</enum><header>In
+				general</header><text>Not less than 15 percent of the amount apportioned to
+				each State under section 144(e) for each of fiscal years 2012 through 2017
+				shall be expended for projects to preserve, rehabilitate, protect, or replace
+				highway bridges, other than those bridges on Federal-aid highways.</text>
+									</clause><clause id="IDe60836873e2e432d9fd79c28deb48f19"><enum>(ii)</enum><header>Reduction in
+				expenditures</header><text>The Secretary, after consultation with State and
+				local officials, may reduce the amount required to be expended under clause (i)
+				for bridges in the State that are not located on a Federal-aid highway if the
+				Secretary determines that the State has inadequate needs to justify the
+				expenditure.</text>
+									</clause></subparagraph></paragraph><paragraph id="IDc657a6e276af49ccb77e120974b06929"><enum>(4)</enum><header>Exception</header>
+								<subparagraph id="ID40182c99065a44c2b13b311ccbda7cfa"><enum>(A)</enum><header>Debt financing
+				instruments</header><text>Prior to the apportionment of funds made available
+				for a program, a State may deduct amounts sufficient for the payment of any
+				debt-financing instruments committed, guaranteed, or obligated to a third party
+				before the date of enactment of the <short-title>Federal-Aid Highway Preservation and Renewal Program Act
+				of 2011</short-title> for eligible projects under this title (including this
+				section) and title 49.</text>
+								</subparagraph><subparagraph id="ID88ae01c603af441b99718367a8d9ec47"><enum>(B)</enum><header>Defense base
+				closure and realignment impacts</header><text>Before October 1, 2013, a State
+				may use up to 25 percent of the funds of the State for system preservation and
+				renewal for projects to address transportation impacts relating to decisions of
+				the Defense Base Closure and Realignment Commission.</text>
+								</subparagraph></paragraph></subsection><subsection id="ID5903801860cb4b44b6eee22552e3884e"><enum>(e)</enum><header>Other eligible
+				costs</header><text>In addition to the funds obligated for eligible projects, a
+				State may obligate, in the aggregate, not to exceed 5 percent of the funds
+				apportioned to the State under the program for a fiscal year to pay other
+				eligible costs.</text>
+						</subsection><subsection id="ID489c0f638f0e412cbc2a21d81dc9e923"><enum>(f)</enum><header>System
+				preservation and renewal performance standards and targets</header>
+							<paragraph id="ID1fa45102b80d4a7384afec34a00fdc19"><enum>(1)</enum><header>Secretary
+				responsibilities</header><text>Not later than 1 year after the date of
+				enactment of the <short-title>Federal-Aid Highway
+				Preservation and Renewal Program Act of 2011</short-title>, the Secretary
+				shall, by regulation and in consultation with States, establish—</text>
+								<subparagraph id="ID8612f85d30e74a2b84c639ea34c68326"><enum>(A)</enum><text>criteria for
+				determining the state of good repair of eligible highway facilities, based on
+				highway pavement condition or bridge structural adequacy, as applicable;
+				and</text>
+								</subparagraph><subparagraph id="ID083ba24730df429d881be67d6244dcce"><enum>(B)</enum><text>overall state of
+				good repair standards for each class of infrastructure described in paragraph
+				(3), based on the criteria established under subparagraph (A).</text>
+								</subparagraph></paragraph><paragraph id="IDd3a71e06d66948b1b7953c37f563c70d"><enum>(2)</enum><header>State
+				responsibilities</header><text>Not later than 2 years after the date of
+				enactment of the <short-title>Federal-Aid Highway
+				Preservation and Renewal Program Act of 2011</short-title>, and every 2 years
+				thereafter, each State, in conjunction with the development of the system
+				preservation and renewal plan of the State, shall establish or revise, for each
+				class of infrastructure described in paragraph (3), quantifiable State of good
+				repair performance targets that, at a minimum, estimate the projected
+				percentage change over a 2-year period of infrastructure that is rated as being
+				not in state of good repair based on the criteria established under paragraph
+				(1)(B).</text>
+							</paragraph><paragraph id="IDa95f350916e744fbbeb80b922860071f"><enum>(3)</enum><header>Classes of
+				infrastructure</header><text>The classes of infrastructure referred to in
+				paragraph (1) are—</text>
+								<subparagraph id="ID1e44a4c483734bd2a1a67f04f586a6bb"><enum>(A)</enum><text>the total deck
+				area of highway bridges in a State that are located on the National Highway
+				System;</text>
+								</subparagraph><subparagraph id="ID33fd17d9468040b3a20a4342b5c02d82"><enum>(B)</enum><text>the total deck
+				area of highway bridges in a State that are located on Federal-aid
+				highways;</text>
+								</subparagraph><subparagraph id="ID82b8fdb41665475b87f3d6cff5a4f017"><enum>(C)</enum><text>the total lane
+				miles in a State that are located on the National Highway System; and</text>
+								</subparagraph><subparagraph id="ID9e88bf8e73ae46c788e4e6cf9b557550"><enum>(D)</enum><text>the total lane
+				miles in a State that are located on Federal-aid highways.</text>
+								</subparagraph></paragraph><paragraph id="ID7fafeba01bf347fab2e4ef37420dd5ad"><enum>(4)</enum><header>Compliance</header><text>If
+				a State meets an overall state of good repair standard established under
+				paragraph (1)(B) for a class of infrastructure described in paragraph (3), that
+				class of infrastructure in the State shall be considered to be in a state of
+				good repair.</text>
+							</paragraph><paragraph id="ID653a7c808ddb447997b9653067302938"><enum>(5)</enum><header>Applicability</header><text>No
+				State shall be required to establish state of good repair performance targets
+				under paragraph (2) for any class of infrastructure that a State certifies as
+				meeting the overall state of good repair standard under paragraph
+				(1)(B).</text>
+							</paragraph></subsection><subsection id="IDfa4dc78982f4472c80f8758bb6ab79d8"><enum>(g)</enum><header>State asset
+				management process</header>
+							<paragraph id="id5B644FC30DFE4F5C93D0365AAF7EFA93"><enum>(1)</enum><header>In
+				general</header><text>Not later than 1 year after the date of enactment of the
+				<short-title>Federal-Aid Highway Preservation and Renewal
+				Program Act of 2011</short-title>, a State shall develop an asset management
+				process to support the development and implementation of system preservation
+				and renewal plans under subsection (h).</text>
+							</paragraph><paragraph id="idE467A47819A74429B66E20A54D854CD2"><enum>(2)</enum><header>Requirements</header><text>The
+				process developed under paragraph (1) shall be based on analytical mechanisms
+				to identify cost-effective investments to preserve, rehabilitate, restore,
+				resurface, reconstruct, protect, or replace Federal-aid highways and highway
+				bridges on Federal-aid highways to improve the overall state of good repair of
+				those highways and bridges.</text>
+							</paragraph></subsection><subsection id="IDcff36787d23d4315ba62a98c2e589c80"><enum>(h)</enum><header>State system
+				preservation and renewal plans</header>
+							<paragraph id="IDfbc2011def60424f86c99d6eb305edf8"><enum>(1)</enum><header>Submission of
+				plans</header><text>Not later than 2 years after the date of enactment of the
+				<short-title>Federal-Aid Highway Preservation and Renewal
+				Program Act of 2011</short-title> and biennially thereafter, a State shall
+				develop or update, as applicable, and submit to the Secretary for approval, a
+				system preservation and renewal plan.</text>
+							</paragraph><paragraph id="IDb0b39404bf204a71b1848e09b0834ba9"><enum>(2)</enum><header>Plan
+				requirements</header><text>A system preservation plan of a State and any update
+				of such a plan shall—</text>
+								<subparagraph id="ID30b8320c59034635b7cfe2a538f9e88e"><enum>(A)</enum><text>include
+				documentation on the state of good repair based on the criteria under paragraph
+				(f)(1) and each class of infrastructure described in subsection (f)(3);</text>
+								</subparagraph><subparagraph id="ID8f8ce4202d524cfead5fa8a729539c7b"><enum>(B)</enum><text>include an
+				investment strategy that—</text>
+									<clause id="ID8e23d54dd5ac4f56a557ec0b8249d742"><enum>(i)</enum><text>covers a period
+				of 6 years; and</text>
+									</clause><clause id="ID3c66a048df4d4709acf6a700f225a9c3"><enum>(ii)</enum><text>describes the
+				manner in which the State will allocate funds apportioned to the State to carry
+				out this section among, at a minimum—</text>
+										<subclause id="ID7b19809119204bef928b0a01e97af34e"><enum>(I)</enum><text>facilities in
+				good condition, fair condition, and poor condition;</text>
+										</subclause><subclause id="IDb23ac218cd5c477db191ed2e69c2da46"><enum>(II)</enum><text>projects located
+				on each class of infrastructure described in subsection (f)(2);</text>
+										</subclause><subclause id="IDf7bae04ffc9343b5833c877f7bcbe5b7"><enum>(III)</enum><text>projects that
+				vary with respect to geographical location, as determined by the State;
+				and</text>
+										</subclause><subclause id="ID61f4cee15dd74baa8525ca32bf8c9417"><enum>(IV)</enum><text>other eligible
+				costs;</text>
+										</subclause></clause><clause id="ID6f6f513ebb964e24a3e772c2f93f04fe"><enum>(iii)</enum><text>is based on an
+				asset management process under subsection (g);</text>
+									</clause><clause id="ID621ace4081eb4738aaad60648efcf6b6"><enum>(iv)</enum><text>describes any
+				Federal, State, local, or private funds that the State plans to use, in
+				addition to system preservation and renewal funds, on projects that would help
+				to meet the state of good repair performance targets established under this
+				section;</text>
+									</clause><clause id="IDee1f4b12c992498fa4041f2ffbae73b9"><enum>(v)</enum><text>indicates the
+				number of lane miles of highways and quantity of deck area on highway bridges
+				that the State would address through the allocations described in clause (ii);
+				and</text>
+									</clause><clause id="IDf573346cc7c64e5ea2e3d65f5b142d25"><enum>(vi)</enum><text>subject to
+				subsection (d)(2), provides for investment in projects that, once completed,
+				would allow the State to meet the applicable state of good repair performance
+				targets;</text>
+									</clause></subparagraph><subparagraph id="ID5817c1b4010c438b8e02da88bb63df89"><enum>(C)</enum><text>include a
+				description of the extent to which the use by the State of system preservation
+				and renewal funds apportioned to the State during the 2 most recent fiscal
+				years was consistent with the investment strategy of the State,
+				including—</text>
+									<clause id="ID073736aaf607445aaeae4f96c03830d6"><enum>(i)</enum><text>an identification
+				of the number of lane miles of highways and quantity of deck area on highway
+				bridges on which the State has used those funds during those 2 fiscal
+				years;</text>
+									</clause><clause id="ID86f84b943fb94b50aba675cad98ffe32"><enum>(ii)</enum><text>an
+				identification of the distribution of highway and bridge facilities, by level
+				of ownership (Federal, State, tribal, and local) and by functional
+				classification, on which the State has obligated those funds during those 2
+				fiscal years;</text>
+									</clause><clause id="ID0be06447866942b0a0c52556a17c2c5a"><enum>(iii)</enum><text>an assessment
+				of the progress that the State has made toward meeting each of the state of
+				good repair performance targets of the State based on the projects that the
+				State has carried out under this section and the contribution that those
+				projects have made or would make, once complete, to the State meeting those
+				performance targets; and</text>
+									</clause><clause id="ID7e76f4a33be9469db366451108cdb281"><enum>(iv)</enum><text>a description of
+				the expenditure of funds on a geographical basis, as determined by the State;
+				and</text>
+									</clause></subparagraph><subparagraph id="IDf7765e2e92fc4b279a84eef0a92be8a8"><enum>(D)</enum><text>describe the
+				manner in which the investment strategy of the State would enable the
+				State—</text>
+									<clause id="ID37f5a761160246d380982324ef0a6b05"><enum>(i)</enum><text>to meet the state
+				of good repair performance targets of the State; and</text>
+									</clause><clause id="ID601568b2536245dc8025f60b101e71f6"><enum>(ii)</enum><text>improve the
+				condition of the classes of infrastructure described in subsection (f)(3) in
+				the State.</text>
+									</clause></subparagraph></paragraph><paragraph id="IDfad1030f18c840f8af3f1c37bb978ea4"><enum>(3)</enum><header>Public
+				availability of plan</header><text>A State shall make the system preservation
+				and renewal plan of the State, and each update of the plan, available to the
+				public.</text>
+							</paragraph></subsection><subsection id="ID24f2ec0c3a3f4651957d2e0c561bef88"><enum>(i)</enum><header>Failure To meet
+				State of good repair performance targets</header>
+							<paragraph id="IDc4356568d0c64705a4d05e41651a3582"><enum>(1)</enum><header>In
+				general</header><text>If a State does not meet the biennial system preservation
+				and renewal performance targets under this section, the State shall coordinate
+				with the Secretary to direct portions of Federal funds available under this
+				title to the State toward projects eligible under this section in order to meet
+				the state of good repair performance targets under this section.</text>
+							</paragraph><paragraph id="IDe84ad133c72849c0b0e6ef5b8ff5e418"><enum>(2)</enum><header>Waiver</header><text>The
+				Secretary may temporarily waive the application of this subsection if—</text>
+								<subparagraph id="ID0f191ff9f93542ad846585dca1f5a2f2"><enum>(A)</enum><text>unforeseen events
+				significantly impact the ability of a State to meet the biennial state of good
+				repair performance targets; or</text>
+								</subparagraph><subparagraph id="ID31c8f2dc87a44c21abec615f51b9fdc9"><enum>(B)</enum><text>eligible
+				facilities under this section in the State have suffered serious damage due to
+				an event that results in the declaration of—</text>
+									<clause id="ID7fbc3d855d7d4506a674617de180f267"><enum>(i)</enum><text>an emergency by
+				the Governor of the State; or</text>
+									</clause><clause id="IDf114f5569ac04adfaa5e94f2a24678b9"><enum>(ii)</enum><text>a major disaster
+				by the President under the Robert T. Stafford Disaster Relief and Emergency
+				Assistance Act (42 U.S.C. 5121 et seq.).</text>
+									</clause></subparagraph></paragraph></subsection><subsection commented="no" id="ID168af62301b2486e85781aecc4497c38"><enum>(j)</enum><header>Oversight</header><text>Beginning
+				for the third fiscal year after the date of enactment of the
+				<short-title>Federal-Aid Highway Preservation and Renewal
+				Program Act of 2011</short-title>, and at least biennially thereafter or at
+				such other times or intervals as are determined to be necessary by the
+				Secretary, the Secretary, in conjunction with the submission of the State
+				system preservation and renewal plan under subsection (g), shall conduct
+				oversight activities to assess whether the use by each State of funds under
+				this section is consistent with the investment strategy of the State under this
+				section.</text>
+						</subsection><subsection id="IDaaeb935b73184f7fa92a4e81c2da8d8b"><enum>(k)</enum><header>Biennial report
+				to congress</header><text>Not later than September 30, 2013, and biennially
+				thereafter, the Secretary shall submit to the Committee on Transportation and
+				Infrastructure of the House of Representatives and the Committee on Environment
+				and Public Works of the Senate a report containing—</text>
+							<paragraph id="ID57791cf1331845a082f8335779b42a25"><enum>(1)</enum><text>an evaluation of
+				the performance of each State with respect to—</text>
+								<subparagraph id="ID3de1fac3b51a400d90ec26550cdc18fb"><enum>(A)</enum><text>the investment
+				strategy of the State under this section; and</text>
+								</subparagraph><subparagraph id="ID17952dd6113a49d29b085577bdebf043"><enum>(B)</enum><text>the system
+				preservation and renewal performance targets established for the State under
+				this section; and</text>
+								</subparagraph></paragraph><paragraph id="IDb898080c7a7b46729aa1309c64a10bf4"><enum>(2)</enum><text>such
+				recommendations as the Secretary may provide for improvements of the
+				program.</text>
+							</paragraph></subsection><subsection id="ID31491a3022854d6ebab12caa59a9ea82"><enum>(l)</enum><header>Additional
+				requirements</header>
+							<paragraph id="ID6762fba6f18e4e00af1fe753f51a46a6"><enum>(1)</enum><header>Safe streets
+				policy</header><text>Not later than 2 years after the date of enactment of the
+				<short-title>Federal-Aid Highway Preservation and Renewal
+				Program Act of 2011</short-title>, each State shall develop a policy applicable
+				to any project funded, in whole or in part, under the program that—</text>
+								<subparagraph id="ID399a7dfe85304be2b907add0efa84d7d"><enum>(A)</enum><text>ensures the
+				adequate accommodation, in all phases of project planning and development, of
+				all users of the transportation system, including—</text>
+									<clause id="ID27bf50b1ba184456a976e8b629cb0667"><enum>(i)</enum><text>pedestrians;</text>
+									</clause><clause id="ID019878bd13a64fd480893e5eabb45867"><enum>(ii)</enum><text>bicyclists;</text>
+									</clause><clause id="IDeb85d347a1164a369b5536decc80a643"><enum>(iii)</enum><text>public transit
+				users;</text>
+									</clause><clause id="ID064c90549ca248ffb62bccbc11ba27f4"><enum>(iv)</enum><text>older
+				individuals;</text>
+									</clause><clause id="IDa0b69bbc48324dc1aa40ffe94abafec2"><enum>(v)</enum><text>motorists;</text>
+									</clause><clause id="IDba26469d3f9c4d6997c2afbebb96a7c7"><enum>(vi)</enum><text>individuals with
+				disabilities; and</text>
+									</clause><clause id="IDb556403c9eea4543a65e6ea2a3d219b4"><enum>(vii)</enum><text>users of motor
+				vehicles with a taxable gross weight (as defined in section 4481 of the
+				Internal Revenue Code of 1986) in excess of 55,000 pounds;</text>
+									</clause></subparagraph><subparagraph id="ID59848451bf784906bb26c5bedc523643"><enum>(B)</enum><text>ensures the
+				consideration of the safety and convenience of all users in all phases of
+				project planning and development; and</text>
+								</subparagraph><subparagraph id="IDd3cee94c7aa3412aaca651f3a28b98a1"><enum>(C)</enum><text>delineates a
+				clear procedure that gives due consideration to the geographical location, road
+				classification, population density, and other demographic factors by which
+				projects funded, in whole or in part, under this program may be exempted from
+				complying with the policy.</text>
+								</subparagraph></paragraph><paragraph id="IDf6cf241c11934e078d50096980fbdd1a"><enum>(2)</enum><header>Categorical
+				exclusions</header><text>To the extent appropriate, the Secretary shall develop
+				categorical exclusions from the requirement that an environmental assessment or
+				an environmental impact statement under section 102 of the National
+				Environmental Policy Act of 1969 (42 U.S.C. 4332) be prepared for
+				transportation activities located within an existing right-of-way funded under
+				the program.</text>
+							</paragraph><paragraph id="ID16af33edb57345cbbcdfdcf32e121661"><enum>(3)</enum><header>Maintenance of
+				effort provision</header>
+								<subparagraph id="ID4efe99bdc7c24732ab8af539c99933e2"><enum>(A)</enum><header>In
+				general</header><text>For any fiscal year for which a State receives funds
+				pursuant to this section, the State shall certify to the Secretary that the
+				State will expend funds for the maintenance and operations of facilities in an
+				amount that is at least equal to the average annual amount of funds expended
+				over the preceding 3 fiscal years.</text>
+								</subparagraph><subparagraph id="ID2abe2549146649659bdd41f507fa5277"><enum>(B)</enum><header>Form and
+				deadline</header><text>A certification described in subparagraph (A) shall be
+				submitted in such form and not later than such date as shall be determined by
+				the Secretary.</text>
+								</subparagraph><subparagraph id="ID8041454f95f7416181b6022e40d26349"><enum>(C)</enum><header>Penalty for
+				noncompliance</header><text>If a State fails to provide a certification to the
+				Secretary in accordance with subparagraph (A), the Secretary shall withhold
+				from the State, for each fiscal year until such time as the State submits the
+				certification in accordance with subparagraph (A), an amount equal to 10
+				percent of the amounts the State would have received under this section for the
+				fiscal year.</text>
+								</subparagraph><subparagraph id="ID74bce7345eac4fc1b32514b4d8bc2da1"><enum>(D)</enum><header>Waiver</header><text>The
+				Secretary may temporarily waive the application of this paragraph if unforeseen
+				events significantly impact the ability of a State to meet the biennial state
+				of good repair performance targets.</text>
+								</subparagraph></paragraph></subsection><subsection id="IDeb26cdba37374874aaa28b1eafde80b2"><enum>(m)</enum><header>Applicability
+				of planning requirements</header><text>Nothing in this section limits the
+				applicability of sections 134 and 135 to projects carried out under this
+				section.</text>
+						</subsection><subsection id="ID8edd5a79b1044d278ee47e9e1a95cd43"><enum>(n)</enum><header>Continuation of
+				current review practice</header><text>Because each individual project that is
+				carried out under the investment strategy described in the system preservation
+				and renewal plan of a State is subject to review under the National
+				Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), a decision by the
+				Secretary concerning a system preservation and renewal plan or an update of the
+				plan in connection with this section shall not be considered to be a Federal
+				action subject to review under that Act.</text>
+						</subsection><subsection id="IDb1f12728ac764f869f438d88cb103783"><enum>(o)</enum><header>Transfer of
+				NHS, bridge program, and interstate maintenance apportionments</header><text>On
+				application by a State and approval by the Secretary, the Secretary may
+				transfer to the apportionment of the State under section 104(b)(1) the amount
+				of funds apportioned to the State for a fiscal year ending before October 1,
+				2010, under paragraphs (1) and (4) of section 104(b), and section 144(e) (as
+				those sections were in effect on the day before the date of enactment of the
+				<short-title>Federal-Aid Highway Preservation and Renewal
+				Program Act of 2011</short-title>), that remains available for expenditure by
+				the State.</text>
+						</subsection><subsection id="IDd9b92dfad751450d90bf39c556bf16d8"><enum>(p)</enum><header>Regulations on
+				performance measures of structural adequacy</header><text>Not later than 1 year
+				after the date of enactment of the <short-title>Federal-Aid Highway Preservation and Renewal Program Act
+				of 2011</short-title>, the Secretary shall promulgate such regulations as are
+				necessary to carry out this
+				section.</text>
+						</subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="IDc4b39f048a94419c965d6acef0841761"><enum>(b)</enum><header>Application to
+			 system preservation and renewal funds</header><text>Section 126 of title 23,
+			 United States Code, is amended—</text>
+				<paragraph id="ID505cf62dac024b1283dc93b1e90ba2a1"><enum>(1)</enum><text>in subsection
+			 (a), by striking <quote>subsections (b) and (c)</quote> and inserting
+			 <quote>subsections (b), (c) and (d)</quote>; and</text>
+				</paragraph><paragraph id="ID959d692c311f44a4935d4e45071f40f0"><enum>(2)</enum><text>by adding at the
+			 end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idA8D92EBA446E42C4B46C0B83EDF7281A" style="OLC">
+						<subsection id="ID15d889430a854a95b750a63260e36259"><enum>(d)</enum><header>Application to
+				system preservation and renewal funds</header>
+							<paragraph id="ID00eefa1d8b2441c6b8470a51ca2a0580"><enum>(1)</enum><header>In
+				general</header><text>A State may transfer funds apportioned to the State under
+				section 104(m) for the system preservation and renewal program if the State
+				meets the overall state of good repair standards established under section
+				119(f)(1)(B) for classes of infrastructure under subparagraphs (A) and (C) of
+				sections 119(f)(3).</text>
+							</paragraph><paragraph id="ID758738097b594f6c804231f19a2e5bae"><enum>(2)</enum><header>Good repair
+				standards</header><text>A State may transfer funds apportioned to the State
+				under sections 104(b)(4) and 144(e) for the system preservation and renewal
+				program if the State meets each of the overall state of good repair standards
+				established under section
+				119(f)(1)(B).</text>
+							</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="IDe91415b1170b409599e6287f4e4b511d"><enum>(c)</enum><header>Clerical
+			 amendment</header><text>The analysis for chapter 1 of title 23, United States
+			 Code, is amended by striking the item relating to section 119 and inserting the
+			 following:</text>
+				<quoted-block display-inline="no-display-inline" id="idAB19BB7C4AFC4B2D91CA261E577E04A4" style="OLC">
+					<toc>
+						<toc-entry bold="off" level="section">Sec.119. System preservation
+				and renewal
+				program.</toc-entry>
+					</toc>
+					<after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="ID396eb23a84e244fab06230fa449f62e6"><enum>(d)</enum><header>Conforming
+			 amendments</header>
+				<paragraph id="IDbf86940c3c5640efaa1c9038d57ac03b"><enum>(1)</enum><text>Section 104 of
+			 title 23, United States Code, is amended by adding at the end the
+			 following:</text>
+					<quoted-block display-inline="no-display-inline" id="id180790E71AAD45459A3D3EC016D3851D" style="OLC">
+						<subsection id="ID1fac3d9a9da8456c8f87cdd5bf542119"><enum>(m)</enum><header>System
+				preservation and renewal</header><text>Notwithstanding any other provision of
+				this section, <fraction>1/2</fraction> of the funds apportioned to a State
+				under subsection (b)(1) shall be used for system preservation and renewal under
+				section 119 of title 23, United States
+				Code.</text>
+						</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="ID2f964e36fd0c448a947e68b02d2b7f96"><enum>(2)</enum><text>Section 105 of
+			 title 23, United States Code, is amended in each of subsections (a)(2) and
+			 (b)(2) by striking <quote>the Interstate maintenance program</quote> each place
+			 it appears and inserting <quote>the system preservation and renewal
+			 program</quote>.</text>
+				</paragraph><paragraph id="ID258ab67744064148a770b9f749188399"><enum>(3)</enum><text>Section 118 of
+			 title 23, United States Code, is amended—</text>
+					<subparagraph id="ID4cdb7f60add84477a643d4b4fd21b58a"><enum>(A)</enum><text>by striking
+			 subsection (c); and</text>
+					</subparagraph><subparagraph id="ID8199aebcecac4f118f4ca56c95d7cb99"><enum>(B)</enum><text>by redesignating
+			 subsections (d) and (e) as subsections (c) and (d), respectively.</text>
+					</subparagraph></paragraph></subsection></section></legis-body>
+</bill>

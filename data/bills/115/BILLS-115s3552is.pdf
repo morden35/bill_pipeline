@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 S3552 IS: 7(a) Real Estate Appraisal Harmonization Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2018-10-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>115th CONGRESS</congress><session>2d Session</session><legis-num>S. 3552</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20181005">October 5, 2018</action-date><action-desc><sponsor name-id="S323">Mr. Risch</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSSB00">Committee on Small Business and Entrepreneurship</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Small Business Act to adjust the real estate appraisal thresholds under the 7(a)
+			 program of the Small Business Administration to bring those thresholds 
+			 into line with the thresholds used by the Federal banking regulators, and
+			 for other purposes.</official-title></form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause" id="H78E5B85189A44EC49F6BF1728B56C20B" style="OLC">
+ <section id="H6D11C0325E7241139100DB633DDB6A8A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>7(a) Real Estate Appraisal Harmonization Act</short-title></quote>.</text> </section><section id="H51842B38B3A141628986A4C3EBBD7F9B"><enum>2.</enum><header>Appraisal thresholds</header><text display-inline="no-display-inline">Section 7(a)(29) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)(29)</external-xref>) is amended—</text>
+ <paragraph id="H84462E7F18C04A0BACF2A428721A40E2"><enum>(1)</enum><text>by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and adjusting the margins accordingly;</text>
+ </paragraph><paragraph id="H0F221BAB4AE64E3390BAF899F2CC444E"><enum>(2)</enum><text>in the matter preceding clause (i), as so redesignated, by striking <quote>With respect to</quote> and inserting the following:</text> <quoted-block display-inline="no-display-inline" id="H362CE9D73E884F22A556BB8508D5F613" style="OLC"> <subparagraph id="HCB315FB373BE45A9AD8C5EFFD1B5AC60"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">With respect to</text></subparagraph><after-quoted-block>;</after-quoted-block></quoted-block>
+ </paragraph><paragraph id="HF0F678FF1A8444EA8A6FCED49B763ED2"><enum>(3)</enum><text>in subparagraph (A), as so redesignated—</text> <subparagraph id="id8DBF2BA4E49E4AFC9C933DFA11EC5632"><enum>(A)</enum><text>in clause (i), by striking <quote>for more than $250,000</quote> and inserting <quote>that is in an amount that is greater than the Federal banking regulator appraisal threshold</quote>; and</text>
+ </subparagraph><subparagraph id="HED98CEBC958E443B81EE0E5E04373440"><enum>(B)</enum><text>in clause (ii), by striking <quote>for $250,000 or less</quote> and inserting <quote>that is in an amount that is not more than the Federal banking regulator appraisal threshold</quote>; and</text>
+ </subparagraph></paragraph><paragraph id="HA418FC44AEFB4142B00ABDA10F9AA0A2"><enum>(4)</enum><text>by adding at the end the following:</text> <quoted-block display-inline="no-display-inline" id="HA81550F5BC534896B6BED60C286F532C" style="OLC"> <subparagraph id="HA94B15EE48364573BB47335BFBB8A970"><enum>(B)</enum><header>Federal banking regulator appraisal threshold defined</header><text display-inline="yes-display-inline">In this paragraph, the term <term>Federal banking regulator appraisal threshold</term> means the lesser of the threshold amounts set by the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation for when a federally related transaction that is a commercial real estate transaction requires an appraisal prepared by a State licensed or certified appraiser.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></legis-body></bill>
+
+

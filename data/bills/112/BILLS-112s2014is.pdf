@@ -1,0 +1,619 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 2014</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20111216">December 16, 2011</action-date>
+			<action-desc><sponsor name-id="S213">Mr. Akaka</sponsor> introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSGA00">Committee on Homeland Security and
+			 Governmental Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To reform the United States Postal Service, and for other
+		  purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>Postal Investment Act of
+			 2011</short-title></quote>.</text>
+		</section><section id="id7DF1A8B5108F4611BD133E0EC49C5668"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act, the following definitions shall
+			 apply:</text>
+			<paragraph id="id1ECC3372660F4160A9BC4651A7992D77"><enum>(1)</enum><header>Commission</header><text>The
+			 term <term>Commission</term> means the Postal Regulatory Commission.</text>
+			</paragraph><paragraph id="id46BB559B59BA4E149276826EC8A6606A"><enum>(2)</enum><header>Postal
+			 Service</header><text>The term <term>Postal Service</term> means the United
+			 States Postal Service.</text>
+			</paragraph></section><title id="idC551DBE52B2242D290B40D73FB950CB3"><enum>I</enum><header>Postal Service
+			 Retiree Health Benefits</header>
+			<section id="id7F7E5CB5C5224789A29B92CE281BF71E"><enum>101.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This title may be cited
+			 as the <quote><short-title>Postal Service Retiree Health
+			 Benefits Act of 2011</short-title></quote>.</text>
+			</section><section commented="no" display-inline="no-display-inline" id="idECD74208B8604602B16D50A5F9D5C8B4"><enum>102.</enum><header>Postal Service
+			 Retiree Health Benefits</header>
+				<subsection commented="no" display-inline="no-display-inline" id="idCD4BA6DDEA8C4A1DB2BE9427C9BE14D3"><enum>(a)</enum><header>Postal Service
+			 Retiree Health Benefits Fund</header><text display-inline="yes-display-inline">Chapter 89 of title 5, United States Code,
+			 is amended by striking section 8909a and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id9AED74DC4B8245129F5C6B77C7F3A429" style="USC">
+						<section id="ID9e67127cf3ae4b2d80c1d308d16ec811"><enum>8909a.<?LEXA-Enum 8909a.?></enum><header>Postal Service Retiree Health Benefits
+				Fund</header>
+							<subsection id="IDfe7b0299791a47019ab474fa0d803d77"><enum>(a)</enum><text>There is in the
+				Treasury of the United States a Postal Service Retiree Health Benefits Fund (in
+				this section referred to as the <quote>Fund</quote>) which shall be
+				administered in accordance with this section.</text>
+							</subsection><subsection id="IDa0030f4ceb304579ade0b6496f6a6816"><enum>(b)</enum><text>The Fund is
+				available without fiscal year limitation for payments required under section
+				8906(g)(2)(A).</text>
+							</subsection><subsection id="ID5ee96cc5562e454cb480acce244acb96"><enum>(c)</enum><paragraph commented="no" display-inline="yes-display-inline" id="id76DE8376EB4846AABEF37561C18BCAE8"><enum>(1)</enum><text>Except as provided
+				under paragraph (2)—</text>
+									<subparagraph id="idBC6CC3BA694A40F28286A3013F38766D" indent="up1"><enum>(A)</enum><text>the Secretary of the Treasury shall
+				immediately invest, in interest-bearing securities of the United States such
+				currently available portions of the Fund as are not immediately required for
+				payments from the Fund; and</text>
+									</subparagraph><subparagraph id="idEB4B0E06123B430A9AA5317C519FE854" indent="up1"><enum>(B)</enum><text>such investments shall be made in the
+				same manner as investments for the Civil Service Retirement and Disability Fund
+				under section 8348.</text>
+									</subparagraph></paragraph><paragraph id="id98F46EF19AE84DF497D149847030D0ED" indent="up1"><enum>(2)</enum><text>After the date of the enactment of
+				the Postal Service Retiree Health Benefits Act of 2011 and the appointment of
+				members to the Postal Service Retiree Health Benefits Investment Board under
+				subsection (e) of this section, the Fund shall be managed and invested in
+				accordance with that subsection.</text>
+								</paragraph></subsection><subsection id="ID385c3bdc664940efba795c899b01e57e"><enum>(d)</enum><paragraph commented="no" display-inline="yes-display-inline" id="idAD8D81AAAF5F42E09376EFAEF246E768"><enum>(1)</enum><text>Not later than June 30,
+				2007, and by June 30 of each succeeding year, the Office shall compute the net
+				present value of the future payments required under section 8906(g)(2)(A) and
+				attributable to the service of Postal Service employees during the most
+				recently ended fiscal year.</text>
+								</paragraph><paragraph id="id2FC877D0062A466FB281CF034A225EC0" indent="up1"><enum>(2)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id232608ED1C0648B8A946FE3CF307DF41"><enum>(A)</enum><text>Not later than June 30,
+				2007, the Office shall compute, and by June 30 of each succeeding year, the
+				Office shall recompute the difference between—</text>
+										<clause id="idCF2FE9F6478F4C139E032651B56DE6DE" indent="up1"><enum>(i)</enum><text>the net present value of the excess of
+				future payments required under section 8906(g)(2)(A) for current and future
+				United States Postal Service annuitants as of the end of the fiscal year ending
+				on September 30 of that year; and</text>
+										</clause><clause id="id5187D6107BA64F44A2999908DBD90AAD" indent="up1"><enum>(ii)</enum><subclause commented="no" display-inline="yes-display-inline" id="idAE3B6921B5A344EE874E664B663CF750"><enum>(I)</enum><text>the value of the assets
+				of the Postal Retiree Health Benefits Fund as of the end of the fiscal year
+				ending on September 30 of that year; and</text>
+											</subclause><subclause id="id623D12F4EF7A409890A0054666D9A23D" indent="up1"><enum>(II)</enum><text>the net present value computed under
+				paragraph (1).</text>
+											</subclause></clause></subparagraph><subparagraph id="id941BEEB63F1F4269BC1397F1893F1CF7" indent="up1"><enum>(B)</enum><text>Not later than June 30, 2012, the
+				Office shall compute, and by June 30 of each succeeding year shall recompute, a
+				schedule including a series of annual installments which provide for the
+				liquidation of any liability or surplus by September 30, 2056, or within 15
+				years, whichever is later, of 80 percent of the net present value determined
+				under subparagraph (A), including interest at the rate used in that
+				computation.</text>
+									</subparagraph></paragraph><paragraph id="id0425812C9DB54363A04C1870AD22D7F7" indent="up1"><enum>(3)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="idBDA0621D921544B0A4E31830B3692313"><enum>(A)</enum><text>The United States
+				Postal Service shall pay into such Fund—</text>
+										<clause id="idC01C0FD5CE2B43A883A64AF041553CC1" indent="up1"><enum>(i)</enum><text>$5,400,000,000, not later than
+				September 30, 2007;</text>
+										</clause><clause id="id438B68F540A64096BA939CD0559588CD" indent="up1"><enum>(ii)</enum><text>$5,600,000,000, not later than
+				September 30, 2008;</text>
+										</clause><clause id="id9BD3EE0DA6A146A8A71DC999D00A555A" indent="up1"><enum>(iii)</enum><text>$1,400,000,000, not later than
+				September 30, 2009; and</text>
+										</clause><clause id="id431A1C7F9DD444279A8CFC0E55058B82" indent="up1"><enum>(iv)</enum><text>$5,500,000,000, not later than
+				September 30, 2010.</text>
+										</clause></subparagraph><subparagraph id="idD0BBD5693B824AF585626D66851AE0C6" indent="up1"><enum>(B)</enum><text>Not later than September 30, 2012,
+				and by September 30 of each succeeding year, the United States Postal Service
+				shall pay into such Fund the sum of—</text>
+										<clause id="idEC68CD76A73F4B909B122C774F97FD2A"><enum>(i)</enum><text>the net present value computed under
+				paragraph (1); and</text>
+										</clause><clause id="id332286E38FA548F4A2B7B75BCF125B12"><enum>(ii)</enum><text>except as provided under subparagraph
+				(C), any annual installment computed under paragraph (2)(B).</text>
+										</clause></subparagraph><subparagraph id="id3A4C8009145A4561A9E32A1C3EC3F0EA" indent="up1"><enum>(C)</enum><clause commented="no" display-inline="yes-display-inline" id="idF0044DDD951E4030BF68883DB0B7112D"><enum>(i)</enum><text>In this subparagraph,
+				the term <term>available revenues</term> means the difference between the
+				revenues of the United States Postal Service in any fiscal year and the
+				expenses of the United States Postal Service in that fiscal year.</text>
+										</clause><clause id="idF9C75C7EBA4D431EA1C062518FE614B1" indent="up1"><enum>(ii)</enum><text>Except as provided under clause
+				(iii), the payment under subparagraph (B)(ii) for any fiscal year shall be the
+				lesser of—</text>
+											<subclause id="idB2E3ABC06C014920B6AE460C10D322BD"><enum>(I)</enum><text>the amount which would otherwise be
+				payable under subparagraph (B)(ii) if not for this subparagraph; or</text>
+											</subclause><subclause id="id62C5062D477D4915AD550A86297635AD"><enum>(II)</enum><text>the amount of available
+				revenues.</text>
+											</subclause></clause><clause id="id4444B7AD7C564110BA98C7AB11970D93" indent="up1"><enum>(iii)</enum><text>The United States Postal Service
+				shall not make a payment under subparagraph (B)(ii) for any fiscal year for
+				which the United States Postal Service has outstanding debt under section 2005
+				of title 39.</text>
+										</clause></subparagraph></paragraph><paragraph id="idD4B55CCE349F48B7A4772D1A0C622B50" indent="up1"><enum>(4)</enum><text>Computations under this subsection
+				shall be made consistent with the assumptions and methodology used by the
+				Office for financial reporting under subchapter II of chapter 35 of title
+				31.</text>
+								</paragraph><paragraph id="id3A35B848E9624F9886F77C120335C41E" indent="up1"><enum>(5)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id346B5DB16675475E80639F7048436F90"><enum>(A)</enum><clause commented="no" display-inline="yes-display-inline" id="id53D914B3608046AEA9E18B99C8AC22FC"><enum>(i)</enum><text>Any computation or
+				other determination of the Office under this subsection shall, upon request of
+				the United States Postal Service, be subject to a review by the Postal
+				Regulatory Commission under this paragraph.</text>
+										</clause><clause id="id887ED4F376504EEBAA44E889222FD42D" indent="up2"><enum>(ii)</enum><text>Upon receiving a request under
+				clause (i), the Commission shall promptly procure the services of an actuary,
+				who shall hold membership in the American Academy of Actuaries and shall be
+				qualified in the evaluation of healthcare insurance obligations, to conduct a
+				review in accordance with generally accepted actuarial practices and principles
+				and to provide a report to the Commission containing the results of the review.
+				The Commission, upon determining that the report satisfies the requirements of
+				this subparagraph, shall approve the report, with any comments it may choose to
+				make, and submit it with any such comments to the Postal Service, the Office of
+				Personnel Management, and Congress.</text>
+										</clause></subparagraph><subparagraph id="id315FAE1598D545FF9B36D4AF88042219" indent="up1"><enum>(B)</enum><text>Upon receiving the report under
+				subparagraph (A), the Office of Personnel Management shall reconsider its
+				determination or redetermination in light of such report, and shall make any
+				appropriate adjustments. The Office shall submit a report containing the
+				results of its reconsideration to the Commission, the Postal Service, and
+				Congress.</text>
+									</subparagraph></paragraph><paragraph id="id1FD856D4E0C3406E8138400A9280D989" indent="up1"><enum>(6)</enum><text>After consultation with the United
+				States Postal Service, the Office shall promulgate any regulations the Office
+				determines necessary under this subsection.</text>
+								</paragraph></subsection><subsection id="ID30fec32c3bcc476fb7e9cb64b7329532"><enum>(e)</enum><header>Postal Service
+				Retiree Health Benefits Investment Board</header>
+								<paragraph id="ID8dbb8a42d2264ebfb39547450432d716"><enum>(1)</enum><header>Membership</header><text>The
+				Fund shall have a Postal Service Retiree Health Benefits Investment Board (in
+				this subsection referred to as the <quote>Investment Board</quote>) consisting
+				of 5 members, all of whom shall be appointed by the Secretary of the Treasury
+				in consultation with—</text>
+									<subparagraph id="ID8459e638435444a49295258fe6a94ac6"><enum>(A)</enum><text>the United States
+				Postal Service;</text>
+									</subparagraph><subparagraph id="ID9933e49bbab541a0901c0e2fbbab0899"><enum>(B)</enum><text>the Postal
+				Regulatory Commission;</text>
+									</subparagraph><subparagraph id="IDb2bfdfdfea6a479aa75150dd17eea0f0"><enum>(C)</enum><text>the Office of
+				Personnel Management; and</text>
+									</subparagraph><subparagraph id="ID280bd55faf2a4448983d08c75525b15d"><enum>(D)</enum><text>the several
+				employee groups and bargaining unions representing postal employees.</text>
+									</subparagraph></paragraph><paragraph id="ID3b2a65c6639b44b782cbb5e20f932a34"><enum>(2)</enum><header>Qualifications</header><text>Members
+				of the Board shall have substantial experience, training, and expertise in the
+				management of financial investments and pension benefit plans.</text>
+								</paragraph><paragraph id="ID698adf78ad78411cad6da1a95a559703"><enum>(3)</enum><header>Terms</header>
+									<subparagraph id="id8FBA1C60924C45FDB691F443C8083948"><enum>(A)</enum><header>In
+				general</header><text>Except as provided under subparagraph (B), each member
+				shall be appointed for a 3-year term.</text>
+									</subparagraph><subparagraph id="idEE69DE5D3215443C997BE78A0F8877EF"><enum>(B)</enum><header>Initiated
+				appointments</header><text>The initial members appointed under this paragraph
+				shall be divided into equal groups so nearly as may be, of which 1 group will
+				be appointed for a 1-year term, 1 for a 2-year term, and 1 for a 3-year
+				term.</text>
+									</subparagraph><subparagraph id="id77CF5FE8FDCB45AC93FE3444953ECF60"><enum>(C)</enum><header>Vacancies</header><text>A
+				vacancy in the Investment Board shall not affect the powers of the Investment
+				Board and shall be filled in the same manner as the selection of the member
+				whose departure caused the vacancy.</text>
+									</subparagraph><subparagraph id="idE789CD5C496F465986ABB97E46C820DA"><enum>(D)</enum><header>Continuation
+				until successor appointed</header><text>Upon the expiration of a term of a
+				member of the Board, that member shall continue to serve until a successor is
+				appointed.</text>
+									</subparagraph></paragraph><paragraph id="ID97db3498e7614a158f50449e063b9109"><enum>(4)</enum><header>Powers</header><text>The
+				Investment Board shall—</text>
+									<subparagraph id="ID4af5b3fa1abf45e9ad68cfee6056d676"><enum>(A)</enum><text>carry out the
+				duties of the Secretary in relation to the Fund;</text>
+									</subparagraph><subparagraph id="ID373ba85fd8884bd0bcfe42966c724b03"><enum>(B)</enum><text>retain
+				independent advisers to assist it in the formulation and adoption of its
+				investment guidelines on the allocation of investment to various types of broad
+				based market indexes and government securities;</text>
+									</subparagraph><subparagraph id="IDe7286736fa814541aa8932f9a45dc24d"><enum>(C)</enum><text>retain
+				independent investment managers to invest the assets of the Fund in a manner
+				consistent with such investment guidelines;</text>
+									</subparagraph><subparagraph id="ID0bebae2cb3234b55af154ce727663ea6"><enum>(D)</enum><text>direct investment
+				of assets in the Fund, under the policies adopted under subparagraph
+				(B);</text>
+									</subparagraph><subparagraph id="ID7616fd99d6024500818485cc0e9df3df"><enum>(E)</enum><text>pay
+				administrative expenses of the Fund from the assets in the Fund; and</text>
+									</subparagraph><subparagraph id="ID9769b2c6c8fe4e078819968d2d0bafae"><enum>(F)</enum><text>transfer funds to
+				the Office of Personnel Management to pay benefits payable under subsection (b)
+				from the assets of the Fund.</text>
+									</subparagraph></paragraph><paragraph id="IDb2ddbbf013b3463e8e17249536866876"><enum>(5)</enum><header>Rules and
+				administrative powers</header><text>The Investment Board shall have the
+				authority to make rules to govern its operations, utilize agency staff, and
+				contract with outside advisers to provide legal, accounting, investment
+				advisory, or other services necessary for the proper administration of this
+				subsection. In the case of contracts with investment advisory services,
+				compensation for such services may be on a fixed contract fee basis or on such
+				other terms and conditions as are customary for such services.</text>
+								</paragraph><paragraph id="ID93ad80f1db914c689df3e2a5b372b917"><enum>(6)</enum><header>Quorum</header><text>Three
+				members of the Investment Board constitute a quorum to do business. Investment
+				guidelines shall be adopted by a unanimous vote of the Investment Board. All
+				other decisions of the Investment Board shall be decided by a majority vote of
+				the quorum present. All decisions of the Investment Board shall be entered upon
+				the records of the Investment Board.</text>
+								</paragraph><paragraph id="ID056cc6737928403b9570d56f90f4590e"><enum>(7)</enum><header>Funding</header><text>The
+				expenses of the Investment Board incurred under this subsection shall be paid
+				from the Fund, and shall not exceed 1 percent of the value of the assets of the
+				Fund in any fiscal year.</text>
+								</paragraph><paragraph id="IDc13d0faaab1c4f8a8d54dbac9344c7e4"><enum>(8)</enum><header>Delegated
+				powers</header><text>Nothing in this paragraph shall be construed to limit the
+				Secretary’s authorities in administering the Fund.</text>
+								</paragraph></subsection><subsection id="ID127e82b735e041069c01f416b01e541f"><enum>(f)</enum><header>Reporting
+				requirements and fiduciary standards</header><text>The following reporting
+				requirements and fiduciary standards shall apply with respect to the
+				Fund:</text>
+								<paragraph id="ID93a70f325e4e4107b3e2eff5e665cbe4"><enum>(1)</enum><header>Duties of the
+				Investment Board</header><text>Members of the Investment Board shall discharge
+				their duties (including the voting of proxies) with respect to the assets of
+				the Fund solely in the interest of the participants and beneficiaries of the
+				programs funded under this section—</text>
+									<subparagraph id="ID56ea0816c9264dc18af96ccd2c2d81d7"><enum>(A)</enum><text>for the exclusive
+				purpose of—</text>
+										<clause id="IDd327b726cac5443bbdc3722fae7c93b2"><enum>(i)</enum><text>providing
+				benefits to participants and their beneficiaries; and</text>
+										</clause><clause id="ID00fd6f1485eb40a6b923947e8fa223fa"><enum>(ii)</enum><text>defraying
+				reasonable expenses of administering the functions of the Fund;</text>
+										</clause></subparagraph><subparagraph id="ID991dc69ab24d4bae8ebcc4a2f6b94faa"><enum>(B)</enum><text>with the care,
+				skill, prudence, and diligence under the circumstances then prevailing that a
+				prudent person acting in a like capacity and familiar with such matters would
+				use in the conduct of an enterprise of a like character and with like
+				aims;</text>
+									</subparagraph><subparagraph id="ID10bf7917dff649aaa94478185b52374f"><enum>(C)</enum><text>by diversifying
+				investments so as to minimize the risk of large losses and to avoid
+				disproportionate influence over a particular industry or firm, unless under the
+				circumstances it is clearly prudent not to do so; and</text>
+									</subparagraph><subparagraph id="IDbd7900ec55cf42a3a322e37ed0804fb9"><enum>(D)</enum><text>in accordance
+				with governing documents and instruments insofar as such documents and
+				instruments are consistent with this subsection.</text>
+									</subparagraph></paragraph><paragraph id="ID4753eafefff3447fb988b8d8f54c9056"><enum>(2)</enum><header>Prohibitions
+				with respect to members of the Investment Board</header><text>No member of the
+				Investment Board shall—</text>
+									<subparagraph id="ID82db9d20c2934030a889afb74093599f"><enum>(A)</enum><text>deal with the
+				assets of the Fund in the interest of that member or for that member's own
+				account;</text>
+									</subparagraph><subparagraph id="ID6ea5b2a0a7244519ac29e4ceadfc5677"><enum>(B)</enum><text>in an individual
+				or in any other capacity act in any transaction involving the assets of the
+				Fund on behalf of a person (or represent a person) whose interests are adverse
+				to the interests of the Fund, the Postal Service, or the interests of
+				participants or beneficiaries; or</text>
+									</subparagraph><subparagraph id="ID99caa973573c487bacacafcb7bfed6f3"><enum>(C)</enum><text>receive any
+				consideration for the member’s own personal account from any person dealing
+				with the assets of the Fund.</text>
+									</subparagraph></paragraph><paragraph id="ID72690c91f2244d2fb61ec3d44ce14140"><enum>(3)</enum><header>Ethical
+				standards</header><text>The Investment Board shall abide by all applicable laws
+				and regulations regarding investment decisions, including section 208 of title
+				18.</text>
+								</paragraph><paragraph id="ID1bbf69e9e6d34160becd78fdc9371b64"><enum>(4)</enum><header>Bonding</header><text>The
+				Investment Board shall prescribe and publish in the Federal Register
+				appropriate rules regarding bonding for any persons handling funds or other
+				property of the Fund.</text>
+								</paragraph><paragraph id="ID14e8bf0bd797436fbddf15f0d01f1e1f"><enum>(5)</enum><header>Audit and
+				report</header>
+									<subparagraph id="IDfc209d6b01cd4768b0acb734f23c1110"><enum>(A)</enum><header>In
+				general</header><text>The Fund shall annually engage an independent qualified
+				public accountant to audit the financial statements of the Fund.</text>
+									</subparagraph><subparagraph id="ID0acdcbf6484e4a5398fb13325a8de9ff"><enum>(B)</enum><header>Submission</header><text>Not
+				later than 180 days after the end of each of the Fund's fiscal years, the Fund
+				shall submit an annual management report to the Congress.</text>
+									</subparagraph><subparagraph id="idFB0797D29A964B4DBD861ABC307089E2"><enum>(C)</enum><header>Comment</header><text>Each
+				management report under this subparagraph shall include—</text>
+										<clause id="ID84c91630ab36458e96d30fc4ad49e454"><enum>(i)</enum><text>a
+				statement of financial position;</text>
+										</clause><clause id="ID7e46ba1f9af044ce866e7711ebf160fa"><enum>(ii)</enum><text>a statement of
+				operations;</text>
+										</clause><clause id="IDaa87df3ceb2f4de5b21d934377574fac"><enum>(iii)</enum><text>a statement of
+				cash flows;</text>
+										</clause><clause id="ID6de8ac76f72f4aa9afda2a8df9b0dff3"><enum>(iv)</enum><text>a statement on
+				internal accounting and administrative control systems;</text>
+										</clause><clause id="ID3bd41b61ac4f4e3bb16e8c51e15a4182"><enum>(v)</enum><text>the report
+				resulting from an audit of the financial statements of the Fund conducted under
+				subparagraph (A); and</text>
+										</clause><clause id="IDde189d52c0904a82ab610bd6a2923f83"><enum>(vi)</enum><text>any other
+				comments and information necessary to inform the Congress about the operations
+				and financial condition of the Fund.</text>
+										</clause></subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="IDaecf098e5e524faa8df2f662756f3ab8"><enum>(g)</enum><header>Means of
+				financing</header><text>For all purposes of the Congressional Budget Act of
+				1974, the Balanced Budget and Emergency Deficit Control Act of 1985, and
+				chapter 11 of title 31 and notwithstanding section 20 of the Office of
+				Management and Budget Circular No. A–11, the purchase or sale of non-Federal
+				assets (other than gains or losses from such transactions) by the Fund shall be
+				treated as a means of
+				financing.</text>
+							</subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection commented="no" display-inline="no-display-inline" id="id58F48CCAF48D4D969BCF1A32DD7BD530"><enum>(b)</enum><header>Government
+			 contributions</header><text>Section 8906(g)(2)(A) of title 5, United States
+			 Code, is amended by striking <quote>September 30, 2016</quote> and inserting
+			 <quote>September 30, 2012</quote>.</text>
+				</subsection></section></title><title id="idC47104A781464E1FAF3E3D3E0556FEB5"><enum>II</enum><header>Product
+			 innovation</header>
+			<section id="idAB08090DEC6844FE9C332E2CBE823DF0"><enum>201.</enum><header>Mail
+			 performance incentives</header><text display-inline="no-display-inline">Section
+			 3622(c) of title 39, United States Code, is amended—</text>
+				<paragraph id="id0BF059CD9CFC4AFC82AE2511E763DD67"><enum>(1)</enum><text>in paragraph
+			 (13), by striking <quote>and</quote> at the end;</text>
+				</paragraph><paragraph id="idD7AA16A46BA04A9189A5919003B2E78B"><enum>(2)</enum><text>by redesignating
+			 paragraph (14) as paragraph (15); and</text>
+				</paragraph><paragraph id="id7EC8A7CA43A440989D53EA116E70CFDA"><enum>(3)</enum><text>by inserting
+			 after paragraph (13) the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id2140843F79E244F59B2D12A51F33D350" style="OLC">
+						<paragraph id="ID76cf2f5fd25f41d3b2a8dffcfce8b6ca"><enum>(14)</enum><text>the effect of
+				increased customer satisfaction and increased performance of services on the
+				value of the mail for the general public, postal customers, and enterprises in
+				the private sector that are engaged in the delivery of mail other than letters;
+				and</text>
+						</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></section><section id="ID7cb8a50dd27e44d892e494a39371faa4"><enum>202.</enum><header>New mail
+			 classes</header>
+				<subsection id="IDbd9482440147486eadb6f50cb01c7843"><enum>(a)</enum><header>Definition</header><text>Section
+			 102 of title 39, United States Code, is amended—</text>
+					<paragraph id="id01A6B6836639437EAF7ED838A6C91C1B"><enum>(1)</enum><text>in paragraph (9),
+			 by striking <quote>and</quote> at the end;</text>
+					</paragraph><paragraph id="id55BB37D05D084AAFA7F805B347FF1116"><enum>(2)</enum><text>in paragraph
+			 (10), by striking the period at the end and inserting <quote>; and</quote>;
+			 and</text>
+					</paragraph><paragraph id="idD66D2D6A3A1E4C14B91FFF24B29FE9C4"><enum>(3)</enum><text>by adding at the
+			 end the following:</text>
+						<quoted-block display-inline="no-display-inline" id="id7B2D0CA5C4BD47FF838EE9FFADB8084C" style="OLC">
+							<paragraph commented="no" id="IDfc45b7619bcd43e7acdc835a86189c01"><enum>(11)</enum><text><term>class of
+				mail</term> means a grouping of similar products that is—</text>
+								<subparagraph commented="no" id="idEA7962C8552744A1803CD3E554084FE4"><enum>(A)</enum><text>differentiated by
+				features, service levels, postage prices, and sorting requirements; and</text>
+								</subparagraph><subparagraph commented="no" id="id900193945C5945D4B31EA1CDBC9B2DD5"><enum>(B)</enum><text>that is—</text>
+									<clause commented="no" id="idB040D71C2FA14A79924F9E2F52CE8AB7"><enum>(i)</enum><text>defined in the
+				Domestic Mail Classification Schedule, as in effect on the date of enactment of
+				the Postal Accountability and Enhancement Act (Public Law 109–435; 120 Stat.
+				3198); or</text>
+									</clause><clause commented="no" id="id2F1B07C670304387B92D806324AE8408"><enum>(ii)</enum><text>established by
+				the Postal Regulatory Commission under section
+				3643.</text>
+									</clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="ID18d9a9c3f79d4b38aad9afa874e24bcf"><enum>(b)</enum><header>Annual
+			 limitations</header><text>Section 3622(d)(2)(A) of title 39, United States
+			 Code, is amended by striking <quote>the Domestic Mail Classification Schedule
+			 as in effect on the date of enactment of the Postal Accountability and
+			 Enhancment Act</quote> and inserting <quote>section 102(11)</quote>.</text>
+				</subsection><subsection id="IDf5533cb7e1314835ba8cbe6cbf4d7b35"><enum>(c)</enum><header>New classes of
+			 mail</header>
+					<paragraph id="id6648C5A528BA4384B8E176C4D840D272"><enum>(1)</enum><header>In
+			 general</header><text>Subchapter III of chapter 36 of title 39, United States
+			 Code, is amended by adding at the end the following:</text>
+						<quoted-block display-inline="no-display-inline" id="idCB28004170B64C5CA09A93BDCA982824" style="USC">
+							<section id="ID45d7c25bf94a4fdfb68098215c9b022e"><enum>3643.</enum><header>New classes
+				of mail</header>
+								<subsection id="ID9a01ad1bed3349b8a8d27e0b8978be01"><enum>(a)</enum><header>In
+				general</header><text>Upon request of the Postal Service, the Postal Regulatory
+				Commission may establish new classes of mail.</text>
+								</subsection><subsection id="IDbd92944d68c04eb78e406a6e28c280aa"><enum>(b)</enum><header>Criteria</header>
+									<paragraph id="ID41b757e82642483a86060caef106bb6a"><enum>(1)</enum><header>Market-dominant
+				classes of mail</header><text>The Postal Regulatory Commission may establish a
+				new class of mail that contains market-dominant products if the Postal
+				Regulatory Commission determines that the Postal Service exercises sufficient
+				market power in the sale of the products to effectively set the price of the
+				products substantially above costs, raise prices for the products
+				significantly, decrease the quality of the products, or decrease output of the
+				products, without risk of losing a significant share of the market to
+				enterprises in the private sector offering similar products.</text>
+									</paragraph><paragraph id="ID88dfe145cd17402bbe2d5f50ecac7a12"><enum>(2)</enum><header>Products
+				covered by postal monopoly</header><text>The Postal Regulatory Commission may
+				establish a new class of mail that contains a product covered by the postal
+				monopoly that is subject to the requirements of section 3622(d)(1). For
+				purposes of this paragraph, the term <term>product covered by the postal
+				monopoly</term> means a product the conveyance or transmission of which is
+				reserved to the United States under section 1696 of title 18, subject to the
+				exception set forth in the last sentence of section 409(e)(1).</text>
+									</paragraph><paragraph id="ID01e3f1bae47d48faa847d89179db8441"><enum>(3)</enum><header>Additional
+				considerations</header><text>In making a determination under this section, the
+				Postal Regulatory Commission shall consider—</text>
+										<subparagraph id="ID10fc87aa4acd4a6294b7aa42a0f30d3a"><enum>(A)</enum><text>the availability
+				and nature of enterprises in the private sector engaged in the delivery of the
+				product involved;</text>
+										</subparagraph><subparagraph id="IDb3ee48fa33da40ff9ee0659e0c6c0b8c"><enum>(B)</enum><text>the views of
+				postal customers that use the product involved on the appropriateness of the
+				proposed action; and</text>
+										</subparagraph><subparagraph id="IDd5b2145418254dde94f9902caa14a671"><enum>(C)</enum><text>the likely impact
+				of the proposed action on small business concerns, as defined for purposes of
+				section 3641(h).</text>
+										</subparagraph></paragraph></subsection><subsection id="ID4f3be758529f4601bb0b2808d3cb64e2"><enum>(c)</enum><header>Notification
+				and publication requirements</header>
+									<paragraph id="ID9da4b3f84e1b4ce7995c1746b2ad9a14"><enum>(1)</enum><header>Notification
+				requirement</header><text>At the time the Postal Service makes a request under
+				subsection (a), the Postal Service shall file with the Postal Regulatory
+				Commission and publish in the Federal Register a notice describing the basis
+				for the determination by the Postal Service that the new class of mail
+				requested to be added satisfies the requirements under subsection (b). Section
+				504(g) shall apply with respect to any information required to be filed under
+				this paragraph.</text>
+									</paragraph><paragraph id="ID52e724b965304456a0e7069a275b64cf"><enum>(2)</enum><header>Publication
+				requirement</header><text>The Postal Regulatory Commission shall publish in the
+				Federal Register a revised list of classes of mail whenever the Postal
+				Regulatory Commission changes the list of classes of mail containing
+				market-dominant products. A revised list shall indicate in what manner and on
+				which date any previous list is superseded.</text>
+									</paragraph></subsection><subsection id="ID1c5ee0da910048afb7594d4ecd3a9bff"><enum>(d)</enum><header>Prohibition</header><text>Except
+				as provided in section 3641, a class of mail that involves the physical
+				delivery of letters, printed matter, or packages may not be offered by the
+				Postal Service unless it has been assigned as a new class of mail under this
+				chapter or by or under any other provision of law.</text>
+								</subsection><subsection id="id55482ADFBADF4DE48B6F684F116F880D"><enum>(e)</enum><header>Regulations</header><text>Not
+				later than 9 months after the date of enactment of this section, the Postal
+				Regulatory Commission shall issue (and may from time to time thereafter revise)
+				regulations to carry out this
+				section.</text>
+								</subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph><paragraph id="id587A43CCE91A4F379BF38BBF0A76B001"><enum>(2)</enum><header>Technical and
+			 conforming amendment</header><text display-inline="yes-display-inline">The
+			 table of sections for subchapter III of chapter 36 of title 39, United States
+			 Code, is amended by adding at the end the following:</text>
+						<quoted-block display-inline="no-display-inline" id="id47258C2CA9B341C2A3BFF96BF2BF2AA4" style="OLC">
+							<toc>
+								<toc-entry bold="off" level="section">3643. New classes of
+				mail.</toc-entry>
+							</toc>
+							<after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection></section><section id="ID8ccde37fd8344e839ec3918d2375ced1"><enum>203.</enum><header>Experimental
+			 products</header><text display-inline="no-display-inline">Section 3641(e)(2) of
+			 title 39, United States Code, is amended by striking <quote>if the total
+			 revenues that are anticipated, or in fact received, by the Postal Service from
+			 such product do not exceed $50,000,000 in any year, subject to subsection
+			 (g)</quote>.</text>
+			</section><section id="ID6f812c230d1741f8b658cfe012db5163"><enum>204.</enum><header>Chief Product
+			 Innovation Officer</header>
+				<subsection id="ID0260670abbad428fbdbe0877d5076bea"><enum>(a)</enum><header>Designation</header><text>The
+			 Postmaster General shall designate a senior officer within the Postal Service
+			 to serve as Chief Product Innovation Officer.</text>
+				</subsection><subsection id="IDc0a8c8cd7a0945a096b72ad617845056"><enum>(b)</enum><header>Qualifications</header><text>The
+			 individual designated as Chief Product Innovation Officer shall have experience
+			 that reflects a wide range of knowledge of the Postal Service, postal
+			 customers, marketing, and product innovation.</text>
+				</subsection><subsection id="ID1168145e5eb742988665f6fc81eac3ed"><enum>(c)</enum><header>Duties</header><text>The
+			 Chief Product Innovation Officer shall lead the development or improvement of
+			 products that—</text>
+					<paragraph id="IDb62687eb05f44ffdbcbc08f311a77264"><enum>(1)</enum><text>serve the public
+			 good;</text>
+					</paragraph><paragraph id="IDd95cc9324c334e1881d4ecc0f537811d"><enum>(2)</enum><text>increase the
+			 value of postal products and services; and</text>
+					</paragraph><paragraph id="ID52a61c2ca26846129539a5f68e53646b"><enum>(3)</enum><text>increase the
+			 volume of mail handled by the Postal Service.</text>
+					</paragraph></subsection><subsection id="ID0931bfaa94ab49be811ea791bbb56333"><enum>(d)</enum><header>Postal
+			 innovation report</header><text>The Chief Product Innovation Officer shall
+			 submit an annual report to the Commission, the Committee on Homeland Security
+			 and Governmental Affairs of the Senate, and the Committee on Oversight and
+			 Government Reform of the House of Representatives that includes, at a minimum,
+			 a description of any products created or changed by the Postal Service during
+			 the preceding year, including any experimental or nonpostal products.</text>
+				</subsection></section><section id="IDb0f3f15181e44532b20e3fbb063af0f9"><enum>205.</enum><header>Uncollected
+			 postage</header><text display-inline="no-display-inline">The Postal Service, in
+			 consultation with the Chief Postal Inspector and the Inspector General of the
+			 Postal Service, shall develop a program to increase compliance with postage
+			 requirements, including compliance with fraud investigations, equipment review,
+			 and reinforcement of applicable policies.</text>
+			</section></title><title id="idD6953AC663664510B11C2AFF9D445C50"><enum>III</enum><header>Workforce</header>
+			<section id="id9F9FAFEBDC5340EF9495DE7DCE010EDD"><enum>301.</enum><header>Treatment of
+			 surplus contributions to Federal employees retirement system</header><text display-inline="no-display-inline">Section 8423(b) of title 5, United States
+			 Code, is amended—</text>
+				<paragraph id="IDbaf6df5e5a9e460faa23fba5a5140cad"><enum>(1)</enum><text>by redesignating
+			 paragraph (5) as paragraph (6); and</text>
+				</paragraph><paragraph id="ID5e530d1ed4d54e06a63b9ab92011491b"><enum>(2)</enum><text>by inserting
+			 after paragraph (4) the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id6543BD67D6AE4AADBFAA36922E12D1C6" style="OLC">
+						<paragraph id="IDf38ee3e332cf4cd98d5f6776fa53a2c7"><enum>(5)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id70E117CD18C446FF9D5FD68211092D44"><enum>(A)</enum><text>In this paragraph, the
+				term <quote>surplus postal contributions</quote> means the amount by which the
+				amount computed under paragraph (1)(B) is less than zero.</text>
+							</subparagraph><subparagraph id="id04B7138B65DF47C4BBA75AC9811DD6EF" indent="up1"><enum>(B)</enum><text>For each fiscal year in which the
+				amount computed under paragraph (1)(B) is less than zero, upon request of the
+				Postmaster General, the Director shall transfer to the United States Postal
+				Service from the Fund an amount equal to the surplus postal contributions for
+				that fiscal year for use in accordance with this paragraph.</text>
+							</subparagraph><subparagraph id="idB52F8869FC264ED18549957472F37826" indent="up1"><enum>(C)</enum><text>For each of fiscal years 2012, 2013,
+				and 2014, if the amount computed under paragraph (1)(B) is less than zero, a
+				portion of the surplus postal contributions for the fiscal year shall be used
+				by the United States Postal Service for the cost of providing payments to
+				employees of the United States Postal Service who voluntarily separate from
+				service before October 1, 2014. Notwithstanding section 3523(b)(3)(B), payments
+				under this subsection may be in the amount determined appropriate by the United
+				States Postal Service.</text>
+							</subparagraph><subparagraph id="id1302FB00942748158BD53EAE51F4AF0D" indent="up1"><enum>(D)</enum><text>Any surplus postal contributions for a
+				fiscal year not expended under subparagraph (C) may be used by the United
+				States Postal Service for the purposes of—</text>
+								<clause id="id4B1E0EFBBAAB4BC480B481F5F3FE8F6C"><enum>(i)</enum><text>repaying any obligation issued
+				under section 2005 of title 39; or</text>
+								</clause><clause id="idFF6C96CBA08D432CB8C16ADAFDF4781D"><enum>(ii)</enum><text>making required payments
+				to—</text>
+									<subclause id="idB4E095638FFE4A2D9357AD98B457C6E8"><enum>(I)</enum><text>the Employees’ Compensation Fund
+				established under section 8147;</text>
+									</subclause><subclause id="id9A1D63578A3D42649451D84ACD765185"><enum>(II)</enum><text>the Employees Health Benefits Fund
+				established under section 8909; or</text>
+									</subclause><subclause id="id8E1AEA8C239D4A90A7090579999B2596"><enum>(III)</enum><text>the Civil Service Retirement and
+				Disability
+				Fund.</text>
+									</subclause></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></section><section id="IDe37b0a69daa64fb7a367e3c7b7af72c1"><enum>302.</enum><header>Medicare
+			 coordination efforts for postal service retirees</header><text display-inline="no-display-inline">The Postmaster General, in consultation with
+			 the Director of the Office of Personnel Management and the Administrator of the
+			 Centers for Medicare &amp; Medicaid Services, shall develop an educational
+			 program to encourage the voluntary use of the Medicare program for hospital
+			 insurance benefits under part A of title XVIII of the Social Security Act (42
+			 U.S.C. 1395c et seq.) (commonly known as <quote>Medicare Part A</quote>) and
+			 the Medicare program for supplementary medical insurance benefits under part B
+			 of title XVIII of the Social Security Act (42 U.S.C. 1395j et seq.) (commonly
+			 known as <quote>Medicare Part B</quote>) for eligible employees that may
+			 benefit from enrollment, the objective of which shall be to—</text>
+				<paragraph id="IDb5bd296b22da488d91b56e8897e8f655"><enum>(1)</enum><text>educate employees
+			 and retirees on how Medicare benefits can interact or supplement the benefits
+			 of the employee or retiree under the Federal Employee Health Benefit Program;
+			 and</text>
+				</paragraph><paragraph id="ID2f6c9a56b00c4b9d81cee571e5284435"><enum>(2)</enum><text>reduce costs to
+			 the Federal Employee Health Benefit Program, beneficiaries, and the Postal
+			 Service by coordinating services with the Medicare program.</text>
+				</paragraph></section><section id="IDae494696c43643e19aca57e865a60842"><enum>303.</enum><header>Labor
+			 disputes</header><text display-inline="no-display-inline">Section 1207(c) of
+			 title 39, United States Code, is amended by adding at the end the
+			 following:</text>
+				<quoted-block display-inline="no-display-inline" id="idC2E01AE92B534090A6DF60590EA831A7" style="OLC">
+					<paragraph id="ID0ff1b2341ee54bb384fb980d0aa8fc70" indent="up1"><enum>(4)</enum><text>Nothing in this title shall be
+				construed to limit the factors an arbitration board may take into consideration
+				in rendering a decision under this
+				subsection.</text>
+					</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section><section id="IDccf59ec78e854deeb171e02c38f70cb5"><enum>304.</enum><header>Supervisory
+			 and other managerial organizations</header><text display-inline="no-display-inline">Section 1004 of title 39, United States
+			 Code, is amended—</text>
+				<paragraph id="IDa5afc80d86e74f8cb0f29c89222f1b02"><enum>(1)</enum><text>in subsection
+			 (b), in the second sentence, by inserting <quote>as provided under subsection
+			 (d) and any changes in, or termination of, pay policies and schedules and
+			 fringe benefit programs for members of the supervisors’ organization as
+			 provided under subsection (e)</quote> before the period; and</text>
+				</paragraph><paragraph id="ID70001dee27264c8d84e196ecfbfd286f"><enum>(2)</enum><text>in subsection
+			 (e)(1), by inserting <quote>, or termination of,</quote> after <quote>any
+			 changes in</quote>.</text>
+				</paragraph></section><section id="ID3a51be2f2fd145b987179024d3fad9a1"><enum>305.</enum><header>Applicability
+			 of provisions relating to reductions in force</header><text display-inline="no-display-inline">Section 1005 is amended by adding at the end
+			 the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idDC0F74F8DEAC4D259B912EFE7E019D0A" style="OLC">
+					<subsection id="IDd953dffecf8444fd8e2f4bd159f2a736"><enum>(g)</enum><paragraph commented="no" display-inline="yes-display-inline" id="id6C20C9DC62EC484BBF482A4E1698D540"><enum>(1)</enum><text>Except as otherwise
+				provided under a collective bargaining agreement entered into under chapter 12,
+				subchapter I of chapter 35 of title 5 (including the regulations implementing
+				such subchapter) shall apply to employees of the Postal Service who hold
+				positions that are represented by a bargaining representative recognized under
+				section 1203.</text>
+						</paragraph><paragraph id="ID238fc8eb3b9940b4aaa1eb8d94387e14" indent="up1"><enum>(2)</enum><text>Before carrying out any reduction in
+				force in accordance with paragraph (1), the Postmaster General shall submit a
+				report to the Committee on Homeland Security and Governmental Affairs of the
+				Senate, the Committee on Oversight and Government Reform of the House of
+				Representatives, and Director of the Office of Personnel Management indicating
+				the extent of the reduction in force and how the Postal Service will comply
+				with section 3502(a)(4) of title
+				5.</text>
+						</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section><section id="ID40912126af374d92bd1f024de411e3b6"><enum>306.</enum><header>Executive
+			 compensation</header><text display-inline="no-display-inline">Section 3686(b)
+			 of title 39, United States Code, is amended—</text>
+				<paragraph id="id9E2BDC2C46634C3EBCA6786CD146E8BC"><enum>(1)</enum><text display-inline="yes-display-inline">in paragraph (1), by striking
+			 <quote>payable to the Vice President under section 104 of title 3</quote> and
+			 inserting <quote>payable for a position on level I of the Executive Schedule
+			 under section 5312 of title 5</quote>; and</text>
+				</paragraph><paragraph id="id84AF07564A62427192F2B723C9760F64"><enum>(2)</enum><text>by striking
+			 subsection (c) and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id803E164649F64A279ECF87FDCBCE449C" style="OLC">
+						<subsection id="ID370083576daf499eaafc8a34ee52a3e1"><enum>(c)</enum><header>Exceptions for
+				critical positions</header>
+							<paragraph id="idE905DA6FEC9C4F498E707CC51B5243B7"><enum>(1)</enum><header>In
+				general</header><text>The Board of Governors may allow not more than 12
+				officers or employees of the Postal Service in critical senior executive or
+				equivalent positions to receive total annual compensation in an amount not to
+				exceed 135 percent of the amount determined under paragraph (2).</text>
+							</paragraph><paragraph id="id94A0B3CEE62544D7AB83DDAA529E955E"><enum>(2)</enum><header>Amount</header><text>The
+				amount determined under this paragraph shall be the amount payable, as of the
+				end of the calendar year in which the payment is received, for a position
+				at—</text>
+								<subparagraph id="ID29966b518cdb41e3b344392876d98018"><enum>(A)</enum><text>level I of the
+				Executive Schedule under section 5312 of title 5, for the Postmaster
+				General;</text>
+								</subparagraph><subparagraph id="ID9430ddc1dab44eafac892ae15e032f24"><enum>(B)</enum><text>level II of the
+				Executive Schedule under section 5313 of title 5, for the Deputy Postmaster
+				General; and</text>
+								</subparagraph><subparagraph id="ID7fa860ad59ec4826a8e0ef50dd46d856"><enum>(C)</enum><text>level III of the
+				Executive Schedule under section 5314 of title 5, for any other officer or
+				employee.</text>
+								</subparagraph></paragraph><paragraph id="idB29C29C73C73410B88D5A4CBB0B6D0FE"><enum>(3)</enum><header>Notice</header><text>Not
+				later than 30 days after the date on which the first payment is made at a rate
+				of pay authorized under this subsection, the Board of Governors shall submit to
+				the Director of the Office of Personnel Management and Congress a written
+				notice that shall include—</text>
+								<subparagraph id="id0D025F853B244701AD60977F964254CD"><enum>(A)</enum><text>the name of the
+				officer or employee receiving the payment;</text>
+								</subparagraph><subparagraph id="id8892B62A8F034AEDB6A08E9BD3033D23"><enum>(B)</enum><text>a description of
+				the critical nature of the duties and responsibilities of the officer or
+				employee; and</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idB3E8E46F3D8642C097EBDA1E887F9FC6"><enum>(C)</enum><text>a discussion of
+				the basis for determining that the amount of the payment is
+				warranted.</text>
+								</subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></section></title></legis-body>
+</bill>

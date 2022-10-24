@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 2822</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20080404">April 4, 2008</action-date>
+			<action-desc><sponsor name-id="S247">Mr. Wyden</sponsor> (for himself,
+			 <cosponsor name-id="S278">Mrs. Clinton</cosponsor>, <cosponsor name-id="S210">Mr. Lieberman</cosponsor>, and <cosponsor name-id="S150">Mr.
+			 Dodd</cosponsor>) introduced the following bill; which was read twice and
+			 referred to the <committee-name committee-id="SSEG00">Committee on Energy and
+			 Natural Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Energy Policy Act of 2005 to repeal a
+		  section of that Act relating to exportation or importation of natural
+		  gas.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Exportation or importation of
+			 natural gas</header>
+			<subsection id="ID5512FE1803374F2EA4742632C4D0F26E"><enum>(a)</enum><header>In
+			 general</header><text>Section 311 of the Energy Policy Act of 2005 (Public Law
+			 109–58; 119 Stat. 685) is repealed.</text>
+			</subsection><subsection id="ID2F2F8898BBEA455D956E80D94CE58964"><enum>(b)</enum><header>Application</header><text>The
+			 Natural Gas Act (15 U.S.C. 717 et seq.) shall be applied and administered as if
+			 section 311 of the Energy Policy Act of 2005 (and the amendments made by the
+			 section) had not been enacted.</text>
+			</subsection></section></legis-body>
+</bill>

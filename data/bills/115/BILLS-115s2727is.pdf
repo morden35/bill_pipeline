@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 S2727 IS: Protecting Infrastructure and Promoting the Economy Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2018-04-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code> 
+<congress>115th CONGRESS</congress><session>2d Session</session> 
+<legis-num>S. 2727</legis-num> 
+<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber> 
+<action> 
+<action-date date="20180423">April 23, 2018</action-date> 
+<action-desc><sponsor name-id="S331">Mrs. Gillibrand</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To require the Administrator of the Environmental Protection Agency to establish a discretionary grant program for drinking water and wastewater infrastructure projects, and for other purposes. </official-title> 
+</form> 
+<legis-body id="H234AF2F379AE46B183560AC4AA1ED905"> 
+<section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header> <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Infrastructure and Promoting the Economy Act</short-title></quote> or the <quote><short-title>PIPE Act</short-title></quote>.</text> </section> <section id="id38F750BFD01B4BAFA157F3620C7AD1C0"><enum>2.</enum><header>Drinking water and wastewater infrastructure discretionary grant program</header> <subsection id="idBBBEE1D226924C7787021115218DC7FB"><enum>(a)</enum><header>Definitions</header><text>In this section:</text> 
+<paragraph id="id45E7BC4614A04260BA4CF9F119C32C5D"><enum>(1)</enum><header>Administrator</header><text>The term <term>Administrator</term> means the Administrator of the Environmental Protection Agency.</text> </paragraph> <paragraph id="idAE433E67BF4045C0911491E3547B80AE"><enum>(2)</enum><header>Program</header><text>The term <term>program</term> means the drinking water and wastewater infrastructure discretionary grant program established under subsection (b).</text> </paragraph></subsection>
+<subsection id="id4EF57540FB9345B6851F67026BE8187C"><enum>(b)</enum><header>Establishment of program</header><text>Not later than 1 year after the date of enactment of this Act, the Administrator shall establish a drinking water and wastewater discretionary grant program to provide grants on a competitive basis to eligible entities for investments in drinking water and wastewater infrastructure projects.</text> </subsection> <subsection id="id80BEE1FD9F514FEBB395533ED1A316F4"><enum>(c)</enum><header>Eligible entities</header><text>An entity eligible to receive a grant under the program is—</text> 
+<paragraph id="idDB4C9C43283D424584EC4291628CD32D"><enum>(1)</enum><text>a State;</text> </paragraph> <paragraph id="idDCF6B041181D42FC98820F7413868D27"><enum>(2)</enum><text>a unit of local government;</text> </paragraph>
+<paragraph id="idBAE37F913909449D8D947EAC48DA5A5D"><enum>(3)</enum><text>a federally recognized Indian Tribe; or</text> </paragraph> <paragraph id="id62DA6D93B9194EE086463D48A0F86921"><enum>(4)</enum><text>a public or nonprofit water utility.</text> </paragraph></subsection>
+<subsection id="id72193752939149E09414B480FD8A9C62"><enum>(d)</enum><header>Eligible projects</header><text>A project eligible to be carried out with funds under the program includes—</text> <paragraph id="idF6C5F9A2FD0D4DE6955DBAC25EAF8B8A"><enum>(1)</enum><text>one or more activities that are eligible for assistance under section 603(c) of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1383">33 U.S.C. 1383(c)</external-xref>);</text> </paragraph>
+<paragraph id="id756D12B901D04CA68AA84B29BAE8FA45"><enum>(2)</enum><text>one or more activities described in section 1452(a)(2) of the Safe Drinking Water Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300j-12">42 U.S.C. 300j–12(a)(2)</external-xref>); and</text> </paragraph> <paragraph id="idE34BB778BC9E4650B639EBF271A31418"><enum>(3)</enum><text>any other drinking water infrastructure project or wastewater infrastructure project that meets the criteria established by the Administrator under subsection (f)(1)(A).</text> </paragraph></subsection>
+<subsection id="id71BAB3D8F2AC4F36AF527330BB74B0FE"><enum>(e)</enum><header>Application</header> 
+<paragraph id="idF45190141BF043BCAB19E706BD0F9A0F"><enum>(1)</enum><header>In general</header><text>To be eligible to receive a grant under the program, an eligible entity shall submit to the Administrator an application in such manner and containing such information as the Administrator may require.</text> </paragraph> <paragraph id="id2273BEFF0E974DD79C11819182523F7B"><enum>(2)</enum><header>Bundling of projects</header><text>An eligible entity may include more than 1 project in a single application.</text> </paragraph>
+<paragraph id="id91566C5D79CF46C7936C4D55EDF16E26"><enum>(3)</enum><header>Deadline</header><text>An application shall be submitted to the Administrator not later than 180 days after the date on which the notice of funding opportunity and the selection criteria are issued under subsection (f)(1)(B).</text> </paragraph></subsection> <subsection id="id2F4A3668A2E543C39FB846BC7925D991"><enum>(f)</enum><header>Selection</header> <paragraph id="idFDFD00B7DA1A4200BB058479993DF5D6"><enum>(1)</enum><header>Criteria</header> <subparagraph id="id820DEC3642CD4986B241684D86A23813"><enum>(A)</enum><header>In general</header><text>The Administrator shall establish criteria in accordance with this subsection to use in selecting projects to receive a grant under the program.</text> </subparagraph>
+<subparagraph id="id61C977CD5D63471F96D3C799772BEAF3"><enum>(B)</enum><header>Publication</header><text>Not later than 60 days after the date on which funds are made available to carry out the program for each fiscal year, the Administrator shall—</text> <clause id="idBAB9BF458E2A4158AE507FF0C8F81DBB"><enum>(i)</enum><text>issue a notice of funding opportunity for the program; and</text> </clause>
+<clause id="id73022575FAA34B2DBB2669B21DEA22F4"><enum>(ii)</enum><text>include in the notice the selection criteria established under subparagraph (A).</text> </clause></subparagraph></paragraph> <paragraph id="idA3BA6699BC7647AEB25FE61C1CE9ACD5"><enum>(2)</enum><header>Priority</header><text>In selecting projects to receive a grant under the program, the Administrator shall give priority to projects for which the grant would help fill a gap in the overall funding or financing necessary to complete the project.</text> </paragraph>
+<paragraph id="idCFEFDD84249A4739A45D91F964BD6C59"><enum>(3)</enum><header>Geographical distribution</header><text>For each fiscal year, in providing grants under the program, the Administrator shall ensure that the funds are distributed—</text> <subparagraph id="id38102DAD27DB4FADBA17D8E70F71125F"><enum>(A)</enum><text>on an equitable geographical basis; and</text> </subparagraph>
+<subparagraph id="id542D17510B894F55B51280E1967C4BA8"><enum>(B)</enum><text>in a manner that balances the needs of urban, suburban, and rural communities.</text> </subparagraph></paragraph> <paragraph id="id01EC480FF4C448DA9AFB1E8768878656"><enum>(4)</enum><header>Deadline</header><text>Not later than 1 year after the date on which funds are made available to carry out the program for each fiscal year, the Administrator shall select projects to receive grants under the program.</text> </paragraph></subsection>
+<subsection id="id7DC63163693E4D6FA25FBCCCCDBF3392"><enum>(g)</enum><header>Requirements</header> 
+<paragraph id="id7A80A9CBACA148A09C0DBA5649F8E336"><enum>(1)</enum><header>Total State limit</header><text>For each fiscal year, the total amount provided under the program for projects in a single State shall not exceed 20 percent of the total amount made available to carry out the program.</text> </paragraph> <paragraph id="idC4EB37B91D0141928192A10BCC1858F0"><enum>(2)</enum><header>Federal share</header><text>The Federal share of the cost of a project carried out with a grant under the program shall not exceed 100 percent.</text> </paragraph></subsection>
+<subsection id="id8178B656F4F24DEF98A07C4937F1CB1D"><enum>(h)</enum><header>Regulations</header><text>The Administrator may promulgate such regulations as may be necessary to carry out this section.</text> </subsection> <subsection commented="no" id="id292ACAB129C046E9A22FFF63CD91A118"><enum>(i)</enum><header>Reports</header><text>Not later than 2 years after the date of enactment of this Act, the Administrator shall submit to Congress and make publicly available a report on the implementation of the program.</text> </subsection>
+<subsection id="idC703C17C65D24A1FA94518789D6A3729"><enum>(j)</enum><header>Funding</header> 
+<paragraph id="idC05EF11C43C24B3D96A3340AE37CEAF7"><enum>(1)</enum><header>Authorization of appropriations</header><text>There is authorized to be appropriated to carry out this section $500,000,000 for each of fiscal years 2018 through 2027.</text> </paragraph> <paragraph commented="no" id="id9CA7486193BF4570AAD990030B83110F"><enum>(2)</enum><header>Availability</header><text>Funds made available to carry out this section shall be available until expended.</text> </paragraph></subsection></section>
+</legis-body> 
+</bill> 
+
+

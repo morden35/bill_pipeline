@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 2498</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20071218">December 18, 2007</action-date>
+			<action-desc><sponsor name-id="S167">Mr. Bingaman</sponsor> (for
+			 himself and <cosponsor name-id="S027">Mr. Domenici</cosponsor>) introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban
+			 Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To authorize the minting of a coin to commemorate the
+		  400th anniversary of the founding of Santa Fe, New Mexico, to occur in
+		  2010.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>Santa Fe 400th Anniversary
+			 Commemorative Coin Act of 2007</short-title></quote>.</text>
+		</section><section id="id748025E4921648F9BD4FF77893237FE4"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress makes the following
+			 findings:</text>
+			<paragraph id="IDecaf5a6808b94a6bba58c2424b7729e0"><enum>(1)</enum><text>Santa Fe, New
+			 Mexico, the site of native occupation centuries before European incursions, was
+			 officially elevated from a plaza established in 1608 to a villa and capital
+			 city in 1610. Santa Fe has been the meeting place and home of many
+			 cultures.</text>
+			</paragraph><paragraph id="ID60f9a12fbcba4f02ba19e2cd2a1604bd"><enum>(2)</enum><text>The Palace of the
+			 Governors, built in the early 17th century served as the governor’s quarters
+			 and the seat of government under 3 flags. It is the oldest continuously used
+			 public building in the United States.</text>
+			</paragraph><paragraph id="IDfee61bc4c53c487f9f85cdc650bb2b0a"><enum>(3)</enum><text>La Fiesta de
+			 Santa Fe, a cultural, religious, and social celebration, commemorating the
+			 resettlement of Santa Fe by General Don Diego de Vargas in 1692 continues today
+			 as an attraction for tourists and locals alike.</text>
+			</paragraph><paragraph id="IDd095b0528f4a443ea4974f93f7d9cbb7"><enum>(4)</enum><text>At the nexus of 3
+			 historically important trails, Santa Fe brought people and goods together over
+			 the Santa Fe Trail to and from Missouri, California, and Mexico City.</text>
+			</paragraph><paragraph id="ID2685bb65f91f4488a3e400939e895847"><enum>(5)</enum><text>Commerce on the
+			 Santa Fe Trail brought a much needed boost to the economy of the American West
+			 during the recession of the early 19th century. Santa Fe was the rendezvous
+			 place for traders, mountain men and forty-niners on route to California, and is
+			 today home to a multicultural citizenry and world class art market.</text>
+			</paragraph><paragraph id="IDd6c8512d796143dd8e57703b37a65f95"><enum>(6)</enum><text>The Santa Fe area
+			 is a center of market activity for arts and culture year round, culminating in
+			 the world renowned Indian Market, Spanish Colonial Art Market, and
+			 International Folk Art Market.</text>
+			</paragraph><paragraph id="ID18ef0187a4aa43c4a51664234440c675"><enum>(7)</enum><text>New Mexico is the
+			 home to the oldest and continuously inhabited indigenous communities in North
+			 America. Native communities now residing in New Mexico include—</text>
+				<subparagraph id="id7D97A3FBD33F45BD87C806EB85ED7924"><enum>(A)</enum><text>Acoma
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="id968E6EDE6560476DB0C76FC754890603"><enum>(B)</enum><text>Alamo Navajo
+			 Chapter;</text>
+				</subparagraph><subparagraph id="id314F38553A0542CE94D7FA5746E93CE7"><enum>(C)</enum><text>Canoncito Navajo
+			 Chapter;</text>
+				</subparagraph><subparagraph id="id6C6157D77F7F47D196F9A811360D3515"><enum>(D)</enum><text>Cochiti
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="id260CB99503074E5AB9558D6130390C5C"><enum>(E)</enum><text>Isleta
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="idF99FBE38772C4DE5AA94B698A2C997C0"><enum>(F)</enum><text>Jemez
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="id36E07FB20B354BBDAB32AB4690498809"><enum>(G)</enum><text>Jicarilla Apache
+			 Tribe;</text>
+				</subparagraph><subparagraph id="idB51DACFC34B9469BA802A6346C6863AA"><enum>(H)</enum><text>Laguna
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="idCFD3ADBAB8AF4BF28CD837310396155F"><enum>(I)</enum><text>Mescalero Apache
+			 Tribe;</text>
+				</subparagraph><subparagraph id="id000AA2E3AFBC46FD9740357B73586210"><enum>(J)</enum><text>Nambe
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="idE8238B76EB294B1792D80B92E75C990E"><enum>(K)</enum><text>Picuris
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="id3E24832C87BE4B97860567170E1FF7BB"><enum>(L)</enum><text>Pojoaque
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="idDAE8B211FDFC40279864D7E6B98A02B7"><enum>(M)</enum><text>Ramah Navaho
+			 Chapter;</text>
+				</subparagraph><subparagraph id="id3B80399E62AC4AFD9C0E61957E4DCC2C"><enum>(N)</enum><text>San Felipe
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="id07217786B30248D3A9948AF01BC84EE7"><enum>(O)</enum><text>San Ildefonso
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="id86CCDE191BA6497A967BB34CC5576CAA"><enum>(P)</enum><text>San Juan
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="idFC387A60B57F412B9D65EC8D967FE6F2"><enum>(Q)</enum><text>Sandia
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="id87EDF3F2B09347ACB8492F3D11D6BA16"><enum>(R)</enum><text>Santa Ana
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="id41C79259AB3E4AA9975C5CAA4889F344"><enum>(S)</enum><text>Santa Clara
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="id9A8519288C8C4897802B671DB73BF081"><enum>(T)</enum><text>Santo Domingo
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="id951E3ABA62F74B11A051432DA40A6D2B"><enum>(U)</enum><text>Taos
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="idF2F3BD7D912645498D5B87CBBAFC875E"><enum>(V)</enum><text>Tesuque
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="idB62227067E6D4CB2A49E16EACFB108A7"><enum>(W)</enum><text>Zia
+			 Pueblo;</text>
+				</subparagraph><subparagraph id="idA5AC4E521A114DC7BA40CDF9AB290F6E"><enum>(X)</enum><text>Zuni Pueblo;
+			 and</text>
+				</subparagraph><subparagraph id="id0528AADBC92F46FCB544F140A82E3E38"><enum>(Y)</enum><text>many others that
+			 disappeared or were moved after European contact.</text>
+				</subparagraph></paragraph><paragraph id="ID1c4f327470bb42ae8e883d58f2fa31d7"><enum>(8)</enum><text>The Pueblo Revolt
+			 of 1680 is known to be one of the first <quote>American Revolutions</quote>
+			 when the Pueblo people ousted Spanish colonists from New Mexico.</text>
+			</paragraph><paragraph id="ID7bce3c5622274ecfb13a867a3a8344db"><enum>(9)</enum><text>The Santa Fe area
+			 has long attracted tourists, artists, and writers. The classic novel Ben Hur
+			 was written, in part, by then Governor Lew Wallace, in the Palace of the
+			 Governors.</text>
+			</paragraph><paragraph id="ID86314f75117e4b3687238736820ff172"><enum>(10)</enum><text>A commemorative
+			 coin will help to foster an understanding and appreciation of New Mexico, its
+			 history and culture and the importance of Santa Fe and New Mexico to the
+			 history of the United States and the world.</text>
+			</paragraph></section><section id="ID1E27BEC9551D4FB2911BF690A4B1B504"><enum>3.</enum><header>Coin
+			 specifications</header>
+			<subsection id="ID476AC29126D445F8A10BFD7FDB6F9228"><enum>(a)</enum><header>$<enum-in-header>5</enum-in-header>
+			 gold coins</header><text>The Secretary of the Treasury (in this Act referred to
+			 as the <quote>Secretary</quote>) shall issue not more than 100,000 $5 coins,
+			 which shall—</text>
+				<paragraph id="ID7A58CC2B55E344F8A0557ABB94A991E2"><enum>(1)</enum><text>weigh 8.359
+			 grams;</text>
+				</paragraph><paragraph id="ID1F528AAE5E954B8281ABAE6E219868DB"><enum>(2)</enum><text>have a diameter
+			 of 0.850 inches; and</text>
+				</paragraph><paragraph id="ID7D8152F0B0D24AD9A70BFEE7D0AC47CB"><enum>(3)</enum><text>contain 90
+			 percent gold and 10 percent alloy.</text>
+				</paragraph></subsection><subsection id="IDBCC85D2771AC4337BFA9C02DF193DAED"><enum>(b)</enum><header>$<enum-in-header>1
+			 </enum-in-header>silver coins</header><text>The Secretary shall issue not more
+			 than 500,000 $1 coins, which shall—</text>
+				<paragraph id="ID6BB833B63098495EBA7187820D88FA5C"><enum>(1)</enum><text>weigh 26.73
+			 grams;</text>
+				</paragraph><paragraph id="ID39F09ED7090D4C5CA11BF9AE96FB5F3A"><enum>(2)</enum><text>have a diameter
+			 of 1.500 inches; and</text>
+				</paragraph><paragraph id="IDCBD5CDA80EA94C2B9123880BFDF9D28D"><enum>(3)</enum><text>contain 90
+			 percent silver and 10 percent copper.</text>
+				</paragraph></subsection><subsection id="ID7D9434A292F2403DA1DB1D6DE06D50B9"><enum>(c)</enum><header>Legal
+			 Tender</header><text>The coins minted under this Act shall be legal tender, as
+			 provided in section 5103 of title 31, United States Code.</text>
+			</subsection><subsection id="ID5F977E7AD05E438FAC28D3EF76BE0482"><enum>(d)</enum><header>Numismatic
+			 Items</header><text>For purposes of section 5132(a)(1) of title 31, United
+			 States Code, all coins minted under this Act shall be considered to be
+			 numismatic items.</text>
+			</subsection><subsection id="ID385F46FE25BC4D92A853F7D6B4431D66"><enum>(e)</enum><header>Sources of
+			 Bullion</header>
+				<paragraph id="ID4220F83689ED466F9F3BBCA556D782BE"><enum>(1)</enum><header>Gold</header><text>The
+			 Secretary shall obtain gold for minting coins under this Act from domestic
+			 sources, and pursuant to the authority of the Secretary under section 5116 of
+			 title 31, United States Code.</text>
+				</paragraph><paragraph id="ID94DCEDB19C784940890ACADCBFFB94D9"><enum>(2)</enum><header>Silver</header><text>The
+			 Secretary shall obtain silver for the coins minted under this Act only from
+			 stockpiles established under the Strategic and Critical Minerals Stock Piling
+			 Act (50 U.S.C. 98 et seq.).</text>
+				</paragraph></subsection></section><section id="IDC5F203ED1FD14B81B101948A9D2C99CC"><enum>4.</enum><header>Design of
+			 coins</header>
+			<subsection id="ID34C88BDBF2A84A79B0A74E7B31600B2A"><enum>(a)</enum><header>Design
+			 Requirements</header>
+				<paragraph id="IDF81FBC294E6D4FEDA02556FC702A7547"><enum>(1)</enum><header>In
+			 general</header><text>The design of the coins minted under this Act shall be
+			 emblematic of the settlement of Santa Fe, New Mexico, the oldest capital city
+			 in the United States.</text>
+				</paragraph><paragraph id="IDC570C07CEE4E4BAFBBC12C61107F4301"><enum>(2)</enum><header>Designation and
+			 inscriptions</header><text>On each coin minted under this Act, there shall
+			 be—</text>
+					<subparagraph id="ID92658ED363224E44B907CD3503B42615"><enum>(A)</enum><text>a designation of
+			 the value of the coin;</text>
+					</subparagraph><subparagraph id="ID6342ADEE118840E6B3E8775721B1864B"><enum>(B)</enum><text>an inscription of
+			 the year <quote>2010</quote>; and</text>
+					</subparagraph><subparagraph id="IDFB12B6DFD98D434D8F45AF20C3A558DF"><enum>(C)</enum><text>inscriptions of
+			 the words <quote>Liberty</quote>, <quote>In God We Trust</quote> (on the face
+			 of the coin), <quote>United States of America</quote>, and <quote>E Pluribus
+			 Unum</quote>.</text>
+					</subparagraph></paragraph></subsection><subsection id="IDBD23CBA805D44C0BA74AD1E4D6904266"><enum>(b)</enum><header>Design
+			 Selection</header><text>Subject to subsection (a), the design for the coins
+			 minted under this Act shall be selected by the Secretary, and shall be reviewed
+			 by the Citizens Commemorative Coin Advisory Committee.</text>
+			</subsection></section><section id="ID05C141D5A1B64A13AB297A3B4C4DEAE6"><enum>5.</enum><header>Issuance of
+			 coins</header>
+			<subsection id="IDEA155EAD084048B7841C9415FBBEE41E"><enum>(a)</enum><header>Quality of
+			 Coins</header><text>Coins minted under this Act shall be issued in uncirculated
+			 and proof qualities.</text>
+			</subsection><subsection id="ID16ACC04639D4495A9BD29CEB44D12139"><enum>(b)</enum><header>Mint
+			 Facility</header><text>Only 1 facility of the United States Mint may be used to
+			 strike any particular quality of the coins minted under this Act.</text>
+			</subsection><subsection id="ID748B34FF3FF7403FA080A2D4023A31E8"><enum>(c)</enum><header>Period for
+			 Issuance</header><text>The Secretary may issue coins minted under this Act only
+			 during the period beginning on January 1, 2010, and ending on December 31,
+			 2010.</text>
+			</subsection></section><section id="IDBB82CA6C77CF4F13A5B053FE98775127"><enum>6.</enum><header>Sale of
+			 coins</header>
+			<subsection id="IDAD025CF7B2DC42DCA37CA94A499C6756"><enum>(a)</enum><header>Sale
+			 Price</header><text>The coins minted under this Act shall be sold by the
+			 Secretary at a price equal to the sum of—</text>
+				<paragraph id="IDBBC5CA87E27C49428084090C8C7E9226"><enum>(1)</enum><text>the face value of
+			 the coins;</text>
+				</paragraph><paragraph id="IDAC9DAEA03CA2443191D87E1FBD7A553D"><enum>(2)</enum><text>the surcharge
+			 provided in subsection (c) with respect to such coins; and</text>
+				</paragraph><paragraph id="ID4CB9947E095E4356BC93F8CBE5339008"><enum>(3)</enum><text>the cost of
+			 designing and issuing the coins (including labor, materials, dies, use of
+			 machinery, overhead expenses, marketing, and shipping).</text>
+				</paragraph></subsection><subsection id="IDAB5DB9BEA147461A8D3038B4C4E36D39"><enum>(b)</enum><header>Prepaid
+			 Orders</header>
+				<paragraph id="ID1133D3A6A82B4EBF89B0F129C2A4EADF"><enum>(1)</enum><header>In
+			 general</header><text>The Secretary shall accept prepaid orders for the coins
+			 minted under this Act before the issuance of such coins.</text>
+				</paragraph><paragraph id="ID6A49286C7B67498CA74123C13206062C"><enum>(2)</enum><header>Discount</header><text>Sale
+			 prices with respect to prepaid orders under paragraph (1) shall be at a
+			 reasonable discount.</text>
+				</paragraph></subsection><subsection id="ID64B99A0A6F7E4C5C839A7E5A5984F198"><enum>(c)</enum><header>Bulk
+			 Sales</header><text>The Secretary shall make bulk sales of the coins minted
+			 under this Act at a reasonable discount.</text>
+			</subsection><subsection id="ID93B041A0AD534CA8A9B3AA41A3E8D415"><enum>(d)</enum><header>Surcharge</header><text>All
+			 sales of coins minted under this Act shall include a surcharge of—</text>
+				<paragraph id="ID7D1D2952267B40D8B96F38D8BD9497DF"><enum>(1)</enum><text>$35 per coin for
+			 the $5 coin; and</text>
+				</paragraph><paragraph id="ID17654E6D22254F9C9A2D3A5E48BE8F72"><enum>(2)</enum><text>$10 per coin for
+			 the $1 coin.</text>
+				</paragraph></subsection></section><section id="ID1886701F8D344146B73CC6C7E0A65CDB"><enum>7.</enum><header>General waiver
+			 of procurement regulations</header>
+			<subsection id="ID6DF71FAE1A2B4BE9980C0A26679DC7D6"><enum>(a)</enum><header>In
+			 General</header><text>Except as provided in subsection (b), no provision of law
+			 governing procurement or public contracts shall be applicable to the
+			 procurement of goods and services necessary for carrying out the provisions of
+			 this Act.</text>
+			</subsection><subsection id="ID51567F6B341348009DB5200866B7A114"><enum>(b)</enum><header>Equal
+			 Employment Opportunity</header><text>Subsection (a) shall not relieve any
+			 person entering into a contract under the authority of this Act from complying
+			 with any law relating to equal employment opportunity.</text>
+			</subsection></section><section id="ID2F5E62DBAD82447D997388271A1ECF50"><enum>8.</enum><header>Distribution of
+			 surcharges</header>
+			<subsection id="IDE26E008ED0C6459FBC24F025A1AE5ED5"><enum>(a)</enum><header>Recipients</header>
+				<paragraph id="ID8CFAC6110D6C4391A325C44F5751B906"><enum>(1)</enum><header>In
+			 general</header><text>All surcharges received by the Secretary from the sale of
+			 coins minted under this Act shall be promptly paid by the Secretary to the
+			 recipients listed under paragraphs (2) and (3).</text>
+				</paragraph><paragraph id="IDD30A2AC04B06403F9627B8BAEF1BD5E6"><enum>(2)</enum><header>Santa Fe 400th
+			 Anniversary Committee</header><text>The Secretary shall distribute 50 percent
+			 of the surcharges described under paragraph (1) to the Santa Fe 400th
+			 Anniversary Committee, Inc., to support programs to promote the understanding
+			 of the legacies of Santa Fe.</text>
+				</paragraph><paragraph id="ID883FF14A2FAD4F24A87E0E1694DFDB3C"><enum>(3)</enum><header>Other
+			 recipients</header><text>The Secretary shall distribute 50 percent of the
+			 surcharges described under paragraph (1) to the Secretary of the Department of
+			 the Interior, for the purposes of—</text>
+					<subparagraph id="IDC2756CBE573C4334BE38FF170C842AC4"><enum>(A)</enum><text>sustaining the
+			 ongoing mission of preserving Santa Fe;</text>
+					</subparagraph><subparagraph id="IDE98EE08F257047B9B293911A58EDE251"><enum>(B)</enum><text>enhancing the
+			 national and international educational programs;</text>
+					</subparagraph><subparagraph id="ID4849B5CFF6C743D18D5611EB3360CD1F"><enum>(C)</enum><text>improving
+			 infrastructure and archaeological research activities; and</text>
+					</subparagraph><subparagraph id="ID939CC08F02CC4D1B957695FA1A8DE865"><enum>(D)</enum><text>conducting other
+			 programs to support the commemoration of the 400th anniversary of Santa
+			 Fe.</text>
+					</subparagraph></paragraph></subsection><subsection id="ID0779CD6479DA4E71A064458925437284"><enum>(b)</enum><header>Audits</header><text>The
+			 Comptroller General of the United States shall have the right to examine such
+			 books, records, documents, and other data of the entities specified in
+			 subsection (a), as may be related to the expenditure of amounts distributed
+			 under subsection (a).</text>
+			</subsection></section><section id="ID3C92AE044BFD4568A888A87E2029DD6A"><enum>9.</enum><header>Financial
+			 assurances</header>
+			<subsection id="IDB6C50EA522C041B6BB0BE45D88F0D112"><enum>(a)</enum><header>No Net Cost to
+			 the Government</header><text>The Secretary shall take such actions as may be
+			 necessary to ensure that minting and issuing coins under this Act will not
+			 result in any net cost to the United States Government.</text>
+			</subsection><subsection id="IDE54B95A17F514AFF8640456CD0999D28"><enum>(b)</enum><header>Payment for
+			 Coins</header><text>A coin shall not be issued under this Act unless the
+			 Secretary has received—</text>
+				<paragraph id="IDCFD8F103B70A472FA8F5E65D8322F85A"><enum>(1)</enum><text>full payment for
+			 the coin;</text>
+				</paragraph><paragraph id="ID97E9D02BF01A4762A78AB3074DECB8CB"><enum>(2)</enum><text>security
+			 satisfactory to the Secretary to indemnify the United States for full payment;
+			 or</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID00538ECCBBE748BF8E254A1D919C72B9"><enum>(3)</enum><text>a guarantee of
+			 full payment satisfactory to the Secretary from a depository institution, the
+			 deposits of which are insured by the Federal Deposit Insurance Corporation or
+			 the National Credit Union Administration.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>

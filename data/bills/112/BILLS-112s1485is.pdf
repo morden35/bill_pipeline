@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 1485</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110802">August 2, 2011</action-date>
+			<action-desc><sponsor name-id="S326">Mr. Udall of New Mexico</sponsor>
+			 (for himself, <cosponsor name-id="S352">Mr. Heller</cosponsor>,
+			 <cosponsor name-id="S167">Mr. Bingaman</cosponsor>, and
+			 <cosponsor name-id="S221">Mrs. Feinstein</cosponsor>) introduced the following
+			 bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend the Tariff Act of 1930 to include
+		  ultralight vehicles under the definition of aircraft for purposes of the
+		  aviation smuggling provisions under that Act, and for other
+		  purposes.</official-title>
+	</form>
+	<legis-body id="HF88F2164D2BD45F8A966B9DD34693556" style="OLC">
+		<section id="HF60B5A23352849F9BBE26DACB3ADF235" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may cited as the
+			 <quote><short-title>Ultralight Aircraft Smuggling
+			 Prevention Act of 2011</short-title></quote>.</text>
+		</section><section id="H5F4495EBECB94984AD566947BC762404" section-type="subsequent-section"><enum>2.</enum><header>Amendments to the
+			 aviation smuggling provisions of the Tariff Act of 1930</header>
+			<subsection id="HF82698347DF54BA08B876B90919445B6"><enum>(a)</enum><header>In
+			 general</header><text display-inline="yes-display-inline">Section 590 of the
+			 Tariff Act of 1930 (<external-xref legal-doc="usc" parsable-cite="usc/19/1590">19 U.S.C. 1590</external-xref>) is amended—</text>
+				<paragraph id="H8EE70A08A2864C47A901AFBFC7078964"><enum>(1)</enum><text>by redesignating
+			 subsection (g) as subsection (h); and</text>
+				</paragraph><paragraph id="HCF9142B75D2149CCA7FE06A4CE5EFF3B"><enum>(2)</enum><text>by inserting after
+			 subsection (f) the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H6A236E616C2646138D1796F3F2CEE778" style="OLC">
+						<subsection id="HD761579E93A849E2AADD1FB530A50606"><enum>(g)</enum><header>Definition of
+				aircraft</header><text display-inline="yes-display-inline">As used in this
+				section, the term <term>aircraft</term> includes an ultralight vehicle, as
+				defined by the Administrator of the Federal Aviation
+				Administration.</text>
+						</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="id8E665CE5D3994604A4E37CD5CF41C475"><enum>(b)</enum><header>Criminal
+			 penalties</header><text>Subsection (d) of section 590 of the Tariff Act of 1930
+			 (19 U.S.C. 1590(d)) is amended in the matter preceding paragraph (1), by
+			 inserting <quote>, or attempts or conspires to commit,</quote> after
+			 <quote>commits</quote>.</text>
+			</subsection><subsection id="HB2783B306B9D44E1B909EBC0795F83D4"><enum>(c)</enum><header>Effective
+			 date</header><text>The amendments made by this section apply with respect to
+			 violations of any provision of section 590 of the Tariff Act of 1930 on or
+			 after the 30th day after the date of the enactment of this Act.</text>
+			</subsection></section><section id="id5E1D2E13DE8E4F47A1D9A42245E1B1DF"><enum>3.</enum><header>Interagency
+			 collaboration</header><text display-inline="no-display-inline">The Assistant
+			 Secretary of Defense for Research and Engineering shall, in consultation with
+			 the Under Secretary for Science and Technology of the Department of Homeland
+			 Security, identify equipment and technology used by the Department of Defense
+			 that could also be used by U.S. Customs and Border Protection to detect and
+			 track the illicit use of ultralight aircraft near the international border
+			 between the United States and Mexico.</text>
+		</section></legis-body>
+</bill>

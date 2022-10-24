@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 2119</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20120216">February 16, 2012</action-date>
+			<action-desc><sponsor name-id="S325">Mr. Udall of Colorado</sponsor>
+			 (for himself, <cosponsor name-id="S277">Mr. Carper</cosponsor>,
+			 <cosponsor name-id="S337">Mr. Coons</cosponsor>, <cosponsor name-id="S332">Mr.
+			 Franken</cosponsor>, and <cosponsor name-id="S326">Mr. Udall of New
+			 Mexico</cosponsor>) introduced the following bill; which was read twice and
+			 referred to the <committee-name committee-id="SSHR00">Committee on Health,
+			 Education, Labor, and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish a pilot program to address
+		  overweight/obesity among children from birth to age 5 in child care settings
+		  and to encourage parental engagement. </official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>Healthy Kids from Day One
+			 Act</short-title></quote>.</text>
+		</section><section id="ID809893ef69344b7292a5fb0df32331cb"><enum>2.</enum><header>Findings and
+			 purposes</header>
+			<subsection id="ID00e2467571784d90ad0b518bd48b6a8f"><enum>(a)</enum><header>Findings</header><text>Congress
+			 makes the following findings:</text>
+				<paragraph id="ID88895144d96449539e9aa3b6711bf689"><enum>(1)</enum><text>Preschool years
+			 are a critical time for determining whether or not an individual will develop
+			 obesity later in life.</text>
+				</paragraph><paragraph id="IDeda740d80960474394d265c4aef209bb"><enum>(2)</enum><text>The Journal of
+			 Clinical Pediatrics reports that the <quote>tipping point</quote> in obesity
+			 often occurs before 2 years of age, and sometimes as early as 3 months, when
+			 the child is learning how much and what to eat.</text>
+				</paragraph><paragraph id="ID90aef51efd1946ba8c5ea8e3b7165736"><enum>(3)</enum><text>Aerobic fitness
+			 and healthy eating patterns support enhanced behavioral, emotional, and
+			 academic performance in school.</text>
+				</paragraph><paragraph id="ID77b0ca203cd0430aaa15c4805cfe5406"><enum>(4)</enum><text>More than 21
+			 percent of preschool children are overweight or obese.</text>
+				</paragraph><paragraph id="IDa198a74926d749c18a9be77ead8971ef"><enum>(5)</enum><text>A 2009 preschool
+			 study found that 89 percent of a preschooler’s day is sedentary.</text>
+				</paragraph><paragraph id="ID059b04929c3347b99afd5df9fd6fdaf8"><enum>(6)</enum><text>The amount of
+			 time children spend outdoors is dwindling rapidly, as evidenced by studies
+			 showing that children enjoy half the outdoor time they did just 20 years ago.
+			 Meanwhile, children are spending nearly 8 hours per day in front of electronic
+			 media.</text>
+				</paragraph><paragraph id="IDffdf44ad3e58419782cbe24cc57dd43c"><enum>(7)</enum><text>Studies indicate
+			 that children who are overweight at age 5 are more likely to be more overweight
+			 at age 9.</text>
+				</paragraph><paragraph id="ID47d149a2ac954fae938706474c1f30d8"><enum>(8)</enum><text>Rates of obesity
+			 are higher for African-American, Latino, Native American, and Native Alaskan
+			 children than the overall population of the children in the United
+			 States.</text>
+				</paragraph><paragraph id="ID0ab7e1e015c2458987d9cbadaeb4622e"><enum>(9)</enum><text>Children who are
+			 obese have a greater likelihood of being obese in adulthood and developing
+			 heart disease, diabetes, and other chronic conditions.</text>
+				</paragraph><paragraph id="ID809915daacaa41afba24d017c2aa027b"><enum>(10)</enum><text>In 2005, 61
+			 percent of children from birth through age 6 who were not yet in kindergarten
+			 (about 12,000,000 children) received some form of child care on a regular basis
+			 from persons other than their parents.</text>
+				</paragraph><paragraph id="ID705afd0e32fc4c8eb0187fceccb1910a"><enum>(11)</enum><text>A 2008 survey by
+			 the National Association of Child Care Resource and Referral Agencies reported
+			 that 93 percent of parents thought existing health and safety standards for
+			 child care should be improved.</text>
+				</paragraph><paragraph id="ID6f1520a966884506a6cf1133e605f4ed"><enum>(12)</enum><text>Child care
+			 centers, family child care homes, and other early learning environments should
+			 serve as settings where children adopt healthy eating habits and have
+			 opportunities for age appropriate physical activity.</text>
+				</paragraph><paragraph id="ID7b6e2502a8e346dcbb349f1c73435a91"><enum>(13)</enum><text>Age-appropriate
+			 physical activity in the outdoors, in particular, can produce immense physical,
+			 mental and emotional health benefits, including addressing childhood obesity,
+			 decreasing symptoms of attention deficit and hyperactivity disorder, improving
+			 motor skills, stimulating brain development, increasing creativity and quality
+			 sleep, and reducing the risk of developing myopia.</text>
+				</paragraph><paragraph id="ID2836aba2ab0440258036e63faedcefea"><enum>(14)</enum><text>The
+			 governmental, nonprofit, and private sectors came together to launch Let’s Move
+			 Child Care, a voluntary effort to work with child care providers to help
+			 children get off to a healthy start through healthy eating, physical activity,
+			 and screen time reduction strategies. Learning collaboratives that build upon
+			 these key elements will assist providers and parents in giving children the
+			 foundation they need for a healthy life.</text>
+				</paragraph></subsection><subsection id="ID0b51ffdd05d6486fbb3824831d857a50"><enum>(b)</enum><header>Purposes</header><text>It
+			 is the purpose of this Act to—</text>
+				<paragraph id="ID8f7a1e98fe234957a18272c1718b730b"><enum>(1)</enum><text>establish a
+			 3-year pilot program in 5 States representing a diversity of rural and urban
+			 environments that will support child care collaboratives designed to reduce the
+			 prevalence of overweight/obesity among children from birth to age 5 in child
+			 care settings through dissemination of available tools and curricula and
+			 implementation of emerging best practices;</text>
+				</paragraph><paragraph id="ID124616d2793c4c93850d7ee716ff5a28"><enum>(2)</enum><text>enhance the focus
+			 of child care centers and family child care homes serving the population of
+			 children from birth to age 5 on the healthy development of children through
+			 evidence-based or data-informed policies and practices to improve healthy
+			 eating, physical activity, and screen time limits; and</text>
+				</paragraph><paragraph id="ID19b08f84b98c4cff9df51925c86372ae"><enum>(3)</enum><text>upon completion
+			 of the 3-year period, terminate the pilot program and disseminate the best
+			 practices and lessons learned from the pilot program through other systems,
+			 programs, or partnerships.</text>
+				</paragraph></subsection></section><section id="ID25da9fcb437240c89f69ea3156e8d69f"><enum>3.</enum><header>Healthy kids
+			 program</header><text display-inline="no-display-inline">Title III of the
+			 Public Health Service Act (42 U.S.C. 241 et seq.) is amended by adding at the
+			 end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id733F2D519EAE44F69C29428A09228F1B" style="OLC">
+				<part id="idCA736EE698AD43AFB7AF390B040055BC"><enum>W</enum><header>Healthy kids
+				program</header>
+					<section id="ID27dff4525df54213a6b4820ee6f0554e"><enum>399OO.</enum><header>Definitions</header><text display-inline="no-display-inline">In this part:</text>
+						<paragraph commented="no" id="IDeb3f797f2b2341868a5da4c686f3f9ae"><enum>(1)</enum><header>Child care
+				center</header><text>The term <term>child care center</term> means a center
+				licensed or otherwise authorized to provide child care and services for fewer
+				than 24 hours per day per child in a non-residential setting, unless care in
+				excess of 24 hours is due to the nature of the parents’ work.</text>
+						</paragraph><paragraph id="ID055c31b1f3ad410fbc1922bc048fed59"><enum>(2)</enum><header>Early learning
+				council</header><text>The term <term>early learning council</term> means an
+				early childhood assembly that is established to advise governors, State
+				legislators, or State agency administrators on how best to meet the needs of
+				young children and their families specifically through improvement of programs
+				and services.</text>
+						</paragraph><paragraph id="ID4bc2cc0491af4f0ea84a425af7e0ea33"><enum>(3)</enum><header>Family child
+				care home</header><text>The term <term>family child care home</term> means a
+				private family home where home-based child care is provided for a portion of
+				the day, unless care in excess of 24 hours is due to the nature of the parents’
+				work, and that is certified, registered, or licensed in the State in which it
+				is located.</text>
+						</paragraph><paragraph id="ID01abb44d541e40de821cfef29fa71633"><enum>(4)</enum><header>Screen time
+				limits</header><text>The term <term>screen time limits</term> means policies or
+				guidelines, such as those developed by the American Academy of Pediatrics,
+				designed to reduce the daily amount of time that children spend watching or
+				looking at digital monitors or displays, including television sets, computer
+				monitors, or hand-held gaming devices.</text>
+						</paragraph><paragraph id="ID3c64dab4beae40fe8d50111e628590d8"><enum>(5)</enum><header>State</header><text>Notwithstanding
+				section 2(f), the term <term>State</term> means—</text>
+							<subparagraph id="IDa3b9ef8ead804d9886bff1c255e72b46"><enum>(A)</enum><text>each of the
+				several States;</text>
+							</subparagraph><subparagraph id="IDecc2af5b26a348d9ae59fd4017a70498"><enum>(B)</enum><text>the District of
+				Columbia;</text>
+							</subparagraph><subparagraph id="ID3de8fee35d45402cbcb00b3b6160177b"><enum>(C)</enum><text>an Indian tribe
+				or tribal organization;</text>
+							</subparagraph><subparagraph id="ID5fbfb8491bcd4887b2c0d1e4c8d81165"><enum>(D)</enum><text>the Commonwealth
+				of Puerto Rico; and</text>
+							</subparagraph><subparagraph id="ID181d38d69e6b4a779ecdf8326030e3c1"><enum>(E)</enum><text>any other
+				territory or possession of the United States.</text>
+							</subparagraph></paragraph></section><section id="ID998b4555c8d3493cbffbd08e0bbb3551"><enum>399OO–1.</enum><header>Grants</header>
+						<subsection id="ID1aa052f33bff435ba00d555bded5412c"><enum>(a)</enum><header>In
+				General</header>
+							<paragraph id="id7011103180C14784971BDB975CDF2EED"><enum>(1)</enum><header>In
+				general</header><text>The Secretary, in consultation with appropriate entities
+				within the Department of Health and Human Services, shall award 3-year
+				competitive grants to 5 eligible entities to help reduce and prevent obesity
+				among the population of children from birth to age 5 in a State and to
+				encourage parental engagement in child care settings outside a child’s place of
+				residence.</text>
+							</paragraph><paragraph id="id27694CDD43B54998961F184041585610"><enum>(2)</enum><header>Eligible
+				entities</header><text>To be an eligible entity under paragraph (1), an entity
+				shall be—</text>
+								<subparagraph id="idE78A38AAB92A4B77972C64F30F0603A9"><enum>(A)</enum><text>a State health
+				department (or other appropriate child care licensing entities within such
+				State); or</text>
+								</subparagraph><subparagraph id="idCA6A26B04CB94E6AA13F1BCC6D488E70"><enum>(B)</enum><text>a nonprofit
+				organization or a partnership of nonprofit organizations with expertise in the
+				healthy development of children.</text>
+								</subparagraph></paragraph></subsection><subsection id="ID69736b914fb44b588831739f99948650"><enum>(b)</enum><header>Use of
+				funds</header>
+							<paragraph id="ID6c78e5d9e66144f998fb43e0ddb1fc23"><enum>(1)</enum><header>In
+				general</header><text>Grantees shall use amounts received under a grant under
+				this subsection—</text>
+								<subparagraph id="ID686ed10f38624ff0aa18e91b07203938"><enum>(A)</enum><clause commented="no" display-inline="yes-display-inline" id="id2EC6A1ED1E3C454DBBD8D060B1CEE118"><enum>(i)</enum><text>to establish one or
+				more child care collaboratives consisting of the center director and staff
+				members from multiple child care sites and family child care homes;</text>
+									</clause><clause id="id46DB577CF28C4026AB29CDB033EE3110" indent="up1"><enum>(ii)</enum><text>in the case of a State grantee, to
+				contract with a nonprofit organization in the State with expertise in the
+				healthy development of children to establish the collaborative or
+				collaboratives; or</text>
+									</clause><clause id="idAF0A156B50F84C8B85592C09D3FFC8E8" indent="up1"><enum>(iii)</enum><text>to provide funding to an entity
+				that routinely trains child care providers to establish the collaborative or
+				collaboratives; and</text>
+									</clause></subparagraph><subparagraph id="ID5ccd96c16504417a9442bde103e1c3c8"><enum>(B)</enum><text>to provide or
+				contract with the organizer of the collaborative or collaboratives to
+				provide—</text>
+									<clause id="IDefab7bb61a2f4de48ea4a1cea99f0497"><enum>(i)</enum><text>technical
+				assistance, including onsite assistance when appropriate, to the child care
+				providers participating in the collaborative;</text>
+									</clause><clause id="IDe822b84a24f1416f8bc017c50864c013"><enum>(ii)</enum><text>a compilation of
+				best practices, strategies, and lessons learned from the collaborative, to be
+				reported annually to the Secretary; and</text>
+									</clause><clause id="IDaae67a13ea4b43678c804c8dfed993e4"><enum>(iii)</enum><text>a plan to
+				ensure that the collaborative will be sustainable, without additional Federal
+				funding, upon the conclusion of the 3-year pilot program.</text>
+									</clause></subparagraph></paragraph><paragraph id="ID228fb7960bb341fbb363e2413b884185"><enum>(2)</enum><header>Collaboratives</header><text>Each
+				collaborative established under clause (i), (ii), or (iii) of paragraph (1)(A)
+				shall share best practices, strategies, and techniques for successfully
+				implementing evidence-based or data-informed policies and practices relating to
+				healthy eating, physical activity, parental engagement, and other topics, such
+				as breastfeeding, relating to the healthy development of children, using
+				available curricula, tools, and other interventions.</text>
+							</paragraph><paragraph id="IDd0484b5f6ab1483eb91052627677e402"><enum>(3)</enum><header>Content of
+				plan</header><text>The plan described under paragraph (1)(B)(iii) may include
+				the incorporation of the best practices, strategies, and techniques described
+				in paragraph (2) into the training and professional development for child care
+				providers in the State or other approaches determined appropriate by the State
+				and the Secretary.</text>
+							</paragraph></subsection><subsection id="ID3641abae471644709cfb046513339b9d"><enum>(c)</enum><header>Collaborative
+				training requirements</header>
+							<paragraph id="IDb6826871d66244ce8e653447025dea29"><enum>(1)</enum><header>In
+				general</header><text>Collaboratives shall incorporate no less than 5 and no
+				more than 10 daylong, interactive training sessions each year and ongoing
+				technical assistance to the child care providers participating in the
+				collaborative that include—</text>
+								<subparagraph id="ID1cb0f489f84341c584f4746cbfd52744"><enum>(A)</enum><text>the provision and
+				discussion of information concerning implementation by the child care providers
+				of age-appropriate healthy eating and physical activity interventions, using
+				available tools and culturally competent curricula for population of children
+				from birth to age 5 in the State involved, which at a minimum shall
+				include—</text>
+									<clause id="ID1c0072fae019493d8c1ea51f01ffa58b"><enum>(i)</enum><text>a
+				handbook that includes recommendations, guidelines, and best practices for
+				child care centers and family child care homes relating to healthy eating,
+				physical activity, and screen time reduction;</text>
+									</clause><clause id="IDd3c84f1f0a114997b3e10e3824120fdc"><enum>(ii)</enum><text>information
+				about the availability of and services provided by child care health
+				consultants; and</text>
+									</clause><clause id="ID2fc2de69b94a429e9e5629d42fca0219"><enum>(iii)</enum><text>health and
+				wellness resources available through the Child Care Bureau, the Maternal and
+				Child Health Bureau, Let’s Move Child Care, and the Food and Nutrition Service
+				of the Department of Agriculture;</text>
+									</clause></subparagraph><subparagraph id="ID3242a845d91045bd835d9590f5faea31"><enum>(B)</enum><text>the
+				identification, improvement upon, and expansion of nutrition and physical
+				activity best practices targeted to the population of children from birth to
+				age 5 in the State involved and the identification of strategies for
+				incorporating parental education and other parental engagement;</text>
+								</subparagraph><subparagraph id="IDf50bf08df8694205a9e44cdabcb23e3b"><enum>(C)</enum><text>the
+				identification of strategies and techniques for overcoming barriers to healthy
+				eating, physical activity, and parental engagement; and</text>
+								</subparagraph><subparagraph id="ID69f6a5cfc85b41f78ca8dbd249e000ff"><enum>(D)</enum><text>the provision of
+				instruction and discussion of techniques used to appropriately model, direct,
+				and encourage child care staff behavior to apply the best practices and
+				strategies identified under subparagraphs (B) and (C).</text>
+								</subparagraph></paragraph></subsection><subsection id="ID2fe423f719ab4dee9e0a85e76aae1909"><enum>(d)</enum><header>Practice,
+				curricula, and policy changes</header><text>A grantee shall ensure that the
+				participants involved in the collaborative, on an ongoing basis—</text>
+							<paragraph id="ID21115ec61f1f44d7853f3c6f3f9a7ead"><enum>(1)</enum><text>implement policy
+				changes that promote healthy eating, physical activity, and appropriate screen
+				time limits among the population of children from birth to age 5;</text>
+							</paragraph><paragraph id="IDd4365663005a421f817ff58b907f980a"><enum>(2)</enum><text>utilize a
+				culturally competent healthy eating and physical activity curriculum focusing
+				on such population of children from birth to age 5;</text>
+							</paragraph><paragraph id="IDb98832ad192d4434b8113299f023aa9f"><enum>(3)</enum><text>implement
+				programs, activities, and procedures for incorporating parental education and
+				engagement of parents in programs; and</text>
+							</paragraph><paragraph id="ID4a5a3448660340fc84ffb3bf1d33e945"><enum>(4)</enum><text>implement
+				innovative ways to remove barriers that exist to providing opportunities for
+				healthy eating and physical activity.</text>
+							</paragraph><continuation-text continuation-text-level="subsection">All
+				activities described in this subsection shall be evidence-based and
+				data-informed and be consistent with the curriculum presented through training
+				activities described in subsection (c).</continuation-text></subsection></section><section id="ID52fb254425df4f9e88df6f87eeb4c9e1"><enum>399OO–2.</enum><header>Grants for
+				the evaluation of pilot programs</header><text display-inline="no-display-inline">The Secretary shall award competitive grants
+				to Prevention Research Centers, universities, or other appropriate entities to
+				evaluate the programs carried out with grants under section 399OO–1, including
+				baseline, process, and outcome measurements.</text>
+					</section><section id="ID48e9c1cd28f9432fabe35bb983e986b4"><enum>399OO–3.</enum><header>Coordination</header>
+						<subsection id="ID35deab1afebc4df580645a5134265605"><enum>(a)</enum><header>Interagency
+				Coordination</header><text>To the extent practicable, the Secretary shall
+				coordinate activities conducted under this part with activities undertaken by
+				the National Prevention, Health Promotion and Public Health Council established
+				under section 4001 of the Patient Protection and Affordable Care Act.</text>
+						</subsection><subsection id="IDbf43bde9e2864777aff6cad56f5d5c07"><enum>(b)</enum><header>Pilot
+				coordination</header><text>The Secretary shall designate an entity (directly or
+				through contract) to provide technical assistance to States and pilot centers
+				in the coordination of activities as described in subsection (a).</text>
+						</subsection></section><section id="ID7b17eeb2da9d42d6be7176625c760483"><enum>399OO–4.</enum><header>Technical
+				assistance, evaluation, and reporting</header>
+						<subsection id="IDb55cc41d2fde40c99f70d711477b985b"><enum>(a)</enum><header>Technical
+				Assistance and Information</header><text>The Secretary shall—</text>
+							<paragraph id="IDf5aa29b24c944d78accbbebfe05514bd"><enum>(1)</enum><text>provide technical
+				assistance to grantees and other entities providing training under a grant
+				under section 399OO–1; and</text>
+							</paragraph><paragraph id="IDb7f966aeff334c22a1b998ddeed75764"><enum>(2)</enum><text>disseminate to
+				grantees information concerning evidence-based or data-informed approaches,
+				including dissemination of available tools, curricula, and available or
+				emerging best practices that can be expanded or improved upon through the pilot
+				program conducted under section 399OO–1.</text>
+							</paragraph></subsection><subsection id="IDd4bcc173cf8747ad9d2eab46b1e59a18"><enum>(b)</enum><header>Evaluation
+				requirements</header><text>With respect to evaluations conducted under section
+				399OO–2, the Secretary shall ensure that—</text>
+							<paragraph id="ID5bbddc18efc94868bb6422989254ff79"><enum>(1)</enum><text>evaluation
+				metrics are consistent across all programs funded under this part;</text>
+							</paragraph><paragraph id="ID91473b20ac2b451da168d7813422ea1c"><enum>(2)</enum><text>interim outcomes
+				are measured by the number of centers that adopt policies to increase healthy
+				eating and physical activity and reduce screen time;</text>
+							</paragraph><paragraph id="ID85c29c886d084a77a1022f15fb908ff6"><enum>(3)</enum><text>interim outcomes
+				are measured, to the extent practicable, by changes in foods served,
+				opportunities for physical activity, and screen time in the child care
+				participants in the collaboratives established under section 399OO–1;
+				and</text>
+							</paragraph><paragraph id="IDabf8dcd1a838491ea8177cd0bfa27d8c"><enum>(4)</enum><text>upon completion
+				of the pilot program under section 399OO–1, the evaluation shall include an
+				identification of policies, best practices, and strategies to improve healthy
+				eating, physical activity, screen time limits, and parental engagement that
+				could be replicated in other child care settings.</text>
+							</paragraph></subsection><subsection id="ID0279094ea56c4dcb897a44d2ae431f7c"><enum>(c)</enum><header>Dissemination
+				of information</header><text>Upon the conclusion of the pilot program under
+				section 399OO–1, the Secretary shall disseminate to all appropriate agencies
+				within the Department of Health and Human Services evidence, strategies, best
+				practices, and lessons learned from grantees. Such agencies shall encourage the
+				utilization of best practices through Federal programs and other appropriate
+				methods.</text>
+						</subsection><subsection id="ID7307e9a7432d43449ca92c4cb423aba3"><enum>(d)</enum><header>Report to
+				congress</header><text>Not later than 180 days after the completion of the
+				pilot program under section 399OO–1, the Secretary shall submit to Congress a
+				report concerning the evaluation of the pilot program, including
+				recommendations as to how lessons learned from such programs can be
+				incorporated into future guidance documents developed and provided by the
+				Secretary and other Federal agencies, as well as Federal programs, as
+				appropriate.</text>
+						</subsection></section><section id="ID9d63c0560a8f442ba683f9f2048b1c09"><enum>399OO–5.</enum><header>Authorization
+				of appropriations</header><text display-inline="no-display-inline">There is
+				authorized to be appropriated to carry out this part, $1,500,000 for each of
+				fiscal years 2012, 2013, and
+				2014.</text>
+					</section></part><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>

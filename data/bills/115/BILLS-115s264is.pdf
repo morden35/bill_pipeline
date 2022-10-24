@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 S264 IS: The Free Speech Fairness Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2017-02-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>115th CONGRESS</congress><session>1st Session</session><legis-num>S. 264</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20170201">February 1, 2017</action-date><action-desc><sponsor name-id="S378">Mr. Lankford</sponsor> (for himself and <cosponsor name-id="S348">Mr. Paul</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Internal Revenue Code of 1986 to allow charitable organizations to make statements
+			 relating to political campaigns if such statements are made in the
+			 ordinary course of carrying out its tax exempt purpose.</official-title></form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause" id="H717AD08B7DCD4B52B622EFE000687E0F" style="OLC">
+ <section id="H461DE104FDAE4A3E981C85607BCE2ED1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>The Free Speech Fairness Act</short-title></quote>.</text> </section><section id="H493020B50F62454A8518AA53E57FAA70"><enum>2.</enum><header>Allowing <enum-in-header>501(c)(3)</enum-in-header> organization to make statements relating to political campaign in ordinary course of carrying out its tax exempt purpose</header> <subsection id="HDDD8108D8D3F4C78AD13B5917ED00893"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/501">Section 501</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="H7438F8AF87B9450AAD8AA40090A72A1F" style="OLC">
+					<subsection id="HA38D25660CA444F1B579EC68C1D5508E"><enum>(s)</enum><header>Special rule relating to political campaign statements of organization described in subsection <enum-in-header>(c)(3)</enum-in-header></header>
+ <paragraph id="H96FE7CF4BA4942E898B472AD8197E603"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">For purposes of subsection (c)(3) and sections 170(c)(2), 2055, 2106, 2522, and 4955, an organization shall not fail to be treated as organized and operated exclusively for a purpose described in subsection (c)(3), nor shall it be deemed to have participated in, or intervened in any political campaign on behalf of (or in opposition to) any candidate for public office, solely because of the content of any statement which—</text>
+ <subparagraph id="HDC5DB33B71734FD08C06B5AB4F6A4E05"><enum>(A)</enum><text>is made in the ordinary course of the organization’s regular and customary activities in carrying out its exempt purpose, and</text>
+ </subparagraph><subparagraph id="HB976DA2FCF3A49CBA946ACB94E0BDFAB"><enum>(B)</enum><text>results in the organization incurring not more than de minimis incremental expenses.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </subsection><subsection id="H8400F5EEDA87432CAF343A06CA9EDD8B"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years ending after the date of the enactment of this Act.</text></subsection></section></legis-body></bill>
+
+

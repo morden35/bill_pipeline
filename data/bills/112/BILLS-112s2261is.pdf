@@ -1,0 +1,1301 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 2261</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20120329">March 29, 2012</action-date>
+			<action-desc><sponsor name-id="S201">Mr. Conrad</sponsor> (for himself,
+			 <cosponsor name-id="S344">Mr. Hoeven</cosponsor>, and <cosponsor name-id="S127">Mr. Baucus</cosponsor>) introduced the following bill; which was
+			 read twice and referred to the <committee-name committee-id="SSAF00">Committee
+			 on Agriculture, Nutrition, and Forestry</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Food, Conservation, and Energy Act of 2008
+		  to establish a revenue loss assistance program, repeal the direct payment and
+		  ACRE programs, extend commodity programs through 2017, and for other
+		  purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="id9F49394F259E4978BC25F79755D0ED57" section-type="section-one"><enum>1.</enum><header>Short title; table of
+			 contents</header>
+			<subsection id="id14E473D8A6394D0CAD7A716458367A85"><enum>(a)</enum><header>Short
+			 title</header><text display-inline="yes-display-inline">This Act may be cited
+			 as the <quote><short-title>Revenue Loss Assistance and
+			 Crop Insurance Enhancement Act of 2012</short-title></quote>.</text>
+			</subsection><subsection id="idC23F7FA0D56048A2B3457931C69B38FE"><enum>(b)</enum><header>Table of
+			 contents</header><text>The table of contents of this Act is as follows:</text>
+				<toc>
+					<toc-entry idref="id9F49394F259E4978BC25F79755D0ED57" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="idF913DC825306490CA1710F83F03287ED" level="section">Sec. 2. Revenue loss assistance program and counter-cyclical
+				program.</toc-entry>
+					<toc-entry idref="idB7654E20A3CB49C6935F726A64C19F02" level="section">Sec. 3. Marketing assistance loans and loan deficiency
+				payments.</toc-entry>
+					<toc-entry idref="id45BAB15309404C27B50C4EE6D52A8C64" level="section">Sec. 4. Extension of expiring authorities.</toc-entry>
+					<toc-entry idref="id02B1E8B4EE3E439892E12A4D843D0E92" level="section">Sec. 5. Repeal of direct payment and ACRE programs.</toc-entry>
+					<toc-entry idref="ID1d673406b1884fc088b01e9b9808205b" level="section">Sec. 6. Supplemental coverage option.</toc-entry>
+					<toc-entry idref="ID29c84eaa83ca4dfbababec8943241b38" level="section">Sec. 7. Catastrophic risk protection premium
+				reduction.</toc-entry>
+					<toc-entry idref="idd3b724aa6d31473582022085287f1b61" level="section">Sec. 8. Adjustment in actual production history to establish
+				insurable yields.</toc-entry>
+					<toc-entry idref="H9CB7D7064D9D4E468707D2F1A77198F5" level="section">Sec. 9. Supplemental agricultural disaster
+				assistance.</toc-entry>
+					<toc-entry idref="id0B662CFB964F41CCBA5D10E88C9D71AD" level="section">Sec. 10. Budgetary effects.</toc-entry>
+					<toc-entry idref="id0BAA40F554244EA1BB14B4B0437DDEAF" level="section">Sec. 11. Effective date.</toc-entry>
+				</toc>
+			</subsection></section><section id="idF913DC825306490CA1710F83F03287ED" section-type="subsequent-section"><enum>2.</enum><header>Revenue loss
+			 assistance program and counter-cyclical program</header>
+			<subsection id="idF658EC87B43D48DEA019BFBB7006EAF6"><enum>(a)</enum><header>In
+			 general</header><text>Title I of the Food, Conservation, and Energy Act of 2008
+			 is amended—</text>
+				<paragraph id="idB5B1E08D9E1E4C3E894048690F3BBA3F"><enum>(1)</enum><text>by striking
+			 section 1001 (7 U.S.C. 8702);</text>
+				</paragraph><paragraph id="idA8C6489ABE68434C81F24F2E3F09B859"><enum>(2)</enum><text>by striking
+			 subtitles A and C (7 U.S.C. 8711 et seq.); and</text>
+				</paragraph><paragraph id="id370EA1C1697A4F5FA8D535A86670F306"><enum>(3)</enum><text>by inserting
+			 before subtitle B (7 U.S.C. 8731 et seq.) the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id024CBD0261224004A0A37F1F3A25D5F6" style="OLC">
+						<section commented="no" display-inline="no-display-inline" id="ID8E09C9A01CE94921BC77183EB2948109" section-type="subsequent-section"><enum>1001.</enum><header display-inline="yes-display-inline">Definitions</header><text display-inline="no-display-inline">In this title:</text>
+							<paragraph id="ID25B5D41D0DCA4DD599F2857DC786A13C"><enum>(1)</enum><header>Base
+				acres</header><text>The term <term>base acres</term>, with respect to a covered
+				commodity on a farm, means the number of acres established under section 1101
+				or 1302 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 7911,
+				7952) or section 1101, 1108, or 1302 of this Act, as in effect on September 30,
+				2012, subject to any adjustment under section 1101.</text>
+							</paragraph><paragraph id="IDD1C1B7C2356948A3B4131604C63A30E3"><enum>(2)</enum><header>Counter-cyclical
+				payment</header><text>The term <term>counter-cyclical payment</term> means a
+				payment made to producers on a farm under section 1104.</text>
+							</paragraph><paragraph id="ID1FF63E9881F74C95B2F2AA297EA67FA5"><enum>(3)</enum><header>Counter-cyclical
+				payment acres</header><text>The term <term>counter-cyclical payment
+				acres</term> means 75 percent of the base acres of a covered commodity on a
+				farm for which counter-cyclical payments are made.</text>
+							</paragraph><paragraph id="ID070FA8987DD1477AA7C6B1C64599F731"><enum>(4)</enum><header>Covered
+				commodity</header><text>The term <term>covered commodity</term> means wheat,
+				corn, grain sorghum, barley, oats, upland cotton, long grain rice, medium grain
+				rice, pulse crops, peanuts, soybeans, and other oilseeds.</text>
+							</paragraph><paragraph id="IDC8D97127A2044F5BAC2D66B8355ADB27"><enum>(5)</enum><header>Effective
+				price</header><text>The term <term>effective price</term>, with respect to a
+				covered commodity for a crop year, means the price calculated by the Secretary
+				under section 1104 to determine whether counter-cyclical payments are required
+				to be made for that crop year.</text>
+							</paragraph><paragraph id="ID0BA4D156C1C745F2803FC97E41572672"><enum>(6)</enum><header>Extra long
+				staple cotton</header><text>The term <term>extra long staple cotton</term>
+				means cotton that—</text>
+								<subparagraph id="IDECE4B8A0546C43A8834281F394BDA2D7"><enum>(A)</enum><text>is produced from
+				pure strain varieties of the Barbadense species or any hybrid of the species,
+				or other similar types of extra long staple cotton, designated by the
+				Secretary, having characteristics needed for various end uses for which United
+				States upland cotton is not suitable and grown in irrigated cotton-growing
+				regions of the United States designated by the Secretary or other areas
+				designated by the Secretary as suitable for the production of the varieties or
+				types; and</text>
+								</subparagraph><subparagraph id="IDA5F252F6604743B7A46C9A59B83A6AC7"><enum>(B)</enum><text>is ginned on a
+				roller-type gin or, if authorized by the Secretary, ginned on another type gin
+				for experimental purposes.</text>
+								</subparagraph></paragraph><paragraph id="IDBD1A449027784BF1B8ED6A6B011E6BFD"><enum>(7)</enum><header>Loan
+				commodity</header><text>The term <term>loan commodity</term> means wheat, corn,
+				grain sorghum, barley, oats, upland cotton, extra long staple cotton, long
+				grain rice, medium grain rice, soybeans, other oilseeds, graded wool, nongraded
+				wool, mohair, honey, dry peas, lentils, peanuts, small chickpeas, and large
+				chickpeas.</text>
+							</paragraph><paragraph id="ID45C8EEC5D78846E9B31C44A39668E5EE"><enum>(8)</enum><header>Medium grain
+				rice</header><text>The term <term>medium grain rice</term> includes short grain
+				rice.</text>
+							</paragraph><paragraph id="ID25FA6ED817694E70B537D71A0470C8DE"><enum>(9)</enum><header>Other
+				oilseed</header><text>The term <term>other oilseed</term> means a crop of
+				sunflower seed, rapeseed, canola, safflower, flaxseed, mustard seed, crambe,
+				sesame seed, or any oilseed designated by the Secretary.</text>
+							</paragraph><paragraph id="ID23EE2837D66349E79463275C80D1D203"><enum>(10)</enum><header>Payment
+				yield</header><text>The term <term>payment yield</term> means the yield
+				established for counter-cyclical payments under section 1102 or 1302 of the
+				Farm Security and Rural Investment Act of 2002 (7 U.S.C. 7912, 7952), section
+				1102 of 1302 of this Act, as in effect on September 30, 2012, or section 1102
+				or 1106, or for revenue loss assistance program payments under section 1103,
+				for a farm for a covered commodity.</text>
+							</paragraph><paragraph id="ID9CE67CE6D6F74D3F98E2E036A3C3E57A"><enum>(11)</enum><header>Producer</header>
+								<subparagraph id="IDCD5AD65773F444E0B4324E84BB0F5F0B"><enum>(A)</enum><header>In
+				general</header><text>The term <term>producer</term> means an owner, operator,
+				landlord, tenant, or sharecropper that shares in the risk of producing a crop
+				and is entitled to share in the crop available for marketing from the farm, or
+				would have shared had the crop been produced.</text>
+								</subparagraph><subparagraph id="IDE779F373A2034F3BA3C5CE1F41548090"><enum>(B)</enum><header>Hybrid
+				seed</header><text>In determining whether a grower of hybrid seed is a
+				producer, the Secretary shall—</text>
+									<clause id="IDED9C4E382D534040B87B43F7262F380F"><enum>(i)</enum><text>not take into
+				consideration the existence of a hybrid seed contract; and</text>
+									</clause><clause id="ID130C00CB3C354C76B7163D7D05D248EF"><enum>(ii)</enum><text>ensure that
+				program requirements do not adversely affect the ability of the grower to
+				receive a payment under this title.</text>
+									</clause></subparagraph></paragraph><paragraph id="IDEB876DBC359A490FA99965B0392A4044"><enum>(12)</enum><header>Pulse
+				crop</header><text>The term <term>pulse crop</term> means dry peas, lentils,
+				small chickpeas, and large chickpeas.</text>
+							</paragraph><paragraph id="id7361D5F456774238B44724CF4DD85949"><enum>(13)</enum><header>Revenue loss
+				assistance program payment</header><text>The term <term>revenue loss assistance
+				program payment</term> means a payment made to producers on a farm under
+				section 1103.</text>
+							</paragraph><paragraph id="IDD11B8B12842448A6885E53B7B824230A"><enum>(14)</enum><header>State</header><text>The
+				term <term>State</term> means—</text>
+								<subparagraph id="IDCC1D273A218642E8BF0FE24CA7D65691"><enum>(A)</enum><text>a State;</text>
+								</subparagraph><subparagraph id="ID655B5E636AFC402CB5EF7C7497C87951"><enum>(B)</enum><text>the District of
+				Columbia; and</text>
+								</subparagraph><subparagraph id="IDC478088274854B3EA2838B8F347064B1"><enum>(C)</enum><text>the Commonwealth
+				of Puerto Rico.</text>
+								</subparagraph></paragraph><paragraph id="ID103AFB665CE444F697CC22110508F204"><enum>(15)</enum><header>Target
+				price</header><text>The term <term>target price</term> means the price per
+				bushel, pound, or hundredweight (or other appropriate unit) of a covered
+				commodity used to determine the payment rate for counter-cyclical
+				payments.</text>
+							</paragraph><paragraph id="IDA192999CC9614D7F8CF96413B91041D8"><enum>(16)</enum><header>United
+				States</header><text>The term <term>United States</term>, when used in a
+				geographical sense, means all of the States.</text>
+							</paragraph><paragraph id="ID0E08492E81544DE2A045CDA5E82A0512"><enum>(17)</enum><header>United States
+				premium factor</header><text>The term <term>United States Premium Factor</term>
+				means the percentage by which the difference in the United States loan schedule
+				premiums for Strict Middling (SM) 1<fraction>1/8</fraction>-inch upland cotton
+				and for Middling (M) 1<fraction>3/32</fraction>-inch upland cotton exceeds the
+				difference in the applicable premiums for comparable international
+				qualities.</text>
+							</paragraph></section><subtitle id="idB3FF65EE1F3B4AE7A9C381EA6B46844A"><enum>A</enum><header>Revenue loss
+				assistance program and counter-Cyclical program</header>
+							<section commented="no" display-inline="no-display-inline" id="ID03FE6B385DD644E49015298B40D0E278" section-type="subsequent-section"><enum>1101.</enum><header>Base acres</header>
+								<subsection id="IDA4FF1C8500334F6CA12563922776A6CA"><enum>(a)</enum><header>Adjustment of
+				base acres</header>
+									<paragraph id="ID0088C0C3DA834E9F9D6A979A260F2619"><enum>(1)</enum><header>In
+				general</header><text>The Secretary shall provide for an adjustment, as
+				appropriate, in the base acres for covered commodities for a farm whenever any
+				of the following circumstances occurs:</text>
+										<subparagraph id="ID6387F07D63EA4CB88ED6486B1A7CCF3F"><enum>(A)</enum><text>A conservation
+				reserve contract entered into under section 1231 of the Food Security Act of
+				1985 (16 U.S.C. 3831) with respect to the farm expires or is voluntarily
+				terminated, or was terminated or expired during the period beginning on October
+				1, 2007, and ending on the date of enactment of this Act.</text>
+										</subparagraph><subparagraph id="ID4F9DE1C859034AF2B485C2795B996027"><enum>(B)</enum><text>Cropland is
+				released from coverage under a conservation reserve contract by the Secretary,
+				or was released during the period beginning on October 1, 2007, and ending on
+				the date of enactment of this Act.</text>
+										</subparagraph><subparagraph id="ID1E4C2E0B81194B67B6DB0C0C5AFFEFF2"><enum>(C)</enum><text>The producer has
+				eligible oilseed acreage as the result of the Secretary designating additional
+				oilseeds, which shall be determined in the same manner as eligible oilseed
+				acreage under section 1101(a)(2) of the Farm Security and Rural Investment Act
+				of 2002 (7 U.S.C. 7911(a)(2)).</text>
+										</subparagraph></paragraph><paragraph id="IDD36E9B95FDCD42AAAAB1DFAB64C3E2EE"><enum>(2)</enum><header>Special
+				conservation reserve acreage payment rules</header><text>For the crop year in
+				which a base acres adjustment under subparagraph (A) or (B) of paragraph (1) is
+				first made, the owner of the farm shall elect to receive either revenue loss
+				assistance program payments and counter-cyclical payments with respect to the
+				acreage added to the farm under this subsection or a prorated payment under the
+				conservation reserve contract, but not both.</text>
+									</paragraph></subsection><subsection id="ID79308491EB1F4325AE766DBD4A1E6A08"><enum>(b)</enum><header>Prevention of
+				excess base acres</header>
+									<paragraph id="IDB6074C9173AB4B888E6D6BB999E4B97F"><enum>(1)</enum><header>Required
+				reduction</header><text>If the sum of the base acres for a farm, together with
+				the acreage described in paragraph (2) exceeds the actual cropland acreage of
+				the farm, the Secretary shall reduce the base acres for 1 or more covered
+				commodities for the farm so that the sum of the base acres and acreage
+				described in paragraph (2) does not exceed the actual cropland acreage of the
+				farm.</text>
+									</paragraph><paragraph id="IDC68693BC4CFD4031A74D0804B4F77650"><enum>(2)</enum><header>Other
+				acreage</header><text>For purposes of paragraph (1), the Secretary shall
+				include the following:</text>
+										<subparagraph id="ID700A9D7DED9A49BEA81D6B6DDA60EEFC"><enum>(A)</enum><text>Any acreage on
+				the farm enrolled in the conservation reserve program or wetlands reserve
+				program under chapter 1 of subtitle D of title XII of the Food Security Act of
+				1985 (16 U.S.C. 3830 et seq.).</text>
+										</subparagraph><subparagraph id="IDCA71B5D49790480A9D635199133F5BF3"><enum>(B)</enum><text>Any other acreage
+				on the farm enrolled in a Federal conservation program for which payments are
+				made in exchange for not producing an agricultural commodity on the
+				acreage.</text>
+										</subparagraph><subparagraph id="IDD1503099C97D47F898BFF919A2669AC8"><enum>(C)</enum><text>If the Secretary
+				designates additional oilseeds, any eligible oilseed acreage, which shall be
+				determined in the same manner as eligible oilseed acreage under section
+				1101(a)(2) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C.
+				7911(a)(2)).</text>
+										</subparagraph></paragraph><paragraph id="ID6B1622E35F59439F8343EA0D6D4A8814"><enum>(3)</enum><header>Selection of
+				acres</header><text>The Secretary shall give the owner of the farm the
+				opportunity to select the base acres for a covered commodity for the farm
+				against which the reduction required by paragraph (1) will be made.</text>
+									</paragraph><paragraph id="ID9E6E9733126C4E4293CA5D3110748734"><enum>(4)</enum><header>Exception for
+				double-cropped acreage</header><text>In applying paragraph (1), the Secretary
+				shall make an exception in the case of double cropping, as determined by the
+				Secretary.</text>
+									</paragraph></subsection><subsection id="ID425719DBD11B49CE8E4FFBA5AE10D72C"><enum>(c)</enum><header>Reduction in
+				base acres</header>
+									<paragraph id="IDD1B6F418562F4E998301B5BDAFD83EE7"><enum>(1)</enum><header>Reduction at
+				option of owner</header>
+										<subparagraph id="ID93C6339ABBC94932853DC5D88441D085"><enum>(A)</enum><header>In
+				general</header><text>The owner of a farm may reduce, at any time, the base
+				acres for any covered commodity for the farm.</text>
+										</subparagraph><subparagraph id="IDF2E6B0697C8F4DD9968014E57798326B"><enum>(B)</enum><header>Effect of
+				reduction</header><text>A reduction under subparagraph (A) shall be permanent
+				and made in a manner prescribed by the Secretary.</text>
+										</subparagraph></paragraph><paragraph id="IDAE7A1426C6EF4501854E50BE45FE5B71"><enum>(2)</enum><header>Required action
+				by Secretary</header>
+										<subparagraph id="IDAC2B1D5C0D90490382F466AB80DD23F3"><enum>(A)</enum><header>In
+				general</header><text>The Secretary shall proportionately reduce base acres on
+				a farm for covered commodities for land that has been subdivided and developed
+				for multiple residential units or other nonfarming uses if the size of the
+				tracts and the density of the subdivision is such that the land is unlikely to
+				return to the previous agricultural use, unless the producers on the farm
+				demonstrate that the land—</text>
+											<clause id="IDA4CFAA8BC2F84285B97296EBAFDF0610"><enum>(i)</enum><text>remains devoted
+				to commercial agricultural production; or</text>
+											</clause><clause id="ID479438D929ED45CCBA9EE55804082307"><enum>(ii)</enum><text>is likely to be
+				returned to the previous agricultural use.</text>
+											</clause></subparagraph><subparagraph id="ID115AE9AA2E40499AB0EA9B6E6509C326"><enum>(B)</enum><header>Requirement</header><text>The
+				Secretary shall establish procedures to identify land described in subparagraph
+				(A).</text>
+										</subparagraph></paragraph><paragraph id="IDE393EE9438814127B60BFC792442B5DD"><enum>(3)</enum><header>Review and
+				report</header><text>Each year, to ensure, to the maximum extent practicable,
+				that payments are received only by producers, the Secretary shall submit to
+				Congress a report that describes the results of the actions taken under
+				paragraph (2).</text>
+									</paragraph></subsection><subsection id="IDDE1C0CE15E174AD490B700DF7A1D8DAE"><enum>(d)</enum><header>Treatment of
+				farms with limited base acres</header>
+									<paragraph id="ID040BCBC6446D42CA87FF66E04ED86E78"><enum>(1)</enum><header>Prohibition on
+				payments</header><text>Except as provided in paragraph (2) and notwithstanding
+				any other provision of this title, a producer on a farm may not receive revenue
+				loss assistance program payments or counter-cyclical payments if the sum of the
+				base acres of the farm is 10 acres or less, as determined by the
+				Secretary.</text>
+									</paragraph><paragraph id="ID3520A56810B74AFE8B4FBBFFAF7568B3"><enum>(2)</enum><header>Exceptions</header><text>Paragraph
+				(1) shall not apply to a farm owned or operated by—</text>
+										<subparagraph id="ID5F3C94377CBE4658A31CACE9C861270B"><enum>(A)</enum><text>a socially
+				disadvantaged farmer or rancher (as defined in section 355(e) of the
+				Consolidated Farm and Rural Development Act (7 U.S.C. 2003(e))); or</text>
+										</subparagraph><subparagraph id="ID8DD29D5167374AE6BE5108BD9E18E6F0"><enum>(B)</enum><text>a limited
+				resource farmer or rancher, as defined by the Secretary.</text>
+										</subparagraph></paragraph><paragraph id="ID65E1553AA6FE4AE6B5AABBCF3D92DA3E"><enum>(3)</enum><header>Data collection
+				and publication</header><text>The Secretary shall—</text>
+										<subparagraph id="IDCDCC453C14D041E7A7CFBAC3D07FF68D"><enum>(A)</enum><text>collect and
+				publish segregated data and survey information about the farm profiles,
+				utilization of land, and crop production; and</text>
+										</subparagraph><subparagraph id="ID5049087B2ED945A482721D5956ED32D3"><enum>(B)</enum><text>perform an
+				evaluation on the supply and price of fruits and vegetables based on the
+				effects of suspension of base acres under this section.</text>
+										</subparagraph></paragraph></subsection></section><section id="ID1CE1B301733B41F18AB1B5F1646A20E9"><enum>1102.</enum><header>Payment
+				yields</header><text display-inline="no-display-inline">For the purpose of
+				making revenue loss assistance program payments and counter-cyclical payments
+				under this subtitle, the Secretary shall provide for the establishment of a
+				payment yield for each farm for any designated oilseed or eligible pulse crop
+				for which a payment yield was not established under section 1102 of the Farm
+				Security and Rural Investment Act of 2002 (7 U.S.C. 7912) or this section as in
+				effect on September 30, 2012.</text>
+							</section><section id="id5741F1E1DDE24137BDF5EF8678349818"><enum>1103.</enum><header>Revenue loss
+				assistance program</header>
+								<subsection id="id58AF6F81D62042CF9AD38746F1FDB41E"><enum>(a)</enum><header>Definitions</header><text>In
+				this section:</text>
+									<paragraph id="id55fb3d0ad1db49e595b0d470c0459b40"><enum>(1)</enum><header>Farm</header><text>The
+				term <term>farm</term> means, in relation to an eligible producer on a farm,
+				the sum of all acreage in all counties of the covered commodity that is planted
+				or intended to be planted for harvest by the eligible producer.</text>
+									</paragraph><paragraph id="IDe613c82b30704625837483319dd4b2ca"><enum>(2)</enum><header>Noninsured crop
+				disaster assistance program</header><text>The term <term>noninsured crop
+				disaster assistance program</term> means the program established by section 196
+				of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C.
+				7333).</text>
+									</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id278042D54688471C9795C8427D05629D"><enum>(3)</enum><header>Socially
+				disadvantaged farmer or rancher</header><text>The term <term>socially
+				disadvantaged farmer or rancher</term> has the meaning given the term in
+				section 355(e) of the Consolidated Farm and Rural Development Act (7 U.S.C.
+				2003(e)).</text>
+									</paragraph></subsection><subsection id="id4D1DD4A4B3ED46B2948ADBD841937E3F"><enum>(b)</enum><header>Payments
+				required</header><text>Beginning with the 2013 crop year of each covered
+				commodity, the Secretary shall make revenue loss assistance payments to
+				eligible producers on farms in accordance with this section.</text>
+								</subsection><subsection id="id0f76c951362f45218a43fc2764ceced0"><enum>(c)</enum><header>Coverage
+				provided</header><text>The revenue loss assistance program under this section
+				shall cover losses suffered by a producer with respect to covered commodities
+				on a farm in excess of 12 percent and up to a maximum of 25 percent of the
+				historic revenue of the producer.</text>
+								</subsection><subsection id="idE79F330F63464692ABC1D27446A4E576"><enum>(d)</enum><header>Eligibility</header><text>A
+				producer on a farm shall be eligible for assistance under this section—</text>
+									<paragraph id="id1B8F4DDC770941BEACADAE163AD91676"><enum>(1)</enum><text>in the case of
+				each insurable covered commodity produced on the farm (excluding grazing land),
+				if the producer obtains a policy or plan of insurance under subtitle A of the
+				Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) (excluding a crop insurance
+				pilot program under that subtitle);</text>
+									</paragraph><paragraph id="id3637D260C91A43B497186261A85968F7"><enum>(2)</enum><text>in the case of
+				each noninsurable covered commodity produced on the farm, if the producer files
+				the required paperwork, and pays the administrative fee by the applicable State
+				filing deadline, for the noninsured crop disaster assistance program; or</text>
+									</paragraph><paragraph id="id36A6B3CE9D62465FB29687834F8CE03B"><enum>(3)</enum><text>if the producer
+				is a socially disadvantaged farmer or rancher.</text>
+									</paragraph></subsection><subsection id="idEDCC086FB0984D0A87D751380B72D589"><enum>(e)</enum><header>Payment
+				amount</header>
+									<paragraph id="id7121288555D449C781FE7B8BBA0609AD"><enum>(1)</enum><header>In
+				general</header><text>Subject to paragraph (2), the amount of a revenue loss
+				assistance payment for a covered commodity on a farm to be paid to a producer
+				of the covered commodity on the farm during an applicable crop year shall equal
+				the product obtained by multiplying—</text>
+										<subparagraph id="id5BE3066A93B84CCF8B95AAF5FB03A5EE"><enum>(A)</enum><text>the per acre
+				revenue loss of the producer for the covered commodity on the farm, as
+				determined under paragraph (2)(A);</text>
+										</subparagraph><subparagraph id="id17D2703CE68A404EB9C766E15A89FEBF"><enum>(B)</enum><text>the payment
+				factor determined under paragraph (2)(B);</text>
+										</subparagraph><subparagraph id="id599DB865761F434A8A020CAAEAF50ED9"><enum>(C)</enum><text>in the case of
+				acreage that the producer was prevented from planting, the applicable prevented
+				planting payment factor determined under paragraph (2)(C); and</text>
+										</subparagraph><subparagraph id="idD01A026614AE4A3CBCC25D7FF4EBE379"><enum>(D)</enum><text>the payment acres
+				on the farm determined under paragraph (2)(D).</text>
+										</subparagraph></paragraph><paragraph id="idae41cf193e2a4582b80c57ad26383aad"><enum>(2)</enum><header>Revenue loss
+				payment factors</header><text>For purposes of paragraph (1):</text>
+										<subparagraph id="id8517f550f9cb466fb16c30dd8a2c3f0c"><enum>(A)</enum><header>Revenue
+				loss</header><text>The amount of the per acre revenue loss of the producer
+				shall be equal to the product obtained by multiplying—</text>
+											<clause id="idA77C6C483D33467B87AC3D6E02C39393"><enum>(i)</enum><text>the lesser
+				of—</text>
+												<subclause id="id9b29ff4f664f4cbe83b97720a88a2733"><enum>(I)</enum><text>the amount
+				that—</text>
+													<item id="id586393e14cd84437ae5331190838261a"><enum>(aa)</enum><text>88
+				percent of the historic revenue per acre calculated under subsection (f);
+				exceeds</text>
+													</item><item id="id53664995bb2d4a86bf552a0d0aac344b"><enum>(bb)</enum><text>the actual crop
+				revenue per acre determined under subsection (g); or</text>
+													</item></subclause><subclause id="idf4578815a2fc4d2d87288bea1430eda1"><enum>(II)</enum><text>the amount that
+				is the difference between—</text>
+													<item id="id2ed8871754dc4ba6a7955b925a7c9a34"><enum>(aa)</enum><text>88
+				percent of the historic revenue per acre calculated under subsection (f);
+				and</text>
+													</item><item id="idf12bcd8354324a7eafa14198f6f59aec"><enum>(bb)</enum><text>75
+				percent of the historic revenue per acre calculated under subsection (f);
+				and</text>
+													</item></subclause></clause><clause id="idC620C84A6064410A97D111BC915005A1"><enum>(ii)</enum><text>the payment
+				acres calculated under subparagraph (D).</text>
+											</clause></subparagraph><subparagraph id="id36f47c210087478faa19b336418fce2a"><enum>(B)</enum><header>Payment
+				factor</header><text>Except as provided in subparagraph (C), the payment factor
+				shall be 65 percent.</text>
+										</subparagraph><subparagraph id="ida1869e63aadd45bb81c4695d64914c90"><enum>(C)</enum><header>Prevented
+				planting payment factor</header><text>For producers who have been prevented
+				from planting and have purchased a crop insurance policy under subtitle A of
+				the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.), the prevented planting
+				factor shall be 45 percent.</text>
+										</subparagraph><subparagraph commented="no" id="idE58C51568D2E489BB900D774F524FDF5"><enum>(D)</enum><header>Payment
+				acres</header>
+											<clause id="id63d6c956609d4c10b308ba8c0a68215d"><enum>(i)</enum><header>In
+				general</header><text>The payment acres for a covered commodity on a farm shall
+				equal the sum of—</text>
+												<subclause id="ida7016300740c4faaadb8e5b2c0aa0d06"><enum>(I)</enum><text>the number of
+				acres planted to the covered commodity on the farm; and</text>
+												</subclause><subclause id="idc85ac93f7306408588b0523461ecd664"><enum>(II)</enum><text>the number of
+				acres prevented from being planted to covered commodity on the farm.</text>
+												</subclause></clause><clause id="id1257497299cc41b7b2c482f8a3cef36c"><enum>(ii)</enum><header>Adjustment</header><text>If
+				the total payment acres for all covered commodities on the farm exceeds the
+				total base acres for all covered commodities on the farm, the total payment
+				acres for the covered commodities on the farm shall be equal to the product
+				obtained by multiplying—</text>
+												<subclause id="id17FCF1B4D96D4C6CA24906C875AF864A"><enum>(I)</enum><text>the total payment
+				acres of each covered commodity on the farm determined under clause (i);
+				by</text>
+												</subclause><subclause id="id28A1AAB8DC5247FEB5D4CD02C09C9D44"><enum>(II)</enum><text>the factor
+				determined by dividing—</text>
+													<item id="id18ea50b19d1a417facdf5c2bbcca7792"><enum>(aa)</enum><text>the total base
+				acres for all covered commodities on the farm; by</text>
+													</item><item id="id784d2bea72b84acca3f39bc66bd68891"><enum>(bb)</enum><text>the total
+				acreage planted or prevented from being planted to all covered commodities on
+				the farm.</text>
+													</item></subclause></clause></subparagraph></paragraph></subsection><subsection id="id6c01184460864a97a8b925a7e1ae16f1"><enum>(f)</enum><header>Historic
+				revenue per acre</header>
+									<paragraph id="ida3508bc12afe437d87507c3962569d70"><enum>(1)</enum><header>In
+				general</header><text>Subject to subsection (h), the historic revenue per acre
+				for a covered commodity produced on a farm shall be equal to the product
+				obtained by multiplying—</text>
+										<subparagraph id="idbcf453ba860346d6b67dc78dd4e238d8"><enum>(A)</enum><text>the production
+				yield for the covered commodity determined under paragraph (2)(A); and</text>
+										</subparagraph><subparagraph id="idb7f0d193f1e3410f9dbd338413f2f5a0"><enum>(B)</enum><text>the historic
+				commodity price for the covered commodity determined under paragraph
+				(2)(B).</text>
+										</subparagraph></paragraph><paragraph id="idd326538563eb4f11b770fb0b6e5b2de0"><enum>(2)</enum><header>Historic
+				revenue factors</header><text>For purposes of paragraph (1):</text>
+										<subparagraph id="id96d6a47b807746a1a21a142df1366ba6"><enum>(A)</enum><header>Production
+				yield</header><text>The production yield of a covered commodity shall be the
+				higher of—</text>
+											<clause id="id82c2c1d9577b407388ab9ec78d248882"><enum>(i)</enum><text>a
+				production yield based on the weighted average of the actual production history
+				yields of the producer for all acreage devoted to the covered commodity on the
+				farm, as determined by the Secretary;</text>
+											</clause><clause id="idaee0a13723fe419db0c58db950e695f6"><enum>(ii)</enum><text>the weighted
+				average of production yields for the most recent 5 crop years for all acreage
+				devoted to the covered commodity on the farm, excluding the crop years with the
+				highest and lowest yields, as determined by the Secretary;</text>
+											</clause><clause id="id9bd7206f5b294a0c89fbf305d9852eb7"><enum>(iii)</enum><text>the production
+				yield that is equal to—</text>
+												<subclause id="id3b6f55e350a843c6b6f28ae69a4714d5"><enum>(I)</enum><text>the payment yield
+				established for the counter-cyclical program that is in effect as of September
+				30, 2012; or</text>
+												</subclause><subclause id="idda00e04b1ca04e41afc3f5972695d628"><enum>(II)</enum><text>the payment
+				yield established under section 1102; or</text>
+												</subclause></clause><clause id="id83efbcfe9f6f4da0b5e1e65b72943d5b"><enum>(iv)</enum><text>the yield
+				established by the Secretary in the case of a producer on a farm that does not
+				have a production yield established under clause (i), (ii), or (iii).</text>
+											</clause></subparagraph><subparagraph id="id3007e665e9dd4fc793fe1fd3fde1ec9a"><enum>(B)</enum><header>Historic
+				commodity price</header><text>The historic commodity price for each crop of a
+				covered commodity produced on a farm shall be equal to the higher of—</text>
+											<clause id="idbdff050a7e5f40c08d3ff7530f89884a"><enum>(i)</enum><text>the target price
+				for the covered commodity under section 1104(c); or</text>
+											</clause><clause id="id55b3e76c78e4481b82157ad18a9853fc"><enum>(ii)</enum><text>subject to
+				subparagraph (C), the average national price (as determined by the Secretary)
+				for each covered commodity, by type or variety as applicable, for the marketing
+				years for the immediately preceding 5 crops, excluding the year in which the
+				average price received was the highest in the period and the year in which the
+				average price received was the lowest in the period, as determined by the
+				Secretary.</text>
+											</clause></subparagraph><subparagraph id="id779287f1ecdc4e39aba6e646ba3d5b0b"><enum>(C)</enum><header>Limitation</header><text>The
+				average national price for each covered commodity under subparagraph (B)(ii)
+				may not exceed the total economic cost of production for each covered commodity
+				for the applicable crop year, as determined by the Secretary.</text>
+										</subparagraph></paragraph></subsection><subsection id="id279BB594965D44919CC13F64225307C4"><enum>(g)</enum><header>Actual crop
+				revenue per acre</header>
+									<paragraph id="idaded95c82990420e99680244f7879fdf"><enum>(1)</enum><header>In
+				general</header><text>Subject to subsection (h), the actual crop revenue per
+				acre for a covered commodity produced on a farm during the applicable crop year
+				shall be equal to the sum of—</text>
+										<subparagraph id="idBF4C7B39E94F40C9809DCB1D02DD11A8"><enum>(A)</enum><text>the product
+				obtained by multiplying—</text>
+											<clause id="id791600f7e1844a85a279b1bf2add8610"><enum>(i)</enum><text>the actual yield
+				for the covered commodity on the farm determined under paragraph (2)(A);
+				and</text>
+											</clause><clause id="idf0be6f5cb4db42a5abec1e5f30cd418c"><enum>(ii)</enum><text>the average
+				price of the covered commodity determined under paragraph (2)(B); and</text>
+											</clause></subparagraph><subparagraph id="id6BED14A53FF14E19B9714F5AD33A2359"><enum>(B)</enum><text>the average
+				amount of crop insurance indemnities and noninsured crop disaster assistance
+				payments received by a producer on the farm determined under paragraph
+				(2)(C).</text>
+										</subparagraph></paragraph><paragraph id="id7bb65d07c29241babd8d7a9be8369594"><enum>(2)</enum><header>Actual crop
+				revenue factors</header><text>For purposes of paragraph (1):</text>
+										<subparagraph id="id9c540600b07943eca446d97e130e2147"><enum>(A)</enum><header>Actual
+				yield</header><text>The actual yield of a covered commodity shall be equal to
+				the weighted average yield of all planted acres of the covered commodity on the
+				farm, as determined by the Secretary.</text>
+										</subparagraph><subparagraph id="id28df0f78932e41ce83e563ed26421eeb"><enum>(B)</enum><header>Average
+				price</header>
+											<clause id="id7c47b4d3710b42f3a63ff5c791989572"><enum>(i)</enum><header>In
+				general</header><text>Subject to clause (ii), the average price of a covered
+				commodity shall be equal to the national average price for each covered
+				commodity on the farm, determined by type or class if applicable in the case of
+				wheat, barley, and rice, for the first 4 months of the marketing year of the
+				covered commodity during which the crop of the covered commodity would normally
+				be expected to be harvested, as determined by the Secretary.</text>
+											</clause><clause id="idcface2cab42341baba187a55426748eb"><enum>(ii)</enum><header>Adjustment</header><text>The
+				Secretary shall adjust the average national price of a covered commodity
+				received by a producer on a farm to reflect—</text>
+												<subclause id="id24042f3975fc4b6f806c43f2f0cc3d22"><enum>(I)</enum><text>the average
+				quality discounts applied to the local or regional market price of a crop or
+				mechanically harvested forage due to damage of the covered commodity from
+				adverse weather, as determined annually by Secretary;</text>
+												</subclause><subclause id="id7671c6f2f1cb4ff48b00f0058b716226"><enum>(II)</enum><text>the reduced
+				value of the covered commodity due to excess moisture resulting from a
+				disaster-related condition; or</text>
+												</subclause><subclause id="idd7ffcf1ef6744d93a19599590bf20aa3"><enum>(III)</enum><text>as the
+				Secretary determines appropriate, regional variations in quality recognized
+				under the crop insurance program under subtitle A of the Federal Crop Insurance
+				Act (7 U.S.C. 1501 et seq.) and the noninsured crop disaster assistance
+				program.</text>
+												</subclause></clause></subparagraph><subparagraph id="id8d82576780a747c5865411ed32490f44"><enum>(C)</enum><header>Net crop
+				insurance indemnities</header><text>For each covered commodity, the average
+				amount of crop insurance indemnities and noninsured crop disaster assistance
+				payments received by a producer on a farm shall be equal to the weighted
+				average amount of crop insurance indemnities less the amount of the
+				producer-paid premium per acre and noninsured crop disaster assistance payments
+				per acre received by the producer.</text>
+										</subparagraph></paragraph></subsection><subsection id="id4DA526438038436B9D5864F49864C86A"><enum>(h)</enum><header>Exclusion of
+				ghost acres</header>
+									<paragraph id="idDB858F1793DC47E29B9E986A6C6E2852"><enum>(1)</enum><header>In
+				general</header><text>Except as provided in paragraph (2), any crop
+				subsequently planted on land determined for purposes of the Federal crop
+				insurance program to be prevented planting acreage during the same crop year
+				shall not be considered in calculating the historic revenue per acre or the
+				actual crop revenue per acre for the farm under this section.</text>
+									</paragraph><paragraph id="idC059D0011D324892A474DE83818517F1"><enum>(2)</enum><header>Exception</header><text>Paragraph
+				(1) shall not apply to a farm that, as determined by the Secretary—</text>
+										<subparagraph id="idF63DD919D89E4BB0939EEF9F6AE9332E"><enum>(A)</enum><text>has a history of
+				double-cropping; and</text>
+										</subparagraph><subparagraph id="id7F45F7454D1A426AB1D46161A6076BE0"><enum>(B)</enum><text>is located in an
+				area in which double-cropping is an acceptable agricultural practice for
+				purposes of the Federal crop insurance program.</text>
+										</subparagraph></paragraph></subsection></section><section id="IDA919D891246A497D9A41B99766FB2C4E"><enum>1104.</enum><header>Availability
+				of counter-cyclical payments</header>
+								<subsection id="IDF4A2A95F32FA40209CD893BCCD0EAA82"><enum>(a)</enum><header>Payment
+				required</header><text>For each of the 2013 through 2017 crop years for each
+				covered commodity, the Secretary shall make counter-cyclical payments to
+				producers on farms for which payment yields and base acres are established with
+				respect to the covered commodity if the Secretary determines that the effective
+				price for the covered commodity is less than the target price for the covered
+				commodity.</text>
+								</subsection><subsection id="ID105BD455716E486284AE442892588746"><enum>(b)</enum><header>Effective
+				price</header>
+									<paragraph id="IDBF17E2162F494F38A07D7A6CA6628C02"><enum>(1)</enum><header>Covered
+				commodities other than rice</header><text>Except as provided in paragraph (2),
+				for purposes of subsection (a), the effective price for a covered commodity is
+				equal to the higher of the following:</text>
+										<subparagraph id="IDD332896091FA4C98856F6871E4A34157"><enum>(A)</enum><text>The national
+				average market price received by producers during the first 4 months of the
+				marketing year for the covered commodity, as determined by the
+				Secretary.</text>
+										</subparagraph><subparagraph id="IDAD58314CC74F41C2BB144874CC875AB8"><enum>(B)</enum><text>The national
+				average loan rate for a marketing assistance loan for the covered commodity in
+				effect for the applicable period under subtitle B.</text>
+										</subparagraph></paragraph><paragraph id="IDBFB1B6D071A545BCBD64FE776C4DED54"><enum>(2)</enum><header>Rice</header><text>In
+				the case of long grain rice and medium grain rice, for purposes of subsection
+				(a), the effective price for each type or class of rice is equal to the higher
+				of the following:</text>
+										<subparagraph id="IDD1A1298AB3174537BF3D4E3B58C5382F"><enum>(A)</enum><text>The national
+				average market price received by producers during the first 4 months of the
+				marketing year for the type or class of rice, as determined by the
+				Secretary.</text>
+										</subparagraph><subparagraph id="ID8D793C0B83CB41DCA73BC76F49A0AAE5"><enum>(B)</enum><text>The national
+				average loan rate for a marketing assistance loan for the type or class of rice
+				in effect for the applicable period under subtitle B.</text>
+										</subparagraph></paragraph></subsection><subsection id="IDB527970FEE37418483925AC1540C9D6A"><enum>(c)</enum><header>Target
+				price</header><text>For purposes of each of the 2013 through 2017 crop years,
+				the target prices for covered commodities shall be as follows:</text>
+									<paragraph id="ID7683583D8015445387BAF8ABFC919057"><enum>(1)</enum><text>Wheat, $4.17 per
+				bushel.</text>
+									</paragraph><paragraph id="IDEC26E005C92D4A1B982E2CD72C85D69E"><enum>(2)</enum><text>Corn, $2.63 per
+				bushel.</text>
+									</paragraph><paragraph id="ID0FA0CD01385045A4ADECEDBB4CEBF2A0"><enum>(3)</enum><text>Grain sorghum,
+				$2.63 per bushel.</text>
+									</paragraph><paragraph id="ID4352A30B1A2148979419D91F39955B82"><enum>(4)</enum><text>Barley, $2.63 per
+				bushel.</text>
+									</paragraph><paragraph id="IDF728B5B0F6EA4569ADD17D1255B91737"><enum>(5)</enum><text>Oats, $1.79 per
+				bushel.</text>
+									</paragraph><paragraph id="ID307093B31D7D4F17B9073A85454AE2AC"><enum>(6)</enum><text>Upland cotton,
+				$0.65 per pound.</text>
+									</paragraph><paragraph id="IDE98685E5546842DDBC7C129D95D103AD"><enum>(7)</enum><text>Long grain rice,
+				$10.50 per hundredweight.</text>
+									</paragraph><paragraph id="ID7E250F6B66CE49C3B10CC2DC5C89E5A9"><enum>(8)</enum><text>Medium grain
+				rice, $10.50 per hundredweight.</text>
+									</paragraph><paragraph id="ID05E061E24CD6461783B8FAF8316A4D9B"><enum>(9)</enum><text>Soybeans, $6.00
+				per bushel.</text>
+									</paragraph><paragraph id="ID92051ED4375D41B383093C929FC8F666"><enum>(10)</enum><text>Other oilseeds,
+				$12.68 per hundredweight.</text>
+									</paragraph><paragraph id="ID68F3E4C0D8E94483989A44F32E66DD29"><enum>(11)</enum><text>Dry peas, $8.32
+				per hundredweight.</text>
+									</paragraph><paragraph id="ID421F3AE08C5246B08DE146E99659F61A"><enum>(12)</enum><text>Lentils, $12.81
+				per hundredweight.</text>
+									</paragraph><paragraph id="IDC636DED0FED144B883419B7893AD9C24"><enum>(13)</enum><text>Small chickpeas,
+				$10.36 per hundredweight.</text>
+									</paragraph><paragraph id="ID7302EB1CADBC4D799116189ED4A9E2A8"><enum>(14)</enum><text>Large chickpeas,
+				$12.81 per hundredweight.</text>
+									</paragraph><paragraph id="idD874A77CEE904D149B2176CDCCC2B804"><enum>(15)</enum><text>Peanuts, $495
+				per ton.</text>
+									</paragraph></subsection><subsection id="IDEEDB5EABE1F3499F8C932F770BAF8BDB"><enum>(d)</enum><header>Payment
+				rate</header><text>The payment rate used to make counter-cyclical payments with
+				respect to a covered commodity for a crop year shall be equal to the difference
+				between—</text>
+									<paragraph id="ID36C8887783A347FDA33B5F885EC48299"><enum>(1)</enum><text>the target price
+				for the covered commodity; and</text>
+									</paragraph><paragraph id="ID3D56F883007941DFBDEE49EDEF8B9D9C"><enum>(2)</enum><text>the effective
+				price determined under subsection (b) for the covered commodity.</text>
+									</paragraph></subsection><subsection id="IDFD70253C66FA4644A980D69644895B15"><enum>(e)</enum><header>Payment
+				amount</header><text>If counter-cyclical payments are required to be paid under
+				this section for any of the 2013 through 2017 crop years of a covered
+				commodity, the amount of the counter-cyclical payment to be paid to the
+				producers on a farm for that crop year shall be equal to the product of the
+				following:</text>
+									<paragraph id="IDFA54D6DC579948D190CCEB24FA81F75E"><enum>(1)</enum><text>The payment rate
+				specified in subsection (d).</text>
+									</paragraph><paragraph id="ID11A25A0AA0A54B8C9979893804521FC7"><enum>(2)</enum><text>The
+				counter-cyclical payment acres of the covered commodity on the farm.</text>
+									</paragraph><paragraph id="ID9E2EABF71E584E6C8E3214163ADDA841"><enum>(3)</enum><text>The payment yield
+				for the covered commodity for the farm.</text>
+									</paragraph></subsection><subsection id="IDCA94CA3EE3CF4E6E9628C3E7755830E8"><enum>(f)</enum><header>Time for
+				payments</header><text>If the Secretary determines under subsection (a) that
+				counter-cyclical payments are required to be made under this section for the
+				crop of a covered commodity, as soon as practicable after the end of the first
+				4 months of the marketing year for the covered commodity, the Secretary shall
+				make the counter-cyclical payments for the crop.</text>
+								</subsection></section><section id="IDF6EAE85C9EA9403F92B791498306C18F"><enum>1105.</enum><header>Producer
+				agreement required as condition of provision of payments</header>
+								<subsection id="IDC5153F7C245E427B9A89F877398E015C"><enum>(a)</enum><header>Compliance with
+				certain requirements</header>
+									<paragraph id="IDF79F72CD0BB142BD90EC4D34355B3D1E"><enum>(1)</enum><header>Requirements</header><text>Before
+				the producers on a farm may receive revenue loss assistance program payments or
+				counter-cyclical payments with respect to the farm, the producers shall agree,
+				during the crop year for which the payments are made and in exchange for the
+				payments—</text>
+										<subparagraph id="ID95FC5728F74E4A01AC12AD0404D9090C"><enum>(A)</enum><text>to comply with
+				applicable conservation requirements under subtitle B of title XII of the Food
+				Security Act of 1985 (16 U.S.C. 3811 et seq.);</text>
+										</subparagraph><subparagraph id="IDB025165DFA1549DAADD3ED38F5E27AC8"><enum>(B)</enum><text>to comply with
+				applicable wetland protection requirements under subtitle C of title XII of
+				that Act (16 U.S.C. 3821 et seq.);</text>
+										</subparagraph><subparagraph id="IDCC9193603ED54177A522073411A97AE4"><enum>(C)</enum><text>to comply with
+				the planting flexibility requirements of section 1106;</text>
+										</subparagraph><subparagraph id="ID041A185AC4144B1FA5F9657D07D427CC"><enum>(D)</enum><text>to use the land
+				on the farm, in a quantity equal to the attributable base acres for the farm
+				for an agricultural or conserving use, and not for a nonagricultural
+				commercial, industrial, or residential use, as determined by the Secretary;
+				and</text>
+										</subparagraph><subparagraph id="ID3AF81618E89C420ABFF625C5BD7C3318"><enum>(E)</enum><text>to effectively
+				control noxious weeds and otherwise maintain the land in accordance with sound
+				agricultural practices, as determined by the Secretary, if the agricultural or
+				conserving use involves the noncultivation of any portion of the land referred
+				to in subparagraph (D).</text>
+										</subparagraph></paragraph><paragraph id="IDC3BDCA30062F477E8F195E5655F26B11"><enum>(2)</enum><header>Compliance</header><text>The
+				Secretary may issue such rules as the Secretary considers necessary to ensure
+				producer compliance with the requirements of paragraph (1).</text>
+									</paragraph><paragraph id="ID906197C241934CA5B01D6AC7E3FB1764"><enum>(3)</enum><header>Modification</header><text>At
+				the request of the transferee or owner, the Secretary may modify the
+				requirements of this subsection if the modifications are consistent with the
+				objectives of this subsection, as determined by the Secretary.</text>
+									</paragraph></subsection><subsection id="ID5495A6CB099945E784F1683F807541D7"><enum>(b)</enum><header>Transfer or
+				change of interest in farm</header>
+									<paragraph id="ID99B05B9CE2A44D718A5C9AE9A223349D"><enum>(1)</enum><header>Termination</header>
+										<subparagraph id="ID23655B9B29E24DDE8BE095C09BECE48E"><enum>(A)</enum><header>In
+				general</header><text>Except as provided in paragraph (2), a transfer of (or
+				change in) the interest of the producers on a farm in base acres for which
+				revenue loss assistance program payments or counter-cyclical payments are made
+				shall result in the termination of the revenue loss assistance program payments
+				or counter-cyclical payments to the extent the payments are made or based on
+				the base acres, unless the transferee or owner of the acreage agrees to assume
+				all obligations under subsection (a).</text>
+										</subparagraph><subparagraph id="IDC3C983242A464D99ABFA9CF6B69676E5"><enum>(B)</enum><header>Effective
+				date</header><text>The termination shall take effect on the date determined by
+				the Secretary.</text>
+										</subparagraph></paragraph><paragraph id="ID861B043929184784A2DCFAA62309236D"><enum>(2)</enum><header>Exception</header><text>If
+				a producer entitled to a revenue loss assistance program payment or
+				counter-cyclical payment dies, becomes incompetent, or is otherwise unable to
+				receive the payment, the Secretary shall make the payment, in accordance with
+				rules issued by the Secretary.</text>
+									</paragraph></subsection><subsection id="ID6918F800008F4D459C06557211B4242D"><enum>(c)</enum><header>Reports</header>
+									<paragraph id="ID1716B380CE484456A80ACC291ADA9D6D"><enum>(1)</enum><header>Acreage
+				reports</header><text>As a condition on the receipt of any benefits under this
+				subtitle or subtitle B, the Secretary shall require producers on a farm to
+				submit to the Secretary annual acreage reports with respect to all cropland on
+				the farm.</text>
+									</paragraph><paragraph id="IDBED99E546BA94188AA43A3913922E25B"><enum>(2)</enum><header>Penalties</header><text>No
+				penalty with respect to benefits under this subtitle or subtitle B shall be
+				assessed against the producers on a farm for an inaccurate acreage report
+				unless the producers on the farm knowingly and willfully falsified the acreage
+				report.</text>
+									</paragraph></subsection><subsection id="ID7563807CCD1049EEA47FDB95C42C0806"><enum>(d)</enum><header>Tenants and
+				sharecroppers</header><text>In carrying out this subtitle, the Secretary shall
+				provide adequate safeguards to protect the interests of tenants and
+				sharecroppers.</text>
+								</subsection><subsection id="ID61497121C94D4896926E27D6BC5DF5B7"><enum>(e)</enum><header>Sharing of
+				payments</header><text>The Secretary shall provide for the sharing of revenue
+				loss assistance program payments and counter-cyclical payments among the
+				producers on a farm on a fair and equitable basis.</text>
+								</subsection></section><section id="ID6E83D76741A24EF2B57863199C6FDCA2"><enum>1106.</enum><header>Planting
+				flexibility</header>
+								<subsection id="idCB27673630884E3892BE432E01B6E037"><enum>(a)</enum><header>Definition of
+				noncovered commodity</header><text>In this section, the term <term>noncovered
+				commodity</term> means—</text>
+									<paragraph id="idCFC61CB3A31B47FC90E57939FB71DF4C"><enum>(1)</enum><text>fruits;</text>
+									</paragraph><paragraph id="id7D592D98C64245B4B75404F5E1FB55F7"><enum>(2)</enum><text>vegetables;
+				and</text>
+									</paragraph><paragraph id="id92C8AD17FEF5417B944755D20AF735F1"><enum>(3)</enum><text>wild rice.</text>
+									</paragraph></subsection><subsection id="ID8B05353DEB8141858F4A0F7556B86941"><enum>(b)</enum><header>Permitted
+				crops</header><text>Subject to subsection (c), any commodity or crop (other
+				than a controlled substance) may be planted on base acres on a farm.</text>
+								</subsection><subsection id="idD7A872F035E3414F9D9DEAF85CAA50DE"><enum>(c)</enum><header>Reduction in
+				base acres</header>
+									<paragraph id="idC5422B494FFF4C5DA789BB2FF84FD3DC"><enum>(1)</enum><header>In
+				general</header><text>Subject to paragraph (2), for each crop year for which a
+				noncovered commodity is planted on base acres on a farm, the total base acres
+				used to calculate revenue loss assistance program payments and counter-cyclical
+				payments shall be reduced by an acre for each acre planted to the noncovered
+				commodity.</text>
+									</paragraph><paragraph id="idD97CA9D4ED1A4024AB65A88825F11B2D"><enum>(2)</enum><header>Double-cropping</header><text>In
+				any region or on any farm that has a history of double-cropping of covered
+				commodities with noncovered commodities, as determined by the Secretary, a
+				producer may receive full revenue loss assistance program payments and
+				counter-cyclical payments for crops of covered commodities, but no payments for
+				crops of noncovered commodities.</text>
+									</paragraph></subsection></section><section id="IDA215FDFBFD9D4B10B5BBF66078AA6E39"><enum>1107.</enum><header>Special rule
+				for long grain and medium grain rice</header>
+								<subsection id="ID2C7E704464CF4699ADFB6980425C5F29"><enum>(a)</enum><header>Calculation
+				method</header><text>Subject to subsections (b) and (c), for the purposes of
+				determining the amount of the revenue loss assistance program payments and
+				counter-cyclical payments to be paid to the producers on a farm for long grain
+				rice and medium grain rice under sections 1103 and 1104, respectively, the base
+				acres of rice on the farm shall be apportioned using the 4-year average of the
+				percentages of acreage planted in the applicable State to long grain rice and
+				medium grain rice during the 2003 through 2006 crop years, as determined by the
+				Secretary.</text>
+								</subsection><subsection id="ID53824FEBB3C649898B1326264317311F"><enum>(b)</enum><header>Producer
+				election</header><text>As an alternative to the calculation method described in
+				subsection (a), the Secretary shall provide producers on a farm the opportunity
+				to elect to apportion rice base acres on the farm using the 4-year average
+				of—</text>
+									<paragraph id="ID4DE8DDFF71E34F82A619BA9223FEE286"><enum>(1)</enum><text>the percentages
+				of acreage planted on the farm to long grain rice and medium grain rice during
+				the 2003 through 2006 crop years;</text>
+									</paragraph><paragraph id="ID210008376D264C908D9F86CA7A510AAE"><enum>(2)</enum><text>the percentages
+				of any acreage on the farm that the producers were prevented from planting to
+				long grain rice and medium grain rice during the 2003 through 2006 crop years
+				because of drought, flood, other natural disaster, or other condition beyond
+				the control of the producers, as determined by the Secretary; and</text>
+									</paragraph><paragraph id="ID1930A9E9AC3F446BA366971FD97FB1B4"><enum>(3)</enum><text>in the case of a
+				crop year for which a producer on a farm elected not to plant to long grain and
+				medium grain rice during the 2003 through 2006 crop years, the percentages of
+				acreage planted in the applicable State to long grain rice and medium grain
+				rice, as determined by the Secretary.</text>
+									</paragraph></subsection><subsection id="ID273D8304AFCC4C2BA2437B802A8B6E01"><enum>(c)</enum><header>Limitation</header><text>In
+				carrying out this section, the Secretary shall use the same total base acres,
+				counter-cyclical payment acres, and payment yields established with respect to
+				rice under sections 1101 and 1102 of the Farm Security and Rural Investment Act
+				of 2002 (7 U.S.C. 7911, 7912), as in effect on September 30, 2007, subject to
+				any adjustment under section 1101 of this Act.</text>
+								</subsection></section><section id="id356E73FF90244F6D84CE72612D1F8E5D"><enum>1108.</enum><header>Period of
+				effectiveness</header><text display-inline="no-display-inline">This subtitle
+				shall be effective beginning with the 2013 crop year of each covered commodity
+				through the 2017 crop
+				year.</text>
+							</section></subtitle><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection></section><section id="idB7654E20A3CB49C6935F726A64C19F02"><enum>3.</enum><header>Marketing
+			 assistance loans and loan deficiency payments</header>
+			<subsection id="id4FFE652EECC44EA88B1806A488C5FFD8"><enum>(a)</enum><header>Loan rates for
+			 nonrecourse marketing assistance loans</header><text display-inline="yes-display-inline">Section 1202 of the Food, Conservation, and
+			 Energy Act of 2008 (7 U.S.C. 8732) is amended—</text>
+				<paragraph id="id722A35F65C2A4C4EA3CE42489AAFB109"><enum>(1)</enum><text>by redesignating
+			 subsection (d) as subsection (e); and</text>
+				</paragraph><paragraph id="id4F9B5AB9DE164C3B96DBD69F41B04225"><enum>(2)</enum><text>by inserting
+			 after subsection (c) the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idB6D90D97671349479F9A5D1C4677D4F7" style="OLC">
+						<subsection id="idBF8E471303E440DBB02F9B2C5B633A47"><enum>(c)</enum><header>2013 through
+				2017 crop years</header><text>For purposes of each of the 2013 through 2017
+				crop year, the loan rate for a marketing assistance loan under section 1201 for
+				a loan commodity shall be equal to the following:</text>
+							<paragraph id="ID7ACC22D6C81049BB8F55019BFE28AD4A"><enum>(1)</enum><text>In the case of
+				wheat, $2.94 per bushel.</text>
+							</paragraph><paragraph id="IDA633C5BEF88440129799D7C11831BF42"><enum>(2)</enum><text>In the case of
+				corn, $1.95 per bushel.</text>
+							</paragraph><paragraph id="ID541ECE68E3144EE696E889E201BF9EA4"><enum>(3)</enum><text>In the case of
+				grain sorghum, $1.95 per bushel.</text>
+							</paragraph><paragraph id="ID5E099AC90E4C40D0822CDBFBDA639495"><enum>(4)</enum><text>In the case of
+				barley, $1.95 per bushel.</text>
+							</paragraph><paragraph id="ID7B0C42194F0D457FBEA825BA10C6D1FF"><enum>(5)</enum><text>In the case of
+				oats, $1.39 per bushel.</text>
+							</paragraph><paragraph id="IDa5bcf00c4319445a93877e6872d9ce23"><enum>(6)</enum><text>In the case of
+				base quality of upland cotton—</text>
+								<subparagraph id="ID8e16f6991420489081d58048dfa5e21e"><enum>(A)</enum><text>for the 2012 crop
+				year, $0.52 per pound; and</text>
+								</subparagraph><subparagraph id="ID92995fe9588e46a58e37b5e7d6bbb5d9"><enum>(B)</enum><text>for the 2013 and
+				each subsequent crop year, the simple average of the adjusted prevailing world
+				price for the 2 immediately preceding marketing years, as determined by the
+				Secretary and announced the October 1 preceding the next domestic plantings,
+				but in no case less than $0.47 per pound or more than $0.52 per pound.</text>
+								</subparagraph></paragraph><paragraph id="ID8E074F710B5B41ACA7FE961E8B3CF87D"><enum>(7)</enum><text>In the case of
+				extra long staple cotton, $0.7977 per pound.</text>
+							</paragraph><paragraph id="ID306FDA6EC4094286AD5715FF4A12DE17"><enum>(8)</enum><text>In the case of
+				long grain rice, $6.50 per hundredweight.</text>
+							</paragraph><paragraph id="ID93240C7B2E5F45D3B24A38CEEE059C90"><enum>(9)</enum><text>In the case of
+				medium grain rice, $6.50 per hundredweight.</text>
+							</paragraph><paragraph id="ID4250301263884536B4ED4B4D62C46FE2"><enum>(10)</enum><text>In the case of
+				soybeans, $5.00 per bushel.</text>
+							</paragraph><paragraph id="ID11F65A81CE614948A964F06C7ADB8123"><enum>(11)</enum><text>In the case of
+				other oilseeds, $10.09 per hundredweight for each of the following kinds of
+				oilseeds:</text>
+								<subparagraph id="IDE28BD98AFC614DE19ABFEC50505143EF"><enum>(A)</enum><text>Sunflower
+				seed.</text>
+								</subparagraph><subparagraph id="IDAE94A5CDBB3D4FC5B7453F28CC7DD88A"><enum>(B)</enum><text>Rapeseed.</text>
+								</subparagraph><subparagraph id="IDB5758ACB73114033A0013B2E474A4AA1"><enum>(C)</enum><text>Canola.</text>
+								</subparagraph><subparagraph id="ID675F9C0F68674A67A4F95A02E07371D6"><enum>(D)</enum><text>Safflower.</text>
+								</subparagraph><subparagraph id="ID1DFB294A4F9F4561A9F4AC7821A307EC"><enum>(E)</enum><text>Flaxseed.</text>
+								</subparagraph><subparagraph id="ID49691D7113C94B94A8646FC7B317E981"><enum>(F)</enum><text>Mustard
+				seed.</text>
+								</subparagraph><subparagraph id="IDB8F0864A95EF43949E9A25438BBBC8BB"><enum>(G)</enum><text>Crambe.</text>
+								</subparagraph><subparagraph id="ID04AFC727680F43478007EDFCA2239533"><enum>(H)</enum><text>Sesame
+				seed.</text>
+								</subparagraph><subparagraph id="IDAA83A2B9068E44E08EC39507BA71A9F0"><enum>(I)</enum><text>Other oilseeds
+				designated by the Secretary.</text>
+								</subparagraph></paragraph><paragraph id="IDE8A877D43FC24734924EC4860748A0B0"><enum>(12)</enum><text>In the case of
+				dry peas, $5.40 per hundredweight.</text>
+							</paragraph><paragraph id="ID99AF0E9606614393AF7D143F54D7AA29"><enum>(13)</enum><text>In the case of
+				lentils, $11.28 per hundredweight.</text>
+							</paragraph><paragraph id="ID28E43CBFACCE4A1190B861298C9B7C08"><enum>(14)</enum><text>In the case of
+				small chickpeas, $7.43 per hundredweight.</text>
+							</paragraph><paragraph id="ID0E955045695D411180112FEBC3B26916"><enum>(15)</enum><text>In the case of
+				large chickpeas, $11.28 per hundredweight.</text>
+							</paragraph><paragraph id="ID8DC16B0E6ACB4D179CF82037C70B9718"><enum>(16)</enum><text>In the case of
+				graded wool, $1.15 per pound.</text>
+							</paragraph><paragraph id="IDF95B52AA525F4985844ECCF337B3F02B"><enum>(17)</enum><text>In the case of
+				nongraded wool, $0.40 per pound.</text>
+							</paragraph><paragraph id="IDA4358B09B71549EFBF52F2062A8DAD5E"><enum>(18)</enum><text>In the case of
+				mohair, $4.20 per pound.</text>
+							</paragraph><paragraph id="IDD5B0CE3C5AEF422EAEB3399A63A8BB94"><enum>(19)</enum><text>In the case of
+				honey, $0.69 per pound.</text>
+							</paragraph><paragraph id="idCE958DE79F1D4722B90C6FE774149A3D"><enum>(20)</enum><text>In the case of
+				peanuts, $355 per
+				ton.</text>
+							</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="idBAF07CA0AA58499BBA216BF6E9733DBA"><enum>(b)</enum><header>Peanuts
+			 marketing</header><text display-inline="yes-display-inline">Section 1204 of the
+			 Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8734) is amended by adding
+			 at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idE862A0267DC641E2BE6622C6A28DF76F" style="OLC">
+					<subsection id="id81A909BDBBBE499AADE129FB92E0A585"><enum>(i)</enum><header>Peanuts
+				marketing</header><text>A marketing association or cooperative may market
+				peanuts for which a loan is made under this section in any manner that conforms
+				to consumer needs, including the separation of peanuts by type and
+				quality.</text>
+					</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="id45BAB15309404C27B50C4EE6D52A8C64"><enum>4.</enum><header>Extension of
+			 expiring authorities</header>
+			<subsection id="idA4BC391E5A4D421E9DE33AB671A1E8A8"><enum>(a)</enum><header>Food,
+			 Conservation, and Energy Act of 2008</header>
+				<paragraph id="idEB2DCB46FF1141C585C6971CFD91F733"><enum>(1)</enum><header>In
+			 general</header><text>The following provisions of the Food, Conservation, and
+			 Energy Act of 2008 are amended by striking <quote>2012</quote> each place it
+			 appears and inserting <quote>2017</quote>:</text>
+					<subparagraph id="ID6BE414429191469D8701DEF2D723D292"><enum>(A)</enum><text display-inline="yes-display-inline">Section 1201(a)(1) (7 U.S.C.
+			 8731(a)(1)).</text>
+					</subparagraph><subparagraph id="ID3355B8EE971E415DA3624BD8DB05A737"><enum>(B)</enum><text display-inline="yes-display-inline">Section 1205(a)(2)(B) (7 U.S.C.
+			 8735(a)(2)(B)).</text>
+					</subparagraph><subparagraph id="ID0E3EA70C61DD4C019B8EEECD061FFF1E"><enum>(C)</enum><text display-inline="yes-display-inline">Subsections (a) and (d) of section 1206 (7
+			 U.S.C. 8736).</text>
+					</subparagraph><subparagraph id="IDDFCB4A151440444BA1304BAD97AEAFB1"><enum>(D)</enum><text display-inline="yes-display-inline">Subsections (a)(2) and (b) of section 1209
+			 (7 U.S.C. 8739).</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID9BA3EECA247744B8A6B211F70A24181F"><enum>(E)</enum><text display-inline="yes-display-inline">Section 1307(a)(1) (7 U.S.C.
+			 8757(a)(1)).</text>
+					</subparagraph><subparagraph id="IDEFC89026904F47A1B96F09F5BEC1F74E"><enum>(F)</enum><text display-inline="yes-display-inline">Subsections (g) and (h)(1) of section 1506
+			 (7 U.S.C. 8773).</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID460DC634115D42DCA8486845CF181785"><enum>(G)</enum><text display-inline="yes-display-inline">Section 1602 (7 U.S.C. 8782).</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDF56A621099BA4B74BF0F095FA7B15CE0"><enum>(H)</enum><text display-inline="yes-display-inline">Section 1605(h) (7 U.S.C. 8783(h)).</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDAC781C6D976E4AC082076F347989B5F3"><enum>(I)</enum><text display-inline="yes-display-inline">Subsections (b)(2)(A) and (c) of section
+			 1612 (7 U.S.C. 8787).</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDA6FF1F99D6934BF3A929A1AC80429F5A"><enum>(J)</enum><text display-inline="yes-display-inline">Section 1613(c) (7 U.S.C. 8788(c)).</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDEC2E07964F91432DA2DCFA906E71BF35"><enum>(K)</enum><text display-inline="yes-display-inline">Section 1621(d) (7 U.S.C. 8792(d)).</text>
+					</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id8DB13E0E4E00440CA62B10624F08DC99"><enum>(2)</enum><header>Other
+			 amendments</header>
+					<subparagraph commented="no" id="ID5ADFE45F35E54841A3BC6A8D97E024E1"><enum>(A)</enum><header>Adjustment of
+			 prevailing world market price for upland cotton</header><text display-inline="yes-display-inline">Section 1204(e)(2)(B) of the Food,
+			 Conservation, and Energy Act of 2008 (7 U.S.C. 8734(e)(2)(B)) is amended by
+			 striking <quote>July 31, 2013</quote> and inserting <quote>July 31,
+			 2018</quote>.</text>
+					</subparagraph><subparagraph commented="no" id="IDA80E155CB6AA43A5985E55DE089F27FC"><enum>(B)</enum><header>Special
+			 marketing loan provisions for upland cotton</header><text display-inline="yes-display-inline">Section 1207(a)(2)(A) of the Food,
+			 Conservation, and Energy Act of 2008 (7 U.S.C. 8737(a)(2)(A)) is amended by
+			 striking <quote>July 31, 2013</quote> and inserting <quote>July 31,
+			 2018</quote>.</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID420B45AFCB63411B87574858BC23E635"><enum>(C)</enum><header>Special
+			 competitive provisions for extra long staple cotton</header><text display-inline="yes-display-inline">Section 1208(a) of the Food, Conservation,
+			 and Energy Act of 2008 (7 U.S.C. 8738(a)) is amended in the matter preceding
+			 paragraph (1) by striking <quote>July 31, 2013</quote> and inserting
+			 <quote>July 31, 2018</quote>.</text>
+					</subparagraph><subparagraph commented="no" id="ID3F17DF1BC4CC47AEA769C701A86B6D4F"><enum>(D)</enum><header>Dairy product
+			 price support program</header><text display-inline="yes-display-inline">Section
+			 1501(b) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8771(b)) is
+			 amended by striking <quote>December 31, 2012</quote> and inserting
+			 <quote>December 31, 2017</quote>.</text>
+					</subparagraph><subparagraph commented="no" id="ID70EF6068D8ED42B5A2479DE807C8838C"><enum>(E)</enum><header>Dairy forward
+			 pricing program</header><text display-inline="yes-display-inline">Section
+			 1502(e) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8772(e)) is
+			 amended—”</text>
+						<clause commented="no" id="idF0C4D816BAE444588F8E89C0300EF476"><enum>(i)</enum><text>in paragraph (1),
+			 by striking <quote>September 30, 2012</quote> and inserting <quote>September
+			 30, 2017</quote>; and</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="id46C92BE270A94A5FA1AC893911A5BD3E"><enum>(ii)</enum><text>in paragraph
+			 (2), by striking <quote>September 30, 2015</quote> and inserting
+			 <quote>September 30, 2020</quote>.</text>
+						</clause></subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id732853859AFB4FAB88D0A44148FE0F3E"><enum>(b)</enum><header>Other
+			 laws</header><text>The following provisions of law are amended by striking
+			 <quote>2012</quote> each place it appears and inserting
+			 <quote>2017</quote>:</text>
+				<paragraph commented="no" display-inline="no-display-inline" id="idC42EE43B87044E92A5E1DB1E562A6A7E"><enum>(1)</enum><text>The matter
+			 preceding subparagraph (A) of section 359b(a)(1) of the Agricultural Adjustment
+			 Act of 1938 (7 U.S.C. 1359bb(a)(1)).</text>
+				</paragraph><paragraph id="IDED69009077EB4D589CD5817431031317"><enum>(2)</enum><text>Section
+			 359<italic>l</italic>(a)<italic></italic>of the Agricultural Adjustment Act of
+			 1938 (7 U.S.C. 1359<italic>ll</italic>(a)).</text>
+				</paragraph><paragraph id="ID9A995950293A4CF2BDAC5B5A149CA898"><enum>(3)</enum><text display-inline="yes-display-inline">Section 153(a) of the Food Security Act of
+			 1985 (15 U.S.C. 713a–14(a)).</text>
+				</paragraph><paragraph id="ID2D1C60BB801D40BE8C4D25B511A28FE4"><enum>(4)</enum><text display-inline="yes-display-inline">Section 3 of Public Law 90–484 (7 U.S.C.
+			 450<italic>l</italic>).</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID256A1FADCDBD4CA180BA4F8ED9000D20"><enum>(5)</enum><text display-inline="yes-display-inline">Section 113(e)(2) of the Dairy Production
+			 Stabilization Act of 1983 (7 U.S.C. 4504(e)(2)).</text>
+				</paragraph><paragraph id="IDDB0F9A34B585442992C7A2E8A33DD036"><enum>(6)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="idCE57260036E049C5B955DF114D0A8BD0"><enum>(A)</enum><text>Section 156 of the
+			 Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7272) is
+			 amended—</text>
+						<clause id="id683EC2B32A1147749B48D37325DDE7B1" indent="up1"><enum>(i)</enum><text>in subsection (a)(5), by striking
+			 <quote>the 2012 crop year</quote> and inserting <quote>each of the 2013 through
+			 2017 crop years</quote>;</text>
+						</clause><clause id="id9F4CF9BC72614CDE928E3C72C81F024B" indent="up1"><enum>(ii)</enum><text>in subsection (b)(2), by striking
+			 <quote>2012</quote> and inserting <quote>2017</quote>; and</text>
+						</clause><clause id="idA76872B7E05D4946AF3A1FF4022A1E45" indent="up1"><enum>(iii)</enum><text>in subsection (i), by striking
+			 <quote>2012</quote> and inserting <quote>2017</quote>.</text>
+						</clause></subparagraph><subparagraph commented="no" id="id0C495814B9D4435CA826C3EFD2D07748" indent="up1"><enum>(B)</enum><text>Section 1402 of the Food,
+			 Conservation, and Energy Act of 2008 (7 U.S.C. 3602 note; Public Law 110–246)
+			 is amended by striking <quote>2007</quote> and inserting
+			 <quote>2012</quote>.</text>
+					</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id6CB15714B7AD4BF5B81F7907FAC6E5F9"><enum>(c)</enum><header>Technical
+			 corrections</header>
+				<paragraph commented="no" display-inline="no-display-inline" id="ID12F24A8A9C5A45C59904481FDA418605"><enum>(1)</enum><text>Section
+			 359f(c)(1)(B) of the Agricultural Adjustment Act of 1938 (7 U.S.C.
+			 1359ff(c)(1)(B)) is amended by adding a period at the end.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id37E942D294174784BB8DAAFB45871E65"><enum>(2)</enum><text display-inline="yes-display-inline">Section 1603(g) of the Food, Conservation,
+			 and Energy Act of 2008 (Public Law 110–246; 122 Stat. 1739) is amended in
+			 paragraphs (2) through (6) and the amendments made by those paragraphs by
+			 striking <quote>1703(a)</quote> each place it appears and inserting
+			 <quote>1603(a)</quote>.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id428CF098C1F7498BBBA145C2D744A6A4"><enum>(3)</enum><text display-inline="yes-display-inline">This paragraph and the amendments made by
+			 this paragraph take effect as if included in the Food, Conservation, and Energy
+			 Act of 2008 (Public Law 110–246; 122 Stat. 1651).</text>
+				</paragraph></subsection></section><section id="id02B1E8B4EE3E439892E12A4D843D0E92"><enum>5.</enum><header>Repeal of direct
+			 payment and ACRE programs</header>
+			<subsection id="id96EA5B6D15114BD58589FA0E50447F97"><enum>(a)</enum><header>Food,
+			 Conservation, and Energy Act of 2008</header>
+				<paragraph commented="no" id="idA4241145E33A48B8A832E8E4BECAA14D"><enum>(1)</enum><text>The table of
+			 contents in section 1(b) of the Food, Conservation, and Energy Act of 2008 (122
+			 Stat. 1651; 7 U.S.C. 8701 note) is amended in the items relating to title
+			 I—</text>
+					<subparagraph commented="no" id="idC6AE35E6BFAC4DC2A3F4DCAE408BED9E"><enum>(A)</enum><text>by striking the
+			 items relating to subtitle A and inserting the following:</text>
+						<quoted-block id="ide6fc20f4-42be-478a-a66c-b9d2ee25e813" style="OLC">
+							<toc>
+								<toc-entry idref="idB3FF65EE1F3B4AE7A9C381EA6B46844A" level="subtitle">Subtitle A—Revenue loss assistance program and
+				counter-Cyclical program</toc-entry>
+								<toc-entry idref="ID03FE6B385DD644E49015298B40D0E278" level="section">Sec. 1101. Base acres.</toc-entry>
+								<toc-entry idref="ID1CE1B301733B41F18AB1B5F1646A20E9" level="section">Sec. 1102. Payment yields.</toc-entry>
+								<toc-entry idref="id5741F1E1DDE24137BDF5EF8678349818" level="section">Sec. 1103. Revenue loss assistance program.</toc-entry>
+								<toc-entry idref="IDA919D891246A497D9A41B99766FB2C4E" level="section">Sec. 1104. Availability of counter-cyclical
+				payments.</toc-entry>
+								<toc-entry idref="IDF6EAE85C9EA9403F92B791498306C18F" level="section">Sec. 1105. Producer agreement required as condition of
+				provision of payments.</toc-entry>
+								<toc-entry idref="ID6E83D76741A24EF2B57863199C6FDCA2" level="section">Sec. 1106. Planting flexibility.</toc-entry>
+								<toc-entry idref="IDA215FDFBFD9D4B10B5BBF66078AA6E39" level="section">Sec. 1107. Special rule for long grain and medium grain
+				rice.</toc-entry>
+								<toc-entry idref="id356E73FF90244F6D84CE72612D1F8E5D" level="section">Sec. 1108. Period of
+				effectiveness.</toc-entry>
+							</toc>
+							<after-quoted-block>;</after-quoted-block></quoted-block>
+						<continuation-text commented="no" continuation-text-level="subparagraph">and</continuation-text></subparagraph><subparagraph commented="no" id="idD18B1555B0DB49679B058B6A030C29AC"><enum>(B)</enum><text>by striking the
+			 items relating to subtitle C.</text>
+					</subparagraph></paragraph><paragraph commented="no" id="idE6394C3B4DFD43DCBECCB5F4CF083382"><enum>(2)</enum><text>Section 1206(b)
+			 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8736(b)) is
+			 amended—</text>
+					<subparagraph commented="no" id="id0E97AAB18D204BAFA998562D0AA1100A"><enum>(A)</enum><text>in paragraph
+			 (1)(B)(ii), by striking <quote>the payment yield in effect for the calculation
+			 of direct payments under subtitle A with respect to that loan commodity on the
+			 farm or, in the case of a farm without a payment yield for that loan
+			 commodity,</quote>; and</text>
+					</subparagraph><subparagraph commented="no" id="id70ACDBFFF6284C8881EB80DC37E3FD3E"><enum>(B)</enum><text>in paragraph
+			 (2)(B)(ii), by striking <quote>the payment yield in effect for the calculation
+			 of direct payments under subtitle A with respect to wheat on the farm or, in
+			 the case of a farm without a payment yield for wheat,</quote>.</text>
+					</subparagraph></paragraph></subsection><subsection id="id51C8976747AE4AF0AE33BB4334CEE997"><enum>(b)</enum><header>Food Security
+			 Act of 1985</header>
+				<paragraph id="id90D27D0C30B4491AB65227593A29422D"><enum>(1)</enum><text>Section 1001 of
+			 the Food Security Act of 1985 (7 U.S.C. 1308) is amended by striking
+			 subsections (b) and (c) and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id1F16E8A9EB6D4834A4571191C6FB86C1" style="OLC">
+						<subsection id="ID9BF74BFD55B74FE0B8F2ED674C8E9C89"><enum>(b)</enum><header>Limitation on
+				revenue loss assistance program payments and counter-Cyclical payments for
+				covered commodities</header><text>The total amount of revenue loss assistance
+				program payments and counter-cyclical program payments received, directly or
+				indirectly, by a person or legal entity for any crop year under subtitle A of
+				title I of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8711 et
+				seq.) for 1 or more covered commodities may not exceed
+				$105,000.</text>
+						</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="id3129181D82B74924AA8861C791225D92"><enum>(2)</enum><text>Section 1001D of
+			 the Food Security Act of 1985 (7 U.S.C. 1308–3a) is amended—</text>
+					<subparagraph id="idFA115052527349C59D86FC87A55D5397"><enum>(A)</enum><text>in subsection
+			 (b)(1)—</text>
+						<clause id="idB2844F473FAD436293BB1E1DFC65C72A"><enum>(i)</enum><text>by
+			 striking subparagraphs (A) and (B) and inserting the following:</text>
+							<quoted-block display-inline="no-display-inline" id="id7211ABF8E4A8408FAE8BC482D1FC4821" style="OLC">
+								<subparagraph id="id1CF330B7536F411DA7FA797DAFE01E1D"><enum>(A)</enum><header>In
+				general</header><text>Notwithstanding any other provision of law, a person or
+				legal entity shall not be eligible to receive any benefit described in
+				subparagraph (B) during a crop, fiscal, or program year, as appropriate, if the
+				average adjusted gross income of the person or legal entity exceeds
+				$999,000.</text>
+								</subparagraph><after-quoted-block>;</after-quoted-block></quoted-block>
+						</clause><clause id="id0411DE60458D41A4B7B8B644E3809E22"><enum>(ii)</enum><text>by
+			 redesignating subparagraph (C) as subparagraph (B); and</text>
+						</clause><clause id="id52471443EE8445CCA0CDC73A9923ED92"><enum>(iii)</enum><text>in subparagraph
+			 (B) (as so designated) by striking clause (i) and inserting the
+			 following:</text>
+							<quoted-block display-inline="no-display-inline" id="id28CB91FCA1004E13A732729A1827FA08" style="OLC">
+								<clause id="id6374A903E52D4C2DADFEEF8EF5C135E3"><enum>(i)</enum><text>A
+				revenue loss assistance program payment or counter-cyclical payment under title
+				I of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8702 et
+				seq.).</text>
+								</clause><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+						</clause></subparagraph><subparagraph id="id96046FCA0C9E4BE3A09DB2D47EE7BA0B"><enum>(B)</enum><text>in subsection
+			 (f), by striking <quote>2012</quote> and inserting <quote>2017</quote>.</text>
+					</subparagraph></paragraph></subsection></section><section id="ID1d673406b1884fc088b01e9b9808205b"><enum>6.</enum><header>Supplemental
+			 coverage option</header>
+			<subsection id="ID47ec7ed171e2409cb829c9beb14cc26a"><enum>(a)</enum><header>Availability of
+			 supplemental coverage option</header><text>Section 508(c) of the Federal Crop
+			 Insurance Act (7 U.S.C. 1508(c)) is amended by striking paragraph (3) and
+			 inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id7C01734CE3354458ABF4F776658ADCE8" style="OLC">
+					<paragraph id="IDf322a728ac39447b878d9484fdd5575e"><enum>(3)</enum><header>Yield and loss
+				basis options</header><text>A producer shall have the option of purchasing
+				additional coverage based on—</text>
+						<subparagraph id="ID66213b17f469408ab2f4f90f2aeee9db"><enum>(A)</enum><clause commented="no" display-inline="yes-display-inline" id="id1900CEC01FC7447BBABBD56B9686E06B"><enum>(i)</enum><text>an individual yield and
+				loss basis; or</text>
+							</clause><clause id="id8FE42BADFEC84F4C9CD385D2FF8223F9" indent="up1"><enum>(ii)</enum><text>an area yield and loss basis;
+				or</text>
+							</clause></subparagraph><subparagraph id="ID20870feccc9c454a9e4be46073c9395f"><enum>(B)</enum><text>an individual
+				yield and loss basis, supplemented with coverage based on an area yield and
+				loss basis to cover a part of the deductible under the individual yield and
+				loss policy, as described in paragraph
+				(4)(C).</text>
+						</subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="IDdc31038d31c941248fd7c5c4a42cf774"><enum>(b)</enum><header>Level of
+			 coverage</header><text>Section 508(c) of the Federal Crop Insurance Act (7
+			 U.S.C. 1508(c)) is amended by striking paragraph (4) and inserting the
+			 following:</text>
+				<quoted-block display-inline="no-display-inline" id="idA90EBD9C6AB14367A2CBFCC220750BB8" style="OLC">
+					<paragraph id="ID20117a92f2f54dc99151ba2eace70d3a"><enum>(4)</enum><header>Level of
+				coverage</header>
+						<subparagraph id="IDb103634ec4f3437fbc8b0c19921aea0b"><enum>(A)</enum><header>Dollar
+				denomination</header><text>Except as provided in subparagraph (C), the level of
+				coverage shall be dollar-denominated.</text>
+						</subparagraph><subparagraph id="IDec52458ee2924518b259a24c90201a67"><enum>(B)</enum><header>Information</header><text>The
+				Corporation shall provide producers with information on catastrophic risk and
+				additional coverage in terms of dollar coverage (within the allowable limits of
+				coverage provided in this paragraph).</text>
+						</subparagraph><subparagraph id="IDae3d91aadb7a46ceab0c0c062918e812"><enum>(C)</enum><header>Supplemental
+				coverage option</header>
+							<clause id="IDfe0a926a2c92425f836f7dbb8e3fc559"><enum>(i)</enum><header>In
+				general</header><text>Notwithstanding subparagraph (A), in the case of the
+				supplemental coverage option described in paragraph (3)(B), the Corporation
+				shall offer producers the opportunity to purchase coverage in combination with
+				an individual policy or plan of insurance (other than catastrophic risk
+				protection) offered under this subtitle that would allow indemnities to be paid
+				to a producer equal to part of the deductible under the individual policy or
+				plan of insurance, if sufficient area data is available (as determined by the
+				Corporation).</text>
+							</clause><clause id="ID6ef5858e40bd4398830c3486d14c71e3"><enum>(ii)</enum><header>Trigger</header><text>Coverage
+				offered under paragraph (3)(B) and clause (i) shall be triggered only if the
+				losses in the area exceed 25 percent of normal levels (as determined by the
+				Corporation).</text>
+							</clause><clause id="IDf5be2ad5514a46daa33d0e4d0dcfa2ca"><enum>(iii)</enum><header>Coverage</header><text>Subject
+				to the trigger described in clause (ii) and the deductible required under
+				clause (iv), coverage offered under paragraph (3)(B) and clause (i) shall cover
+				the first loss incurred by the producer but not to exceed the difference
+				between—</text>
+								<subclause id="IDb88afcbb46aa47e4b63b584f6ef4ce1a"><enum>(I)</enum><text>75 percent;
+				and</text>
+								</subclause><subclause id="IDa431c8dfd7e34a7289352e5037cb6f5c"><enum>(II)</enum><text>the coverage
+				level selected by the producer for the underlying policy or plan of
+				insurance.</text>
+								</subclause></clause><clause id="ID0bd045a5cdb64159adc94b5b2440635e"><enum>(iv)</enum><header>Deductible</header><text>Coverage
+				offered under paragraph (3)(B) and clause (i) shall be subject to a deductible
+				in an amount equal to 25 percent of the expected value of the crop of the
+				producer under the underlying policy or plan of insurance, as determined by the
+				Corporation.</text>
+							</clause><clause commented="no" id="ID273bf853699b4a269c9271ef6cb843ce"><enum>(v)</enum><header>Required
+				terms</header><text>The supplemental coverage option shall be offered to
+				producers of an agricultural commodity in each county in which the agricultural
+				commodity is produced—</text>
+								<subclause commented="no" id="IDe3290f6fd69c4cfc9cd5d5865e22e776"><enum>(I)</enum><text>at a county-wide
+				level to the fullest extent practicable; or</text>
+								</subclause><subclause commented="no" display-inline="no-display-inline" id="ID202c88114e6643c1bc18634d94dfbfe5"><enum>(II)</enum><text>in a county that
+				lacks sufficient data, on the basis of such larger geographical area as the
+				Corporation determines to provide sufficient data for purposes of providing the
+				coverage.</text>
+								</subclause></clause><clause id="ida7cec28744d94f3ba020d8c518bbbd96"><enum>(vi)</enum><header>Premium
+				amount</header><text>Notwithstanding subsection (d), the premium shall—</text>
+								<subclause id="id22ec1d284b9a41d4b1faf1b861ce88ac"><enum>(I)</enum><text>be sufficient to
+				cover anticipated losses and a reasonable reserve; and</text>
+								</subclause><subclause id="idb905d5ee0e6d472eb0890a3f7294e365"><enum>(II)</enum><text>include an
+				amount for operating and administrative expenses established in accordance with
+				subsection (k)(4)(F), but not to exceed 6 percent of the premium used to define
+				the loss ratio for the supplemental coverage
+				option.</text>
+								</subclause></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="IDcd538f951db549f8946cecf860d55813"><enum>(c)</enum><header>Premium</header><text>Section
+			 508(d)(2)(B) of the Federal Crop Insurance Act (7 U.S.C. 1508(d)(2)(B)) is
+			 amended in the matter preceding clause (i) by inserting <quote>or that combines
+			 an individual yield and loss basis and an area yield and loss basis</quote>
+			 after <quote>not based on individual yield</quote>.</text>
+			</subsection><subsection id="IDd52a1f96eed840caa41ced16fece0cf3"><enum>(d)</enum><header>Payment of
+			 portion of premium by Corporation</header><text>Section 508(e)(2) of the
+			 Federal Crop Insurance Act (7 U.S.C. 1508(e)(2)) is amended by adding at the
+			 end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idA0ABA4D62A4846F592A0D9333E49B023" style="OLC">
+					<subparagraph id="ID53b92de3952c4a7780a9c933ef1db881"><enum>(H)</enum><text>In the case of
+				the supplemental coverage option described in paragraphs (3)(B) and (4)(C) of
+				subsection (c), the amount shall be equal to the sum of—</text>
+						<clause id="ID359cd1b4f81049e3b5a04a193f3e838f"><enum>(i)</enum><text>not less than 70
+				percent of the additional premium associated with the coverage; and</text>
+						</clause><clause id="ID1dca77d038034ce7834092b57e7d1c0a"><enum>(ii)</enum><text>the amount
+				determined under subsection (d)(2)(B)(ii) for the coverage to cover operating
+				and administrative
+				expenses.</text>
+						</clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="ID4e0e556151dc4895a276b7196caa057a"><enum>(e)</enum><header>Data
+			 sources</header><text>Section 508(g)(2) of the Federal Crop Insurance Act (7
+			 U.S.C. 1508(g)(2)) is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idC39A7EB3E0AF44EB849A8ECD6B458F18" style="OLC">
+					<subparagraph id="IDd51c0f1a032e4701bc8779ecea98df55"><enum>(E)</enum><header>Sources of
+				yield data</header><text>To determine yields under the program established
+				under this paragraph, the Corporation shall use data collected by the Risk
+				Management Agency or the National Agricultural Statistics Service, or
+				both.</text>
+					</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="id6F91396BC50241739E865E5E07D31D80"><enum>(f)</enum><header>Administrative
+			 and operating costs reimbursement rate</header><text>Section 508(k)(4)(F) of
+			 the Federal Crop Insurance Act (7 U.S.C. 1508(k)(4)(F)) is amended by inserting
+			 <quote>or as authorized under section 508(c)(4)(C)</quote> after <quote>date of
+			 enactment of this subparagraph</quote>.</text>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="ID63881522da564762b01bd92dc3c22c03"><enum>(g)</enum><header>Effective
+			 date</header><text>The Federal Crop Insurance Corporation shall begin to
+			 provide additional coverage based on an individual yield and loss basis,
+			 supplemented with coverage based on an area yield and loss basis, not later
+			 than for the 2013 crop year.</text>
+			</subsection></section><section id="ID29c84eaa83ca4dfbababec8943241b38"><enum>7.</enum><header>Catastrophic
+			 risk protection premium reduction</header><text display-inline="no-display-inline">Section 508(d)(2) of the Federal Crop
+			 Insurance Act (7 U.S.C. 1508(d)(2)) is amended by striking subparagraph (A) and
+			 inserting the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idDF6B165ACAAE4518B4FE08987523B837" style="OLC">
+				<subparagraph id="IDc7ea166f341f427e8592a29c496fdcc9"><enum>(A)</enum><header>Catastrophic
+				risk protection</header>
+					<clause id="ID583cfa4d47054544b36f87c15fca466e"><enum>(i)</enum><header>In
+				general</header><text>For the 2011 and previous crop years, the amount of the
+				premium for catastrophic risk protection coverage shall be sufficient to cover
+				anticipated losses and a reasonable reserve.</text>
+					</clause><clause id="ID8ff056a202b7436b8063cd434dafa9f9"><enum>(ii)</enum><header>Reduction</header><text>For
+				the 2012 and subsequent crop years, the amount of the premium for catastrophic
+				risk protection coverage authorized under clause (i) shall be reduced by the
+				percentage equal to the difference between the average loss ratio for each crop
+				and 100 percent, plus a reasonable
+				reserve.</text>
+					</clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="idd3b724aa6d31473582022085287f1b61"><enum>8.</enum><header>Adjustment in
+			 actual production history to establish insurable yields</header><text display-inline="no-display-inline">Section 508(g)(4)(B) of the Federal Crop
+			 Insurance Act (7 U.S.C. 1508(g)(4)(B)) is amended by striking <quote>60
+			 percent</quote> both places it appears and inserting <quote>70
+			 percent</quote>.</text>
+		</section><section id="H9CB7D7064D9D4E468707D2F1A77198F5"><enum>9.</enum><header>Supplemental
+			 agricultural disaster assistance</header>
+			<subsection commented="no" id="id15F4A7661E4844E585D373836748717A"><enum>(a)</enum><header>Definitions</header><text>Section
+			 531(a) of the Federal Crop Insurance Act (7 U.S.C. 1531(a)) is amended—</text>
+				<paragraph commented="no" id="idE49F1124F48F437B847452B508CDF644"><enum>(1)</enum><text>in paragraph
+			 (5)—</text>
+					<subparagraph id="idEEA41796076C4DCFA214CD964ABCFC2C"><enum>(A)</enum><text>in the matter
+			 preceding clause (i), by striking the first <quote>under</quote>; and</text>
+					</subparagraph><subparagraph id="id33D510F4D33443528CEF05BFE47047DD"><enum>(B)</enum><text>by redesignating
+			 clauses (i) through (iii) as subparagraphs (A), (B), and (C), respectively, and
+			 indenting appropriately;</text>
+					</subparagraph></paragraph><paragraph commented="no" id="id52CDDDF757A74DCB836ADAE59E0B356D"><enum>(2)</enum><text>by striking
+			 paragraph (20); and</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idA40F7E8085E6481B910C82320412E25A"><enum>(3)</enum><text>by redesignating
+			 paragraph (21) as paragraph (20).</text>
+				</paragraph></subsection><subsection commented="no" id="idE9AFEF07402143EEAC2BFB1AB737D5E9"><enum>(b)</enum><header>Supplemental
+			 revenue assistance payments</header><text>Section 531(b) of the Federal Crop
+			 Insurance Act (7 U.S.C. 1531(b)) is amended—</text>
+				<paragraph commented="no" id="id0B2B927A0B774D699D14C435A5C7DD89"><enum>(1)</enum><text>in paragraph
+			 (1)—</text>
+					<subparagraph commented="no" id="id8EF7DE72729C4952A09668C93AF79CBE"><enum>(A)</enum><text>in subparagraph
+			 (A)—</text>
+						<clause commented="no" id="id532F9A3006F042DA9FC0855F6D3ACBDD"><enum>(i)</enum><text>by striking
+			 <quote>from the Trust Fund</quote> and inserting <quote>of the Commodity Credit
+			 Corporation</quote>; and</text>
+						</clause><clause commented="no" id="id996C1BCB290C43B8B56C3878626C86D6"><enum>(ii)</enum><text>by striking
+			 <quote>the crop year</quote> and inserting <quote>during the period beginning
+			 on October 1, 2011, and ending on September 30, 2012</quote>; and</text>
+						</clause></subparagraph><subparagraph commented="no" id="idBA94304E597243B1AFBFC0540EB8B96F"><enum>(B)</enum><text>in subparagraph
+			 (B), by striking <quote>crop of economic significance</quote> and inserting
+			 <quote>covered commodity (as defined in section 1001 of the Food, Conservation,
+			 and Energy Act of 2008 (7 U.S.C. 8702)) or peanuts</quote>;</text>
+					</subparagraph></paragraph><paragraph commented="no" id="id675B7D4FE8F04849882A05B8ED16D038"><enum>(2)</enum><text>in paragraph
+			 (2)(A), in the matter preceding clause (i), by striking <quote>60
+			 percent</quote> and inserting <quote>50 percent</quote>;</text>
+				</paragraph><paragraph commented="no" id="idBF8407FAEE1D4F6AAA28A9C790D931B3"><enum>(3)</enum><text>in paragraph
+			 (3)(A)(i), in the matter preceding subclause (I), by striking <quote>115
+			 percent</quote> and inserting <quote>112 percent</quote>; and</text>
+				</paragraph><paragraph commented="no" id="id925F14AFCDBD49F09C580D5ABBDC4DD7"><enum>(4)</enum><text>in paragraph
+			 (4)—</text>
+					<subparagraph commented="no" id="id7D106E2C0E60467FB077F46191DC824C"><enum>(A)</enum><text>in subparagraph
+			 (A)—</text>
+						<clause commented="no" id="idA42CD4C279F443068EFFB07412DDDF19"><enum>(i)</enum><text>in clause
+			 (i)(II), by inserting <quote>the first 4 months of</quote> after
+			 <quote>received for</quote>; and</text>
+						</clause><clause commented="no" id="idC5C7C01A7174433DA907E09BBF24B130"><enum>(ii)</enum><text>in clause (ii),
+			 by striking <quote>15 percent</quote> and inserting <quote>100 percent</quote>;
+			 and</text>
+						</clause></subparagraph><subparagraph commented="no" id="id705E67295B0C46F5A99B27E037492804"><enum>(B)</enum><text>in subparagraph
+			 (C), by inserting <quote>the first 4 months of</quote> after <quote>during
+			 the</quote>.</text>
+					</subparagraph></paragraph></subsection><subsection id="idE3088BD0ED6E429AA8095030D1A72753"><enum>(c)</enum><header>Livestock
+			 indemnity payments</header><text>Section 531(c) of the Federal Crop Insurance
+			 Act (7 U.S.C. 1531(c)) is amended—</text>
+				<paragraph id="id3562094CFA2D4FECBC0DD7EBE6B1217A"><enum>(1)</enum><text>in paragraph
+			 (1)—</text>
+					<subparagraph id="idA0ECB0254A10456890AB59E880C6BFCF"><enum>(A)</enum><text>by striking
+			 <quote>from the Trust Fund</quote> and inserting <quote>of the funds of the
+			 Commodity Credit Corporation for each of fiscal years 2012 through
+			 2021</quote>; and</text>
+					</subparagraph><subparagraph id="ID71eaa22dddc64d819574a32c5fd87875"><enum>(B)</enum><text>by inserting
+			 <quote>, or due to predators protected or reintroduced by the Federal
+			 Government, as determined by the Secretary</quote> before the period at the
+			 end; and</text>
+					</subparagraph></paragraph><paragraph id="id4EB2753D6AA14B55AA1AA11664E9233E"><enum>(2)</enum><text>in paragraph (2),
+			 by striking <quote>75</quote> and inserting <quote>65</quote>.</text>
+				</paragraph></subsection><subsection id="id8457F747936E43ED90EE1CD463DCE79A"><enum>(d)</enum><header>Livestock
+			 forage disaster program</header><text>Section 531(d) of the Federal Crop
+			 Insurance Act (7 U.S.C. 1531(d)) is amended—</text>
+				<paragraph id="id5011ABC54C0340BE9F390DD3B2E7115C"><enum>(1)</enum><text>in paragraph (2),
+			 by striking <quote>from the Trust Fund</quote> and inserting <quote>of the
+			 funds of the Commodity Credit Corporation for each of fiscal years 2012 through
+			 2021</quote>;</text>
+				</paragraph><paragraph id="id735E3A643F6F4102AEBE7E7EB7435BCB"><enum>(2)</enum><text>by striking
+			 paragraph (5); and</text>
+				</paragraph><paragraph id="id17F6BE398D4F424CBB51E169B561BC89"><enum>(3)</enum><text>by redesignating
+			 paragraph (6) as paragraph (5).</text>
+				</paragraph></subsection><subsection id="id4C2C5D252C6E4D87A7DE406D9A11937D"><enum>(e)</enum><header>Emergency
+			 assistance for livestock, honey bees, and farm-Raised
+			 fish</header><text>Section 531(e)(1) of the Federal Crop Insurance Act (7
+			 U.S.C. 1531(e)(1)) is amended by striking <quote>$50,000,000 per year from the
+			 Trust Fund</quote> and inserting <quote>$20,000,000 of the funds of the
+			 Commodity Credit Corporation for each of fiscal years 2012 through
+			 2021</quote>.</text>
+			</subsection><subsection id="id6F4D0F36091B404EBD6B80589A1FF1CA"><enum>(f)</enum><header>Tree assistance
+			 program</header><text>Section 531(f) of the Federal Crop Insurance Act (7
+			 U.S.C. 1531(f)) is amended—</text>
+				<paragraph id="id24E730E17A6B432C8CB1BA437256C8C3"><enum>(1)</enum><text>in paragraph
+			 (2)(A), by striking <quote>from the Trust Fund</quote> and inserting <quote>of
+			 the funds of the Commodity Credit Corporation for each of fiscal years 2012
+			 through 2021</quote>; and</text>
+				</paragraph><paragraph id="idFC6392CA8E244DA5AB7C1B559618A6CE"><enum>(2)</enum><text>in paragraph
+			 (3)—</text>
+					<subparagraph id="id1FD09593485A4B699E577D4E52024592"><enum>(A)</enum><text>in subparagraph
+			 (A)(i), by striking <quote>70</quote> and inserting <quote>60</quote>;
+			 and</text>
+					</subparagraph><subparagraph id="id4AA0FC8B7BE14919B024D79BFBEB6586"><enum>(B)</enum><text>in subparagraph
+			 (B), by striking <quote>50</quote> and inserting <quote>40</quote>.</text>
+					</subparagraph></paragraph></subsection><subsection id="idDAC7377F1A9B420DBC8E73767ACEF66A"><enum>(g)</enum><header>Risk management
+			 purchase requirement</header><text>Section 531(g)(1) of the Federal Crop
+			 Insurance Act (7 U.S.C. 1531(g)(1)) is amended in the matter preceding
+			 subparagraph (A) by striking <quote>and (d)</quote> and inserting <quote>, (d),
+			 and (e)</quote>.</text>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="idF7A5AD1216DE4CDDBF8D717576936901"><enum>(h)</enum><header>Conforming
+			 amendments</header>
+				<paragraph commented="no" display-inline="no-display-inline" id="idE521BDBBC67545BBABAFCFCE6AF3CC2F"><enum>(1)</enum><text>Section 531 of
+			 the Federal Crop Insurance Act (7 U.S.C. 1531) is amended—</text>
+					<subparagraph commented="no" display-inline="no-display-inline" id="idF1EBC7E52BA742F4A3BD2BE863F72D48"><enum>(A)</enum><text>by striking
+			 subsection (i); and</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id5603567C6E554199A7A3C686C16C34FC"><enum>(B)</enum><text>by redesignating
+			 subsections (j) and (k) as subsections (i) and (j), respectively.</text>
+					</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id9FE9A998D9E64DE0915C3EA846CB2EDE"><enum>(2)</enum><text>Title IX of the
+			 Trade Act of 1974 (19 U.S.C. 2497 et seq.) is repealed.</text>
+				</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID0b9891146b4f4b13a3968158a16bd0b4"><enum>(i)</enum><header>Effective
+			 date</header><text>This section and the amendments made by this section take
+			 effect on October 1, 2011.</text>
+			</subsection></section><section id="id0B662CFB964F41CCBA5D10E88C9D71AD"><enum>10.</enum><header>Budgetary
+			 effects</header><text display-inline="no-display-inline">The budgetary effects
+			 of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act
+			 of 2010, shall be determined by reference to the latest statement titled
+			 <quote>Budgetary Effects of PAYGO Legislation</quote> for this Act, submitted
+			 for printing in the Congressional Record by the Chairman of the Senate Budget
+			 Committee, provided that such statement has been submitted prior to the vote on
+			 passage.</text>
+		</section><section id="id0BAA40F554244EA1BB14B4B0437DDEAF" section-type="subsequent-section"><enum>11.</enum><header>Effective
+			 date</header><text display-inline="no-display-inline">Except as otherwise
+			 provided in this Act, this Act and the amendments made by this Act take effect
+			 on October 1, 2012.</text>
+		</section></legis-body>
+</bill>

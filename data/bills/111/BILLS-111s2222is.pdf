@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>111th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 2222</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20091029">October 29, 2009</action-date>
+			<action-desc><sponsor name-id="S210">Mr. Lieberman</sponsor> (for
+			 himself and <cosponsor name-id="S150">Mr. Dodd</cosponsor>) introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To suspend temporarily the duty on yarn of carded camel
+		  hair.</official-title>
+	</form>
+	<legis-body>
+		<section id="id4A45EA35ADE045A6BD9AC684599C0829" section-type="section-one"><enum>1.</enum><header>Yarn of carded camel
+			 hair</header>
+			<subsection id="IDf66c49db85124ea7b1f5b1433f0706dd"><enum>(a)</enum><header>In
+			 general</header><text>Subchapter II of chapter 99 of the Harmonized Tariff
+			 Schedule of the United States is amended by inserting in numerical sequence the
+			 following new heading:</text>
+				<quoted-block display-inline="no-display-inline" id="id0E60230D87F84032854C9D6EF6FB9EA0" style="OLC">
+					<table align-to-level="section" blank-lines-before="1" colsep="1" frame="none" line-rules="hor-ver" rowsep="0" rule-weights="0.0.0.0.4.17" table-template-name="Duty Suspension, 8 Column" table-type="exception-quote">
+						<tgroup block-style="1" cols="8" grid-typeface="1.1" rowsep="0" thead-tbody-ldg-size="0.7.9"><colspec coldef="txt-no-ldr-no-spread" colname="column1" colwidth="8pts" min-data-value="8"></colspec><colspec coldef="txt-no-ldr-no-spread" colname="column2" colwidth="61.88pt" min-data-value="35"></colspec><colspec coldef="txt" colname="column3" colwidth="59.13pt" min-data-value="60"></colspec><colspec coldef="txt-no-ldr-no-spread" colname="column4" colwidth="25pts" min-data-value="25"></colspec><colspec coldef="txt-no-ldr-no-spread" colname="column5" colwidth="38pts" min-data-value="38"></colspec><colspec coldef="txt-no-ldr-no-spread" colname="column6" colsep="1" colwidth="38pts" min-data-value="38"></colspec><colspec coldef="txt-no-spread" colname="column7" colwidth="38pts" min-data-value="38"></colspec><colspec align="justify" coldef="fig" colname="column8" colwidth="12pts" min-data-value="3"></colspec>
+							<tbody>
+								<row><entry align="left" colname="column1" leader-modify="clr-ldr" rowsep="0" stub-definition="txt-clr" stub-hierarchy="1"></entry><entry align="left" colname="column2" leader-modify="clr-ldr" rowsep="0" valign="top">9902.12.26</entry><entry align="left" colname="column3" leader-modify="force-ldr-bottom" rowsep="0" valign="bottom">Yarn of carded camel hair (provided for in subheading
+						5108.10.80)</entry><entry align="left" colname="column4" leader-modify="clr-ldr" rowsep="0" valign="bottom">Free</entry><entry align="left" colname="column5" leader-modify="clr-ldr" rowsep="0" valign="bottom">No change</entry><entry align="left" colname="column6" leader-modify="clr-ldr" rowsep="0" valign="bottom">No change</entry><entry align="left" colname="column7" leader-modify="force-ldr-bottom" rowsep="0" valign="bottom">On or before 12/31/2011</entry><entry align="right" colname="column8" leader-modify="clr-ldr" rowsep="0" valign="bottom"></entry>
+								</row>
+							</tbody>
+						</tgroup></table>
+					<after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="IDb457468dbf5d4a72b79a790832bad359"><enum>(b)</enum><header>Effective
+			 date</header><text>The amendment made by subsection (a) applies with respect to
+			 goods entered, or withdrawn from warehouse for consumption, on or after the
+			 15th day after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>

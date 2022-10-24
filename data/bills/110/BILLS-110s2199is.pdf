@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 2199</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20071018">October 18, 2007</action-date>
+			<action-desc><sponsor name-id="S173">Mr. Kerry</sponsor> introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to provide for
+		  the treatment of certain foreign nonqualified deferred
+		  compensation.</official-title>
+	</form>
+	<legis-body>
+		<section id="H826B2D369C2B48368289C3E0FF3F5139" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Offshore Deferred Compensation Reform
+			 Act of 2007</short-title></quote>.</text>
+		</section><section display-inline="no-display-inline" id="H7F1843ACB3E34AD7B2AA3D9903E88475" section-type="subsequent-section"><enum>2.</enum><header>Special rule for
+			 certain foreign nonqualified deferred compensation</header>
+			<subsection id="HE414F6777888445C9C2070D205706DB8"><enum>(a)</enum><header>In
+			 general</header><text>Subpart B of part II of subchapter E of chapter 1 of the
+			 Internal Revenue Code of 1986 (relating to taxable year for which items of
+			 gross income included) is amended by inserting after section 457 the following
+			 new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HCA9441302EFA47068CEAC8ADC05ED43C" style="OLC">
+					<section id="H7864E4CE2BAD4FE8AEEA8D2F85BE1047"><enum>457A.</enum><header>Certain
+				foreign nonqualified deferred compensation</header>
+						<subsection id="HA4AC3223A867407285C238CD38FEF562"><enum>(a)</enum><header>In
+				general</header><text display-inline="yes-display-inline">Any compensation
+				which is deferred under a nonqualified deferred compensation plan (within the
+				meaning of section 409A(d)) of a nonqualified foreign corporation is includible
+				in gross income for purposes of this chapter when there is no substantial risk
+				of forfeiture of the rights to such amount.</text>
+						</subsection><subsection id="H23775AA74B5B4D6CA5A53CD979877EA4"><enum>(b)</enum><header>Nonqualified
+				foreign corporation</header><text>For purposes of this section, the term
+				<term>nonqualified foreign corporation</term> means any foreign corporation
+				unless substantially all of the income of such corporation—</text>
+							<paragraph id="H07834DF08A8F4F349946A735A1AAAAEC"><enum>(1)</enum><text display-inline="yes-display-inline">is effectively connected with the conduct
+				of a trade or business in the United States, or</text>
+							</paragraph><paragraph id="H300177C97B794441A65BEF8F89B15531"><enum>(2)</enum><text display-inline="yes-display-inline">is subject to an income tax imposed by a
+				foreign country, but only if—</text>
+								<subparagraph id="H53552F9D30D44B2FA38D5E5CE2071533"><enum>(A)</enum><clause commented="no" display-inline="yes-display-inline" id="HC14E643713C840E9908CBFDDC61159D"><enum>(i)</enum><text>such corporation is
+				eligible for benefits of a comprehensive income tax treaty which such country
+				has with the United States which the Secretary determines is satisfactory for
+				purposes of this section and which includes an exchange of information program,
+				or</text>
+									</clause><clause id="H8F208805B25B4F72973F009BF864C620" indent="up1"><enum>(ii)</enum><text>the Secretary determines that such
+				income tax is a comprehensive income tax satisfactory for purposes of this
+				section, and</text>
+									</clause></subparagraph><subparagraph id="H6F05ECAA1D044B01BA7EE3F7943E1105"><enum>(B)</enum><text>a deduction is
+				allowed for compensation described in subsection (a) under rules substantially
+				similar to the rules of this title.</text>
+								</subparagraph></paragraph></subsection><subsection id="HE6F03D3F88EF4F0E89B6E0E63CBFABF"><enum>(c)</enum><header>Application of
+				certain rules</header><text display-inline="yes-display-inline">Rules similar
+				to the rules of paragraphs (4), (5), and (6) of section 409A(d) shall apply for
+				purposes of this section.</text>
+						</subsection><subsection id="H3B6EB5E15AF1490799AF4BE8E8EF00B1"><enum>(d)</enum><header>Regulations</header><text display-inline="yes-display-inline">The Secretary shall prescribe such
+				regulations as may be necessary or appropriate to carry out the purposes of
+				this section, including regulations disregarding a substantial risk of
+				forfeiture in cases where necessary to carry out the purposes of this
+				section.</text>
+						</subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H30FD8884E99D402000C86DEAE5334864"><enum>(b)</enum><header>Clerical
+			 amendment</header><text display-inline="yes-display-inline">The table of
+			 sections of subpart B of part II of subchapter E of chapter 1 of such Code is
+			 amended by inserting after the item relating to section 457 the following new
+			 item:</text>
+				<quoted-block display-inline="no-display-inline" id="HF4CC2E3267A5464D83E47B70641B307B" style="OLC">
+					<toc container-level="quoted-block-container" idref="HCA9441302EFA47068CEAC8ADC05ED43C" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+						<toc-entry idref="H7864E4CE2BAD4FE8AEEA8D2F85BE1047" level="section">Sec. 457A. Certain foreign nonqualified deferred
+				compensation.</toc-entry>
+					</toc>
+					<after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H710DDB25C4F54CA0B0ABE5B57E913427"><enum>(c)</enum><header>Effective
+			 date</header>
+				<paragraph id="H8FB0700DA84B43A5888CCB70855F1609"><enum>(1)</enum><header>In
+			 general</header><text>The amendments made by this section shall apply to
+			 amounts deferred in taxable years beginning after December 31, 2007.</text>
+				</paragraph><paragraph id="H31D1282E5571410CABBE9F545CD8E4D8"><enum>(2)</enum><header>Earnings</header><text>The
+			 amendments made by this section shall apply to earnings on deferred
+			 compensation only to the extent that such amendments apply to such
+			 compensation.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>

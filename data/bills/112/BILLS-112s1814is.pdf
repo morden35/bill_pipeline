@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 1814</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20111107">November 7, 2011</action-date>
+			<action-desc><sponsor name-id="S331">Mrs. Gillibrand</sponsor>
+			 introduced the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSHR00">Committee on Health, Education, Labor,
+			 and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XXVIII of the Public Health Service Act to
+		  reauthorize certain provisions relating to public health
+		  preparedness.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>National Disaster Medical System
+			 Act</short-title></quote>.</text>
+		</section><section id="idF7B4CF00CF354F1CBE2D0878CA9B1D7E"><enum>2.</enum><header>Reauthorization
+			 of certain provisions relating to public health preparedness</header><text display-inline="no-display-inline">Section 2812 of the Public Health Service
+			 Act (42 U.S.C. 300hh–11) is amended—</text>
+			<paragraph id="id85971E53E14F42B0901894A19AF6DFDF"><enum>(1)</enum><text display-inline="yes-display-inline">in subsection (a)(3), by adding at the end
+			 the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id06E4E04405C54FB4885028EBDF71A6AB" style="OLC">
+					<subparagraph id="id1E77E4D4115D4C5EA9F3C4A09D766255"><enum>(D)</enum><header>Administration</header><text display-inline="yes-display-inline">The Secretary may determine and pay claims
+				for reimbursement for services under subparagraph (A) directly or by contract
+				providing for payment in advance or by way of
+				reimbursement.</text>
+					</subparagraph><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+			</paragraph><paragraph id="idD7FD0F7FDE764103ACC6E490DFC99457"><enum>(2)</enum><text display-inline="yes-display-inline">in subsection (g), by striking <quote>such
+			 sums as may be necessary for each of the fiscal years 2007 through 2011</quote>
+			 and inserting <quote>$56,000,000 for each of fiscal years 2012 through
+			 2016</quote>.</text>
+			</paragraph></section></legis-body>
+</bill>

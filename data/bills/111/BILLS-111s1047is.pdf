@@ -1,0 +1,293 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-print="no" public-private="public" stage-count="1" star-print="no-star-print">
+	<form display="yes">
+		<distribution-code display="yes">II</distribution-code>
+		<congress display="yes">111th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num display="yes">S. 1047</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED
+		  STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20090514">May 14, 2009</action-date>
+			<action-desc><sponsor name-id="S306">Mr. Menendez</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSJU00">Committee on the
+			 Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type display="yes">A BILL</legis-type>
+		<official-title display="yes">To promote Internet safety education and
+		  cybercrime prevention initiatives, and for other purposes. </official-title>
+	</form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC">
+		<section commented="no" display-inline="no-display-inline" id="S1" section-type="section-one"><enum>1.</enum><header display-inline="yes-display-inline">Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>School And Family Education about the
+			 Internet Act of 2009</short-title></quote> or the <quote>SAFE Internet
+			 Act</quote>.</text>
+		</section><section commented="no" display-inline="no-display-inline" id="ID8f36bc0c676e45b482642ab9eab54f68" section-type="subsequent-section"><enum>2.</enum><header display-inline="yes-display-inline">Findings and purpose</header>
+			<subsection commented="no" display-inline="no-display-inline" id="id65565D108BBE4754A068C5E543ADF15F"><enum>(a)</enum><header display-inline="yes-display-inline">Findings</header><text display-inline="yes-display-inline">Congress finds the following:</text>
+				<paragraph commented="no" display-inline="no-display-inline" id="ID5e291e7c6e2544f0afd3a72c1154b122"><enum>(1)</enum><text display-inline="yes-display-inline">The Internet is an invaluable tool that is
+			 critical to the ability of the Nation to compete in a global economy. The
+			 Internet provides instant access to research and boundless information, and
+			 establishes digital connections between individuals around the world.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID5f925e26fdd6458986e89d5eeb529a8b"><enum>(2)</enum><text display-inline="yes-display-inline">About 93 percent of youth ages 12 through
+			 17 years are online and nearly 45 percent of children ages 3 to 11 years will
+			 use the Internet on a monthly basis in 2009. Eighty-nine percent of youth 13
+			 through 19 years of age have a profile on social-networking sites. Eighty
+			 percent of teens 13 through 17 years of age use cell phones, most of which have
+			 built-in cameras.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDb3cd6a9a613b444abc1152251a16cd8e"><enum>(3)</enum><text display-inline="yes-display-inline">Internet safety education, coupled with
+			 technology tools, is the most effective way to resolve and prevent the problems
+			 and dangers relating to misuse of the Internet and other new media.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID17bbff4f6dca4f72ad5a3594e0a5fa96"><enum>(4)</enum><text display-inline="yes-display-inline">According to an empirical study of 1,379
+			 fourth grade students in Virginia, the first State to mandate Internet safety
+			 education in its schools, the students improved their responses to 8 of 10
+			 questions after completing an Internet safety education program, especially in
+			 2 major areas, uncomfortable content and cyberbullying.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID222b3728cb4840d1bd431dba48f35ba8"><enum>(5)</enum><text display-inline="yes-display-inline">As a result of the enactment of the
+			 Children’s Internet Protection Act (Public Law 106–554; 114 Stat. 2763A–336) in
+			 2000, which mandated that schools implement Internet safety policies and
+			 technology protection measures to receive E-Rate funding, most schools have
+			 developed acceptable use policies and implemented filtering and other
+			 technology-based solutions to help protect children.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID351ee80a3ba5413fa54511f54807aaf9"><enum>(6)</enum><text display-inline="yes-display-inline">Most elementary and secondary school
+			 educators have received little or no professional development training on
+			 Internet safety. As a result, many students receive little or no education on
+			 safe, responsible, and ethical use of Internet and other new media.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDd54540ae51a048a38fc9fe65c9e42cee"><enum>(7)</enum><text display-inline="yes-display-inline">The widespread use of the Internet, cell
+			 phones, interactive gaming, and other electronic communication devices by
+			 children both inside and outside of school suggest that acceptable use policies
+			 and filtering alone cannot resolve Internet safety concerns, and that a greater
+			 focus on education would be beneficial.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID07c6b2e759c64553bbc5c03a38042760"><enum>(8)</enum><text display-inline="yes-display-inline">In a national poll on children’s health,
+			 parents ranked Internet safety fifth among their top health concerns for
+			 children. Educating parents about Internet safety is key to empowering them to
+			 understand actual risks and to take an active role in protecting their
+			 children.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDf98aba0c9d2c41f2a2c783b45effd225"><enum>(9)</enum><text display-inline="yes-display-inline">The problem of online harassment or
+			 cyberbullying of youth by other youths is widespread, and results in a range of
+			 children’s experiences from minor irritation to severe emotional harm. The
+			 Bureau of Justice Statistics has found that online harassment tends to begin in
+			 third and fourth grade, peaks in seventh and eighth grade, and continues in
+			 reduced amounts throughout high school, college, and professional
+			 schools.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDf938ef59d6cf4a9c9ab9557521bd3859"><enum>(10)</enum><text display-inline="yes-display-inline">Young people face greater risks in the form
+			 of electronic aggression and sexual solicitation from other young people known
+			 to them than from strangers.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID588d0d8289dc4999a26e043dd2e818ed"><enum>(11)</enum><text display-inline="yes-display-inline">Gang members increasingly are using the
+			 Internet as a recruitment tool to entice would-be members and as an
+			 intimidation tool to threaten rival gangs. Gang members use the Internet in
+			 particular to promote their message.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID19915d05cf4d463cbedd1cdd2fc7a35b"><enum>(12)</enum><text display-inline="yes-display-inline">More research is needed in several areas of
+			 youth online safety, including—</text>
+					<subparagraph commented="no" display-inline="no-display-inline" id="id1C88833FA0F2477189BF95E1029D9528"><enum>(A)</enum><text display-inline="yes-display-inline">minor-to-minor solicitation to use the
+			 Internet in an inappropriate manner;</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idDA36D6A6459A4400918AD6F7B2223B84"><enum>(B)</enum><text display-inline="yes-display-inline">the creation of problematic content by
+			 youths;</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id6DF634EEA71E4F2E920303B315CFC5F1"><enum>(C)</enum><text display-inline="yes-display-inline">lesbian, gay, bisexual, and transgender
+			 youth and youth with disabilities who may be particularly vulnerable;</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id26F78B520CBB4635BA3B12CE8BD4763C"><enum>(D)</enum><text display-inline="yes-display-inline">the interplay between socioeconomic class
+			 and risk factors;</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id9F046C85C9894B4198345539CA46F066"><enum>(E)</enum><text display-inline="yes-display-inline">the role that pervasive digital image and
+			 video capture devices play in harassment of youth by other youth and youth
+			 production of problematic content;</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idF86DF753C85D4444A6FAA56F32006769"><enum>(F)</enum><text display-inline="yes-display-inline">the intersection of different mobile and
+			 Internet-based technologies; and</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id627D9B05625540669D43E25FDF404834"><enum>(G)</enum><text display-inline="yes-display-inline">the online activities of registered sex
+			 offenders.</text>
+					</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID5819a900c1914f659d9edf83d6f46443"><enum>(b)</enum><header display-inline="yes-display-inline">Purposes</header><text display-inline="yes-display-inline">The purposes of this Act are to—</text>
+				<paragraph commented="no" display-inline="no-display-inline" id="IDcdd43adaa425467199ac1f32cc2ba8e1"><enum>(1)</enum><text display-inline="yes-display-inline">facilitate research and identify best
+			 practices in Internet safety education; and</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID3412af9610c6454483db43eb00af868c"><enum>(2)</enum><text display-inline="yes-display-inline">establish a competitive grant program for
+			 State educational agencies, local educational agencies, and nonprofit
+			 organizations to promote Internet safety education in the community.</text>
+				</paragraph></subsection></section><section commented="no" display-inline="no-display-inline" id="ID3f8a2238aaee4c6c8a1dac85f5836fff" section-type="subsequent-section"><enum>3.</enum><header display-inline="yes-display-inline">Definitions</header><text display-inline="no-display-inline">In this Act:</text>
+			<paragraph commented="no" display-inline="no-display-inline" id="IDcda6285ff1b0406291c3d590b1e9b55d"><enum>(1)</enum><header display-inline="yes-display-inline">Applicable agency heads</header><text display-inline="yes-display-inline">The term <term>applicable agency
+			 heads</term> means the Director, with the concurrence of the Secretary of
+			 Education and the Secretary of Health and Human Services.</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id51ECE6B6895D47D394600F3A6D35B559"><enum>(2)</enum><header display-inline="yes-display-inline">Director</header><text display-inline="yes-display-inline">The term <term>Director</term> means the
+			 Director of the Bureau of Justice Assistance.</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id976837760D844BE2B478473362502941"><enum>(3)</enum><header display-inline="yes-display-inline">Eligible entity</header><text display-inline="yes-display-inline">The term <term>eligible entity</term>
+			 means—</text>
+				<subparagraph commented="no" display-inline="no-display-inline" id="id4C8AC717166B4ABEA2474F138D1C0BA7"><enum>(A)</enum><text display-inline="yes-display-inline">a partnership between a State educational
+			 agency and 1 or more local educational agencies (as those terms are defined in
+			 section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C.
+			 7801)) of the State;</text>
+				</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idB5F4939F96DB43DAA36A74F8B2AD34ED"><enum>(B)</enum><text display-inline="yes-display-inline">a local educational agency;</text>
+				</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id4FA3373C6E0C47CC98BE0BBA63034D0D"><enum>(C)</enum><text display-inline="yes-display-inline">a nonprofit organization; or</text>
+				</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idB083FCEBF38542798F13DBF778785008"><enum>(D)</enum><text display-inline="yes-display-inline">a consortium of elementary schools or
+			 secondary schools (as those terms are defined in section 9101 of the Elementary
+			 and Secondary Education Act of 1965 (20 U.S.C. 7801)) collaborating with an
+			 entity described in subparagraph (A), (B), or (C).</text>
+				</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idD836DD41468F44DEBAA73FD2CD317E88"><enum>(4)</enum><header display-inline="yes-display-inline">Grant
+			 guidance</header><text display-inline="yes-display-inline">The term <term>grant
+			 guidance</term> means the grant guidance issued under section 4(e)(1).</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDebb9d870f6a04717bb949f5f1760bce4"><enum>(5)</enum><header display-inline="yes-display-inline">Internet safety education
+			 program</header><text display-inline="yes-display-inline">The term
+			 <quote>Internet safety education program</quote> means an age-appropriate,
+			 research-based program that encourages safe, ethical, and responsible use of
+			 the Internet, promotes an informed, critical understanding of the Internet, and
+			 educates children and communities about how to prevent or respond to problems
+			 or dangers related to the Internet or new media.</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID77cb006fbf49480785603a90e551588e"><enum>(6)</enum><header display-inline="yes-display-inline">New media</header><text display-inline="yes-display-inline">The term <term>new media</term>—</text>
+				<subparagraph commented="no" display-inline="no-display-inline" id="id64B082F5A99E4DF2B25942EAC13D8DCF"><enum>(A)</enum><text display-inline="yes-display-inline">means emerging digital, computerized, or
+			 networked information and communication technologies that often have
+			 interactive capabilities; and</text>
+				</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idF65DDC1DDF1B41D887F569DCAB496471"><enum>(B)</enum><text display-inline="yes-display-inline">includes e-mail, instant messaging, text
+			 messaging, websites, blogs, interactive gaming, social media, cell phones, and
+			 mobile devices.</text>
+				</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDbd03b1f59ca44a1f8125e7bcf75d686d"><enum>(7)</enum><header display-inline="yes-display-inline">Nonprofit</header><text display-inline="yes-display-inline">The term <term>nonprofit</term> means that
+			 a person is an organization that is described in section 501(c) of the Internal
+			 Revenue Code of 1986, and exempt from tax under section 501(a) of that
+			 Code.</text>
+			</paragraph></section><section commented="no" display-inline="no-display-inline" id="IDf026cb6df91a4e8697113aadd01eebfd" section-type="subsequent-section"><enum>4.</enum><header display-inline="yes-display-inline">Grant program</header>
+			<subsection commented="no" display-inline="no-display-inline" id="ID839a85f8a09e4d578886ea89b017312c"><enum>(a)</enum><header display-inline="yes-display-inline">Authority To make grants</header>
+				<paragraph commented="no" display-inline="no-display-inline" id="id58B195A0A52945CFBCD46C4B6A1C72BC"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Subject to subsection (e)(1), the Director,
+			 after consultation with the Secretary of Education and the Secretary of Health
+			 and Human Services, may make grants to eligible entities to carry out an
+			 Internet safety education program and other activities relating to Internet
+			 safety.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idA7B63B94F9FE4A0C9B2A753006530D53"><enum>(2)</enum><header display-inline="yes-display-inline">Period</header><text display-inline="yes-display-inline">A grant under this section shall be for a
+			 2-year period.</text>
+				</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID57690645cc2f4457a2d59fcc14d88b4c"><enum>(b)</enum><header display-inline="yes-display-inline">Application</header><text display-inline="yes-display-inline">An eligible entity desiring a grant under
+			 this section shall submit an application to the Director, which shall
+			 include—</text>
+				<paragraph commented="no" display-inline="no-display-inline" id="ID77406c9f115644dd87ad634ed3f448fa"><enum>(1)</enum><text display-inline="yes-display-inline">a description of the partnership
+			 arrangements, if any, of the eligible entity relating to the activities to be
+			 carried out with the grant;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID63ac3c74561e461cbe3f3c0d1c556204"><enum>(2)</enum><text display-inline="yes-display-inline">a description of the measurable goals of
+			 the eligible entity relating to the activities to be carried out with the
+			 grant;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID18cf6367853749399c778770d60dcaf8"><enum>(3)</enum><text display-inline="yes-display-inline">a description of how the Internet safety
+			 education program of the eligible entity shall achieve the measurable goals
+			 described in paragraph (2);</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDcb055c6fdb9141a0b54cac7f12890d7b"><enum>(4)</enum><text display-inline="yes-display-inline">a description of the plan of the eligible
+			 entity to continue to implement the Internet safety education program after the
+			 grant under this section ends;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID7294dae295c24afdb8e84d2315126b75"><enum>(5)</enum><text display-inline="yes-display-inline">a description of how funds under the grant
+			 may be used and coordinated with Internet safety education programs being
+			 carried out on the date of enactment of this Act or other Internet safety
+			 education programs established with grants under this section;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID7cfa9016dd22415ca2bdd8f6eabc9a7f"><enum>(6)</enum><text display-inline="yes-display-inline">a description of the demographics of the
+			 individuals that shall be targeted under the proposed Internet safety education
+			 program; and</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDc66975b82cd440b09a9f48c75c037c5c"><enum>(7)</enum><text display-inline="yes-display-inline">any other information or assurances
+			 required by the Director.</text>
+				</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="IDf0ca5f08069047a99ea0853197132f73"><enum>(c)</enum><header display-inline="yes-display-inline">Prioritization</header><text display-inline="yes-display-inline">In making grants under this section, the
+			 Director shall give priority to an eligible entity that—</text>
+				<paragraph commented="no" display-inline="no-display-inline" id="ID4b4e9fa960e945cc8dd51182a2fb244f"><enum>(1)</enum><text display-inline="yes-display-inline">is comprised of a partnership between 1 or
+			 more nonprofit groups and education agencies;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID2ac03ac9af064f2e81f34e166240e6c6"><enum>(2)</enum><text display-inline="yes-display-inline">identifies and targets at-risk
+			 children;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID2124879933d64f9b99331e62bfbab938"><enum>(3)</enum><text display-inline="yes-display-inline">works in partnership with the private
+			 sector, law enforcement, the philanthropic community, the media, researchers,
+			 social services organizations, or other community-based groups;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDa44384f7deea4bf0a1ad51748c4d10bb"><enum>(4)</enum><text display-inline="yes-display-inline">provides Internet safety education programs
+			 at no cost to students or schools;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID4df21bf74f6d401da965d5de612e3f79"><enum>(5)</enum><text display-inline="yes-display-inline">accommodates different languages and
+			 language proficiencies;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID340c8434c3b741f88587a1e2cfbaf880"><enum>(6)</enum><text display-inline="yes-display-inline">accommodates differing levels of
+			 technological sophistication; or</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID40a2fd4b51b94faba6433bbce6825372"><enum>(7)</enum><text display-inline="yes-display-inline">has a viable plan to sustain the Internet
+			 safety education program after the grant program ends.</text>
+				</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID8aad140eba544a5ea0da9f521bab3f05"><enum>(d)</enum><header display-inline="yes-display-inline">Use of funds</header><text display-inline="yes-display-inline">An eligible entity may use a grant under
+			 this section to—</text>
+				<paragraph commented="no" display-inline="no-display-inline" id="IDa3a3b78ccab84045ab6a787d00533888"><enum>(1)</enum><text display-inline="yes-display-inline">identify, develop, and implement Internet
+			 safety education programs, including educational technology, multimedia and
+			 interactive applications, online resources, and lesson plans;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDc5bb3f3875d14750a9ae2a674d6b75a1"><enum>(2)</enum><text display-inline="yes-display-inline">provide professional training to elementary
+			 and secondary teachers, administrators, and other staff on Internet safety and
+			 new media literacy;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDabf8eed5401d472eaa5b273b8781f724"><enum>(3)</enum><text display-inline="yes-display-inline">develop online-risk prevention programs for
+			 children;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID62ccfc2c7f714e74b0b3d333dce748ce"><enum>(4)</enum><text display-inline="yes-display-inline">train and support peer-driven Internet
+			 safety education initiatives;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID5f3f30f8aeb644ba8fc7e8b39f15f40c"><enum>(5)</enum><text display-inline="yes-display-inline">coordinate and fund research initiatives
+			 that investigate online risks to children and Internet safety education;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDa785fafc5d3743c49b88fd52be8b1e2e"><enum>(6)</enum><text display-inline="yes-display-inline">develop and implement public education
+			 campaigns to promote awareness of online risks to children and Internet safety
+			 education;</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID52418c8c53f44bac825e8e6680dd5142"><enum>(7)</enum><text display-inline="yes-display-inline">educate parents about teaching their
+			 children how to use the Internet and new media safely, responsibly, and
+			 ethically and help parents identify and protect their children from risks
+			 relating to use of the Internet and new media; or</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDfa760a5d79f94bd1891d2e9822570a97"><enum>(8)</enum><text display-inline="yes-display-inline">carry out any other activity approved by
+			 the Director.</text>
+				</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id1F613364D25C4F09AA51A1802E4CDCD1"><enum>(e)</enum><header display-inline="yes-display-inline">Grant guidance</header>
+				<paragraph commented="no" display-inline="no-display-inline" id="ID1d9619e94537475890eb8923c49b33bc"><enum>(1)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Before making grants under this section,
+			 and not later than 1 month after the date on which the study under paragraph
+			 (3)(A) is completed, the applicable agency heads, in consultation with
+			 education groups, Internet safety groups, and other relevant experts in the
+			 field of new media, shall issue detailed guidance for the grant program under
+			 this section.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDdc5d34656b8d418082c17acbb65dd8ce"><enum>(2)</enum><header display-inline="yes-display-inline">Contents of guidance</header><text display-inline="yes-display-inline">The grant guidance shall be in accordance
+			 with best practices relating to Internet education and the research-based
+			 recommendations derived from the study conducted under paragraph (3)(A).</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idDBBFF07F95C9483783EAC29B1B7F3AEB"><enum>(3)</enum><header display-inline="yes-display-inline">Internet safety research</header>
+					<subparagraph commented="no" display-inline="no-display-inline" id="idF89B0759815C45BBA6436CBFACFA9EAC"><enum>(A)</enum><header display-inline="yes-display-inline">Initial research</header><text display-inline="yes-display-inline">The applicable agency heads shall enter
+			 into contracts with one or more private companies, government agencies, or
+			 nonprofit organizations to complete a study, not later than 3 months after the
+			 date of enactment of this Act, regarding—</text>
+						<clause commented="no" display-inline="no-display-inline" id="ID0e76a0db4bc6415c841e04ac9c1d7361"><enum>(i)</enum><text display-inline="yes-display-inline">the nature and prevalence of Internet
+			 safety education programs and any evidence-based research conducted relating to
+			 the programs;</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="ID2b3e4fa699ca4cacb554bce28e5b8089"><enum>(ii)</enum><text display-inline="yes-display-inline">findings regarding at-risk children;</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="idBFB57F40FB19461AB80328D59AD0E296"><enum>(iii)</enum><text display-inline="yes-display-inline">gaps in Internet safety education and youth
+			 online risk research; and</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="ID787507c9362e43e9a9aecaf8833bfdff"><enum>(iv)</enum><text display-inline="yes-display-inline">any other area determined appropriate by
+			 the applicable agency heads.</text>
+						</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDaf8ae44516a642d0a455a751b41287c8"><enum>(B)</enum><header display-inline="yes-display-inline">Additional research</header><text display-inline="yes-display-inline">Subject to the availability of
+			 appropriations, the applicable agency heads shall enter into contracts with
+			 private companies, government agencies, or nonprofit organizations to conduct
+			 additional research regarding the issues described in subparagraph (A). Any
+			 research conducted under this subparagraph shall be included in the reports
+			 under subsection (g)(3).</text>
+					</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID6a59f1d6e90346628b486cf25fadfc95"><enum>(f)</enum><header display-inline="yes-display-inline">Technical assistance</header><text display-inline="yes-display-inline">The applicable agency heads shall provide
+			 technical assistance to eligible entities that receive a grant under this
+			 section, which may include maintaining a website to facilitate outreach and
+			 communication among the eligible entities that receive a grant under this
+			 section.</text>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="ID2b032765c1d94e8fabf8e4d0dce5310c"><enum>(g)</enum><header display-inline="yes-display-inline">Reports</header>
+				<paragraph commented="no" display-inline="no-display-inline" id="idCF5B9843EEAC42EFBF1DDC32A7FB69C0"><enum>(1)</enum><header display-inline="yes-display-inline">By eligible entities</header><text display-inline="yes-display-inline">An eligible entity that receives a grant
+			 under this section shall issue publically an annual report regarding the
+			 activities carried out using funds made available under the grant, which shall
+			 include—</text>
+					<subparagraph commented="no" display-inline="no-display-inline" id="idB0304EC4BE9C4CD0874DFB1DF7ABF560"><enum>(A)</enum><text display-inline="yes-display-inline">a description of how the eligible entity
+			 implemented the Internet safety education program carried out with the
+			 grant;</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idFC3256CFEE6D4FAA8F9FC81A7599CCE3"><enum>(B)</enum><text display-inline="yes-display-inline">the number and demographic characteristics
+			 of the individuals reached;</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idB526A2B47BBB4163A4572CA3534C0DE0"><enum>(C)</enum><text display-inline="yes-display-inline">an analysis of whether and to what degree
+			 the goals for the Internet safety education program were met; and</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id5CE5D140DFBB469A8FCC6D4491FE3D22"><enum>(D)</enum><text display-inline="yes-display-inline">an analysis of the challenges, if any, that
+			 interfered with achieving the goals described in subparagraph (C).</text>
+					</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDf58897325a2e4979877e9257c46a79e7"><enum>(2)</enum><header display-inline="yes-display-inline">Compilation of annual reports for revised
+			 grant guidance</header><text display-inline="yes-display-inline">The applicable
+			 agency heads shall—</text>
+					<subparagraph commented="no" display-inline="no-display-inline" id="id49C9CF43153841F1AC5B825E10711E31"><enum>(A)</enum><text display-inline="yes-display-inline">review the report under paragraph (1)
+			 issued by each eligible entity that receives a grant under this section during
+			 the first fiscal year for which grants under this section are made; and</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idC3A3046CE52E414A880B89ADE3CAACA9"><enum>(B)</enum><text display-inline="yes-display-inline">not later than 6 months after the date on
+			 which all reports described in subparagraph (A) are issued, modify the grant
+			 guidance based on the reports.</text>
+					</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDaf3f9ca13d954e349970588aa4bacfad"><enum>(3)</enum><header display-inline="yes-display-inline">Reports to congress</header><text display-inline="yes-display-inline">Not later than 27 months after the date on
+			 which the Director makes the first grant under this section, and annually
+			 thereafter, the applicable agency heads shall submit to Congress a report
+			 regarding the grant program under this section, which shall include—</text>
+					<subparagraph commented="no" display-inline="no-display-inline" id="id2D1501611AFC4CCE8F758B952C6C8707"><enum>(A)</enum><text display-inline="yes-display-inline">a compilation of the information and
+			 findings of the annual reports issued under paragraph (1);</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id9AE4D55E4CA741CD91E40F7E61682EE7"><enum>(B)</enum><text display-inline="yes-display-inline">the findings and conclusions of the
+			 applicable agency heads, including findings and conclusions relating to the
+			 effectiveness of Internet safety education programs carried out using a grant
+			 under this section; and</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id7AC7A3D9DDCD49DA8B55DBD389E4C183"><enum>(C)</enum><text display-inline="yes-display-inline">best practices identified by the applicable
+			 agency heads relating to Internet safety education.</text>
+					</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID29276b52a2504a129be2a6f851d82a11"><enum>(h)</enum><header display-inline="yes-display-inline">Authorization of
+			 appropriations</header><text display-inline="yes-display-inline">There is
+			 authorized to be appropriated to the Director to carry out this section
+			 $35,000,000 for each of fiscal years 2010 through 2014. Of amounts made
+			 available to carry out this section, not more than 5 percent shall be available
+			 to carry out subsections (e), (f), and (g)(2).</text>
+			</subsection></section></legis-body>
+</bill>

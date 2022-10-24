@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 1395</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20070515">May 15, 2007</action-date>
+			<action-desc><sponsor name-id="S131">Mr. Levin</sponsor> (for himself
+			 and <cosponsor name-id="S312">Mrs. McCaskill</cosponsor>) introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban
+			 Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prevent unfair practices in credit card accounts, and
+		  for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>Stop Unfair Practices in Credit
+			 Cards Act of 2007</short-title></quote>.</text>
+		</section><section id="idD17B6C646EF645B1A734F700BA2ADD46"><enum>2.</enum><header>Stop unfair
+			 interest rates and fees</header><text display-inline="no-display-inline">Section 163 of the Truth in Lending Act (15
+			 U.S.C. 1666b) is amended—</text>
+			<paragraph id="ID57add70cae25466998dd355a8bd7627c"><enum>(1)</enum><text>by striking the
+			 section title and all that follows through <quote>If an open</quote> and
+			 inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id858C33D2D7F14BDF836E4418502BCA8F" style="USC">
+					<section id="idDE76EFC9E14442A4BCD2BEA29DD470E9"><enum>163.</enum><header>Billing period
+				and finance charges</header>
+						<subsection id="ID2d17729a215c47f9a93d1f9672d34e29"><enum>(a)</enum><header>Billing
+				period</header>
+							<paragraph id="IDde555f8660754f7793d9847e5fa7cb9f"><enum>(1)</enum><header>Fourteen-day
+				minimum</header><text>If an
+				open</text>
+							</paragraph></subsection></section><after-quoted-block>;</after-quoted-block></quoted-block>
+			</paragraph><paragraph id="ID0848f2fc12c24871850a5acfbb4f6742"><enum>(2)</enum><text>by striking
+			 <quote><header-in-text level="subsection" style="OLC">(b)
+			 </header-in-text>Subsection (a)</quote> and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idA4C6AFA0ED0147A2A3DC403F03C18F58" style="OLC">
+					<paragraph id="idABBDDF8F4E654CA8B4F04B00FA7BB25A"><enum>(2)</enum><header>Excusable
+				cause</header><text>Subsection (a)</text>
+					</paragraph><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+			</paragraph><paragraph id="ID139de8f6843140e9bdd125bf0d476fad"><enum>(3)</enum><text>by adding at the
+			 end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idB1BEE3B7F78240C78B557D864BDA4BEB" style="OLC">
+					<subsection id="ID61b5541a776b40659e21ab5cd69a63eb"><enum>(b)</enum><header>No interest
+				charge on debt that is paid on time</header><text>If an open end consumer
+				credit plan provides a time period within which an obligor may repay any
+				portion of the credit extended without incurring an interest charge, and the
+				obligor repays all or a portion of such credit within the specified time
+				period, the creditor may not impose or collect an interest charge on the
+				portion of the credit that was repaid within the specified time period.</text>
+					</subsection><subsection id="ID64d952a82de341a88909b1d59c18d25c"><enum>(c)</enum><header>No interest on
+				debt that is paid on time and in full</header><text>In an open end consumer
+				credit plan, if a billing statement requests an obligor to repay within a
+				specified time period all of the credit extended under the plan and related
+				finance charges, and the obligor pays all of the specified amount within the
+				specified time period, the creditor may not impose or collect an additional
+				interest charge on the amount that was paid in full and within the specified
+				time period.</text>
+					</subsection><subsection id="ID65a89d42909041d6a88e140743259371"><enum>(d)</enum><header>Limits on
+				interest rate increases</header>
+						<paragraph id="IDadd8b747f0234dadb9eab96c4dad6030"><enum>(1)</enum><header>In
+				general</header><text>With respect to a credit card account under an open end
+				consumer credit plan, the creditor shall not increase the periodic rate of
+				interest applicable to extensions of credit while such account remains open,
+				unless—</text>
+							<subparagraph id="IDb27ef86b16a24288aecc501e9db74acb"><enum>(A)</enum><text>such increase is
+				pursuant to the expiration of an introductory rate which was disclosed under
+				section 127(c)(6);</text>
+							</subparagraph><subparagraph id="IDd4f626db5b554adc89f295eff3735a31"><enum>(B)</enum><text>such increase is
+				pursuant to the application of a variable rate which was disclosed under
+				section 127(c)(1)(A)(i)(II);</text>
+							</subparagraph><subparagraph id="ID151452104d774d40bb9d964f6574aa5f"><enum>(C)</enum><text>such increase is
+				pursuant to the application of a penalty rate which was disclosed under
+				subsections (a)(4) and (c)(1)(A)(i) of section 127; or</text>
+							</subparagraph><subparagraph id="ID3f7aa84c441e4618888909cf0e296b8a"><enum>(D)</enum><text>the obligor has
+				provided specific written consent to such increase at the time such increase
+				was proposed.</text>
+							</subparagraph></paragraph><paragraph id="IDb6959c7e7ad34bebaa95446115c07016"><enum>(2)</enum><header>Limit on
+				penalty interest rate</header><text>If an obligor fails to repay an extension
+				of credit in accordance with the terms of a credit card account under an open
+				end consumer credit plan, and the creditor determines to apply a penalty rate,
+				as described in paragraph (1)(C), notwithstanding paragraph (1)(D), such
+				penalty rate may not, while such account is open, exceed 7 percentage points
+				above the interest rate that was in effect with respect to such account on the
+				date immediately preceding the first such penalty increase for such
+				account.</text>
+						</paragraph></subsection><subsection id="IDe14e586d08524cbf99ad254882142354"><enum>(e)</enum><header>Interest rate
+				increases limited to future credit extensions</header><text>With respect to a
+				credit card account under an open end consumer credit plan, if the creditor
+				increases the periodic interest rate applicable to an extension of credit under
+				the account, such increased rate shall apply only to extensions of credit made
+				on and after the date of such increase under the account, and any extension of
+				credit under such account made before the date of such increase shall continue
+				to incur interest at the rate that was in effect on the date prior to the date
+				of the increase.</text>
+					</subsection><subsection id="IDadf97b2b510c479fb645a36503dd9981"><enum>(f)</enum><header>No interest
+				charges on fees</header><text>With respect to a credit card account under an
+				open end consumer credit plan, if the creditor imposes a transaction fee on the
+				obligor, including a cash advance fee, late fee, over-the-limit fee, or balance
+				transfer fee, the creditor may not impose or collect interest with respect to
+				such fee amount.</text>
+					</subsection><subsection id="IDfd781356089d4a4bafbc1b965bde9f94"><enum>(g)</enum><header>Fixed credit
+				limit</header><text>With respect to each credit card account under an open end
+				consumer credit plan, the creditor shall offer to the obligor the option of
+				obtaining a fixed credit limit that cannot be exceeded, and with respect to
+				which any request for credit in excess of such fixed limit must be refused,
+				without exception and without imposing an over-the-limit fee or other penalty
+				on such obligor.</text>
+					</subsection><subsection id="ID69706fce900948b7b1f2e1cdd57f3e25"><enum>(h)</enum><header>Over-the-limit
+				fee restrictions</header><text>With respect to a credit card account under an
+				open end consumer credit plan, an over-the-limit fee, as described in section
+				127(c)(1)(B)(iii)—</text>
+						<paragraph id="ID1f931c3e04af4429a4913facad704962"><enum>(1)</enum><text>may be imposed on
+				the account only when an extension of credit obtained by the obligor causes the
+				credit limit on such account to be exceeded, and may not be imposed when such
+				credit limit is exceeded due to a penalty fee, such as a late fee or
+				over-the-limit fee, that was added to the account balance by the creditor;
+				and</text>
+						</paragraph><paragraph id="ID3b08229878bf4af0969318fac98ff836"><enum>(2)</enum><text>may be imposed
+				only once during a billing cycle if, on the last day of such billing cycle, the
+				credit limit on the account is exceeded, and no additional over-the-limit fee
+				shall be imposed in a subsequent billing cycle with respect to such excess
+				credit, unless the obligor has obtained an additional extension of credit in
+				excess of such credit limit during such subsequent cycle.</text>
+						</paragraph></subsection><subsection id="ID2aebccec141c4759ad03aa5f5f6134db"><enum>(i)</enum><header>Other
+				fees</header>
+						<paragraph id="IDf639b41c33db432f89197291893a1a6f"><enum>(1)</enum><header>No fee to pay a
+				billing statement</header><text>With respect to a credit card account under an
+				open end consumer credit plan, the creditor may not impose a separate fee to
+				allow the obligor to repay an extension of credit or finance charge, whether
+				such repayment is made by mail, electronic transfer, telephone authorization,
+				or other means.</text>
+						</paragraph><paragraph id="IDe2ea848226d04db8afa682b91d265904"><enum>(2)</enum><header>Reasonable
+				currency exchange fee</header><text>With respect to a credit card account under
+				an open end consumer credit plan, the creditor may impose a fee for exchanging
+				United States currency with foreign currency in an account transaction, only
+				if—</text>
+							<subparagraph id="id5F86A264487745AC86D289442F3B6169"><enum>(A)</enum><text>such fee
+				reasonably reflects the actual costs incurred by the creditor to perform such
+				currency exchange;</text>
+							</subparagraph><subparagraph id="id89F69EB71ABA46249578E36D8451B201"><enum>(B)</enum><text>the creditor
+				discloses publicly its method for calculating such fee; and</text>
+							</subparagraph><subparagraph id="idB40778F1900A485BA9BFB981AC81C163"><enum>(C)</enum><text>the primary
+				Federal regulator of such creditor determines that the method for calculating
+				such fee complies with this paragraph.</text>
+							</subparagraph></paragraph></subsection><subsection id="ID48fcb1c45bd94482b62b29c4e1cbc651"><enum>(j)</enum><header>Annual
+				audit</header><text>The primary Federal regulator of a card issuer shall audit,
+				on at least an annual basis, the credit card operations and procedures used by
+				such issuer to ensure compliance with this section and section 164, including
+				by reviewing a sample of billing statements to determine when they were mailed
+				and received, and by reviewing a sample of credit card accounts to determine
+				when and how payments and finance charges were applied. Such regulator shall
+				promptly require the card issuer to take any corrective action needed to comply
+				with this
+				section.</text>
+					</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="ID432e2b9364734b12bdcc8b300cb395b2"><enum>3.</enum><header>Stop unfair
+			 application of card payments</header><text display-inline="no-display-inline">Section 164 of the Truth in Lending Act (15
+			 U.S.C. 1666c) is amended—</text>
+			<paragraph id="IDa9928fac9a81457cbf1a50111e5c6111"><enum>(1)</enum><text>by striking the
+			 section heading and all that follows through <quote>Payments</quote> and
+			 inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id8120F2748DC14B6CA00D92B88487FA5C" style="USC">
+					<section id="idD63092FF47D54DEC84C96EE58BD1DF44"><enum>164.</enum><header>Prompt and
+				fair crediting of payments</header>
+						<subsection id="idCA8B4E0E4DEF4FA8BF5C29CC54373E97"><enum>(a)</enum><header>In
+				general</header><text>Payments</text>
+						</subsection></section><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+			</paragraph><paragraph id="ID10303103cde54d668b470c1f8dc6d857"><enum>(2)</enum><text>by adding at the
+			 end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id1EBE514856D5470E8A956B1F442B5259" style="OLC">
+					<subsection id="ID07d32a8647224b5c956c197447dc4410"><enum>(b)</enum><header>Application of
+				payment</header><text>Upon receipt of a payment from a cardholder, the card
+				issuer shall—</text>
+						<paragraph id="ID1506e176797d423abe924ef096ef6e09"><enum>(1)</enum><text>apply the payment
+				first to the card balance bearing the highest rate of interest, and then to
+				each successive balance bearing the next highest rate of interest, until the
+				payment is exhausted; and</text>
+						</paragraph><paragraph id="ID3f94e58b4bb34848b4e6359e715c0dfc"><enum>(2)</enum><text>after complying
+				with paragraph (1), apply the payment in the most effective way to minimize the
+				imposition of any finance charge to the account.</text>
+						</paragraph></subsection><subsection id="IDe1fae81d2dca445ea2a647c8a5f88470"><enum>(c)</enum><header>Changes by card
+				issuer</header><text>If a card issuer makes a material change in the mailing
+				address, office, or procedures for handling cardholder payments, and such
+				change causes a material delay in the crediting of a cardholder payment made
+				during the 60-day period following the date on which such change took effect,
+				the card issuer may not impose any late fee or finance charge for a late
+				payment on the credit card account to which such payment was
+				credited.</text>
+					</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="ID5b4ebcb07f4248f0b56b6b4ef64d07df"><enum>4.</enum><header>Stop deceptive
+			 disclosure</header><text display-inline="no-display-inline">Section 127(e) of
+			 the Truth in Lending Act (15 U.S.C. 1637(e)) is amended by adding at the end
+			 the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id44988FD5DAF1458BA6DC43BEE034DBC8" style="OLC">
+				<paragraph id="ID1610c51d3e924cb4a2917ccb7a950d82"><enum>(3)</enum><header>Interest rate
+				linked to prime rate</header><text>If a credit card solicitation, application,
+				agreement, or plan specifies use of a variable interest rate established by
+				reference to a <quote>prime rate</quote>, <quote>prime interest rate</quote>,
+				or similar rate or index, the referenced rate shall be disclosed and defined as
+				the bank prime loan rate posted by a majority of the top 25 (by assets in
+				domestic offices) United States chartered commercial banks, as published by the
+				Board of Governors of the Federal Reserve System. To avoid an unfair or
+				deceptive act or practice, a card issuer may not use the term <quote>prime
+				rate</quote> to refer to any other type of interest
+				rate.</text>
+				</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="ID2c2fb67f3ca64c8fbbf16c84805d5388"><enum>5.</enum><header>Definitions</header><text display-inline="no-display-inline">Section 103 of the Truth in Lending Act (15
+			 U.S.C. 1602) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id53922EB5E9C241589014C6FD7178E0D3" style="OLC">
+				<subsection id="ID854f783c0f7e4f8ab4ad87d3848375ce"><enum>(cc)</enum><header>Primary
+				Federal regulator</header>
+					<paragraph id="id98588B3BEB5647DFACCC2D205503C91D"><enum>(1)</enum><header>In
+				general</header><text>The term <term>primary Federal regulator</term>, when
+				used with respect to a card issuer that is a depository institution, has the
+				same meaning as the term <term>appropriate Federal banking agency</term>, under
+				section 3 of the Federal Deposit Insurance Act.</text>
+					</paragraph><paragraph id="id8AADCFDF75FD48FBAD48ED90B6071AC1"><enum>(2)</enum><header>Areas of
+				responsibility</header><text>For each card issuer within its regulatory
+				jurisdiction, the primary Federal regulator shall be responsible for overseeing
+				the credit card operations of the card issuer, ensuring compliance with the
+				requirements of this title, and enforcing the prohibition against unfair or
+				deceptive acts or
+				practices.</text>
+					</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="IDba055b7e4afa493abc54b4a4c463e118"><enum>6.</enum><header>Strengthen
+			 credit card information collection</header><text display-inline="no-display-inline">Section 136(b) of the Truth in Lending Act
+			 (15 U.S.C. 1646(b)) is amended—</text>
+			<paragraph id="IDa40ad9b5f0ea45c58e22482bb1b2c1a7"><enum>(1)</enum><text>in paragraph
+			 (1)—</text>
+				<subparagraph id="id6C8A0EF21BDD4E82AF7D72BC7F24B9D3"><enum>(A)</enum><text>by striking
+			 <quote>The Board shall</quote> and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id2B564D7F5DC84583A150F4B34A045E36" style="OLC">
+						<subparagraph id="id64BBDD6EFED2409B9FAAFBD4EFE710B5"><enum>(A)</enum><header>In
+				general</header><text>The Board shall</text>
+						</subparagraph><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+				</subparagraph><subparagraph id="IDb15b9216cbd7480a907682474d6e0d3f"><enum>(B)</enum><text>by adding at the
+			 end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id822919CEF3BB4BAFBB379C11D84E274F" style="OLC">
+						<subparagraph id="ID1208eb1443514d2cb71db9c342e236e4"><enum>(B)</enum><header>Information to
+				be included</header><text>The information under subparagraph (A) shall include,
+				as of a date designated by the Board—</text>
+							<clause id="ID8729fe5b75224504a012ec52c26066f7"><enum>(i)</enum><text>a
+				list of each type of transaction or event for which one or more of the card
+				issuers has imposed a separate interest rate upon a cardholder, including
+				purchases, cash advances, and balance transfers;</text>
+							</clause><clause id="ID585b9b142b8446fcb509f8770a9b0d3d"><enum>(ii)</enum><text>for each type of
+				transaction or event identified under clause (i)—</text>
+								<subclause id="ID04fef6aefed742699632ea8cc023520e"><enum>(I)</enum><text>each distinct
+				interest rate charged by the card issuer to a cardholder, as of the designated
+				date; and</text>
+								</subclause><subclause id="ID56ea209deb264faaa1754a8d33f45db4"><enum>(II)</enum><text>the number of
+				cardholders to whom each such interest rate was applied during the calendar
+				month immediately preceding the designated date, and the total amount of
+				interest charged to such cardholders at each such rate during such
+				month;</text>
+								</subclause></clause><clause id="IDf91587f4fed741eebdb032de2b2fc93d"><enum>(iii)</enum><text>a list of each
+				type of fee that one or more of the card issuers has imposed upon a cardholder
+				as of the designated date, including any fee imposed for obtaining a cash
+				advance, making a late payment, exceeding the credit limit on an account,
+				making a balance transfer, or exchanging United States dollars for foreign
+				currency;</text>
+							</clause><clause id="IDef211852e2d94776b83bbab4c391938b"><enum>(iv)</enum><text>for each type of
+				fee identified under clause (iii), the number of cardholders upon whom the fee
+				was imposed during the calendar month immediately preceding the designated
+				date, and the total amount of fees imposed upon cardholders during such
+				month;</text>
+							</clause><clause id="IDa6e045c96ddc48508e990c2655db97d1"><enum>(v)</enum><text>the total number
+				of cardholders that incurred any interest charge or any fee during the calendar
+				month immediately preceding the designated date; and</text>
+							</clause><clause id="ID81564e1305ea42b2af9a9f01045de485"><enum>(vi)</enum><text>any other
+				information related to interest rates, fees, or other charges that the Board
+				deems of interest.</text>
+							</clause></subparagraph><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+				</subparagraph></paragraph><paragraph id="id21EAB0420DCB4C6396D890BE6A6152DE"><enum>(2)</enum><text>by adding at the
+			 end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idE7003F216C794C75BA7B017B5416676F" style="OLC">
+					<paragraph id="ID7f3591914e68449baf64697decc7c217"><enum>(5)</enum><header>Report to
+				Congress</header><text>The Board shall, on an annual basis, transmit to
+				Congress and make public a report containing an assessment by the Board of the
+				profitability of credit card operations of depository institutions. Such report
+				shall include estimates by the Board of the approximate, relative percentage of
+				income derived by such operations from—</text>
+						<subparagraph id="ID71a459c13df74a6aaf3cc719aa915381"><enum>(A)</enum><text>the imposition of
+				interest rates on cardholders, including separate estimates for—</text>
+							<clause id="IDac7ce7222e8b4eeab36f79821b7a0509"><enum>(i)</enum><text>interest with an
+				annual percentage rate of less than 25 percent; and</text>
+							</clause><clause id="ID0c1e0386cea342f286d5526d10467609"><enum>(ii)</enum><text>interest with an
+				annual percentage rate equal to or greater than 25 percent;</text>
+							</clause></subparagraph><subparagraph id="ID899a9c7b3aaf4b2dba0d6ff51aad648d"><enum>(B)</enum><text>the imposition of
+				fees on cardholders;</text>
+						</subparagraph><subparagraph id="IDbdb42f93881a4c1f8c4332dc62d98926"><enum>(C)</enum><text>the imposition of
+				fees on merchants; and</text>
+						</subparagraph><subparagraph id="ID462af86c92ba48fba6d27c6d84c4d0ca"><enum>(D)</enum><text>any other
+				material source of income, while specifying the nature of that
+				income.</text>
+						</subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section><section id="idD4FF80F33F4F450E94D09ECD47CED42E"><enum>7.</enum><header>Conforming
+			 amendment</header><text display-inline="no-display-inline">Section 8 of the
+			 Fair Credit and Charge Card Disclosure Act of 1988 (15 U.S.C. 1637 note) is
+			 repealed.</text>
+		</section><section id="idBBAAA948B10A43A2999188B559AC292E"><enum>8.</enum><header>Effective
+			 date</header><text display-inline="no-display-inline">This Act and the
+			 amendments made by this Act shall become effective 180 days after the date of
+			 enactment of this Act.</text>
+		</section></legis-body>
+</bill>

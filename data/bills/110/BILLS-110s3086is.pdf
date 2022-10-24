@@ -1,0 +1,1031 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 3086</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20080605">June 5, 2008</action-date>
+			<action-desc><sponsor name-id="S253">Mr. Durbin</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSJU00">Committee on the
+			 Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the antitrust laws to ensure competitive
+		  market-based fees and terms for merchants’ access to electronic payment
+		  systems.</official-title>
+	</form>
+	<legis-body>
+		<section id="H32419307923F47E58D379CCFD8E90837" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Credit Card Fair Fee Act of
+			 2008</short-title></quote>.</text>
+		</section><section id="H620D84D257CA474490C8D97F48699FF5"><enum>2.</enum><header>Limited antitrust
+			 immunity for the negotiation and determination of fees and terms for access to
+			 covered electronic payment systems</header>
+			<subsection id="HD0CDCE6B5A8B4CC6B70059CE387FC147"><enum>(a)</enum><header>Definitions</header><text>In
+			 this Act:</text>
+				<paragraph id="ID86878312908b473fa8eec557cbc905d2"><enum>(1)</enum><header>Access</header><text>The
+			 term <term>access</term>—</text>
+					<subparagraph id="IDd6e39e9f5342481596e92107f04048bf"><enum>(A)</enum><text>when used as a
+			 verb means to use to conduct transaction authorization, clearance, and
+			 settlement involving the acceptance of credit cards or debit cards from
+			 consumers for payment for goods or services and the receipt of payment for such
+			 goods or services; and</text>
+					</subparagraph><subparagraph id="ID9819db09cad34e7c99d006463bcfc798"><enum>(B)</enum><text>when used as a
+			 noun means the permission or authority to use to conduct transactions described
+			 in subparagraph (A).</text>
+					</subparagraph></paragraph><paragraph id="HDDA984A95E754A9FA58E21AEDECE4D2C"><enum>(2)</enum><header>Access
+			 agreement</header><text>The term <quote>access agreement</quote> means an
+			 agreement between 1 or more merchants and 1 or more providers giving the
+			 merchant access to a covered electronic payment system, conditioned solely upon
+			 the merchant complying with the fees and terms specified in the
+			 agreement.</text>
+				</paragraph><paragraph id="H9B0AC7A0ADE141419406A7595C65EF7"><enum>(3)</enum><header>Acquirer</header><text>The
+			 term <term>acquirer</term>—</text>
+					<subparagraph id="idCE6C0C4FCE6A49BF9EA38DCF969B9F7E"><enum>(A)</enum><text>means a financial
+			 institution that provides services allowing merchants to access an electronic
+			 payment system to accept credit cards or debit cards for payment; and</text>
+					</subparagraph><subparagraph id="id4A75F39CB9F24682B88AF100688C26C9"><enum>(B)</enum><text>does not include
+			 an independent third party processor that may act as the agent of a financial
+			 institution described in subparagraph (A) in processing general-purpose credit
+			 card or debit card transactions.</text>
+					</subparagraph></paragraph><paragraph id="ID2fdae31cf49046eda5659a5e2c07ad9d"><enum>(4)</enum><header>Adjudication</header><text>The
+			 term <term>adjudication</term> has the meaning given that term in section 551
+			 of title 5, United States Code, and does not include mediation.</text>
+				</paragraph><paragraph id="HD40FDC4DA06444F1A7CFEB5935BD2A"><enum>(5)</enum><header>Antitrust
+			 Division</header><text>The term <term>Antitrust Division</term> means the
+			 Antitrust Division of the Department of Justice.</text>
+				</paragraph><paragraph id="H3EE987523DBE4DFC9C006621B63E702B"><enum>(6)</enum><header>Antitrust
+			 laws</header><text>The term <term>antitrust laws</term>—</text>
+					<subparagraph id="id0FB7317DE70042DA89CD28BE6DB528FE"><enum>(A)</enum><text>has the meaning
+			 given that term in subsection (a) of the first section of the Clayton Act (15
+			 U.S.C. 12(a)); and</text>
+					</subparagraph><subparagraph id="idC85B9E0A8AB745589F114886088D2F76"><enum>(B)</enum><text>also
+			 includes—</text>
+						<clause id="idC4AEB08F2C084D6898DBDA961B764EB3"><enum>(i)</enum><text>section 5 of the
+			 Federal Trade Commission Act (15 U.S.C. 45) to the extent section 5 applies to
+			 unfair methods of competition; and</text>
+						</clause><clause id="IDa65e319343704251a6b91d2b201b6da3"><enum>(ii)</enum><text>State antitrust
+			 laws.</text>
+						</clause></subparagraph></paragraph><paragraph id="idF6C4AB1E81DD400E95A99D7D05A20CFE"><enum>(7)</enum><header>Assistant
+			 Attorney General</header><text>The term <term>Assistant Attorney General</term>
+			 means the Assistant Attorney General in charge of the Antitrust Division of the
+			 Department of Justice.</text>
+				</paragraph><paragraph id="idB669D3FE05B84F698AC33F2293C4CF70"><enum>(8)</enum><header>Chairman</header><text>The
+			 term <term>Chairman</term> means the Chairman of the Federal Trade
+			 Commission.</text>
+				</paragraph><paragraph id="H6BE2C175D4724BDBB01655EA0590E620"><enum>(9)</enum><header>Commission</header><text>The
+			 term <term>Commission</term> means the Bureau of Competition of the Federal
+			 Trade Commission.</text>
+				</paragraph><paragraph id="ID36f57c8833c84c8386d30911c754170d"><enum>(10)</enum><header>Covered
+			 electronic payment system</header><text>The term <term>covered electronic
+			 payment system</term> means an electronic payment system that routes
+			 information and data to facilitate transaction authorization, clearance, and
+			 settlement for not less than 20 percent of the combined dollar value of credit
+			 card and debit card payments processed in the United States in the most recent
+			 full calendar year.</text>
+				</paragraph><paragraph id="HC0FA492F896F48C9ACA0B493EB575DCD"><enum>(11)</enum><header>Credit
+			 card</header><text>The term <term>credit card</term> means any general-purpose
+			 card or other credit device issued or approved for use by a financial
+			 institution for use in allowing the cardholder to obtain goods or services on
+			 credit on terms specified by that financial institution.</text>
+				</paragraph><paragraph id="HFBFC141DA58C47CC00CF73B4BBA084E"><enum>(12)</enum><header>Debit
+			 card</header><text>The term <term>debit card</term> means any general-purpose
+			 card or other device issued or approved for use by a financial institution for
+			 use in debiting the account of a cardholder for the purpose of that cardholder
+			 obtaining goods or services, whether authorization is signature-based or
+			 PIN-based.</text>
+				</paragraph><paragraph id="H95E4EB30745648A487CE7CF739BF4388"><enum>(13)</enum><header>Electronic
+			 payment system</header><text>The term <term>electronic payment system</term>
+			 means the proprietary services, infrastructure, and software that route
+			 information and data to facilitate transaction authorization, clearance, and
+			 settlement and that merchants are required to access in order to accept a
+			 specific brand of general-purpose credit cards or debit cards as payment for
+			 goods or services.</text>
+				</paragraph><paragraph id="id4E4A64050F4E48BFB330E88384DB2A75"><enum>(14)</enum><header>Electronic
+			 Payment System Judges</header><text>The term <term>Electronic Payment System
+			 Judges</term> means the Electronic Payment System Judges appointed under
+			 section 3(a).</text>
+				</paragraph><paragraph id="ID43b01c0665b548f49c9d6d5bf98e7952"><enum>(15)</enum><header>Fees</header><text>The
+			 term <term>fees</term> means any monetary charges, rates, assessments, or other
+			 payments imposed by a provider upon a merchant for the merchant to access an
+			 electronic payment system.</text>
+				</paragraph><paragraph id="H2054FFF8FF6F475985D95648ABAAD9C5"><enum>(16)</enum><header>Financial
+			 institution</header><text>The term <term>financial institution</term> has the
+			 meaning given that term in section 603(t) of the Fair Credit Reporting Act (15
+			 U.S.C. 1681a(t)).</text>
+				</paragraph><paragraph id="H9DDA53A5FCC5477D9FBB75D6C422E8EE"><enum>(17)</enum><header>Issuer</header><text>The
+			 term <term>issuer</term>—</text>
+					<subparagraph id="idC613BB0875EE495A88574C6D88D71A85"><enum>(A)</enum><text>means a financial
+			 institution that issues credit cards or debit cards or approves the use of
+			 other devices for use in an electronic payment system; and</text>
+					</subparagraph><subparagraph id="id29FC8D142D1F43168299D58E62FF86A2"><enum>(B)</enum><text>does not include
+			 an independent third party processor that may act as the agent of a financial
+			 institution described in subparagraph (A) in processing general-purpose credit
+			 or debit card transactions.</text>
+					</subparagraph></paragraph><paragraph id="H51D656B2F31045BEA8EB7933BFB4B2C2"><enum>(18)</enum><header>Market
+			 power</header><text>The term <term>market power</term> means the ability to
+			 profitably raise prices above those that would be charged in a perfectly
+			 competitive market.</text>
+				</paragraph><paragraph id="H158783CAC19E40A0A8A03B748EF282C3"><enum>(19)</enum><header>Merchant</header><text>The
+			 term <term>merchant</term> means any person who accepts or who seeks to accept
+			 credit cards or debit cards in payment for goods or services provided by the
+			 person.</text>
+				</paragraph><paragraph id="IDfa1dc987ef5f4d9abcc52aad0c1c36f0"><enum>(20)</enum><header>Negotiating
+			 party</header><text>The term <term>negotiating party</term> means 1 or more
+			 providers of a covered electronic payment system or 1 or more merchants who
+			 have access to or who are seeking access to that covered electronic payment
+			 system, as the case may be, and who are in the process of negotiating or who
+			 have executed a voluntarily negotiated access agreement that is still in
+			 effect.</text>
+				</paragraph><paragraph id="H15A9F838C5794D1FA5B281253007CAF8"><enum>(21)</enum><header>Normal rate of
+			 return</header><text>The term <term>normal rate of return</term> means the
+			 average rate of return that a firm would receive in an industry when conditions
+			 of perfect competition prevail.</text>
+				</paragraph><paragraph id="HB8861DD5E6A94AB0A9B9CB908DB3842B"><enum>(22)</enum><header>Proceeding
+			 party</header><text>The term <term>proceeding party</term> means collectively
+			 all providers of a covered electronic payment system or collectively all
+			 merchants who have access to or who are seeking access to that covered
+			 electronic payment system, as the case may be, during the period in which the
+			 Electronic Payment System Judges are conducting a proceeding under this Act
+			 relating to that covered electronic payment system.</text>
+				</paragraph><paragraph id="H5B399D870A3544BBAF982DD23869CD5B"><enum>(23)</enum><header>Person</header><text>The
+			 term <term>person</term> has the meaning given that term in subsection (a) of
+			 the first section of the Clayton Act (15 U.S.C. 12(a)).</text>
+				</paragraph><paragraph id="ID615154eb248243e498f19dab120a04ce"><enum>(24)</enum><header>Provide</header><text>The
+			 term <term>provide</term> means to make available for access.</text>
+				</paragraph><paragraph id="H0015D6B3EA3B40FA00211F1713468474"><enum>(25)</enum><header>Provider</header><text>The
+			 term <term>provider</term> means any person who owns, operates, controls,
+			 serves as an issuer for, or serves as an acquirer for a covered electronic
+			 payment system.</text>
+				</paragraph><paragraph id="H4DB8133AF66D4A3B99F270622D3E5ED0"><enum>(26)</enum><header>State</header><text>The
+			 term <term>State</term> has the meaning given that term in section 4G(2) of the
+			 Clayton Act (15 U.S.C. 15g(2)).</text>
+				</paragraph><paragraph id="H277817D924B344B9B1594E263256278F"><enum>(27)</enum><header>Terms</header><text>The
+			 term <term>terms</term> means any and all rules and conditions that are
+			 applicable to providers of an electronic payment system or to merchants, as the
+			 case may be, and that are required in order for merchants to access that
+			 electronic payment system.</text>
+				</paragraph><paragraph id="HF0C9411606C644AB9351DBE5DCD0079C"><enum>(28)</enum><header>Voluntarily
+			 negotiated access agreement</header><text>The term <term>voluntarily negotiated
+			 access agreement</term> means an access agreement voluntarily negotiated
+			 between 1 or more providers of a covered electronic payment system and 1 or
+			 more merchants that sets the fees and terms under which the merchant can access
+			 that covered electronic payment system.</text>
+				</paragraph><paragraph id="id5B24A933BEAC4596842DC25F47A9B161"><enum>(29)</enum><header>Written direct
+			 statements</header><text>The term <term>written direct statements</term> means
+			 witness statements, testimony, and exhibits to be presented in proceedings
+			 under this Act, and such other information that is necessary to establish fees
+			 and terms for access to covered electronic payment systems as set forth in
+			 regulations issued by the Electronic Payment System Judges under section
+			 4(b)(4).</text>
+				</paragraph></subsection><subsection id="HF412899F49CE4119B17DEA53001F7053"><enum>(b)</enum><header>Access to
+			 covered electronic payment systems</header><text>Access by a merchant to any
+			 covered electronic payment system and the fees and terms of such access shall
+			 be subject to this Act.</text>
+			</subsection><subsection id="HACD9412B96A341DA8EB36E6258980004"><enum>(c)</enum><header>Authority and
+			 limited antitrust immunity for negotiations and participation in
+			 proceedings</header><text>Notwithstanding any provision of the antitrust
+			 laws—</text>
+				<paragraph id="idF6E0E49E4EC44C9A9A8818E065A86D3F"><enum>(1)</enum><text>in negotiating
+			 fees and terms and participating in any proceedings under subsection (d), any
+			 providers of a covered electronic payment system and any merchants who have
+			 access to or who are seeking access to that covered electronic payment system
+			 may jointly negotiate and agree upon the fees and terms for access to the
+			 covered electronic payment system, including through the use of common agents
+			 that represent the providers of the covered electronic payment system or the
+			 merchants on a nonexclusive basis; and</text>
+				</paragraph><paragraph id="id15A5BC92FE7048DFBEAABDC683535CCF"><enum>(2)</enum><text>any providers of
+			 a single covered electronic payment system also may jointly determine the
+			 proportionate division among such providers of paid fees.</text>
+				</paragraph></subsection><subsection id="HC9BE571755FE446698B2CF8EF5CEA228"><enum>(d)</enum><header>Establishment of
+			 fees and terms</header>
+				<paragraph id="IDda77231bc7834ba5a3feeda85070a2fd"><enum>(1)</enum><header>Voluntarily
+			 negotiated access agreements</header>
+					<subparagraph id="ID8e85b2c6913046c18b0842c9c094a0d6"><enum>(A)</enum><header>Agreements
+			 between negotiating parties</header><text>A voluntarily negotiated access
+			 agreement may be executed at any time between 1 or more providers of a covered
+			 electronic payment system and 1 or more merchants. With respect to the
+			 negotiating parties, such executed voluntarily negotiated access agreement
+			 shall supersede any fees or terms established by the Electronic Payment System
+			 Judges under paragraph (3) relating to that covered electronic payment
+			 system.</text>
+					</subparagraph><subparagraph id="IDc39d68b31730483baf61a219eb8c28f5"><enum>(B)</enum><header>Filing
+			 agreements with the electronic payment system judges</header><text>The
+			 negotiating parties shall jointly file with the Electronic Payment System
+			 Judges—</text>
+						<clause id="IDc551b4a1cdb943a3998c095327ffcdf4"><enum>(i)</enum><text>any
+			 voluntarily negotiated access agreement that affects any market in the United
+			 States or elsewhere;</text>
+						</clause><clause id="ID03a68770431b42ec847db19ffee4e0cb"><enum>(ii)</enum><text>any
+			 documentation relating to a voluntarily negotiated access agreement evidencing
+			 any consideration being given or any marketing or promotional agreement between
+			 the negotiating parties; and</text>
+						</clause><clause id="ID7eab186e6096498cb557c55794f7baee"><enum>(iii)</enum><text>any amendment
+			 to that voluntarily negotiated access agreement or documentation.</text>
+						</clause></subparagraph><subparagraph id="IDf9ccb5cd54864b7bb44e66fbea39c062"><enum>(C)</enum><header>Timing and
+			 availability of filings</header><text>The negotiating parties to any
+			 voluntarily negotiated access agreement executed after the date of enactment of
+			 this Act shall jointly file the voluntarily negotiated access agreement, and
+			 any documentation or amendment described in subparagraph (B), with the
+			 Electronic Payment System Judges not later than 30 days after the date of
+			 execution of the voluntarily negotiated access agreement or amendment or the
+			 date of the creation of the documentation, as the case may be. The Electronic
+			 Payment System Judges shall make publicly available any voluntarily negotiated
+			 access agreement, amendment, or accompanying documentation filed under this
+			 paragraph.</text>
+					</subparagraph></paragraph><paragraph id="ID191716057f5a44ebb348b633f12e4b67"><enum>(2)</enum><header>Initiation of
+			 proceedings</header><text>The proceedings under this subsection to establish
+			 fees and terms for access to a covered electronic payment system shall be
+			 initiated in accordance with section 5.</text>
+				</paragraph><paragraph id="H051D6FAF2DEB4016A5CE92687E875088"><enum>(3)</enum><header>Proceedings</header>
+					<subparagraph id="idBFF1FD4C5007455C8536C56A2A462EE0"><enum>(A)</enum><header>In
+			 general</header><text>The Electronic Payment System Judges shall conduct
+			 proceedings under this Act to establish fees and terms for access to a covered
+			 electronic payment system. Except as specifically provided in a voluntarily
+			 negotiated access agreement, a provider of a covered electronic payment system
+			 may not directly or indirectly charge fees or set terms for access to a covered
+			 electronic payment system that are not in accordance with the fees and terms
+			 established by the Electronic Payment System Judges pursuant to proceedings
+			 under this Act.</text>
+					</subparagraph><subparagraph id="idEF5EBD4880724820806CC0882B0D3FEC"><enum>(B)</enum><header>Period of
+			 applicability</header><text>Except as provided in section 5, the fees and terms
+			 established under this paragraph with respect to a covered electronic payment
+			 system shall apply during the 3-year period beginning on January 1 of the
+			 second year following the year in which the proceedings to establish such fees
+			 and terms are commenced.</text>
+					</subparagraph><subparagraph id="ID300bb67ae7744f358b3e41bbc5924c2f"><enum>(C)</enum><header>Standard for
+			 establishment of fees and terms by the electronic payment system
+			 judges</header>
+						<clause id="id105C2B42F2764128B3B14E57968EA580"><enum>(i)</enum><header>In
+			 general</header><text>In establishing fees and terms for access to a covered
+			 electronic payment system under subparagraph (A), the Electronic Payment System
+			 Judges—</text>
+							<subclause id="ID1fc28f7ddd9847c3976563eb878d0165"><enum>(I)</enum><text>shall be limited
+			 to selecting, without modification, 1 of the 2 final offers of fees and terms
+			 filed by the proceeding parties pursuant to section 4(c)(2)(A); and</text>
+							</subclause><subclause id="ID3bc0e624a94543289582cc34a1f213a7"><enum>(II)</enum><text>shall select the
+			 final offer of fees and terms that most closely represent the fees and terms
+			 that would be negotiated in a hypothetical perfectly competitive marketplace
+			 for access to an electronic payment system between a willing buyer with no
+			 market power and a willing seller with no market power.</text>
+							</subclause></clause><clause id="idE9213D562A5F421A99805788B11BFDDE"><enum>(ii)</enum><header>Standards</header><text>In
+			 determining which final offer of fees and terms to select, the Electronic
+			 Payment System Judges—</text>
+							<subclause id="ID3704152ccb614a64a7d245d713a02fba"><enum>(I)</enum><text>shall consider
+			 the costs of transaction authorization, clearance, and settlement that are
+			 necessary to provide and access an electronic payment system;</text>
+							</subclause><subclause id="ID50d76fe5084c45558756fed79ba3a889"><enum>(II)</enum><text>shall consider a
+			 normal rate of return in a hypothetical perfectly competitive
+			 marketplace;</text>
+							</subclause><subclause id="IDc03fdff565ea4573b7f2bb351b767a6c"><enum>(III)</enum><text>shall avoid
+			 selecting a final offer of fees and terms that would have anticompetitive
+			 effects within the issuer market, the acquirer market, or the merchant
+			 market;</text>
+							</subclause><subclause id="ID442c0d4af8264570a725aa256fa7409c"><enum>(IV)</enum><text>may select a
+			 final offer that is a schedule of fees and terms that varies based upon
+			 cost-based differences in types of credit card and debit card transactions
+			 (which may include whether a transaction is of a signature-based, PIN-based, or
+			 card-not-present type); and</text>
+							</subclause><subclause id="IDa8614b7c1f9e4141ae2807f17819f099"><enum>(V)</enum><text>may not select a
+			 final offer that is a schedule of fees and terms that varies based on type of
+			 merchant or volume of transactions (either in number or dollar value).</text>
+							</subclause></clause></subparagraph><subparagraph id="H9A6266F07BF149CC91B3930022DE36F1"><enum>(D)</enum><header>Use of existing
+			 fees and terms as evidence</header><text>In establishing fees and terms for
+			 access to a covered electronic payment system under this paragraph, the
+			 Electronic Payment System Judges—</text>
+						<clause id="idAD773C5235524D5C8E3DE8235036B6E0"><enum>(i)</enum><text>shall decide the
+			 weight to be given to any evidence submitted by a proceeding party regarding
+			 the fees and terms for access to comparable electronic payment systems,
+			 including fees and terms in voluntarily negotiated access agreements filed
+			 under paragraph (1); and</text>
+						</clause><clause id="idFAC9B2709C074C2E95F2B8D02390BBD6"><enum>(ii)</enum><text>shall give
+			 significant weight to fees in a voluntarily negotiated access agreement that
+			 are substantially below the fees reflective of the market power of the covered
+			 electronic payment systems that existed before the date of enactment of this
+			 Act.</text>
+						</clause></subparagraph></paragraph></subsection></section><section id="H2FB7B5FDDB2840D08EFE00A788DA01D"><enum>3.</enum><header>Electronic payment
+			 system judges</header>
+			<subsection id="H4B3F7173076C4471BD71B0F418C30EA"><enum>(a)</enum><header>Appointment</header><text>The
+			 Assistant Attorney General and the Chairman shall jointly appoint 3 full-time
+			 Electronic Payment System Judges, and shall appoint 1 of the 3 Electronic
+			 Payment System Judges as the Chief Electronic Payment System Judge.</text>
+			</subsection><subsection id="H6BFD1D660F8947D0B9495702647F9098"><enum>(b)</enum><header>Duties</header><text>The
+			 Electronic Payment System Judges shall establish fees and terms for access to
+			 covered electronic payment systems in accordance with this Act.</text>
+			</subsection><subsection id="H58D3006F713740EEB3B4D48135C8C3C"><enum>(c)</enum><header>Rulings</header><text>The
+			 Electronic Payment System Judges may make any necessary procedural or
+			 evidentiary ruling in a proceeding under this Act and may, before commencing a
+			 proceeding under this Act, make any procedural ruling that will apply to a
+			 proceeding under this Act.</text>
+			</subsection><subsection id="HCEEF015FCA674D2C817D000059AC9E90"><enum>(d)</enum><header>Administrative
+			 support</header><text>The Assistant Attorney General and Chairman shall provide
+			 the Electronic Payment System Judges with the necessary administrative services
+			 related to proceedings under this Act.</text>
+			</subsection><subsection id="H91ACF5DA93D749E5984DC2F6925CCCF9"><enum>(e)</enum><header>Location</header><text>The
+			 offices of the Electronic Payment System Judges and staff shall be located in
+			 the offices of the Antitrust Division or Commission.</text>
+			</subsection><subsection id="HCB374D1CC713420F8565553100723E6E"><enum>(f)</enum><header>Qualifications
+			 of electronic payment system judges</header><text>Each Electronic Payment
+			 System Judge shall be an attorney who has at least 7 years of legal experience.
+			 The Chief Electronic Payment System Judge shall have at least 5 years of
+			 experience in adjudications, arbitrations, or court trials. One Electronic
+			 Payment System Judge who is not the Chief Electronic Payment System Judge shall
+			 have significant knowledge of electronic payment systems, and the other such
+			 Electronic Payment System Judge shall have significant knowledge of economics.
+			 An individual may serve as an Electronic Payment System Judge only if the
+			 individual is free of any financial conflict of interest under the standards
+			 established under subsection (m).</text>
+			</subsection><subsection id="HB517F5DC124345BAB559492EDF900312"><enum>(g)</enum><header>Staff</header><text>The
+			 Chief Electronic Payment System Judge shall hire 3 full-time staff members to
+			 assist the Electronic Payment System Judges in performing the duties of the
+			 Electronic Payment System Judges under this Act.</text>
+			</subsection><subsection id="H39282FDBEAFB418EAC05924B0487BA1F"><enum>(h)</enum><header>Terms</header>
+				<paragraph id="id5DA2FA3568144817A3F1314013AB4AAC"><enum>(1)</enum><header>Initial
+			 appointments</header><text>For the first appointments of Electronic Payment
+			 System Judges after the date of enactment of this Act—</text>
+					<subparagraph id="id51AA8E006DF24CE0A5BD63DA4A830975"><enum>(A)</enum><text>the Chief
+			 Electronic Payment System Judge shall be appointed for a term of 6
+			 years;</text>
+					</subparagraph><subparagraph id="idC3EC90B169BB4EBBB4125C9E8AE9D73C"><enum>(B)</enum><text>1 Electronic
+			 Payment System Judge who is not the Chief Electronic Payment System Judge shall
+			 be appointed for a term of 4 years; and</text>
+					</subparagraph><subparagraph id="id44EF643AB4BD4CD0B4A5AED6947DB3F6"><enum>(C)</enum><text>1 Electronic
+			 Payment System Judge who is not the Chief Electronic Payment System Judge shall
+			 be appointed for a term of 2 years.</text>
+					</subparagraph></paragraph><paragraph id="id62A2CDA43F334D6ABED000DFCE10A8D4"><enum>(2)</enum><header>Subsequent
+			 appointment</header><text>After the appointments under paragraph (1), an
+			 Electronic Payment System Judge shall be appointed for a term of 6
+			 years.</text>
+				</paragraph><paragraph id="id4EB4A5E393254B8E85A81EC44622E0C9"><enum>(3)</enum><header>Reappointment</header><text>An
+			 individual serving as an Electronic Payment System Judge may be reappointed to
+			 subsequent terms.</text>
+				</paragraph><paragraph id="idB421C70757EA425C84F28A52A046167D"><enum>(4)</enum><header>Start and end
+			 of terms</header><text>The term of an Electronic Payment System Judge shall
+			 begin on the date on which the term of the predecessor of that Electronic
+			 Payment System Judge ends. If a successor Electronic Payment System Judge has
+			 not been appointed as of the date on which the term of office of an Electronic
+			 Payment System Judge ends, the individual serving that term may continue to
+			 serve until a successor is appointed.</text>
+				</paragraph></subsection><subsection id="HE6E755DC130A4DC689C4274BEF3FF704"><enum>(i)</enum><header>Vacancies or
+			 incapacity</header>
+				<paragraph id="H6E5E3A7793924F728F0046C24EE15535"><enum>(1)</enum><header>Vacancies</header><text>The
+			 Assistant Attorney General and the Chairman shall act expeditiously to fill any
+			 vacancy in the position of Electronic Payment System Judge, and may appoint an
+			 interim Electronic Payment System Judge to serve until an Electronic Payment
+			 System Judge is appointed to fill the vacancy under this section. An individual
+			 appointed to fill a vacancy occurring before the expiration of the term for
+			 which the predecessor of that individual was appointed shall be appointed for
+			 the remainder of that term.</text>
+				</paragraph><paragraph id="H66E7FCC4AA69459C807932EA00AAC400"><enum>(2)</enum><header>Incapacity</header><text>If
+			 an Electronic Payment System Judge is temporarily unable to perform the duties
+			 of an Electronic Payment System Judge, the Assistant Attorney General and the
+			 Commissioner may appoint an interim Electronic Payment System Judge to perform
+			 such duties during the period of such incapacity.</text>
+				</paragraph></subsection><subsection id="H849621712FEC4C13B0B05BA4FE43C178"><enum>(j)</enum><header>Compensation</header>
+				<paragraph id="H08C722D760374BE6A38D82BF828DBAA"><enum>(1)</enum><header>Judges</header><text>The
+			 Chief Electronic Payment System Judge shall receive compensation at the rate of
+			 basic pay payable for level AL–1 for administrative law judges under section
+			 5372(b) of title 5, United States Code, and each Electronic Payment System
+			 Judge who is not the Chief Electronic Payment System Judge shall receive
+			 compensation at the rate of basic pay payable for level AL–2 for administrative
+			 law judges under such section. The compensation of the Electronic Payment
+			 System Judges shall not be subject to any regulations adopted by the Office of
+			 Personnel Management under its authority under section 5376(b)(1) of title 5,
+			 United States Code.</text>
+				</paragraph><paragraph id="H0F70329B983240FB86425000D358B509"><enum>(2)</enum><header>Staff
+			 members</header><text>Of the 3 staff members appointed under subsection
+			 (g)—</text>
+					<subparagraph id="HB3B983C03BC14A7E82EF27A6B864DEAF"><enum>(A)</enum><text>the rate of pay of
+			 1 staff member shall be not more than the basic rate of pay payable for level
+			 10 of GS–15 of the General Schedule;</text>
+					</subparagraph><subparagraph id="H72AE00756C8748D28ECBFE218D279E85"><enum>(B)</enum><text>the rate of pay of
+			 1 staff member shall be not less than the basic rate of pay payable for GS–13
+			 of the General Schedule and not more than the basic rate of pay payable for
+			 level 10 of GS–14 of such Schedule; and</text>
+					</subparagraph><subparagraph id="H9EDF8B6A410046118C8CAF991B4D80B0"><enum>(C)</enum><text>the rate of pay of
+			 1 staff member shall be not less than the basic rate of pay payable for GS–8 of
+			 the General Schedule and not more than the basic rate of pay payable for level
+			 10 of GS–11 of such Schedule.</text>
+					</subparagraph></paragraph><paragraph id="H7111567F7AC844EB95058D03B4E5F371"><enum>(3)</enum><header>Locality
+			 pay</header><text>All rates of pay established under this subsection shall
+			 include locality pay.</text>
+				</paragraph></subsection><subsection id="HDF7E153F8E5D457EAF2016FC4417E908"><enum>(k)</enum><header>Independence of
+			 electronic payment system judges</header>
+				<paragraph id="H6FB09870F11A45E589021B441370CCC0"><enum>(1)</enum><header>In making
+			 determinations</header>
+					<subparagraph id="H2EEC3AA70A784F2FB200B23200892528"><enum>(A)</enum><header>In
+			 general</header><text>Except as provided in subparagraph (B), the Electronic
+			 Payment System Judges—</text>
+						<clause id="id4463743C59F74F40B08BA918A3D84779"><enum>(i)</enum><text>shall have full
+			 independence in establishing fees and terms for access to covered electronic
+			 payment systems and in issuing any other ruling under this Act; and</text>
+						</clause><clause id="idA518AF4EBA2240DF8026123ED26C49AA"><enum>(ii)</enum><text>may consult with
+			 the Assistant Attorney General and the Chairman on any matter other than a
+			 question of fact.</text>
+						</clause></subparagraph><subparagraph id="HB8AF9AAD672B473BA95FBBFE0006191"><enum>(B)</enum><header>Consultation</header><text>The
+			 Electronic Payment System Judges shall consult with the Assistant Attorney
+			 General and the Commissioner regarding any determination or ruling that would
+			 require that any act be performed by the Assistant Attorney General or the
+			 Chairman, and any such determination or ruling shall not be binding upon the
+			 Assistant Attorney General or the Chairman.</text>
+					</subparagraph></paragraph><paragraph id="H3A0A464AA8CB46CF8C60D018EE6F00F8"><enum>(2)</enum><header>Performance
+			 appraisals</header>
+					<subparagraph id="HCE855BCC9BCD4A2E8235086BCB2562BE"><enum>(A)</enum><header>In
+			 general</header><text>Notwithstanding any other provision of law or any
+			 regulation of the Antitrust Division or Commission, and subject to subparagraph
+			 (B), the Electronic Payment System Judges shall not receive performance
+			 appraisals.</text>
+					</subparagraph><subparagraph id="HA6F312AEFF974DFDB7CA3EA13010817F"><enum>(B)</enum><header>Relating to
+			 sanction or removal</header><text>To the extent that the Assistant Attorney
+			 General and the Chairman adopt regulations under subsection (m) relating to the
+			 sanction or removal of an Electronic Payment System Judge and such regulations
+			 require documentation to establish the cause of such sanction or removal, the
+			 Electronic Payment System Judge may receive an appraisal related specifically
+			 to the cause of the sanction or removal.</text>
+					</subparagraph></paragraph></subsection><subsection id="HDEAA117206BE4ED998838028B4AAE969"><enum>(l)</enum><header>Inconsistent
+			 duties barred</header><text>No Electronic Payment System Judge may undertake
+			 duties that conflict with the duties and responsibilities of an Electronic
+			 Payment System Judge under this Act.</text>
+			</subsection><subsection id="HE608F2746743411FAB34980831205567"><enum>(m)</enum><header>Standards of
+			 conduct</header><text>The Assistant Attorney General and the Chairman shall
+			 adopt regulations regarding the standards of conduct, including financial
+			 conflict of interest and restrictions against ex parte communications, which
+			 shall govern the Electronic Payment System Judges and the proceedings under
+			 this Act.</text>
+			</subsection><subsection id="HCF44577F562C41D8894CA4156C10A0C9"><enum>(n)</enum><header>Removal or
+			 sanction</header><text>The Assistant Attorney General and the Chairman acting
+			 jointly may sanction or remove an Electronic Payment System Judge for violation
+			 of the standards of conduct adopted under subsection (m), misconduct, neglect
+			 of duty, or any disqualifying physical or mental disability. Any such sanction
+			 or removal may be made only after notice and opportunity for a hearing. The
+			 Assistant Attorney General and the Chairman may suspend an Electronic Payment
+			 System Judge during the pendency of such a hearing. The Assistant Attorney
+			 General and the Chairman shall appoint an interim Electronic Payment System
+			 Judge during the period of any suspension under this subsection.</text>
+			</subsection></section><section id="H35AC5CE6BCBE42F5BD4690AE6D2CD492"><enum>4.</enum><header>Proceedings of
+			 electronic payment system judges</header>
+			<subsection id="HAAED4F8CC43948FC8BA548E2AB9096D9"><enum>(a)</enum><header>Proceedings</header>
+				<paragraph id="H746AC14F315C4B7DAB36D72C2701BBF9"><enum>(1)</enum><header>In
+			 general</header><text>The Electronic Payment System Judges shall act in
+			 accordance with regulations issued by the Electronic Payment System Judges, the
+			 Assistant Attorney General, and the Chairman, and on the basis of a written
+			 record, prior determinations and interpretations of the Electronic Payment
+			 System Judges under this Act, and decisions of the court of appeals of the
+			 United States.</text>
+				</paragraph><paragraph id="HFC9F1B4D2EF544D08F74C77EFD42AE4"><enum>(2)</enum><header>Judges acting as
+			 panel and individually</header><text>The Electronic Payment System Judges shall
+			 preside over hearings in proceedings under this Act en banc. The Chief
+			 Electronic Payment System Judge may designate an Electronic Payment System
+			 Judge to preside individually over such collateral and administrative
+			 proceedings as the Chief Judge considers appropriate.</text>
+				</paragraph></subsection><subsection id="H095B6ACF98F7410089B97C18BFE9C800"><enum>(b)</enum><header>Procedures</header>
+				<paragraph id="HE63009B8376D41ECA085DA2E545D5134"><enum>(1)</enum><header>Commencement</header><text>The
+			 Electronic Payment System Judges shall cause to be published in the Federal
+			 Register a notice of commencement of proceedings under section 2(d) to
+			 establish fees and terms for access to a covered electronic payment
+			 system.</text>
+				</paragraph><paragraph id="H67770F7B4E334D599D5F007DF6ED408"><enum>(2)</enum><header>Mandatory
+			 negotiation period</header>
+					<subparagraph id="H1922FB20C051445D858BAA00BD7EC600"><enum>(A)</enum><header>In
+			 general</header><text>Promptly after the commencement of a proceeding under
+			 section 2(d) to establish fees and terms for access to a covered electronic
+			 payment system, the Electronic Payment System Judges shall initiate a period
+			 for negotiations for the purpose of achieving a voluntarily negotiated access
+			 agreement. Nothing in this paragraph shall preclude the proceeding parties or
+			 any members thereof from conducting negotiations before or after the mandatory
+			 negotiation period for the purpose of achieving a voluntarily negotiated access
+			 agreement.</text>
+					</subparagraph><subparagraph id="HEC10380BDCD8441197D9F7006C28CBC2"><enum>(B)</enum><header>Length</header><text>The
+			 period for negotiations initiated under subparagraph (A) shall be 3
+			 months.</text>
+					</subparagraph><subparagraph id="H0D95CC63A1EC44558F4EB07EA1570022"><enum>(C)</enum><header>Determination of
+			 need for further proceedings</header><text>At the close of the period for
+			 negotiations initiated under subparagraph (A), the Electronic Payment System
+			 Judges shall determine if further proceedings under this Act are
+			 necessary.</text>
+					</subparagraph></paragraph><paragraph id="ID821f46d859b54d149648516417071642"><enum>(3)</enum><header>Proceeding
+			 parties in further proceedings</header>
+					<subparagraph id="ID9525aedd730f45e6b16d464673f18abb"><enum>(A)</enum><header>In
+			 general</header><text>In any further proceeding ordered by the Electronic
+			 Payment System Judges under paragraph (2)(C), there shall be only 2 proceeding
+			 parties, 1 consisting of all providers of the covered electronic payment system
+			 and the other consisting of all merchants that have access to or seek access to
+			 the covered electronic payment system. Each proceeding party shall bear its own
+			 costs. A provider of a covered electronic payment system or a merchant that has
+			 access to or seeks access to the covered electronic payment system may choose
+			 not to participate in the proceeding as a member of a proceeding party, but
+			 unless such provider or merchant executes a voluntarily negotiated access
+			 agreement, such provider or merchant shall be bound by the determination of the
+			 Electronic Payment System Judges with regard to the fees and terms for access
+			 to the covered electronic payment system.</text>
+					</subparagraph><subparagraph id="idC7520CCD69804628B8963A8551483FCD"><enum>(B)</enum><header>Rule of
+			 construction</header><text>Nothing in this paragraph may be construed to
+			 prohibit the proceeding parties or any members thereof in a proceeding under
+			 subparagraph (A) from negotiating and entering into a voluntarily negotiated
+			 access agreement at any other time.</text>
+					</subparagraph></paragraph><paragraph id="HFB3208F8B34F4C9F8940D071057970B"><enum>(4)</enum><header>Regulations</header>
+					<subparagraph id="HFB91B2C2A25E4F9782F108E68471F7C"><enum>(A)</enum><header>Authorization</header>
+						<clause id="id188CB14F9FDD43DD8151F0F4FB7554AD"><enum>(i)</enum><header>In
+			 general</header><text display-inline="yes-display-inline">The Electronic
+			 Payment System Judges may issue regulations to carry out the duties of the
+			 Electronic Payment System Judges under this Act. All regulations issued by the
+			 Electronic Payment System Judges are subject to the approval of the Assistant
+			 Attorney General and the Chairman. Not later than 120 days after the date on
+			 which all Electronic Payment System Judges are appointed under section 3(h)(1),
+			 the Electronic Payment System Judges shall issue regulations to govern
+			 proceedings under this subsection. In setting these regulations, the Electronic
+			 Payment System Judges shall consider the regulations issued by the Copyright
+			 Royalty Judges under section 803(b)(6) of title 17, United States Code.</text>
+						</clause><clause id="H31CDD99490C1422100E597001D15CF9E"><enum>(ii)</enum><header>Scope</header><text>The
+			 regulations issued under clause (i) shall include regulations regarding the
+			 procedures described in subparagraph (B).</text>
+						</clause></subparagraph><subparagraph id="id88A040323F284E0991ED5B5FD02060CE"><enum>(B)</enum><header>Procedures</header>
+						<clause id="H6FBF073BC28E4C24A38DC980A94C764"><enum>(i)</enum><header>Written direct
+			 statements</header><text>The written direct statements of the proceeding
+			 parties shall be filed by a date specified by the Electronic Payment System
+			 Judges, which may be not earlier than 4 months, and not later than 5 months,
+			 after the end of the voluntary negotiation period under paragraph (2).
+			 Notwithstanding the preceding sentence, the Electronic Payment System Judges
+			 may allow a proceeding party to file an amended written direct statement based
+			 on new information received during the discovery process, not later than 15
+			 days after the end of the discovery period specified in clause (ii).</text>
+						</clause><clause id="H68027C6D91C746F4B6CBFA47B7925806"><enum>(ii)</enum><header>Discovery
+			 schedule</header><text>Following the submission to the Electronic Payment
+			 System Judges of written direct statements by the proceeding parties, the
+			 Electronic Payment System Judges shall meet with the proceeding parties to set
+			 a schedule for conducting and completing discovery. Such schedule shall be
+			 determined by the Electronic Payment System Judges. Discovery in such
+			 proceedings shall be permitted for a period of not longer than 60 days, except
+			 for discovery ordered by the Electronic Payment System Judges in connection
+			 with the resolution of motions, orders, and disputes pending at the end of such
+			 period.</text>
+						</clause><clause id="HEFE3EAFBF6FC4A5EA11F2934E40884D"><enum>(iii)</enum><header>Initial
+			 disclosures</header>
+							<subclause id="id171A2CE7FD914495A04E3F20364F4A1A"><enum>(I)</enum><header>In
+			 general</header><text>In a proceeding under this Act to determine fees and
+			 terms for access to a covered electronic payment system, certain persons shall
+			 make initial disclosures not later than 30 days after the date of commencement
+			 of the proceeding, in accordance with this clause.</text>
+							</subclause><subclause id="id744DD10D1E5F4309B73F78FC0F3134A5"><enum>(II)</enum><header>Issuers,
+			 acquirers, and owners</header><text>Any person who is 1 of the 10 largest
+			 issuers for a covered electronic payment system in terms of number of cards
+			 issued, any person who is 1 of the 10 largest acquirers for a covered
+			 electronic payment system based on dollar amount of transactions made by
+			 merchants they serve, and any person who operates or controls the relevant
+			 covered electronic payment system shall produce to the Electronic Payment
+			 System Judges and to both proceedings parties—</text>
+								<item id="id6CDDAB6ABF24492BB795B325AC82047C"><enum>(aa)</enum><text>an
+			 itemized list of the costs necessary to provide the covered electronic payment
+			 system that were incurred by the person during the most recent full calendar
+			 year before the initiation of the proceeding; and</text>
+								</item><item id="id32313247F81544E38D60DB20EE4763B1"><enum>(bb)</enum><text>any
+			 access agreement between that person and 1 or more merchants with regard to
+			 that covered electronic payment system.</text>
+								</item></subclause><subclause id="id75A437715B924ACE927914D1B179F28E"><enum>(III)</enum><header>Merchants</header><text>Any
+			 person who is 1 of the 10 largest merchants using the relevant covered
+			 electronic payment system, determined based on dollar amount of transactions
+			 made with the covered electronic payment system, shall produce to the
+			 Electronic Payment System Judges and to both proceeding parties—</text>
+								<item id="idEE0CB2B4969C43FBA8D30289B4D292E0"><enum>(aa)</enum><text>an
+			 itemized list of the costs necessary to access the electronic payment system
+			 during the most recent full calendar year prior to the initiation of the
+			 proceeding; and</text>
+								</item><item id="id044F99491A5143349F6ACBBD9F9EA73A"><enum>(bb)</enum><text>any
+			 access agreement between that person and 1 or more providers with regard to
+			 that covered electronic payment system.</text>
+								</item></subclause><subclause id="idF7C0078CF83A43C8AC5342D3A26DB783"><enum>(IV)</enum><header>Disagreement</header><text>Any
+			 disagreement regarding whether a person is required to make an initial
+			 disclosure under this clause, or the contents of such a disclosure, shall be
+			 resolved by the Electronic Payment System Judges.</text>
+							</subclause></clause><clause id="H54F1DAAB7CAD412C95D7ED86D7DC6083"><enum>(iv)</enum><header>Depositions</header>
+							<subclause id="HD8D60C4E17E54BB793A334C49956FA1"><enum>(I)</enum><header>In
+			 general</header><text>In a proceeding under this Act to determine fees and
+			 terms for access to a covered electronic payment system, each proceeding party
+			 shall be permitted to take depositions of every witness identified by the other
+			 proceeding party. Except as provided in subclause (III), each proceeding party
+			 also shall be permitted to take 5 additional depositions in the entire
+			 proceeding.</text>
+							</subclause><subclause id="H3AD4933E0AA44082987FC1C45C62B0CA"><enum>(II)</enum><header>Organizational
+			 entities</header><text>A deposition notice or subpoena may name as the deponent
+			 a person who is an individual or a person who is not an individual. Such
+			 deposition notice or subpoena shall describe with reasonable particularity the
+			 matters on which examination is requested. If the deposition notice or subpoena
+			 names a person who is not an individual, the deponent person so named shall
+			 designate 1 or more officers, directors, or managing agents, or other
+			 individual persons who consent to testify on behalf of the deponent person, and
+			 may set forth, for each individual person designated, the matters on which the
+			 individual person will testify. A subpoena shall advise a nonparty deponent
+			 person of the duty of the deponent person to make such a designation. An
+			 individual person designated under this subclause shall testify as to matters
+			 known or reasonably available to the deponent person.</text>
+							</subclause><subclause id="H575EE26BFD444CC1AAEFEC000000EB6D"><enum>(III)</enum><header>Additional
+			 depositions</header><text>The Electronic Payment System Judges may increase the
+			 permitted number of depositions for good cause in exceptional circumstances,
+			 and shall resolve any disputes among persons within either proceeding party
+			 regarding the allocation of the depositions permitted under this clause.</text>
+							</subclause></clause><clause id="HF9A6130307554914AA77C1C93762623D"><enum>(v)</enum><header>Written
+			 discovery</header><text>In a proceeding under this Act to determine fees and
+			 terms for access to a covered electronic payment system, each proceeding party
+			 shall be permitted to serve written discovery requests on 10 persons. These
+			 written discovery requests may include requests for production or inspection, a
+			 total of no more than 10 requests for admission in the entire proceeding, and a
+			 total of no more than 25 interrogatories in the entire proceeding. The
+			 Electronic Payment System Judges may increase the permitted number of requests
+			 for admission or interrogatories for good cause in exceptional circumstances,
+			 and shall resolve any disputes among persons within either proceeding party
+			 regarding the allocation of the requests for admission or interrogatories
+			 permitted under this clause.</text>
+						</clause><clause id="H024DB0D6BF70489D839327EF1F42852D"><enum>(vi)</enum><header>Subpoenas</header><text>Upon
+			 the request of a party to a proceeding to determine fees and terms for access
+			 to a covered electronic payment system, the Electronic Payment System Judges
+			 may issue a subpoena commanding a person to appear and give testimony, or to
+			 produce and permit inspection of documents or tangible things, if the
+			 resolution of the proceeding by the Electronic Payment System Judges may be
+			 substantially impaired by the absence of such testimony or production of
+			 documents or tangible things. A subpoena under this clause shall specify with
+			 reasonable particularity the materials to be produced or the scope and nature
+			 of the required testimony. Nothing in this clause shall preclude the Electronic
+			 Payment System Judges from requesting the production by a person of information
+			 or materials relevant to the resolution by the Electronic Payment System Judges
+			 of a material issue of fact.</text>
+						</clause><clause id="H682185C39AA0401EB65E8196E4C61829"><enum>(vii)</enum><header>Objections to
+			 discovery requests</header>
+							<subclause id="id9112C636DF994FB09E33F7CF4B8C7FDB"><enum>(I)</enum><header>In
+			 general</header><text>Any objection to a request or subpoena under clause (v)
+			 or (vi) shall be resolved by a motion or request to compel production made to
+			 the Electronic Payment System Judges in accordance with regulations adopted by
+			 the Electronic Payment System Judges. Each motion or request to compel
+			 discovery shall be determined by the Electronic Payment System Judges, or by an
+			 Electronic Payment System Judge when permitted under subsection (a)(2). Upon
+			 such motion or request to compel discovery, the Electronic Payment System
+			 Judges may order discovery under regulations established under this
+			 paragraph.</text>
+							</subclause><subclause id="id15A7AC2F79C7468F9A5F4B3379F57217"><enum>(II)</enum><header>Considerations</header><text>In
+			 determining whether discovery will be granted under this clause, the Electronic
+			 Payment System Judges may consider—</text>
+								<item id="HCD2B5CFF16F4434884743982F0375338"><enum>(aa)</enum><text>whether the
+			 burden or expense of producing the requested information or materials outweighs
+			 the likely benefit, taking into account the needs and resources of the
+			 proceeding parties, the importance of the issues at stake, and the probative
+			 value of the requested information or materials in resolving such
+			 issues;</text>
+								</item><item id="H320614845B484F2C89E5C60024BB9B34"><enum>(bb)</enum><text>whether the
+			 requested information or materials would be unreasonably cumulative or
+			 duplicative, or are obtainable from another source that is more convenient,
+			 less burdensome, or less expensive; and</text>
+								</item><item id="H516D799FF96D4D5DBB8188997D208561"><enum>(cc)</enum><text>whether the
+			 proceeding party seeking discovery has had ample opportunity by discovery in
+			 the proceeding or by other means to obtain the information sought.</text>
+								</item></subclause></clause><clause id="H57290CEB028B4589B8A72D4BE41C8746"><enum>(viii)</enum><header>Voluntarily
+			 negotiated access agreements</header><text>In proceedings to determine fees and
+			 terms for access to a covered electronic payment system, the Electronic Payment
+			 System Judges shall make available to the proceeding parties all documents
+			 filed under section 2(d)(1).</text>
+						</clause><clause id="H0149AC88C301471CA5058728F9DFBE99"><enum>(ix)</enum><header>Settlement
+			 conference</header><text>The Electronic Payment System Judges shall order a
+			 settlement conference between the proceeding parties to facilitate the
+			 presentation of offers of settlement between the parties. The settlement
+			 conference shall be held during the 21-day period beginning on the date on
+			 which the discovery period ends and shall take place outside the presence of
+			 the Electronic Payment System Judges.</text>
+						</clause><clause id="H3D0A02CE6C604423BA57B68F25EAC2C7"><enum>(x)</enum><header>Direct and
+			 rebuttal hearings</header><text>At the conclusion of the 21-day period
+			 described in clause (ix), the Electronic Payment System Judges shall determine
+			 if further proceedings under this Act are necessary. If the Electronic Payment
+			 System Judges determine further proceedings under this Act are necessary, the
+			 Electronic Payment System Judges shall schedule a direct hearing of not more
+			 than 30 court days and a rebuttal hearing of not more than 20 court days during
+			 which both proceeding parties will be allowed to offer witness testimony and
+			 documents.</text>
+						</clause><clause id="H04BECA435A614598A55D2E4CF898F2F6"><enum>(xi)</enum><header>Sponsoring
+			 witnesses</header><text>No evidence, including exhibits, may be submitted in
+			 the written direct statement or written rebuttal statement of a proceeding
+			 party without a sponsoring witness, except for—</text>
+							<subclause id="id218363BD2C504C69AF4508F4CBF1F702"><enum>(I)</enum><text>requests for
+			 admission that have been admitted by the receiving proceeding party;</text>
+							</subclause><subclause id="idF06E9ACF1B58423FA1BE00616546DE99"><enum>(II)</enum><text>evidence of
+			 which the Electronic Payment System Judges have taken official notice;</text>
+							</subclause><subclause id="id1A6D48060830447191764AF50FCEF5A4"><enum>(III)</enum><text>incorporation
+			 by reference of past records; or</text>
+							</subclause><subclause id="id29CDEE5B406C464E83E4B387485AF777"><enum>(IV)</enum><text>good cause
+			 shown.</text>
+							</subclause></clause><clause id="H048DD4667D3041CB0041090573D26886"><enum>(xii)</enum><header>Hearsay</header><text>Hearsay
+			 may be admitted in proceedings under this Act to the extent determined relevant
+			 and reliable by the Electronic Payment System Judges.</text>
+						</clause><clause id="HDE1665CF92C844C4A906CD9668A5938"><enum>(xiii)</enum><header>Applicability
+			 of the Federal Rules of Evidence</header><text>To the extent not inconsistent
+			 with this subparagraph, the Federal Rules of Evidence shall apply to
+			 proceedings under this Act.</text>
+						</clause></subparagraph></paragraph><paragraph id="H7E8655CBA6F345C0AA9B9100C992E424"><enum>(5)</enum><header>Penalties for
+			 failure to comply with a discovery request</header>
+					<subparagraph id="HC286538E4BBF4198A8BDDF68EFFDC2B4"><enum>(A)</enum><header>Failure to
+			 comply</header><text>A person has failed to comply with a discovery request if
+			 the person, or an employee or agent of the person, fails, without substantial
+			 justification, to—</text>
+						<clause id="H73F18D75BD9D40DEB91356BD83796DA9"><enum>(i)</enum><text>make
+			 initial disclosures required under paragraph (4)(B)(iii);</text>
+						</clause><clause id="H9B2352DBCD7D4F97A6749829B2509936"><enum>(ii)</enum><text>be
+			 sworn or answer a question as a deponent after being directed to do so by the
+			 Electronic Payment System Judges under clause (iv) or (vi) of paragraph
+			 (4)(B);</text>
+						</clause><clause id="H123957E4D2BB495DB6B2565873BFA59F"><enum>(iii)</enum><text>answer an
+			 interrogatory submitted under paragraph (4)(B)(v);</text>
+						</clause><clause id="HC347B2EB2EB94EB1BF0099802DCCF4F1"><enum>(iv)</enum><text>produce
+			 nonprivileged documents requested under clause (v) or (vi) of paragraph (4)(B);
+			 or</text>
+						</clause><clause id="H9C56785327DA435B94489E005DD01D7F"><enum>(v)</enum><text>admit the
+			 genuineness of any document or the truth of any matter as requested under
+			 paragraph (4)(B)(v), and the person requesting the admissions thereafter proves
+			 the genuineness of the document or the truth of the matter.</text>
+						</clause></subparagraph><subparagraph id="id0C77CBD3936E40539E500DB9413B4F07"><enum>(B)</enum><header>False or
+			 misleading responses</header><text>For purposes of this Act, any disclosure,
+			 answer, or response that is false or substantially misleading, evasive, or
+			 incomplete shall be deemed a failure to disclose, answer, or respond.</text>
+					</subparagraph><subparagraph id="H8BF933430C684445BFC715718F20A6F5"><enum>(C)</enum><header>Negative
+			 inference in current proceeding</header><text>If any person fails to comply
+			 with a discovery request, the Electronic Payment System Judges may issue an
+			 order that the matters regarding which the order was made or any other
+			 designated facts shall be taken to be established for the purposes of the
+			 current proceeding in accordance with the claim of the proceeding party seeking
+			 discovery and obtaining the order.</text>
+					</subparagraph><subparagraph id="HC786D38E18514026006830AD901CE571"><enum>(D)</enum><header>Civil
+			 penalty</header>
+						<clause id="H825C9B86CBDB41C495BEAA9169FB3097"><enum>(i)</enum><header>Generally</header><text>Any
+			 person who fails to comply with a discovery request under this Act shall be
+			 subject to a civil penalty, which shall be assessed by the Electronic Payment
+			 System Judges, of not more than $25,000 for each violation. Each day of
+			 violation shall constitute a separate violation.</text>
+						</clause><clause id="HE74FB1B95AD24EA680593395EEA3E088"><enum>(ii)</enum><header>Notice and
+			 hearings</header><text>No civil penalty may be assessed under this subparagraph
+			 except under an order of the Electronic Payment System Judges and unless the
+			 person accused of the violation was given prior notice and opportunity to
+			 request and participate in a hearing before the Electronic Payment System
+			 Judges with respect to the violation.</text>
+						</clause><clause id="HAD7E32B9941A4AF9A8EE8DD1064210FE"><enum>(iii)</enum><header>Determining
+			 amount</header><text>In determining the amount of any penalty assessed under
+			 this subparagraph, the Electronic Payment System Judges shall take into account
+			 the nature, circumstances, extent, and gravity of the violation or violations
+			 and, with respect to the violator, ability to pay, any prior history of such
+			 violations, the degree of culpability, economic benefit or savings (if any)
+			 resulting from the violation, and such other matters as justice may
+			 require.</text>
+						</clause><clause id="HEA3CE91FD5F84CD6864ECCAC9E77772B"><enum>(iv)</enum><header>Review</header><text>Any
+			 person who requested a hearing with respect to a civil penalty under this
+			 subparagraph and who is aggrieved by an order assessing the civil penalty may
+			 file a petition for judicial review of such order with the United States Court
+			 of Appeals for the District of Columbia Circuit. Such a petition may be filed
+			 not later than 30 days after the date on which the order making such assessment
+			 was issued. The United States Court of Appeals for the District of Columbia
+			 Circuit shall have jurisdiction to enter a judgment affirming, modifying, or
+			 setting aside in whole or in part, an order of the Electronic Payment System
+			 Judges under this subparagraph, or the court may remand the proceeding to the
+			 Electronic Payment System Judges for such further action as the court may
+			 direct. The Assistant Attorney General shall represent the Electronic Payment
+			 System Judges before the court.</text>
+						</clause><clause id="H775881C5F85A497D94047B23D300B4C3"><enum>(v)</enum><header>Enforcement</header><text>If
+			 any person fails to pay an assessment of a civil penalty after the civil
+			 penalty has become a final and unappealable order or after the appropriate
+			 court has entered final judgment, the Electronic Payment System Judges shall
+			 request the Assistant Attorney General to institute a civil action in an
+			 appropriate district court of the United States to collect the penalty, and
+			 such court shall have jurisdiction to hear and decide any such action. In
+			 hearing such action, the court shall have authority to review the violation and
+			 the assessment of the civil penalty on the record.</text>
+						</clause></subparagraph></paragraph></subsection><subsection id="HEFF156C829754C27BC99092998F998B7"><enum>(c)</enum><header>Determination of
+			 electronic payment system judges</header>
+				<paragraph id="HF36474FE7C084A68AD5B0018B391EBDC"><enum>(1)</enum><header>Timing</header><text>The
+			 Electronic Payment System Judges shall issue a determination in a proceeding
+			 not later than the earlier of—</text>
+					<subparagraph id="id2FD8642E1BB047F5B036B36BF352EFDC"><enum>(A)</enum><text>11 months after
+			 the end of the 21-day settlement conference period under subsection
+			 (b)(4)(B)(ix); or</text>
+					</subparagraph><subparagraph id="id95865240E4F74554AE8C66B2F6C1389E"><enum>(B)</enum><text>15 days before
+			 the date on which the fees and terms in effect for a covered electronic payment
+			 system expire.</text>
+					</subparagraph></paragraph><paragraph id="IDd154318fae1343eeab2ca439eb8ef1bb"><enum>(2)</enum><header>Determination</header>
+					<subparagraph id="ID35cdf0ab1aa7458382298bf7c785f2f7"><enum>(A)</enum><header>Filing of final
+			 offer</header><text>Before the commencement of a direct hearing in a proceeding
+			 under subsection (b)(4)(B)(x), each proceeding party shall file with the
+			 Electronic Payment System Judges and with the other proceeding party a final
+			 offer of fees and terms for access to the covered electronic payment system. A
+			 proceeding party may not amend a final offer submitted under this
+			 subparagraph.</text>
+					</subparagraph><subparagraph id="IDd5be26fc97034e1f86660a69c15f56e5"><enum>(B)</enum><header>Selection
+			 between final offers</header><text>After the conclusion of the direct hearing
+			 and rebuttal hearing, the Electronic Payment System Judges shall make their
+			 determination by selecting 1 of the 2 final offers filed by the proceeding
+			 parties. The Electronic Payment System Judges shall make their selection in
+			 accordance with the standards described in section 2(d)(3)(C).</text>
+					</subparagraph><subparagraph id="ID39502506bc29416198d4122804ed2a15"><enum>(C)</enum><header>Voting and
+			 dissenting opinions</header><text>A final determination of the Electronic
+			 Payment System Judges in a proceeding under this Act shall be made by majority
+			 vote. An Electronic Payment System Judge dissenting from the majority on any
+			 determination under this Act may issue a dissenting opinion, which shall be
+			 included with the determination.</text>
+					</subparagraph></paragraph><paragraph id="H92A5E5C2FEB04B5091109BD228E557FA"><enum>(3)</enum><header>Rehearings</header>
+					<subparagraph id="H785D87C4A4CA4A87954FC3DF1651DEE6"><enum>(A)</enum><header>In
+			 general</header><text>The Electronic Payment System Judges may, in exceptional
+			 cases, upon motion of a proceeding party, order a rehearing, after the
+			 determination in the proceeding is issued under paragraph (2), on such matters
+			 as the Electronic Payment System Judges determine to be appropriate.</text>
+					</subparagraph><subparagraph id="H03AEC60212F940E0BB10229B1E81EFFF"><enum>(B)</enum><header>Timing for
+			 filing motion</header><text>Any motion for a rehearing under subparagraph (A)
+			 shall be filed not later than 15 days after the date on which the Electronic
+			 Payment System Judges deliver to the parties in the proceeding their initial
+			 determination concerning fees and terms.</text>
+					</subparagraph><subparagraph id="H3DF10BA78067462DA17BBD52B425DF"><enum>(C)</enum><header>Participation by
+			 opposing party not required</header><text>In any case in which a rehearing is
+			 ordered under this paragraph, any opposing proceeding party shall not be
+			 required to participate in the rehearing, except that nonparticipation may give
+			 rise to the limitations with respect to judicial review provided for in
+			 subsection (d)(1).</text>
+					</subparagraph><subparagraph id="H19D96864600D47079B1B00B7BEC0092B"><enum>(D)</enum><header>No negative
+			 inference</header><text>The Electronic Payment System Judges may not draw a
+			 negative inference from lack of participation in a rehearing.</text>
+					</subparagraph><subparagraph id="HC86872F3772D48A5B55571C8339CB8E7"><enum>(E)</enum><header>Continuity of
+			 fees and terms</header>
+						<clause id="H5517302EB6BF4779B34596CACB7E1BC7"><enum>(i)</enum><header>In
+			 general</header><text>If the decision of the Electronic Payment System Judges
+			 on any motion for a rehearing is not rendered before the expiration of the fees
+			 and terms in effect for a covered electronic payment system, in the case of a
+			 proceeding to determine successor fees and terms for fees and terms that expire
+			 on a specified date, the initial determination of the Electronic Payment System
+			 Judges that is the subject of the rehearing motion shall be effective as of the
+			 day following the date on which the fees and terms that were previously in
+			 effect expire.</text>
+						</clause><clause id="H8E97B9C1F78841429923318BEB065129"><enum>(ii)</enum><header>Fee
+			 payments</header><text>The pendency of a motion for a rehearing under this
+			 paragraph shall not relieve a person obligated to make fee payments for access
+			 to a covered electronic payment system who would be affected by the
+			 determination on that motion from paying the fees required and complying with
+			 the terms under the relevant determination.</text>
+						</clause><clause id="H3FF968CE14D0468A9F1C11F785E80DD"><enum>(iii)</enum><header>Overpayments
+			 and underpayments</header><text>Notwithstanding clause (ii), if fees described
+			 in clause (ii) are paid—</text>
+							<subclause id="id67C12A09FAF24BFE8C9CCB2FCFBE7878"><enum>(I)</enum><text>the recipient of
+			 such fees shall, not later than 60 days after the date on which the motion for
+			 rehearing is resolved or, if the motion is granted, 60 days after the date on
+			 which the rehearing is concluded, return any excess fees described in clause
+			 (ii), to the extent necessary to comply with the final determination by the
+			 Electronic Payment System Judges of fees and terms for access to the covered
+			 electronic payment system; and</text>
+							</subclause><subclause id="idB61EAE60FDD54EB2BD22DE6C44C73A68"><enum>(II)</enum><text>a person
+			 obligated to make fee payments shall, not later than 60 days after the date on
+			 which the motion for rehearing is resolved or, if the motion is granted, 60
+			 days after the date on which the rehearing is concluded, pay the recipient the
+			 amount of any underpayment of fees described in clause (ii), to the extent
+			 necessary to comply with the final determination by the Electronic Payment
+			 System Judges of fees and terms for access to the covered electronic payment
+			 system.</text>
+							</subclause></clause></subparagraph></paragraph><paragraph id="H875CEF2281AC4B4CBF7148293F1750E0"><enum>(4)</enum><header>Contents of
+			 determination</header><text>A determination of the Electronic Payment System
+			 Judges shall establish the fees and terms for access to the relevant covered
+			 electronic payment system, shall be supported by the written record, and shall
+			 set forth the findings of fact relied on by the Electronic Payment System
+			 Judges. The Electronic Payment System Judges shall make publicly available in
+			 their entirety all determinations issued under this paragraph.</text>
+				</paragraph><paragraph id="HAAF77D8CBC274A0EB35834542E4E6B98"><enum>(5)</enum><header>Continuing
+			 jurisdiction</header><text>The Electronic Payment System Judges may, with the
+			 approval of the Assistant Attorney General and the Chairman, issue an amendment
+			 to a written determination to correct any technical or clerical errors in the
+			 determination in response to unforeseen circumstances that would frustrate the
+			 proper implementation of such determination. Such amendment shall be set forth
+			 in a written addendum to the determination that shall be distributed to the
+			 proceeding parties and shall be published in the Federal Register.</text>
+				</paragraph><paragraph id="H787590349F6641868FED52A73718009E"><enum>(6)</enum><header>Protective
+			 order</header><text>The Electronic Payment System Judges may issue such orders
+			 as may be appropriate to protect confidential information, including orders
+			 excluding confidential information from the record of the determination that is
+			 published or made available to the public, except that any fees and terms of an
+			 access agreement, including voluntarily negotiated access agreements filed
+			 under section 2(d)(1), may not be excluded from publication.</text>
+				</paragraph><paragraph id="HDAFE75D4F611452F9EAF01EE1F7B5878"><enum>(7)</enum><header>Publication of
+			 determination</header><text>Not later than 60 days after the date on which the
+			 Electronic Payment System Judges issue a determination under this subsection,
+			 the Assistant Attorney General and the Chairman shall cause the determination,
+			 and any corrections thereto, to be published in the Federal Register. The
+			 Electronic Payment System Judges also shall publicize the determination and any
+			 corrections in such other manner as the Assistant Attorney General and the
+			 Chairman consider appropriate, including publication on the Internet. The
+			 Electronic Payment System Judges also shall make the determination,
+			 corrections, and the accompanying record available for public inspection and
+			 copying.</text>
+				</paragraph><paragraph id="H8DFDD556124D42489D7455B4659109E5"><enum>(8)</enum><header>Late
+			 payment</header><text>A determination of Electronic Payment System
+			 Judges—</text>
+					<subparagraph id="id1A325C65D8934266AFB258B93AEFA352"><enum>(A)</enum><text>may include terms
+			 with respect to late payment; and</text>
+					</subparagraph><subparagraph id="id3DA0CB87633F45CF8454970F741FFEE9"><enum>(B)</enum><text>may not include
+			 any provision in such terms described in subparagraph (A) that prevents a
+			 provider of a covered electronic payment system from asserting other rights or
+			 remedies provided under this Act.</text>
+					</subparagraph></paragraph></subsection><subsection id="HA203FE347F114D87ADA6124800C5F89F"><enum>(d)</enum><header>Judicial
+			 review</header>
+				<paragraph id="H3B922DA78D8A438E96D1CE09647E3463"><enum>(1)</enum><header>Appeal</header><text>Any
+			 determination of the Electronic Payment System Judges under subsection (c) may,
+			 not later than 30 days after the date of publication of the determination in
+			 the Federal Register, be appealed, to the United States Court of Appeals for
+			 the District of Columbia Circuit, by any aggrieved member of a proceeding party
+			 under this Act who would be bound by the determination. Any proceeding party
+			 that did not participate in a rehearing may not raise any issue that was the
+			 subject of that rehearing at any stage of judicial review of the hearing
+			 determination. If no appeal is brought within the 30-day period under this
+			 paragraph, the determination of the Electronic Payment System Judges shall be
+			 final, and shall take effect as described in paragraph (2).</text>
+				</paragraph><paragraph id="HDAC7B952227B45D0A8045C584452B7D2"><enum>(2)</enum><header>Effect of fees
+			 and terms</header>
+					<subparagraph id="id12C50B37452F449F9B8596EC914D7715"><enum>(A)</enum><header>Fee
+			 payments</header><text>The pendency of an appeal under this subsection shall
+			 not relieve a person obligated to make fee payments for access to a covered
+			 electronic payment system who would be affected by the determination on appeal
+			 from paying the fees required and complying with the terms under the relevant
+			 determination or regulations.</text>
+					</subparagraph><subparagraph id="idAEC9483F458A4B21A622581A86451531"><enum>(B)</enum><header>Overpayments
+			 and underpayments</header><text>Notwithstanding subparagraph (A), if fees
+			 described in subparagraph (A) are paid—</text>
+						<clause id="idD920DF0CC8364C3B8E8B2D9101E70959"><enum>(i)</enum><text>the
+			 recipient of such fees shall, not later than 60 days after the date on which
+			 the appeal is resolved return any excess fees described in subparagraph (A)
+			 (and interest thereon, if ordered under paragraph (3)), to the extent necessary
+			 to comply with the final determination of fees and terms on appeal; and</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="id853873C242144FE283493C847651664E"><enum>(ii)</enum><text>a person
+			 obligated to make fee payments shall, not later than 60 days after the date on
+			 which the appeal is resolved, pay the recipient the amount of any underpayment
+			 of fees described in subparagraph (A) (and interest thereon, if ordered under
+			 paragraph (3)), to the extent necessary to comply with the final determination
+			 of fees and terms on appeal.</text>
+						</clause></subparagraph></paragraph><paragraph id="HE769F4D4119943D3BA002968301CD11D"><enum>(3)</enum><header>Jurisdiction of
+			 court</header><text>If the United States Court of Appeals for the District of
+			 Columbia Circuit, under section 706 of title 5, United States Code, modifies or
+			 vacates a determination of the Electronic Payment System Judges, the court may
+			 enter its own determination with respect to the amount or distribution of fees
+			 and costs, and order the repayment of any excess fees, the payment of any
+			 underpaid fees, and the payment of interest pertaining respectively thereto, in
+			 accordance with its final judgment. The court also may vacate the determination
+			 of the Electronic Payment System Judges and remand the case to the Electronic
+			 Payment System Judges for further proceedings.</text>
+				</paragraph></subsection><subsection id="H00D4DFD4A1264842B8305BFF652DE496"><enum>(e)</enum><header>Authorization of
+			 appropriations</header><text>There are authorized to be appropriated such sums
+			 as may be necessary to carry out this Act.</text>
+			</subsection></section><section id="H3A984318342E4841895737F5F21CC542"><enum>5.</enum><header>Institution of
+			 proceedings before electronic payment system judges</header>
+			<subsection id="HA7F242F974C740198621BAB26C853DE1"><enum>(a)</enum><header>Initial
+			 proceedings</header>
+				<paragraph id="H6E6C2DF2C9D148B78F53D140EFBD002D"><enum>(1)</enum><header>Timing</header><text display-inline="yes-display-inline">Proceedings under this Act shall be
+			 commenced as soon as practicable after the date of enactment of this Act to
+			 establish fees and terms for access to covered electronic payment systems under
+			 section 2(d), which shall be effective during the period beginning on January
+			 1, 2010, and ending on December 31, 2011. The Electronic Payment System Judges
+			 shall cause notice of commencement of such proceedings to be published in the
+			 Federal Register.</text>
+				</paragraph><paragraph id="H05FFF1C5910C4DC29606A1A200D8192B"><enum>(2)</enum><header>Procedures
+			 specific to the initial proceedings</header>
+					<subparagraph id="HC07C997159834FA69D27FC7C2712E85F"><enum>(A)</enum><header>Discovery
+			 period</header><text>Notwithstanding section 4(b)(4)(B)(ii), discovery in the
+			 initial proceedings described in paragraph (1) shall be permitted for a period
+			 of 90 days, except for discovery ordered by the Electronic Payment System
+			 Judges in connection with the resolution of motions, orders, and disputes
+			 pending at the end of such period.</text>
+					</subparagraph><subparagraph id="HC684318993CE4997A3FD00E5CA77BFE"><enum>(B)</enum><header>Consideration of
+			 changes in fees and terms between date of enactment and initial
+			 determination</header><text>In establishing the fees and terms under section
+			 2(d) for access to covered electronic payment systems, to be effective during
+			 the period beginning on January 1, 2010, and ending on December 31, 2011, the
+			 Electronic Payment System Judges shall consider changes in fees and terms made
+			 by a covered electronic payments system between the date of enactment of this
+			 Act and such initial determination. Based upon such consideration, the
+			 Electronic Payment System Judges may adjust the fees established for the period
+			 beginning on January 1, 2010, and ending on December 31, 2011, to reflect the
+			 economic impact such changes had on the parties.</text>
+					</subparagraph></paragraph></subsection><subsection id="H16DDDD77C1EE469192E4C2A900D0FF18"><enum>(b)</enum><header>Subsequent
+			 proceedings</header><text>After completion of the proceedings required under
+			 subsection (a), proceedings under section 2(d) to establish fees and terms for
+			 access to covered electronic payment systems shall be commenced in 2010, and
+			 every 3 years thereafter.</text>
+			</subsection></section><section id="HF62B481BA64F468F8900D6D877008B00"><enum>6.</enum><header>General rule for
+			 voluntarily negotiated access agreements</header>
+			<subsection id="id1F64F040A10E43B788C99EC23D9DB7B6"><enum>(a)</enum><header>In
+			 general</header><text display-inline="yes-display-inline">Any fees or terms
+			 described in subsection (b) shall remain in effect for such period of time as
+			 would otherwise apply to fees and terms established under this Act, except that
+			 the Electronic Payment System Judges shall adjust any such fees to reflect
+			 inflation during any additional period the fees remain in effect beyond that
+			 contemplated in the voluntarily negotiated access agreement.</text>
+			</subsection><subsection id="id19F98348BA1344BFAE6F6FF3157E83BF"><enum>(b)</enum><header>Fees and
+			 terms</header><text display-inline="yes-display-inline">The fees or terms
+			 described in this subsection are fees or terms for access to a covered
+			 electronic payment system under this Act that—</text>
+				<paragraph id="H0337B1B5224949E4B718446C4D3E5573"><enum>(1)</enum><text>are agreed upon as
+			 part of a voluntarily negotiated access agreement for a period shorter than
+			 would otherwise apply under a determination under this Act; and</text>
+				</paragraph><paragraph id="H18785E3856484C3BB8F6279FD04212C0"><enum>(2)</enum><text>are adopted by the
+			 Electronic Payment System Judges as part of a determination under this
+			 Act.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>

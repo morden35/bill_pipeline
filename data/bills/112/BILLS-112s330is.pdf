@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 330</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110214">February 14, 2011</action-date>
+			<action-desc><sponsor name-id="S270">Mr. Schumer</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSCM00">Committee on Commerce, Science, and
+			 Transportation</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit the sale of any product to a consumer that is
+		  subject to a recall, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="id212D27318EB743EAA7CFFC2ACC3AB201" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Consumer Recall Protection Act of
+			 2011</short-title></quote>.</text>
+		</section><section id="idDBC20AA95CD7420AB799BF4645908AEF" section-type="subsequent-section"><enum>2.</enum><header>Prohibition on the
+			 sale of recalled products</header>
+			<subsection id="id7BF3442AFA784755A2AAFBDEA1CC2A37"><enum>(a)</enum><header>Definitions</header><text>In
+			 this section:</text>
+				<paragraph id="id5B3E041C78914225809FEDAB3A849DC0"><enum>(1)</enum><header>Covered
+			 product</header><text>The term <term>covered product</term> means any of the
+			 following:</text>
+					<subparagraph id="id8F1D61FC3659434A9D8F9BE4767A4AE9"><enum>(A)</enum><text>A motor vehicle
+			 or replacement equipment, as such terms are defined in section 30102 of title
+			 49, United States Code.</text>
+					</subparagraph><subparagraph id="id7DADABF5FD3444348DAA42F14F9E7AE8"><enum>(B)</enum><text>Food, drugs,
+			 devices, and cosmetics as such terms are defined in section 201 of the Federal
+			 Food, Drug, and Cosmetic Act (21 U.S.C. 321).</text>
+					</subparagraph><subparagraph id="idD81C68D971A74377897B665D6E6D1AD8"><enum>(C)</enum><text>A biological
+			 product as such term is defined in section 351(i) of the Public Health Service
+			 Act (42 U.S.C. 262(i)).</text>
+					</subparagraph><subparagraph id="idDB3615EBFA7A438796072F5BC816211B"><enum>(D)</enum><text>A consumer
+			 product, as such term is used in section 3(a) of the Consumer Product Safety
+			 Act (15 U.S.C. 2052(a)).</text>
+					</subparagraph><subparagraph id="id509F031E09BB47FD9B4A7B5D8DC4A942"><enum>(E)</enum><clause commented="no" display-inline="yes-display-inline" id="id16A6A2E40E4147479EB235ADF87C8277"><enum>(i)</enum><text>A meat or meat food
+			 product within the meaning given such terms in the Federal Meat Inspection Act
+			 (21 U.S.C. 601 et seq.).</text>
+						</clause><clause id="id5B9C20ECE3B444D089979E857F9FB034" indent="up1"><enum>(ii)</enum><text>A poultry or poultry product as
+			 such terms are defined in section 4 of the Poultry Products Inspection Act (21
+			 U.S.C. 453).</text>
+						</clause><clause id="idD5CE6EF1C8534A829DB82F18302C0EFA" indent="up1"><enum>(iii)</enum><text>An egg or egg product as such
+			 terms are defined in section 4 of the Egg Products Inspection Act (21 U.S.C.
+			 1033).</text>
+						</clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id4EAFB934E6464B0FB74747EFA89F7EF1"><enum>(2)</enum><header>Recall</header><text>With
+			 respect to a covered product, the term <term>recall</term> means the
+			 following:</text>
+					<subparagraph commented="no" display-inline="no-display-inline" id="idB3571C3C90B44F68B1AC9B08125349B1"><enum>(A)</enum><text>In the case that
+			 the Secretary of Transportation makes a determination under section 30118(b)(1)
+			 of title 49, United States Code, that a covered product described in paragraph
+			 (1)(A) contains a defect related to motor vehicle safety or does not comply
+			 with an applicable motor vehicle safety standard prescribed under chapter 301
+			 of such title, giving notification under section 30119 of such title and
+			 remedying such defect or noncompliance under section 30120 of such
+			 title.</text>
+					</subparagraph><subparagraph id="id254A2E2D53CE4E08A9BE984A6DC9F705"><enum>(B)</enum><text>In the case
+			 of—</text>
+						<clause id="id67169CDC1ACB4972ACB780A7FE07D7D1"><enum>(i)</enum><text>a
+			 device, as defined in section 201 of the Federal Food, Drug, and Cosmetic Act
+			 (21 U.S.C. 321), an order under subsection (b)(1)(A) or (e) of section 518 of
+			 such Act (21 U.S.C. 360h(b)(1)(A) and (e));</text>
+						</clause><clause id="id107E87BD8D3549FCBF56E507A5BAC04F"><enum>(ii)</enum><text>infant formula,
+			 as such term is defined in section 201 of the Federal Food, Drug, and Cosmetic
+			 Act (21 U.S.C. 321), a recall of infant formula begun by a manufacturer of
+			 infant formula that is carried out in accordance with section 412(f) of such
+			 Act (21 U.S.C. 350a(f)); and</text>
+						</clause><clause id="id1317EFE904FD4875BDFE0C3024F6E90D"><enum>(iii)</enum><text>any other
+			 covered product described in paragraph (1)(B), a recall of the covered product
+			 by the manufacturer or distributor in response to an advisory or other alert
+			 issued by the Commissioner of Food and Drugs that advises consumers to avoid
+			 the covered product.</text>
+						</clause></subparagraph><subparagraph id="id6B6BB63A85CE4AB8A144E9AE78B40756"><enum>(C)</enum><text>In the case of a
+			 product described in paragraph (1)(C), an order under section 351(d) of the
+			 Public Health Service Act (42 U.S.C. 262(d).</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idE09FF10937574AA8802E2F3B6B19AE95"><enum>(D)</enum><text>In the case of a
+			 covered product described in paragraph (1)(D), an action under subsection (c)
+			 and (d) of section 15 of the Consumer Product Safety Act (15 U.S.C.
+			 2064).</text>
+					</subparagraph><subparagraph id="idBF160B25EF8A47A9BD1B6D3E1532096C"><enum>(E)</enum><text>In the case of a
+			 covered product described in paragraph (1)(E), a recall of the covered product
+			 under—</text>
+						<clause id="id9E45BF39CC0C4263B7F540A816DAB739"><enum>(i)</enum><text>the
+			 Federal Meat Inspection Act (21 U.S.C. 601 et seq.);</text>
+						</clause><clause id="id2291D3D808214D689F121FAB057CDD6C"><enum>(ii)</enum><text>the Poultry
+			 Products Inspection Act (21 U.S.C. 451 et seq.); or</text>
+						</clause><clause commented="no" display-inline="no-display-inline" id="idC9384B0497E14DC1B271AA949EF5B124"><enum>(iii)</enum><text>the Egg
+			 Products Inspection Act (21 U.S.C. 1031 et seq.).</text>
+						</clause></subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id4D30BB2ACBB7406D9705C276AC191FE5"><enum>(b)</enum><header>Prohibition</header>
+				<paragraph commented="no" display-inline="no-display-inline" id="id47F5A325C5ED4FDAA7F2624C48922D30"><enum>(1)</enum><header>In
+			 general</header><text>Except as provided in paragraph (2), a person may not
+			 sell to a consumer any covered product that is subject to a recall.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idDC99033DDF38485C9DF82E846A476E41"><enum>(2)</enum><header>Remedied
+			 products</header><text>Paragraph (1) shall not apply to the sale to a consumer
+			 of a covered product that was subject to a recall because of a defect in such
+			 product if—</text>
+					<subparagraph commented="no" display-inline="no-display-inline" id="idE9110AC3F0B54CC38C5BB0C20F18C48A"><enum>(A)</enum><text>such defect was
+			 remedied prior to such sale; and</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id31FC42EBE0DB4903ABFDAACD845878F9"><enum>(B)</enum><text>the seller of
+			 such product notifies such consumer of such recall, defect, and remedy.</text>
+					</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id373E24056A2B4901B49E008B4AEE55A8"><enum>(c)</enum><header>Enforcement</header>
+				<paragraph id="id759A2E3386F9459C9C63EAB33D56A4B7"><enum>(1)</enum><header>Unfair or
+			 deceptive act or practice</header><text display-inline="yes-display-inline">A
+			 violation of a prohibition described in subsection (b) shall be treated as a
+			 violation of a rule defining an unfair or deceptive act or practice described
+			 under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C.
+			 57a(a)(1)(B)).</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id148E3B5A971042A5AF582A28942D133A"><enum>(2)</enum><header>Actions by the
+			 Federal Trade Commission</header><text display-inline="yes-display-inline">The
+			 Federal Trade Commission shall enforce the provisions of this section in the
+			 same manner, by the same means, and with the same jurisdiction, powers, and
+			 duties as though all applicable terms and provisions of the Federal Trade
+			 Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made part of
+			 this section.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id354E8C7387164DCBB16031B8AAFC6DB9"><enum>(3)</enum><header>Regulations</header><text>The
+			 Federal Trade Commission shall prescribe such regulations as the Commission
+			 considers necessary to carry out this subsection and subsections (a) and
+			 (b).</text>
+				</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="idF81E27DD133844FF94A06EF52BDDC41C"><enum>(d)</enum><header>List of
+			 recalled products</header>
+				<paragraph commented="no" display-inline="no-display-inline" id="id5735294586734128A109A436E8223263"><enum>(1)</enum><header>In
+			 general</header><text>The Consumer Product Safety Commission shall, in
+			 cooperation with the Secretary of Agriculture, the Commissioner of Food and
+			 Drugs, the Federal Trade Commission, and the Secretary of Transportation,
+			 establish, maintain, and make available to the public a list of covered
+			 products that are subject to a recall.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id2772F21FA50C4F9493BAD7DDB4822C87"><enum>(2)</enum><header>Manner of
+			 publication</header><text>The Consumer Product Safety Commission shall make the
+			 list required by paragraph (1) available to the public as a single searchable
+			 list containing all covered products subject to a recall regardless of agency
+			 jurisdiction.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>

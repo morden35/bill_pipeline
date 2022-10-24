@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 3107</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20080610">June 10, 2008</action-date>
+			<action-desc><sponsor name-id="S167">Mr. Bingaman</sponsor> (for
+			 himself and <cosponsor name-id="S118">Mr. Hatch</cosponsor>) introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To require the payment of compensation to members of the
+		  Armed Forces and civilian employees of the United States who were forced to
+		  perform slave labor by the Imperial Government of Japan or by corporations of
+		  Japan during World War II, or the surviving spouses of such members, and for
+		  other purposes. </official-title>
+	</form>
+	<legis-body>
+		<section id="idDD9C51CF82604332ABFEC2E59447E662" section-type="section-one"><enum>1.</enum><header>Payment of compensation to
+			 members of the Armed Forces and civilian employees of the United States
+			 captured by Japan and forced to perform slave labor during World War
+			 II</header>
+			<subsection id="IDa1cfd0e73a96435391ec94a530e3c6c6"><enum>(a)</enum><header>Findings</header><text>Congress
+			 makes the following findings:</text>
+				<paragraph id="IDbe7082cc0d7844ddba53312c8c3db48f"><enum>(1)</enum><text>During World War
+			 II, members of the Armed Forces of the United States fought valiantly against
+			 the Armed Forces of Japan in the Pacific. In particular, from December 1941
+			 until May 1942, members of the Armed Forces of the United States fought
+			 courageously against overwhelming Armed Forces of Japan on Wake Island, Guam,
+			 the Philippine Islands, including the Bataan Peninsula and Corregidor, and the
+			 Dutch East Indies, thereby preventing Japan from accomplishing strategic
+			 objectives necessary for achieving a preemptive military victory in the Pacific
+			 during World War II.</text>
+				</paragraph><paragraph id="ID383f67c6681e4b1c8e66fed8e88d6597"><enum>(2)</enum><text>During initial
+			 military action in the Philippines, members of the Armed Forces of the United
+			 States were ordered to surrender on April 9, 1942, and were forced to march 65
+			 miles to prison camps at Camp O'Donnell, Cabanatuan, and Bilibid. More than
+			 10,000 people of the United States died during the march (known as the
+			 <quote>Bataan Death March</quote>) and during subsequent imprisonment as a
+			 result of starvation, disease, and executions.</text>
+				</paragraph><paragraph id="IDd560431036814de5a029c0b0f5b5c8db"><enum>(3)</enum><text>Beginning in
+			 January 1942, the Armed Forces of Japan began transporting United States
+			 prisoners of war to Japan, Taiwan, Manchuria, and Korea to perform slave labor
+			 to support Japanese industries. Many of the unmarked merchant vessels in which
+			 the prisoners were transported (known as <quote>Hell Ships</quote>) were
+			 attacked by the Armed Forces of the United States, which, according to some
+			 estimates, killed more than 3,600 people of the United States.</text>
+				</paragraph><paragraph id="IDe6e146f86edf451d9e188783168f1202"><enum>(4)</enum><text>Following the
+			 conclusion of World War II, the Government of the United States agreed to pay
+			 compensation to former prisoners of war of the United States, amounting to
+			 $2.50 per day of imprisonment. This compensation, paid from assets of Japan
+			 frozen by the Government of the United States, is wholly insufficient to
+			 compensate fully such former prisoners of war for the conditions they endured.
+			 Neither the Government of Japan nor any corporations of Japan admit any
+			 liability requiring payment of compensation.</text>
+				</paragraph><paragraph id="IDfb7ab853bde94e178c273b32bb954891"><enum>(5)</enum><text>Other countries,
+			 including Canada, the United Kingdom, Isle of Man, Norway, the Netherlands, New
+			 Zealand, and Australia have previously awarded such a compensation to their
+			 surviving veterans who were captured by the Japanese during World War II and
+			 required to perform slave labor. Currently, the United States is the only
+			 Western Allied power that has not awarded similar compensation to these
+			 distinguished heroes of World War II who were prisoners of war of Japan.</text>
+				</paragraph></subsection><subsection id="IDcf9ecaf44b134fd9b62ffa0ada40b36e"><enum>(b)</enum><header>Purpose</header><text>The
+			 purpose of this section is to recognize, by the provision of compensation, the
+			 heroic contributions of the members of the Armed Forces and civilian employees
+			 of the United States who were captured by the Japanese military during World
+			 War II and denied their basic human rights by being forced to perform slave
+			 labor by the Imperial Government of Japan or by corporations of Japan during
+			 World War II.</text>
+			</subsection><subsection id="ID96b621a21bee404bb1b62d66237fe964"><enum>(c)</enum><header>Definitions</header><text>In
+			 this section:</text>
+				<paragraph id="ID39e43aab3f764ae5bef606ac2b834e43"><enum>(1)</enum><header>Covered veteran
+			 or civilian internee</header><text>The term <term>covered veteran or civilian
+			 internee</term> means any individual who—</text>
+					<subparagraph id="ID21c82a4783724dee8cf0ac56ffb77ec7"><enum>(A)</enum><text>is a citizen of
+			 the United States;</text>
+					</subparagraph><subparagraph id="id286F4A66C9714A13910906D3964ABFF2"><enum>(B)</enum><text>was a member of
+			 the Armed Forces, a civilian employee of the United States, or an employee of a
+			 contractor of the United States during World War II;</text>
+					</subparagraph><subparagraph id="IDf425a811123249feb87b1a397799111e"><enum>(C)</enum><text>served in or with
+			 the Armed Forces during World War II;</text>
+					</subparagraph><subparagraph id="ID17282701a30f4449ab68745757e8ca81"><enum>(D)</enum><text>was captured and
+			 held as a prisoner of war or prisoner by Japan in the course of such service;
+			 and</text>
+					</subparagraph><subparagraph id="ID4eb870b10bde403d875f0a713e3cc3d3"><enum>(E)</enum><text>was required by
+			 the Imperial Government of Japan, or one or more corporations of Japan, to
+			 perform slave labor during World War II.</text>
+					</subparagraph></paragraph><paragraph id="ID0fd5716a63b44aa49fcb4c33968ea5b2"><enum>(2)</enum><header>Slave
+			 labor</header><text>The term <term>slave labor</term> means forced servitude
+			 under conditions of subjugation.</text>
+				</paragraph></subsection><subsection id="IDe808b2e2cb6c40cdb7cfb32cbbad5528"><enum>(d)</enum><header>Payment of
+			 compensation required</header>
+				<paragraph id="id65D67CCEA954412CB57654EBA48B78F8"><enum>(1)</enum><header>In
+			 general</header><text>Subject to the availability of appropriated funds, the
+			 Secretary of Defense shall pay compensation to each living covered veteran or
+			 civilian internee, or to the surviving spouse of a covered veteran or civilian
+			 internee, in the amount of $20,000.</text>
+				</paragraph><paragraph id="id6EB7A96481474E838EF987AD903D1706"><enum>(2)</enum><header>Rebuttable
+			 presumption</header><text>An application for compensation submitted under this
+			 section by or with respect to an individual seeking treatment as a covered
+			 veteran or civilian internee under this section is subject to a rebuttable
+			 presumption that such individual is a covered veteran or civilian internee if
+			 the application on its face provides information sufficient to establish such
+			 individual as a covered veteran or civilian internee.</text>
+				</paragraph></subsection><subsection id="ID478cb98dc64643ae9c7f8889d0e25681"><enum>(e)</enum><header>Relationship to
+			 other payments</header><text>Any amount paid to a person under this section for
+			 activity described in subsection (c)(1)(D) is in addition to any other amount
+			 paid to such person for such activity under any other provision of law.</text>
+			</subsection><subsection id="ID9bdea6414fbe4fecbeddc4bf9b0ef6f8"><enum>(f)</enum><header>Inapplicability
+			 of taxation or attachment</header><text>Any amount paid to a person under this
+			 section shall not be subject to any taxation, attachment, execution, levy, tax
+			 lien, or detention under any process whatever.</text>
+			</subsection></section></legis-body>
+</bill>

@@ -1,0 +1,424 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 1544</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20070605">June 5, 2007</action-date>
+			<action-desc><sponsor name-id="S224">Mr. Gregg</sponsor> (for himself
+			 and <cosponsor name-id="S278">Mrs. Clinton</cosponsor>) introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to
+		  improve the quality and efficiency of health care, to provide the public with
+		  information on provider and supplier performance, and to enhance the education
+		  and awareness of consumers for evaluating health care services through the
+		  development and release of reports based on Medicare enrollment, claims,
+		  survey, and assessment data.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>Medicare Quality Enhancement Act
+			 of 2007</short-title></quote>.</text>
+		</section><section id="id9E9D6B9ACF874B8982C184E2AA6CE7BA"><enum>2.</enum><header>Quality and
+			 efficiency reports based on Medicare enrollment, claims, survey, and assessment
+			 data</header><text display-inline="no-display-inline">Title XVIII of the
+			 <act-name parsable-cite="SSA">Social Security Act</act-name> is amended by
+			 adding at the end the following new section:</text>
+			<quoted-block act-name="Social Security Act" id="ID641246C9A0644770B27BA3BC68A3DAEA" style="traditional">
+				<section id="ID1F3C06D14B79430B8D2506AC4FE97C05"><enum>1898.</enum><header>Quality and Efficiency Reports Based on Medicare
+		  Data</header><subsection commented="no" display-inline="yes-display-inline" id="id2989409B51854E98B06B06AD5533039F"><enum>(a)</enum><header>Purpose</header><text>The
+				purpose of this section is to provide for the development of reports based on
+				Medicare data and private data that is publicly available or is provided by the
+				entity making the request for the report in order to—</text>
+						<paragraph id="ID51FF096E4E294FEB82C359C0E8471B63"><enum>(1)</enum><text>improve the
+				quality and efficiency of health care;</text>
+						</paragraph><paragraph id="id436C97CF9A0846BB9656E6E0DDA676E5"><enum>(2)</enum><text>enhance the
+				education and awareness of consumers for evaluating health care services;
+				and</text>
+						</paragraph><paragraph id="IDA25E699C7E5B4739A66A0547A3C7CE80"><enum>(3)</enum><text>provide the
+				public with reports on national, regional, and provider- and supplier-specific
+				performance, which may be in a provider- or supplier-identifiable
+				format.</text>
+						</paragraph></subsection><subsection id="IDD7F40D9325AC4CA0857BB5F703872A79"><enum>(b)</enum><header>Procedures for
+				the development of reports</header>
+						<paragraph id="idCE2EE15E258145A7B89052C311ECA9FC"><enum>(1)</enum><header>In
+				general</header><text>Notwithstanding section 552(b)(6) or 552a(b) of title 5,
+				United States Code, not later than 12 months after the date of enactment of
+				this section, the Secretary, in accordance with the purpose described in
+				subsection (a), shall establish and implement procedures under which an entity
+				may submit a request to a Medicare Quality Reporting Organization for the
+				Organization to develop a report based on—</text>
+							<subparagraph id="idEF264101B69F47BEBDC7BABF29D11996"><enum>(A)</enum><text>Medicare data
+				disclosed to the Organization under subsection (c); and</text>
+							</subparagraph><subparagraph id="id87A2AF5C1E8D4320B9B565CD88585CF0"><enum>(B)</enum><text>private data that
+				is publicly available or is provided to the Organization by the entity making
+				the request for the report.</text>
+							</subparagraph></paragraph><paragraph id="id088445A276724433A3BB88D8FD3EB9E7"><enum>(2)</enum><header>Definitions</header><text>In
+				this section:</text>
+							<subparagraph id="idD8860E8FEB874F36A2511CB32CD52571"><enum>(A)</enum><header>Medicare
+				data</header><text>The term ‘Medicare data’ means—</text>
+								<clause id="idF18278371EF640899214337DF32BCF75"><enum>(i)</enum><text>enrollment data
+				under this title, including de-identified beneficiary enrollment data;</text>
+								</clause><clause id="id1398DD1675AE4C1A9720C2246489FD0D"><enum>(ii)</enum><text>all claims for
+				reimbursement for all items and services furnished by a provider of services
+				(as defined in section 1861(u)) or a supplier (as defined in section 1861(d))
+				under part A or B in a research identifiable format;</text>
+								</clause><clause id="id169E7FF9A4A3449F860C16BA41CCFFFA"><enum>(iii)</enum><text>on and after
+				January 1, 2008, all data relating to enrollment in, and coverage for,
+				qualified prescription drug coverage under part D; and</text>
+								</clause><clause id="idC2E5A7FEE21D41DEB363EE8DB21B70AD"><enum>(iv)</enum><text>additional data
+				files relating to the program under this title collected by the Secretary for
+				the purpose of nationwide quality measurement and reporting based on surveys
+				and assessment data determined appropriate by the Secretary.</text>
+								</clause></subparagraph><subparagraph id="idBB496F5027C64CBA897C7E60AC29F539"><enum>(B)</enum><header>Medicare
+				Quality Reporting Organization</header><text>The term <quote>Medicare Quality
+				Reporting Organization</quote> means an entity with a contract under subsection
+				(d).</text>
+							</subparagraph></paragraph></subsection><subsection id="id42843AA0E8BE41B2B4690E6D7A272CEF"><enum>(c)</enum><header>Access to
+				Medicare data</header>
+						<paragraph id="idF52967200B1745818A1D53D0CAA82D33"><enum>(1)</enum><header>In
+				general</header><text>The procedures established under subsection (b)(1) shall
+				provide for the secure disclosure of Medicare data to each Medicare Quality
+				Reporting Organization.</text>
+						</paragraph><paragraph id="id9C34B0D5103F4940B4201FC52DEAAC81"><enum>(2)</enum><header>All
+				data</header><text>The Secretary shall ensure that all Medicare data files
+				(beginning with files from January 1, 1998) are disclosed under paragraph (1),
+				including the most recent data files available to the Secretary. Not less than
+				every 6 months, the Secretary shall update the information disclosed under
+				paragraph (1) to Medicare Quality Reporting Organizations.</text>
+						</paragraph></subsection><subsection id="id80DF04B22A74405A90D53015DC5960AE"><enum>(d)</enum><header>Medicare
+				Quality Reporting Organizations</header>
+						<paragraph id="id540EB434FEB74B7F9530F45B35606EE5"><enum>(1)</enum><header>In
+				general</header>
+							<subparagraph id="idC0C0C146DA7A4DAF89281DA905F438C6"><enum>(A)</enum><header>Three
+				contracts</header><text>Subject to subparagraph (B), the Secretary shall enter
+				into a contract with 3 private entities to serve as Medicare Quality Reporting
+				Organizations under which an entity shall—</text>
+								<clause id="id756FEADE5D6C4A92A61AADDFB9C6364A"><enum>(i)</enum><text>store the
+				Medicare data that is to be disclosed under subsection (c); and</text>
+								</clause><clause id="idCB62C9786A694AA3AAA766F9819537CD"><enum>(ii)</enum><text>develop and
+				release reports pursuant to subsection (e).</text>
+								</clause></subparagraph><subparagraph id="id150DC755C2694808AC59F3ECA84BFB88"><enum>(B)</enum><header>Additional
+				contracts</header><text>If the Secretary determines that reports are not being
+				developed and released within 6 months of the receipt of the request for the
+				report, the Secretary shall enter into contracts with additional private
+				entities in order to ensure that such reports are developed and released in a
+				timely manner.</text>
+							</subparagraph></paragraph><paragraph id="id002BD0074AED4F58AE1E85D8E273652C"><enum>(2)</enum><header>Qualifications</header><text>The
+				Secretary shall enter into a contract with an entity under paragraph (1) only
+				if the Secretary determines that the entity—</text>
+							<subparagraph id="idF268D61C1F4746CC986F35682480B87F"><enum>(A)</enum><text>has the research
+				capability to conduct and complete reports under this section;</text>
+							</subparagraph><subparagraph id="id0794D1972B5D48D3A8FE51833F06C27D"><enum>(B)</enum><text>has in
+				place–</text>
+								<clause id="id71238C2B34A849F5BB3F90DD9DB49A65"><enum>(i)</enum><text>an information
+				technology infrastructure to support the entire database of Medicare data;
+				and</text>
+								</clause><clause id="id22B678A8B2494E3C99992F445C1A6427"><enum>(ii)</enum><text>operational
+				standards to provide security for such database;</text>
+								</clause></subparagraph><subparagraph id="id25E77EE48C6342F1B34A345C11ADC848"><enum>(C)</enum><text>has experience
+				with, and expertise on, the development of reports on health care quality and
+				efficiency based on Medicare or private sector claims data; and</text>
+							</subparagraph><subparagraph id="id0E30501EBE194777B5A9071F2C1B2293"><enum>(D)</enum><text>has a significant
+				business presence in the United States.</text>
+							</subparagraph></paragraph><paragraph id="idBE0DF773A9D6424092056BF1465B9FA6"><enum>(3)</enum><header>Contract
+				requirements</header><text>Each contract with an entity under paragraph (1)
+				shall contain the following requirements:</text>
+							<subparagraph id="id6A292686D9564E5AB6D3FF51D9BD05AB"><enum>(A)</enum><header>Ensuring
+				beneficiary privacy</header>
+								<clause id="idF0DE3295A62B4115AEB0886E06FDBA65"><enum>(i)</enum><header>HIPAA</header><text>The
+				entity shall meet the requirements imposed on a covered entity for purposes of
+				applying part C of title XI and all regulatory provisions promulgated
+				thereunder, including regulations (relating to privacy) adopted pursuant to the
+				authority of the Secretary under section 264(c) of the Health Insurance
+				Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).</text>
+								</clause><clause id="idD41D4AEDCF5B47A1B210F186367780A1"><enum>(ii)</enum><header>Privacy</header><text>The
+				entity shall provide assurances that the entity will not use the Medicare data
+				disclosed under subsection (c) in a manner that violates sections 552 or 552a
+				of title 5, United States Code, with regard to the privacy of individually
+				identifiable beneficiary health information.</text>
+								</clause></subparagraph><subparagraph id="id5959257876B54B8FA681E0F5B1B1570A"><enum>(B)</enum><header>Proprietary
+				information</header><text>The entity shall provide assurances that the entity
+				will not, with respect to data relating to part D, disclose any negotiated
+				price concessions, such as discounts, direct or indirect subsidies, rebates,
+				and direct or indirect remunerations, obtained by prescription drug plans and
+				MA–PD plans for covered part D drugs, or any other proprietary cost
+				information.</text>
+							</subparagraph><subparagraph id="idD99E7594A2C44756A29B538CC531E67B"><enum>(C)</enum><header>Disclosure</header><text>The
+				entity shall disclose—</text>
+								<clause id="ID215f86a97e1b4852aef9c4d71e26a665"><enum>(i)</enum><text>any financial,
+				reporting, or contractual relationship between the entity and any provider of
+				services (as defined in section 1861(u)) or supplier (as defined in section
+				1861(d)); and</text>
+								</clause><clause id="ID26d94f32ec3a41bf942c9ded6d5b8b85"><enum>(ii)</enum><text>if applicable,
+				the fact that the entity is managed, controlled, or operated by any such
+				provider of services or supplier.</text>
+								</clause></subparagraph><subparagraph id="idDEDF26969400447C84C4D3138DBFCFF3"><enum>(D)</enum><header>Component of
+				another organization</header><text>If the entity is a component of another
+				organization—</text>
+								<clause id="idEF0AAEB5B0E54F7C862F2559A06FC843"><enum>(i)</enum><text>the entity shall
+				maintain Medicare data and reports separately from the rest of the organization
+				and establish appropriate security measures to maintain the confidentiality and
+				privacy of the Medicare data and reports; and</text>
+								</clause><clause id="ID469b0f12366c44ed97a2eeb86899f788"><enum>(ii)</enum><text>the entity shall
+				not make an unauthorized disclosure to the rest of the organization of Medicare
+				data or reports in breach of such confidentiality and privacy
+				requirement.</text>
+								</clause></subparagraph><subparagraph id="idD38BDEC362C341AFAD2DC237D42A05F5"><enum>(E)</enum><header>Termination or
+				nonrenewal</header><text>If a contract under this section is terminated or not
+				renewed, the following requirements shall apply:</text>
+								<clause id="id93CC807C021A49A69997B1EB7A6B9D3D"><enum>(i)</enum><header>Confidentiality
+				and privacy protections</header><text>The entity shall continue to comply with
+				the confidentiality and privacy requirements under this section with respect to
+				all Medicare data disclosed to the entity and each report developed by the
+				entity.</text>
+								</clause><clause id="id8AAEF816C1F94FFDA6A1B98047F25311"><enum>(ii)</enum><header>Disposition of
+				data and reports</header><text>The entity shall—</text>
+									<subclause id="id335FE5C261F6455ABA31FFE8208B4359"><enum>(I)</enum><text>return to the
+				Secretary all Medicare data disclosed to the entity and each report developed
+				by the entity; or</text>
+									</subclause><subclause id="ID0b7f926a04344395ad89584a068af12e"><enum>(II)</enum><text>if returning the
+				Medicare data and reports is not practicable, destroy the reports and Medicare
+				data.</text>
+									</subclause></clause></subparagraph></paragraph><paragraph id="id6680373BF46F46488680F62E1F223D96"><enum>(4)</enum><header>Competitive
+				procedures</header><text>Competitive procedures (as defined in section 4(5) of
+				the Federal Procurement Policy Act) shall be used to enter into contracts under
+				paragraph (1).</text>
+						</paragraph><paragraph id="idE21FFBC49DFA40BD83F41A81C8EFF694"><enum>(5)</enum><header>Review of
+				contract in the event of a merger or acquisition</header><text>The Secretary
+				shall review the contract with a Medicare Quality Reporting Organization under
+				this section in the event of a merger or acquisition of the Organization in
+				order to ensure that the requirements under this section will continue to be
+				met.</text>
+						</paragraph></subsection><subsection id="id408759ACB863462F8AF4408C30B297A3"><enum>(e)</enum><header>Development and
+				release of reports based on requests</header>
+						<paragraph id="id4599095F45D74C3EA09089E795E6DF61"><enum>(1)</enum><header>Request for a
+				report</header>
+							<subparagraph id="id783B4514BA6A4D9CB1E40EAA375CF4C3"><enum>(A)</enum><header>Request</header>
+								<clause id="idFD96F27FD6354AA9A3E1C1607061681E"><enum>(i)</enum><header>In
+				general</header><text>The procedures established under subsection (b)(1) shall
+				include a process for an entity to submit a request to a Medicare Quality
+				Reporting Organization for a report based on Medicare data and private data
+				that is publicly available or is provided by the entity making the request for
+				the report. Such request shall comply with the purpose described in subsection
+				(a).</text>
+								</clause><clause id="idF10CFF711A7A4595A038A506E165692A"><enum>(ii)</enum><header>Request for
+				specific methodology</header><text>The process described in clause (i) shall
+				permit an entity making a request for a report to request that a specific
+				methodology be used by the Medicare Quality Reporting Organization in
+				developing the report. The Organization shall work with the entity making the
+				request to finalize the methodology to be used.</text>
+								</clause><clause id="idDC60CE2BD2DF43F3A9489763756C56F5"><enum>(iii)</enum><header>Request for a
+				specific MQRO</header><text>The process described in clause (i) shall permit an
+				entity to submit the request for a report to any Medicare Quality Reporting
+				Organization.</text>
+								</clause></subparagraph><subparagraph id="idA294ECCEE7174E47940A79E09FD73B71"><enum>(B)</enum><header>Release to
+				public</header><text>The procedures established under subsection (b)(1) shall
+				provide that at the time a request for a report is finalized under subparagraph
+				(A) by a Medicare Quality Reporting Organization, the Organization shall make
+				available to the public, through the Internet website of the Centers for
+				Medicare &amp; Medicaid Services and other appropriate means, a brief
+				description of both the requested report and the methodology to be used to
+				develop such report.</text>
+							</subparagraph></paragraph><paragraph id="id4E28D879257E4B8CB602CC4BDA90B0A0"><enum>(2)</enum><header>Development and
+				release of report</header>
+							<subparagraph id="id6E10E9C65BFB4CAC9B6D0FF7C4FBBB40"><enum>(A)</enum><header>Development</header>
+								<clause id="id9D3FDFAA642341D8BBB535B91F00FDEB"><enum>(i)</enum><header>In
+				general</header><text>If the request for a report complies with the purpose
+				described in subsection (a), the Medicare Quality Reporting Organization may
+				develop the report based on the request.</text>
+								</clause><clause id="id30111CFA66DC459CB6044D7A1F05A36D"><enum>(ii)</enum><header>Requirement</header><text>A
+				report developed under clause (i) shall include a detailed description of the
+				standards, methodologies, and measures of quality used in developing the
+				report.</text>
+								</clause></subparagraph><subparagraph id="id7CA0AAF8F8DA4632A87E9B7CAC5A7E6D"><enum>(B)</enum><header>Review of
+				report by Secretary to ensure compliance with privacy
+				requirement</header><text>Prior to a Medicare Quality Reporting Organization
+				releasing a report under subparagraph (C), the Secretary shall review the
+				report to ensure that the report complies with the Federal regulations
+				(concerning the privacy of individually identifiable beneficiary health
+				information) promulgated under section 264(c) of the
+				<act-name parsable-cite="HIPAA">Health Insurance Portability and Accountability
+				Act of 1996</act-name> and sections 552 or 552a of title 5, United States Code,
+				with regard to the privacy of individually identifiable beneficiary health
+				information. The Secretary shall act within 30 business days of receiving such
+				report.</text>
+							</subparagraph><subparagraph id="id6BAD02281D1E45F9BB0CEC513A03FAC1"><enum>(C)</enum><header>Release of
+				report</header>
+								<clause id="idDA1AB8589FC84E09AFE295C958D0C3BD"><enum>(i)</enum><header>Release to
+				entity making request</header><text>If the Secretary finds that the report
+				complies with the provisions described in subparagraph (B), the Medicare
+				Quality Reporting Organization shall release the report to the entity that made
+				the request for the report.</text>
+								</clause><clause id="id175236DD1929441B8FC361049AB35402"><enum>(ii)</enum><header>Release to
+				public</header><text>The procedures established under subsection (b)(1) shall
+				provide for the following:</text>
+									<subclause id="idBA3FA85D2D934A829E6F31A633D53883"><enum>(I)</enum><header>Updated
+				description</header><text>At the time of the release of a report by a Medicare
+				Quality Reporting Organization under clause (i), the entity shall make
+				available to the public, through the Internet website of the Centers for
+				Medicare &amp; Medicaid Services and other appropriate means, an updated brief
+				description of both the requested report and the methodology used to develop
+				such report.</text>
+									</subclause><subclause id="id9DEB3F525FAA4B1D8D60F86C58626B0B"><enum>(II)</enum><header>Complete
+				report</header><text>Not later than 1 year after the date of the release of a
+				report under clause (i), the report shall be made available to the public
+				through the Internet website of the Centers for Medicare &amp; Medicaid
+				Services and other appropriate means.</text>
+									</subclause></clause></subparagraph></paragraph></subsection><subsection id="idCEC31799D9C3494F94323BEC4FDC2DCF"><enum>(f)</enum><header>Annual review
+				of reports and termination of contracts</header>
+						<paragraph id="idC739D627AA6E471785C57C78AAD0E2E9"><enum>(1)</enum><header>Annual review
+				of reports</header><text>The Comptroller General of the United States shall
+				review reports released under subsection (e)(2)(C) to ensure that such reports
+				comply with the purpose described in subsection (a) and annually submit a
+				report to the Secretary on such review.</text>
+						</paragraph><paragraph id="id17591C99F1964C2996A81826C5D3B6A8"><enum>(2)</enum><header>Termination of
+				contracts</header><text>The Secretary may terminate a contract with a Medicare
+				Quality Reporting Organization if the Secretary determines that there is a
+				pattern of reports being released by the Organization that do not comply with
+				the purpose described in subsection (a).</text>
+						</paragraph></subsection><subsection id="id21F8C3AA96EB416CB0B4B0DDC8E5DF0A"><enum>(g)</enum><header>Fees</header>
+						<paragraph id="idB334449E7B0F4239B0AAA6A67034B046"><enum>(1)</enum><header>Fees for
+				Secretary</header><text>The Secretary shall charge a Medicare Quality Reporting
+				Organization a fee for—</text>
+							<subparagraph id="id7D96BBDD006D4501B8FC2822BB7943C4"><enum>(A)</enum><text>disclosing the
+				data under subsection (c); and</text>
+							</subparagraph><subparagraph id="id41EB7670A48E49DCAB9179455367FA55"><enum>(B)</enum><text>conducting the
+				review under subsection (e)(2)(B).</text>
+							</subparagraph><continuation-text continuation-text-level="paragraph">The
+				Secretary shall ensure that such fees are sufficient to cover the costs of the
+				activities described in subparagraph (A) and (B).</continuation-text></paragraph><paragraph id="id212C7BD2BB44410FB6B5665E0788F966"><enum>(2)</enum><header>Fees for
+				MQRO</header>
+							<subparagraph id="id426F48CF047E49F5BE208F2EE07A1C55"><enum>(A)</enum><header>In
+				general</header><text>Subject to subparagraphs (A) and (B), a Medicare Quality
+				Reporting Organization may charge an entity making a request for a report a
+				reasonable fee for the development and release of the report.</text>
+							</subparagraph><subparagraph id="id1E669F444B7C47C98583B35B862E0D5A"><enum>(B)</enum><header>Discount for
+				small entities</header><text>In the case of an entity making a request for a
+				report (including a not-for-profit) that has annual revenue that does not
+				exceed $10,000,000, the Medicare Quality Reporting Organization shall reduce
+				the reasonable fee charged to such entity under subparagraph (A) by an amount
+				equal to 10 percent of such fee.</text>
+							</subparagraph><subparagraph id="id02FB5BC59E7F4F35824164E95AFBC576"><enum>(C)</enum><header>Increase for
+				large entities that do not agree to release reports within 6
+				months</header><text>In the case of an entity making a request for a report
+				that is not described in subparagraph (B) and that does not agree to the report
+				being released to the public under clause (ii)(II) of subsection (e)(2)(C)
+				within 6 months of the date of the release of the report to the entity under
+				clause (i) of such subsection, the Medicare Quality Reporting Organization
+				shall increase the reasonable fee charged to such entity under subparagraph (A)
+				by an amount equal to 10 percent of such fee.</text>
+							</subparagraph><subparagraph id="id9EBC7ADBF422489A9A61A5B1617B5844"><enum>(D)</enum><header>Rule of
+				construction</header><text>Nothing in this paragraph shall be construed to
+				effect the requirement that a report be released to the public under clause
+				(ii)(II) of subsection (e)(2)(C)(ii)(II) by not later than 1 year after the
+				date of the release of the report to the requesting entity under clause (i) of
+				such subsection.</text>
+							</subparagraph></paragraph></subsection><subsection id="IDFC7F094C79A14A5795029E7E2887B1DC"><enum>(h)</enum><header>Regulations</header><text>Not
+				later than 6 months after the date of enactment of this section, the Secretary
+				shall prescribe regulations to carry out this section.</text>
+					</subsection><subsection id="idCDA05879F68F49939A60F95B7ADC593D"><enum>(i)</enum><header>GAO studies and
+				report</header>
+						<paragraph id="id15FE39337F4F437895A1532543D0E311"><enum>(1)</enum><header>Studies</header><text>The
+				Comptroller General of the United States shall conduct a study on each of the
+				following:</text>
+							<subparagraph id="id7BB613DD53F74A6BB49F24AE521780F8"><enum>(A)</enum><text>The feasibility
+				of requiring Medicare Advantage organizations under part C to share utilization
+				and quality data with the Secretary for the purpose of releasing such
+				information to Medicare Quality Reporting Organizations under this
+				section.</text>
+							</subparagraph><subparagraph id="id19DC211E88DB4DE387DFDA33CD5F9748"><enum>(B)</enum><text>The Medicare data
+				released to Medicare Quality Reporting Organizations under subsection (c) in
+				order to determine the accuracy of such data with respect to—</text>
+								<clause id="idEC9A4DC9692F4598A1D643DD4B0FBF7D"><enum>(i)</enum><text>the coding of
+				demographic data;</text>
+								</clause><clause id="idAB9AF91B1D1E4F04B96A906A6648F2B1"><enum>(ii)</enum><text>diagnosis and
+				procedures; and</text>
+								</clause><clause id="id22508D621B1E46E18F9A5E337B8B6640"><enum>(iii)</enum><text>any other data
+				elements important for the development of reports under this section in
+				accordance with the purpose described in subsection (a).</text>
+								</clause></subparagraph><subparagraph id="id885F2F8E3EA8443F91FDA8CE5FBBA211"><enum>(C)</enum><text>The feasibility
+				of collecting State Medicaid data for the purpose of aggregating all Medicaid
+				data for study under this section.</text>
+							</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id7B041816869B4E2F81458D791624FEE0"><enum>(2)</enum><header>Report</header><text>Not
+				later than 12 months after the date of enactment of this section, the
+				Comptroller General of the United States shall submit a report to Congress on
+				each of the studies conducted under paragraph (1) together with recommendations
+				for such legislation and administrative actions as the Comptroller General
+				considers
+				appropriate.</text>
+						</paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="id471DC8D12D174670AE4FAF21959C435C"><enum>3.</enum><header>Quality Advisory
+			 Board</header>
+			<subsection id="id16A42624B993454E861DDE9C0233E3A7"><enum>(a)</enum><header>Establishment</header><text>Not
+			 later than 12 months after the date of enactment of this Act, the Secretary of
+			 Health and Human Services shall establish within the Office of the Secretary a
+			 board to be known as the Quality Advisory Board (in this section referred to as
+			 the <quote>Board</quote>).</text>
+			</subsection><subsection id="idE1C57DE5BA9A496D9EC4F3FD500CFC4A"><enum>(b)</enum><header>Membership</header><text>The
+			 members of the Board shall include, but not be limited to, an appropriate
+			 number of representatives of—</text>
+				<paragraph id="ID0adeece9f2dc480e8b9e3b0d1c9c37b2"><enum>(1)</enum><text>groups
+			 representing Medicare beneficiaries;</text>
+				</paragraph><paragraph id="IDe273e0dd1f0d41f89e1f45fe5cb17915"><enum>(2)</enum><text>groups
+			 representing providers of services (as defined in subsection (u) of section
+			 1861 of the Social Security Act (42 U.S.C. 1395x)) and suppliers (as defined in
+			 subsection (d) of such section) receiving reimbursement under the Medicare
+			 program;</text>
+				</paragraph><paragraph id="ID2fcec3c4f0174f47ae5760de876c9ff3"><enum>(3)</enum><text>purchasers and
+			 employers or groups representing purchasers and employers;</text>
+				</paragraph><paragraph id="IDd89bb705e5f246a79d347f5aabd53247"><enum>(4)</enum><text>organizations
+			 focused on the development of quality health care measures;</text>
+				</paragraph><paragraph id="ID7e2a873161fc4009923167521540ddc7"><enum>(5)</enum><text>researchers or
+			 research institutions with experience in the measurement of, and reporting on,
+			 health care quality; and</text>
+				</paragraph><paragraph id="IDd1b2335ff72a4e8784a71904b39c9b28"><enum>(6)</enum><text>health plans or
+			 groups representing health plans.</text>
+				</paragraph></subsection><subsection id="id8E0E5B2344904E3E8E279E5931090BDA"><enum>(c)</enum><header>Duties</header><text>The
+			 duties of the Board are as follows:</text>
+				<paragraph id="id675F1321AB224AFEA4868D22D921AAC6"><enum>(1)</enum><text>To submit
+			 requests for reports to Medicare Quality Reporting Organizations under section
+			 1898 of the Social Security Act, as added by section 2.</text>
+				</paragraph><paragraph id="idB90AC00F2AC24C918F488255A45A7C89"><enum>(2)</enum><text>To examine how
+			 clinical registries can be linked to Medicare data (as defined in subsection
+			 (b)(2)(A) of such section 1898) in order to develop reports on the quality and
+			 efficiency of providers of services (as defined in subsection (u) of section
+			 1861 of the Social Security Act (42 U.S.C. 1395x)) and suppliers (as defined in
+			 subsection (d) of such section).</text>
+				</paragraph><paragraph id="ID8612ef1a095f468aa35dbdb624fb6885"><enum>(3)</enum><text>To coordinate
+			 with existing collaborative efforts identifying quality and efficiency health
+			 care measures.</text>
+				</paragraph><paragraph id="idC82EB71D51D34108985F0F319340969B"><enum>(4)</enum><text>To provide the
+			 Secretary of Health and Human Services with recommendations for the development
+			 of model quality health care measurements.</text>
+				</paragraph><paragraph id="id6C009E989D0F40398757F5CCF13B3D66"><enum>(5)</enum><text>Other duties
+			 determined appropriate by the Secretary.</text>
+				</paragraph></subsection><subsection commented="no" id="idF4E8AD87BCBB438DA2BB510169377290"><enum>(d)</enum><header>Authorization
+			 of appropriations</header><text>There are authorized to be appropriated to the
+			 Secretary of Health and Human Services such sums as may be necessary for the
+			 purpose of carrying out this section.</text>
+			</subsection></section><section id="id54628D76665A48678A1CDB447200CF6A"><enum>4.</enum><header>Research access
+			 to Medicare data and reporting on performance</header><text display-inline="no-display-inline">The Secretary of Health and Human Services
+			 shall permit researchers that meet existing criteria used to evaluate the
+			 appropriateness of the release of Centers for Medicare &amp; Medicaid Services
+			 (CMS) data for research purposes to—</text>
+			<paragraph id="id2EA97717EF20419DAE0A99EDB071D898"><enum>(1)</enum><text display-inline="yes-display-inline">have access to all Medicare data (as
+			 defined in section 1898(b)(2)(A) of the Social Security Act, as added by
+			 section 2); and</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id7BE6CD2F2E3048A283CA821B54C7DAA1"><enum>(2)</enum><text>report on the
+			 performance of providers of services (as defined in subsection (u) of section
+			 1861 of such Act (42 U.S.C. 1395x)) and suppliers (as defined in subsection (d)
+			 of such section), including reporting in a provider- or supplier-identifiable
+			 format.</text>
+			</paragraph></section></legis-body>
+</bill>

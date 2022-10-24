@@ -1,0 +1,398 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 2913</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20080424">April 24, 2008</action-date>
+			<action-desc><sponsor name-id="S057">Mr. Leahy</sponsor> (for himself
+			 and <cosponsor name-id="S118">Mr. Hatch</cosponsor>) introduced the following
+			 bill; which was read twice and referred to the
+			 <committee-name committee-id="SSJU00">Committee on the
+			 Judiciary</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide a limitation on judicial remedies in copyright
+		  infringement cases involving orphan works.</official-title>
+	</form>
+	<legis-body>
+		<section id="HCD0A65FD5CB74A4C892D4B16A3B11930" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Shawn Bentley Orphan Works Act of
+			 2008</short-title></quote>.</text>
+		</section><section id="HFA9C8F1513314053AF2EF6FFA400CF84"><enum>2.</enum><header>Limitation on
+			 remedies in cases involving orphan works</header>
+			<subsection id="H4DCE12FCC5B844058D3573BC4611A8B2"><enum>(a)</enum><header>Limitation on
+			 remedies</header><text>Chapter 5 of title 17, United States Code, is amended by
+			 adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H7DBB0B8BA3824CE98F64007D4287A3E4" style="USC">
+					<section id="H33E0FEE71D8642500004368C30E48B47"><enum>514.</enum><header>Limitation on
+				remedies in cases involving orphan works</header>
+						<subsection id="H6925F6DD5DBB475C8DFFF95F3DCE3ED4"><enum>(a)</enum><header>Definitions</header><text>In
+				this section, the following definitions shall apply:</text>
+							<paragraph id="H3EA57CAF35BF45E2ABF56C2DE3E9DE3"><enum>(1)</enum><header>Materials and
+				standards</header><text>The term <quote>materials and standards</quote>
+				includes—</text>
+								<subparagraph id="HED3625B1A2E6412E0032D4687F471567"><enum>(A)</enum><text>the records of the
+				Copyright Office that are relevant to identifying and locating copyright
+				owners;</text>
+								</subparagraph><subparagraph id="HB2B442FF881B41B187D8654D305EC569"><enum>(B)</enum><text>sources of
+				copyright ownership information reasonably available to users, including
+				private databases;</text>
+								</subparagraph><subparagraph id="HB057E55F4F1A4C859C226E4DC69EAFFE"><enum>(C)</enum><text>industry practices
+				and guidelines of associations and organizations;</text>
+								</subparagraph><subparagraph id="H28BC72ED588A4202A832EE9143018DAC"><enum>(D)</enum><text display-inline="yes-display-inline">technology tools and expert assistance,
+				including resources for which a charge or subscription fee is imposed, to the
+				extent that the use of such resources is reasonable for, and relevant to, the
+				scope of the intended use; and</text>
+								</subparagraph><subparagraph id="HD1105D9F4D444A3B8C26876CDD5544A4"><enum>(E)</enum><text>electronic
+				databases, including databases that are available to the public through the
+				Internet, that allow for searches of copyrighted works and for the copyright
+				owners of works, including through text, sound, and image recognition
+				tools.</text>
+								</subparagraph></paragraph><paragraph id="H45361F70C2C94C0382954FC5D64CC271"><enum>(2)</enum><header>Notice of claim
+				for infringement</header><text>The term <quote>notice of the claim for
+				infringement</quote> means, with respect to a claim for copyright infringement,
+				a written notice that includes at a minimum the following:</text>
+								<subparagraph id="H8755B172BD694704A4036F78F8979D4B"><enum>(A)</enum><text>The name of the
+				owner of the infringed copyright.</text>
+								</subparagraph><subparagraph id="H1B31126FC7474FDBA45E0537C95B8B79"><enum>(B)</enum><text display-inline="yes-display-inline">The title of the infringed work, any
+				alternative titles of the infringed work known to the owner of the infringed
+				copyright, or if the work has no title, a description in detail sufficient to
+				identify it.</text>
+								</subparagraph><subparagraph id="H7D4D3066B9374CB3B93D4E4563CF07DD"><enum>(C)</enum><text display-inline="yes-display-inline">An address and telephone number at which
+				the owner of the infringed copyright may be contacted.</text>
+								</subparagraph><subparagraph id="HE3FD1C4C14E142B384008B634891B3B"><enum>(D)</enum><text>Information from
+				which a reasonable person could conclude that the owner of the infringed
+				copyright’s claims of ownership and infringement are valid.</text>
+								</subparagraph></paragraph><paragraph commented="no" id="HF84837D5BA584DCB88184195F7DDE99F"><enum>(3)</enum><header>Owner of the
+				infringed copyright</header><text display-inline="yes-display-inline">The
+				<quote>owner of the infringed copyright</quote> is the legal owner of the
+				exclusive right under section 106, or any party with the authority to grant or
+				license such right, that is applicable to the infringement.</text>
+							</paragraph><paragraph id="HF7469DAF4E7C4E30ADDED1FFF08864C6"><enum>(4)</enum><header>Reasonable
+				compensation</header><text>The term <quote>reasonable compensation</quote>
+				means, with respect to a claim for infringement, the amount on which a willing
+				buyer and willing seller in the positions of the infringer and the owner of the
+				infringed copyright would have agreed with respect to the infringing use of the
+				work immediately before the infringement began.</text>
+							</paragraph></subsection><subsection id="HC5CDD3FF61A84359B3C58121A789BCD2"><enum>(b)</enum><header>Conditions for
+				eligibility</header>
+							<paragraph id="H49F48F5A9D1640D0B8D636AD8CEACBB1"><enum>(1)</enum><header>Conditions</header>
+								<subparagraph id="HBE8FEB05E29247B38253401640C88D8"><enum>(A)</enum><header>In
+				general</header><text>Notwithstanding sections 502 through 505, and subject to
+				subparagraph (B), in a civil action brought under this title for infringement
+				of copyright in a work, the remedies for infringement shall be limited in
+				accordance with subsection (c) if the infringer—</text>
+									<clause id="H007FB9B8794D443A90F29F2590DDCC71"><enum>(i)</enum><text>proves by a
+				preponderance of the evidence that before the infringement began, the
+				infringer, a person acting on behalf of the infringer, or any person jointly
+				and severally liable with the infringer for the infringement—</text>
+										<subclause id="H11FAA11AD8054A6184476696AB269CB6"><enum>(I)</enum><text>performed and
+				documented a qualifying search, in good faith, for the owner of the infringed
+				copyright; and</text>
+										</subclause><subclause id="HB5FB12BDBDCE41668F54E4DF2D7614BB"><enum>(II)</enum><text>was unable to
+				locate the owner of the infringed copyright;</text>
+										</subclause></clause><clause id="HEA380C886B344B83A99BA86E9C00822E"><enum>(ii)</enum><text display-inline="yes-display-inline">provided attribution, in a manner that is
+				reasonable under the circumstances, to the owner of the infringed copyright, if
+				such owner was known with a reasonable degree of certainty, based on
+				information obtained in performing the qualifying search;</text>
+									</clause><clause id="HC43F2629E64D44E790999B6D00E13D31"><enum>(iii)</enum><text>included with
+				the use of the infringing work a symbol or other notice of the use of the
+				infringing work, in a manner prescribed by the Register of Copyrights;</text>
+									</clause><clause id="H443DACA67C994829A7768381CD346142"><enum>(iv)</enum><text>asserts in the
+				initial pleading to the civil action the right to claim such
+				limitations;</text>
+									</clause><clause id="HA3E66DC1B0544C3C8DE3EDA3ACADD486"><enum>(v)</enum><text display-inline="yes-display-inline">consents to the jurisdiction of United
+				States district court, or such court holds that the infringer is within the
+				jurisdiction of the court; and</text>
+									</clause><clause id="H710C5969D96A42529BD3F01577D03F5E"><enum>(vi)</enum><text>at the time of
+				making the initial discovery disclosures required under rule 26 of the Federal
+				Rules of Civil Procedure, states with particularity the basis for the right to
+				claim the limitations, including a detailed description and documentation of
+				the search undertaken in accordance with paragraph (2)(A).</text>
+									</clause></subparagraph><subparagraph id="H65811BF8B2974A10B38FEE00DECF7C1F"><enum>(B)</enum><header>Exception</header><text>Subparagraph
+				(A) does not apply if, after receiving notice of the claim for infringement and
+				having an opportunity to conduct an expeditious good faith investigation of the
+				claim, the infringer—</text>
+									<clause id="H16A8443848484088929FE5764920F9A9"><enum>(i)</enum><text>fails to negotiate
+				reasonable compensation in good faith with the owner of the infringed
+				copyright; or</text>
+									</clause><clause id="H1B3DAD01ED0046C4AA34905F94B30160"><enum>(ii)</enum><text>fails to render
+				payment of reasonable compensation in a reasonably timely manner.</text>
+									</clause></subparagraph></paragraph><paragraph id="H3B087B4F5862449BB5AA2775C5A218"><enum>(2)</enum><header>Requirements for
+				searches</header>
+								<subparagraph id="HC45B3792438C41C284840790F4E2E399"><enum>(A)</enum><header>Requirements for
+				qualifying searches</header>
+									<clause id="H5D136F892F31499D9D6229C96BB23165"><enum>(i)</enum><header>In
+				general</header><text>For purposes of paragraph (1)(A)(i)(I), a search is
+				qualifying if the infringer undertakes a diligent effort to locate the owner of
+				the infringed copyright.</text>
+									</clause><clause id="H86DB16BB86624403B362DAE2E9D02F8D"><enum>(ii)</enum><header>Determination
+				of diligent effort</header><text>In determining whether a search is diligent
+				under this subparagraph, a court shall consider whether—</text>
+										<subclause id="HE3E67649410F41A79B27EFA300C1DED9"><enum>(I)</enum><text>the actions taken
+				in performing that search are reasonable and appropriate under the facts
+				relevant to that search, including whether the infringer took actions based on
+				facts uncovered by the search itself;</text>
+										</subclause><subclause id="H70A3C8926B864C0CB816901976053DA8"><enum>(II)</enum><text>the infringer
+				employed the applicable best practices maintained by the Register of Copyrights
+				under subparagraph (B); and</text>
+										</subclause><subclause id="H516DD63AA7E543A88261E4987D106EF3"><enum>(III)</enum><text>the infringer
+				performed the search before using the work and at a time that was reasonably
+				proximate to the commencement of the infringement.</text>
+										</subclause></clause><clause id="H0D023E2C087741B6BDD777E800C3FC43"><enum>(iii)</enum><header>Lack of
+				identifying information</header><text>The fact that a particular copy or
+				phonorecord lacks identifying information pertaining to the owner of the
+				infringed copyright is not sufficient to meet the conditions under paragraph
+				(1)(A)(i)(I).</text>
+									</clause></subparagraph><subparagraph id="HD0ED7E08AABF40D0A560DAA4CEDCE7DB"><enum>(B)</enum><header>Information to
+				guide searches; best practices</header>
+									<clause id="H0E77CFEE454B48E38B54A4D64F581280"><enum>(i)</enum><header>Statements of
+				best practices</header><text>The Register of Copyrights shall maintain and make
+				available to the public, including through the Internet, current statements of
+				best practices for conducting and documenting a search under this
+				subsection.</text>
+									</clause><clause id="H76E86CCF74514E229931F43D314B345"><enum>(ii)</enum><header>Consideration of
+				relevant materials and standards</header><text>In maintaining the statements of
+				best practices required under clause (i), the Register of Copyrights shall,
+				from time to time, consider materials and standards that may be relevant to the
+				requirements for a qualifying search under subparagraph (A).</text>
+									</clause></subparagraph></paragraph><paragraph display-inline="no-display-inline" id="HC6BF6B0192AC4FCE99783F441B5DDB00"><enum>(3)</enum><header>Penalty for
+				failure to comply</header><text>If an infringer fails to comply with any
+				requirement under this subsection, the infringer is subject to all the remedies
+				provided in section 502 through 505, subject to section 412.</text>
+							</paragraph></subsection><subsection id="HEF2D9FFFB1A54AA59541B16549906367"><enum>(c)</enum><header>Limitations on
+				remedies</header><text>The limitations on remedies in a civil action for
+				infringement of a copyright to which this section applies are the
+				following:</text>
+							<paragraph id="HC6342DB9629A4A898389914DE4E607B9"><enum>(1)</enum><header>Monetary
+				relief</header>
+								<subparagraph id="H79D857DBC884437FB6FBC0D6DEC5C434"><enum>(A)</enum><header>General
+				rule</header><text>Subject to subparagraph (B), an award for monetary relief
+				(including actual damages, statutory damages, costs, and attorney’s fees) may
+				not be made other than an order requiring the infringer to pay reasonable
+				compensation to the legal or beneficial owner of the exclusive right under the
+				infringed copyright for the use of the infringed work.</text>
+								</subparagraph><subparagraph id="H1FEA9196E2C84F399F1536D29904009B"><enum>(B)</enum><header>Further
+				limitations</header><text display-inline="yes-display-inline">An order
+				requiring the infringer to pay reasonable compensation for the use of the
+				infringed work may not be made under subparagraph (A) if the infringer is a
+				nonprofit educational institution, museum, library, or archives, or a public
+				broadcasting entity (as defined in subsection (f) of section 118) and the
+				infringer proves by a preponderance of the evidence that—</text>
+									<clause id="H310BBD9D521547ADB261241625C1F888"><enum>(i)</enum><text>the infringement
+				was performed without any purpose of direct or indirect commercial
+				advantage;</text>
+									</clause><clause id="H3264D15A1BBA4CA9B4D8135C7EAE21C5"><enum>(ii)</enum><text display-inline="yes-display-inline">the infringement was primarily educational,
+				religious, or charitable in nature; and</text>
+									</clause><clause id="HA0356CA312C44DDD836C63642542CC79"><enum>(iii)</enum><text>after receiving
+				notice of the claim for infringement, and after conducting an expeditious good
+				faith investigation of the claim, the infringer promptly ceased the
+				infringement.</text>
+									</clause></subparagraph><subparagraph id="H5587C74A9302452A9F25B703ECD91986"><enum>(C)</enum><header>Exception to
+				further limitation</header><text>Notwithstanding the limitation established
+				under subparagraph (B), if the owner of an infringed copyright proves, and a
+				court finds, that the infringer has earned proceeds directly attributable to
+				the use of the infringed work by the infringer, the portion of such proceeds
+				attributable to such infringement may be awarded to the owner.</text>
+								</subparagraph></paragraph><paragraph id="HCBE64240A9334AE6B85CB132E30082AB"><enum>(2)</enum><header>Injunctive
+				relief</header>
+								<subparagraph id="HD531945F50514DF88006846F7DADF2F"><enum>(A)</enum><header>General
+				rule</header><text>Subject to subparagraph (B), the court may impose injunctive
+				relief to prevent or restrain any infringement alleged in the civil
+				action.</text>
+								</subparagraph><subparagraph id="H9A3329A80C1E42BF9FC818AB5E249B51"><enum>(B)</enum><header>Exception</header><text>In
+				a case in which the infringer has prepared or commenced preparation of a work
+				that recasts, transforms, adapts, or integrates the infringed work with a
+				significant amount of the infringer’s original expression, any injunctive
+				relief ordered by the court—</text>
+									<clause id="HFE4FA0519CA64945B6450852DFBFEFF"><enum>(i)</enum><text>may
+				not restrain the infringer’s continued preparation or use of that new
+				work;</text>
+									</clause><clause id="H4D6972B531704BC9A7EC8EE508B1D55E"><enum>(ii)</enum><text display-inline="yes-display-inline">shall require that the infringer pay
+				reasonable compensation to the legal or beneficial owner of the exclusive right
+				under the infringed copyright for the use of the infringed work; and</text>
+									</clause><clause id="HD19CE7111BFF40AA94422E7FD0574383"><enum>(iii)</enum><text display-inline="yes-display-inline">shall require that the infringer provide
+				attribution, in a manner that is reasonable under the circumstances, to the
+				owner of the infringed copyright, if requested by such owner.</text>
+									</clause></subparagraph><subparagraph id="H5A6AB4805F3E4362BA01843CD98B6F47"><enum>(C)</enum><header>Limitations</header><text>The
+				limitations on injunctive relief under subparagraphs (A) and (B) shall not be
+				available to an infringer if the infringer asserts in the civil action that
+				neither the infringer or any representative of the infringer acting in an
+				official capacity is subject to suit in the courts of the United States for an
+				award of damages to the legal or beneficial owner of the exclusive right under
+				the infringed copyright under section 106, unless the court finds that the
+				infringer—</text>
+									<clause id="HD337098041CC4A55B8E033B9B53100CA"><enum>(i)</enum><text>has complied with
+				the requirements of subsection (b); and</text>
+									</clause><clause id="H5806C597542D487CB9B477716EBCE422"><enum>(ii)</enum><text display-inline="yes-display-inline">has made an enforceable promise to pay
+				reasonable compensation to the legal or beneficial owner of the exclusive right
+				under the infringed copyright.</text>
+									</clause></subparagraph><subparagraph id="H3CBFB1A1AD4D418CAAF93BB0A8E808C"><enum>(D)</enum><header>Rule of
+				construction</header><text>Nothing in subparagraph (C) shall be construed to
+				authorize or require, and no action taken under such subparagraph shall be
+				deemed to constitute, either an award of damages by the court against the
+				infringer or an authorization to sue a State.</text>
+								</subparagraph><subparagraph id="H38986CFC691B4503956B9D8DFFB1EB2"><enum>(E)</enum><header>Rights and
+				privileges not waived</header><text display-inline="yes-display-inline">No
+				action taken by an infringer under subparagraph (C) shall be deemed to waive
+				any right or privilege that, as a matter of law, protects the infringer from
+				being subject to suit in the courts of the United States for an award of
+				damages to the legal or beneficial owner of the exclusive right under the
+				infringed copyright under section 106.</text>
+								</subparagraph></paragraph></subsection><subsection id="HFF7E8E1E9AAD47488686B0241875BA80"><enum>(d)</enum><header>Preservation of
+				other rights, limitations, and defenses</header><text>This section does not
+				affect any right, limitation, or defense to copyright infringement, including
+				fair use, under this title. If another provision of this title provides for a
+				statutory license that would permit the infringement contemplated by the
+				infringer if the owner of the infringed copyright cannot be located, that
+				provision applies instead of this section.</text>
+						</subsection><subsection id="H46967EF727C147998922CF78DFACB7BE"><enum>(e)</enum><header>Copyright for
+				derivative works and compilations</header><text display-inline="yes-display-inline">Notwithstanding section 103(a), an
+				infringer who qualifies for the limitation on remedies afforded by this section
+				with respect to the use of a copyrighted work shall not be denied copyright
+				protection in a compilation or derivative work on the basis that such
+				compilation or derivative work employs preexisting material that has been used
+				unlawfully under this
+				section.</text>
+						</subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H9602AB4E25B14C97B4527F478133F95C"><enum>(b)</enum><header>Technical and
+			 conforming amendment</header><text>The table of sections for chapter 5 of title
+			 17, United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H2D7B34FDE0E14A7DAE80D1BB4EE140D2" style="OLC">
+					<toc>
+						<toc-entry bold="off" level="section">514. Limitation on remedies in
+				cases involving orphan
+				works.</toc-entry>
+					</toc>
+					<after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="H31DEA90D834743208F93CF1655933FDB"><enum>3.</enum><header>Database of
+			 pictorial, graphic, and sculptural works</header>
+			<subsection id="H8B855D0F87B044A6BE4B56415FDA3208"><enum>(a)</enum><header>Establishment of
+			 database</header>
+				<paragraph id="H39778303878042E6AEF6D916C509451"><enum>(1)</enum><header>In
+			 general</header><text>The Register of Copyrights shall undertake a
+			 certification process for the establishment of an electronic database that
+			 facilitates the search for pictorial, graphic, and sculptural works that are
+			 subject to copyright protection under title 17, United States Code.</text>
+				</paragraph><paragraph id="H811BFC0B38EF47B2BEBCB8F3D6639"><enum>(2)</enum><header>Process and
+			 standards for certification</header><text>The process and standards for
+			 certification of the electronic database required under paragraph (1) shall be
+			 established by the Register of Copyrights, except that certification may not be
+			 granted if the electronic database does not contain—</text>
+					<subparagraph commented="no" id="HDB2940A5D4BA42679C24FCFDD9B42C1D"><enum>(A)</enum><text>the name of all
+			 authors of the work, if known, and contact information for any author if the
+			 information is readily available;</text>
+					</subparagraph><subparagraph id="H3033E89E5C5B4C5996F0A7AE067B33E"><enum>(B)</enum><text>the name of the
+			 copyright owner if different from the author, and contact information of the
+			 copyright owner;</text>
+					</subparagraph><subparagraph id="H9A594C6494AC444DAD2041CC2009766"><enum>(C)</enum><text>the title of the
+			 copyrighted work, if such work has a title;</text>
+					</subparagraph><subparagraph id="H721D19A3DB0C4BFD99F6CFE6284D7DB9"><enum>(D)</enum><text>with respect to a
+			 copyrighted work that includes a visual image, a visual image of the work, or,
+			 if such a visual image is not available, a description sufficient to identify
+			 the work;</text>
+					</subparagraph><subparagraph id="H0B57639266F34AD3B67D87CEB4D13800"><enum>(E)</enum><text>one or more
+			 mechanisms that allow for the search and identification of a work by both text
+			 and image; and</text>
+					</subparagraph><subparagraph id="H6A3BFDC6ED984B0F9093D600B2B7BF2D"><enum>(F)</enum><text>security measures
+			 that reasonably protect against unauthorized access to, or copying of, the
+			 information and content of the electronic database.</text>
+					</subparagraph></paragraph></subsection><subsection id="HB2CEEE8261BE4C61962CA8A00C2F0FC"><enum>(b)</enum><header>Public
+			 availability</header><text>The Register of Copyrights—</text>
+				<paragraph id="H854370F5D76B4E46B3676962BB817800"><enum>(1)</enum><text>shall make
+			 available to the public through the Internet a list of all electronic databases
+			 that are certified in accordance with this section; and</text>
+				</paragraph><paragraph id="HD99B9B8CBF2A47D9B8D718C200FF90C0"><enum>(2)</enum><text>may include any
+			 database so certified in a statement of best practices established under
+			 section 514(b)(5)(B) of title 17, United States Code.</text>
+				</paragraph></subsection></section><section id="HFA97F0E3DDBB4DACB3A52B775942DAF4"><enum>4.</enum><header>Effective
+			 date</header>
+			<subsection id="H2482F2A0726B462E92B9DD1782D9D70"><enum>(a)</enum><header>In
+			 general</header><text>With respect to works other than pictorial, graphic, and
+			 sculptural works, the amendments made by section 2 shall apply to infringements
+			 that commence on or after January 1, 2009.</text>
+			</subsection><subsection id="H8D9A6B98410A48B88EC2D9154247C045"><enum>(b)</enum><header>Pictorial,
+			 graphic, and sculptural works</header><text>With respect to pictorial, graphic,
+			 and sculptural works, the amendments made by section 2 shall—</text>
+				<paragraph id="HB6315DAE93EF4AE481EBEC30395FFF20"><enum>(1)</enum><text>take effect on the
+			 earlier of—</text>
+					<subparagraph id="H9C49895C18F54730B86ED7574304552B"><enum>(A)</enum><text>the date on which
+			 the Copyright Office certifies under section 3 at least 2 separate and
+			 independent searchable, comprehensive, electronic databases, that allow for
+			 searches of copyrighted works that are pictorial, graphic, and sculptural
+			 works, and are available to the public through the Internet; or</text>
+					</subparagraph><subparagraph id="H5A2542D9A01A4C44A686EE9587AFE511"><enum>(B)</enum><text>January 1, 2011;
+			 and</text>
+					</subparagraph></paragraph><paragraph id="H2B19742112C84455894FE4948EFF00A8"><enum>(2)</enum><text>apply to
+			 infringing uses that commence on or after that effective date.</text>
+				</paragraph></subsection><subsection id="H0BC688033C3E4F55B1445C9459F49B73"><enum>(c)</enum><header>Publication in
+			 Federal Register</header><text display-inline="yes-display-inline">The Register
+			 of Copyrights shall publish the effective date described in subsection (b)(1)
+			 in the Federal Register, together with a notice that the amendments made by
+			 section 2 take effect on that date with respect to pictorial, graphic, and
+			 sculptural works.</text>
+			</subsection><subsection commented="no" id="H469D47E8F2984BC8B19E034DD874CBEC"><enum>(d)</enum><header>Definition</header><text>In
+			 this section, the term <quote>pictorial, graphic, and sculptural works</quote>
+			 has the meaning given that term in section 101 of title 17, United States
+			 Code.</text>
+			</subsection></section><section id="H6E79CBB7AEB64D24B26C60A0550739BB"><enum>5.</enum><header>Report to
+			 Congress</header><text display-inline="no-display-inline">Not later than
+			 December 12, 2014, the Register of Copyrights shall report to the Committee on
+			 the Judiciary of the Senate and the Committee on the Judiciary of the House of
+			 Representatives on the implementation and effects of the amendments made by
+			 section 2, including any recommendations for legislative changes that the
+			 Register considers appropriate.</text>
+		</section><section id="HF1DE8036A02A4AFFB2490000467260FD"><enum>6.</enum><header>Study on remedies
+			 for small copyright claims</header>
+			<subsection id="H4831C6FF1EEA4BB0B76B7228018BAC48"><enum>(a)</enum><header>In
+			 general</header><text>The Register of Copyrights shall conduct a study with
+			 respect to remedies for copyright infringement claims by an individual
+			 copyright owner or a related group of copyright owners seeking small amounts of
+			 monetary relief, including consideration of alternative means of resolving
+			 disputes currently heard in the United States district courts. The study shall
+			 cover the infringement claims to which section 514 of title 17, United States
+			 Code, apply, and other infringement claims under such title 17.</text>
+			</subsection><subsection commented="no" id="HD9FA1EDF553E40CE9DCC2875BB297283"><enum>(b)</enum><header>Procedures</header><text>The
+			 Register of Copyrights shall publish notice of the study required under
+			 subsection (a), providing a period during which interested persons may submit
+			 comments on the study, and an opportunity for interested persons to participate
+			 in public roundtables on the study. The Register shall hold any such public
+			 roundtables at such times as the Register considers appropriate.</text>
+			</subsection><subsection id="HB1761F6C6CC1494B87D10600FF79D131"><enum>(c)</enum><header>Report to
+			 congress</header><text>Not later than 2 years after the date of the enactment
+			 of this Act, the Register of Copyrights shall prepare and submit to the
+			 Committee on the Judiciary of the Senate and the Committee on the Judiciary of
+			 the House of Representatives a report on the study conducted under this
+			 section, including such administrative, regulatory, or legislative
+			 recommendations that the Register considers appropriate.</text>
+			</subsection></section><section id="H33F6AC1C5B8642EFB81CBF89E7BBD763"><enum>7.</enum><header>Study on
+			 copyright deposits</header>
+			<subsection id="HC784344D1DB440B382523DFDC532D8AB"><enum>(a)</enum><header>In
+			 general</header><text display-inline="yes-display-inline">The Comptroller
+			 General of the United States shall conduct a study examining the function of
+			 the deposit requirement in the copyright registration system under section 408
+			 of title 17, United States Code, including—</text>
+				<paragraph id="H5CD145D11CD0488886A631EFB871902"><enum>(1)</enum><text>the historical
+			 purpose of the deposit requirement;</text>
+				</paragraph><paragraph id="H96F2EC887A524C1585F8EB5DEA01F5E7"><enum>(2)</enum><text>the degree to
+			 which deposits are made available to the public currently;</text>
+				</paragraph><paragraph id="HD77B2D3BADD5430CA740CEAC1BFAFFC5"><enum>(3)</enum><text>the feasibility of
+			 making deposits, particularly visual arts deposits, electronically searchable
+			 by the public for the purpose of locating copyright owners; and</text>
+				</paragraph><paragraph id="H5D4BD03AE266439287C149A02D7502FA"><enum>(4)</enum><text>the impact any
+			 change in the deposit requirement would have on the collection of the Library
+			 of Congress.</text>
+				</paragraph></subsection><subsection id="H0AEE12877E1B4D6EB469CC5633849415"><enum>(b)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than 2 years after the date of
+			 the enactment of this Act, the Comptroller General shall submit to the
+			 Committee on the Judiciary of the House of Representatives and the Committee on
+			 the Judiciary of the Senate a report on the study conducted under this section,
+			 including such administrative, regulatory, or legislative recommendations that
+			 the Comptroller General considers appropriate.</text>
+			</subsection></section></legis-body>
+</bill>

@@ -1,0 +1,915 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 1919</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20070801">August 1, 2007</action-date>
+			<action-desc><sponsor name-id="S127">Mr. Baucus</sponsor> (for himself,
+			 <cosponsor name-id="S118">Mr. Hatch</cosponsor>, and <cosponsor name-id="S284">Ms. Stabenow</cosponsor>) introduced the following bill; which
+			 was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish trade enforcement priorities for the United
+		  States, to strengthen the provisions relating to trade remedies, and for other
+		  purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title; table of contents</header>
+			<subsection id="id5A8BD6E21DCE42A6863A8071A7E903F7"><enum>(a)</enum><header>Short
+			 title</header><text display-inline="yes-display-inline">This Act may be cited
+			 as the <quote><short-title>Trade Enforcement Act of
+			 2007</short-title></quote>.</text>
+			</subsection><subsection id="id3F5BBA74DAB2418B96CFD89CE5A973A9"><enum>(b)</enum><header>Table of
+			 contents</header><text>The table of contents of this Act is as follows:</text>
+				<toc>
+					<toc-entry idref="S1" level="section">Sec. 1. Short title; table of
+				contents.</toc-entry>
+					<toc-entry idref="idAE845D8CA60C4E4293EC9D6FDDB7928B" level="title">TITLE I—Trade enforcement priorities</toc-entry>
+					<toc-entry idref="ID88b058fc7db64fd8a4b848ef02086536" level="section">Sec. 101. Identification of trade enforcement
+				priorities.</toc-entry>
+					<toc-entry idref="id4DA477C6A925474D87B73CB9962AE49B" level="title">TITLE II—WTO Dispute Settlement Review Commission</toc-entry>
+					<toc-entry idref="IDdb4c3a4a8a434e5fbd4ad6d4ceceb11c" level="section">Sec. 201. Definitions.</toc-entry>
+					<toc-entry idref="id44E0A31EE33741D98809C384835C03C0" level="section">Sec. 202. Establishment of Commission.</toc-entry>
+					<toc-entry idref="IDcfda5ae8f73e4a048ba178e82c4f18ec" level="section">Sec. 203. Membership.</toc-entry>
+					<toc-entry idref="IDc39ad857935445478a77d8cc34bd6609" level="section">Sec. 204. Duties of the Commission.</toc-entry>
+					<toc-entry idref="IDe0e93a257abb4e6f90dd8af37b10e262" level="section">Sec. 205. Powers of the Commission.</toc-entry>
+					<toc-entry idref="IDd071fb00381c466db6592193d191ceca" level="section">Sec. 206. Changes in agency regulations or practice relating to
+				adverse finding.</toc-entry>
+					<toc-entry idref="id11E1F3F9B2194F0B9049A8C7640A5E9A" level="title">TITLE III—Market disruption by imports from China</toc-entry>
+					<toc-entry idref="ID11b6b65c274e42bb8ed0421ccbcf89f5" level="section">Sec. 301. Limitation on presidential discretion.</toc-entry>
+					<toc-entry idref="id0EEA39F6F93348CEB7650E96EAD616CD" level="title">TITLE IV—Strengthening antidumping and countervailing duty
+				laws</toc-entry>
+					<toc-entry idref="ID572c398a0822448db95b7b54be665b03" level="section">Sec. 401. Application of countervailing duties to nonmarket
+				economies.</toc-entry>
+					<toc-entry idref="IDd0651e97ba524a0c9b66a15bece56475" level="section">Sec. 402. Clarification of determination of material
+				injury.</toc-entry>
+					<toc-entry idref="id2B12C73A225C43CE81AE6A4161B219A6" level="title">TITLE V—Trade enforcement personnel</toc-entry>
+					<toc-entry idref="IDcec97a5283ff4688aeb3875f75bdd9e6" level="section">Sec. 501. Chief Trade Enforcement Officer.</toc-entry>
+					<toc-entry idref="ID0fa0ef6401384c2685e6e99a8aa3d9a8" level="section">Sec. 502. Trade Enforcement Working Group.</toc-entry>
+					<toc-entry idref="ID9a7efdfae2034ab5889b80143fc1e0ed" level="section">Sec. 503. Authorization of appropriations.</toc-entry>
+					<toc-entry idref="id29F6D7C24AF34724AF8C816F59C88AD2" level="title">TITLE VI—Intellectual property enforcement personnel</toc-entry>
+					<toc-entry idref="ID5cd8365aa9c34de0be31a484eacb8443" level="section">Sec. 601. Section 337 judges.</toc-entry>
+					<toc-entry idref="id03B34C96500A46309E01CD0B3BC276DB" level="title">TITLE VII—Interagency trade organization</toc-entry>
+					<toc-entry idref="ID418b53f954b046a794553115bd540971" level="section">Sec. 701. Clarification of role of interagency trade
+				organization established under section 242(<enum-in-header>a</enum-in-header>)
+				of the Trade Expansion Act of 1962.</toc-entry>
+				</toc>
+			</subsection></section><title id="idAE845D8CA60C4E4293EC9D6FDDB7928B"><enum>I</enum><header>Trade enforcement
+			 priorities</header>
+			<section id="ID88b058fc7db64fd8a4b848ef02086536"><enum>101.</enum><header>Identification
+			 of trade enforcement priorities</header>
+				<subsection id="ID84416d3f02f64cc784e005300d198775"><enum>(a)</enum><header>In
+			 general</header><text>Section 310 of the Trade Act of 1974 (19 U.S.C. 2420) is
+			 amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id4BF62384E1A04B4798F00601FFF9A3D5" style="OLC">
+						<section id="ID443ffc31280f4b1bb4cbb6f878fb012d"><enum>310.</enum><header>Identification
+				of trade enforcement priorities</header>
+							<subsection id="ID4b313b866b35479087380b133981d2d2"><enum>(a)</enum><header>Identification
+				and annual report</header><text>Not later than 75 days after the date that the
+				National Trade Estimate under section 181(b) is required to be submitted each
+				calendar year, the United States Trade Representative shall—</text>
+								<paragraph id="ID40fd6dc037c541bbb36ac6b03694aed0"><enum>(1)</enum><text>identify the
+				trade enforcement priorities of the United States;</text>
+								</paragraph><paragraph id="IDa1fc329f5f47434ba9c8ddf5d7a1f527"><enum>(2)</enum><text>identify trade
+				enforcement actions that the United States has taken during the previous year
+				and provide an assessment of the impact those enforcement actions have had in
+				addressing foreign trade barriers;</text>
+								</paragraph><paragraph id="ID39ba467c2fef4244b0404b6c06318d86"><enum>(3)</enum><text>identify the
+				priority foreign country trade practices on which the Trade Representative will
+				focus the trade enforcement efforts of the United States during the upcoming
+				year; and</text>
+								</paragraph><paragraph id="ID72336b3c0a4e45ab8c5c2459569ff8e3"><enum>(4)</enum><text>submit to the
+				Committee on Finance of the Senate and the Committee on Ways and Means of the
+				House of Representatives and publish in the Federal Register a report on the
+				priorities, actions, assessments, and practices identified in paragraphs (1),
+				(2), and (3).</text>
+								</paragraph></subsection><subsection id="IDd1ab141dfa5442ba9424eda5e6df5a1e"><enum>(b)</enum><header>Factors To
+				consider</header><text>In identifying priority foreign country trade practices
+				under subsection (a)(3), the Trade Representative shall—</text>
+								<paragraph id="ID30a6aada4a174ccdbf55f7bb1d482af9"><enum>(1)</enum><text>focus on those
+				practices the elimination of which is likely to have the most significant
+				potential to increase United States economic growth, either directly or through
+				the establishment of a beneficial precedent; and</text>
+								</paragraph><paragraph id="ID6a89bac4dc0745f9b6ee33fe81918924"><enum>(2)</enum><text>take into account
+				all relevant factors, including—</text>
+									<subparagraph id="IDba265d710ebe41838b1895230e4f0657"><enum>(A)</enum><text>the major
+				barriers and trade distorting practices described in the most recent National
+				Trade Estimate required under section 181(b);</text>
+									</subparagraph><subparagraph id="IDc51612ce10444b67bec02e87f46cb424"><enum>(B)</enum><text>the findings and
+				practices described in the most recent report required under—</text>
+										<clause id="ID56a3d909b5e0493bb2b1ac28b850f66e"><enum>(i)</enum><text>section
+				182;</text>
+										</clause><clause id="ID408963ac202046d0b1cafc72ed903681"><enum>(ii)</enum><text>section 1377 of
+				the Omnibus Trade and Competitiveness Act of 1988 (19 U.S.C. 3106);</text>
+										</clause><clause id="IDb21a0364dc124c5aaddee9bb78239d81"><enum>(iii)</enum><text>section 3005 of
+				the Omnibus Trade and Competitiveness Act of 1988 (22 U.S.C. 5305); and</text>
+										</clause><clause id="ID231545ed750745a6b6d5562b23c76f9e"><enum>(iv)</enum><text>section 421 of
+				the U.S.-China Relations Act of 2000 (22 U.S.C. 6951);</text>
+										</clause></subparagraph><subparagraph id="ID9984c5a581c84dc9a469eee53359a724"><enum>(C)</enum><text>the findings and
+				practices described in any other report addressing international trade and
+				investment barriers prepared by the Trade Representative or any other agency
+				during the 12 months preceding the date on which the report described in
+				subsection (a)(4) is required to be submitted;</text>
+									</subparagraph><subparagraph id="ID174c3f868fdb43b4be5e47060f3e0dfe"><enum>(D)</enum><text>a foreign
+				country’s compliance with any trade agreements to which both the foreign
+				country and the United States are parties;</text>
+									</subparagraph><subparagraph id="IDee6b7ac1cc1a426a83300c8c8763803c"><enum>(E)</enum><text>a foreign
+				country’s compliance with internationally recognized sanitary and phytosanitary
+				standards;</text>
+									</subparagraph><subparagraph id="IDd55394645258447e961af91b06dbe8e7"><enum>(F)</enum><text>the implications
+				of a foreign country’s procurement plans and policies; and</text>
+									</subparagraph><subparagraph id="ID6fce2679efaa4535af1aa27a018826ee"><enum>(G)</enum><text>the international
+				competitive position and export potential of United States products and
+				services.</text>
+									</subparagraph></paragraph></subsection><subsection id="ID2e4adb6daf934659892b679da871e75f"><enum>(c)</enum><header>Consultation</header>
+								<paragraph id="ID54fdd5e686bf41eaa86010f262014bcc"><enum>(1)</enum><header>In
+				general</header><text>Not later than 45 days after the date that the National
+				Trade Estimate under section 181(b) is required to be submitted, the Trade
+				Representative shall consult with the Committee on Finance of the Senate and
+				the Committee on Ways and Means of the House of Representatives with respect to
+				the priorities, actions, assessments, and practices required to be identified
+				in the report under subsection (a).</text>
+								</paragraph><paragraph id="ID1a6892b819e940a5aaf7595b8850cdad"><enum>(2)</enum><header>Vote of
+				committee</header><text>If, as a result of the consultations described in
+				paragraph (1), either the Committee on Finance of the Senate or the Committee
+				on Ways and Means of the House of Representatives requests identification of a
+				priority foreign country trade practice by majority vote of the Committee, the
+				Trade Representative shall include such identification in the report required
+				under subsection (a).</text>
+								</paragraph><paragraph id="IDfb9b3fefb33243f3bf8251b111577f18"><enum>(3)</enum><header>Determination
+				not to include priority foreign country trade practices</header><text>The Trade
+				Representative may determine not to include the priority foreign country trade
+				practice requested under paragraph (2) in the report required under subsection
+				(a) only if the Trade Representative finds that—</text>
+									<subparagraph id="ID480623b6a5b74dffa919889215e23912"><enum>(A)</enum><text>such practice is
+				already being addressed under provisions of United States trade law, under the
+				Uruguay Round Agreements (as defined in section 2(7) of the Uruguay Round
+				Agreements Act (19 U.S.C. 3501(7))), under a bilateral or regional trade
+				agreement, or as part of trade negotiations with that foreign country or other
+				countries, and progress is being made toward the elimination of such practice;
+				or</text>
+									</subparagraph><subparagraph id="IDb38dbd47eaa94f528f7774d549286003"><enum>(B)</enum><text>identification of
+				such practice as a priority foreign country trade practice would be contrary to
+				the interests of United States trade policy.</text>
+									</subparagraph></paragraph><paragraph id="ID5248b92cb9144f7f88420da1b1a0b345"><enum>(4)</enum><header>Reasons for
+				determination</header><text>In the case of a determination made pursuant to
+				paragraph (3), the Trade Representative shall set forth in detail the reasons
+				for that determination in the report required under subsection (a).</text>
+								</paragraph></subsection><subsection id="ID7df36f57607e43ff96943c7c8b540f17"><enum>(d)</enum><header>Investigation
+				and resolution</header>
+								<paragraph id="ID144faccced29482d8a208713b40045c7"><enum>(1)</enum><header>In
+				general</header><text>Upon submission of the report required under subsection
+				(a), the Trade Representative shall, with respect to any priority foreign
+				country trade practice identified, seek satisfactory resolution with the
+				country concerned under the auspices of the World Trade Organization, pursuant
+				to a bilateral or regional trade agreement to which the United States is a
+				party, or by any other means. A satisfactory resolution may include elimination
+				of the practice or, if not feasible, providing for compensatory trade
+				benefits.</text>
+								</paragraph><paragraph id="IDc0aa5b02d75b4ab4afc1bcead6ffd176"><enum>(2)</enum><header>Consultations;
+				investigations</header><text>Not later than 120 days after the date that the
+				report described in subsection (a) is required to be submitted, the Trade
+				Representative shall, with respect to any priority foreign country trade
+				practice identified—</text>
+									<subparagraph id="IDc372873b558e450590baa38341f96ddc"><enum>(A)</enum><text>initiate dispute
+				settlement consultations in the World Trade Organization;</text>
+									</subparagraph><subparagraph id="ID72d4b643edd349b6afc6a618670eb423"><enum>(B)</enum><text>initiate dispute
+				settlement consultations under the applicable provisions of any bilateral or
+				regional trade agreement to which the United States is a party;</text>
+									</subparagraph><subparagraph id="ID753edb495f0f4dd4ad7c99113d8ce6d4"><enum>(C)</enum><text>initiate an
+				investigation under section 302(b)(1);</text>
+									</subparagraph><subparagraph id="ID3cf035516c0f46a8b583dd5b2413bf0e"><enum>(D)</enum><text>seek to negotiate
+				an agreement that provides for the elimination of the priority foreign country
+				trade practice or, if elimination of the practice is not feasible, an agreement
+				that provides for compensatory trade benefits; or</text>
+									</subparagraph><subparagraph id="IDd7d30b60356a40458525e405489915c5"><enum>(E)</enum><text>take any other
+				action necessary to eliminate the priority foreign country trade
+				practice.</text>
+									</subparagraph></paragraph><paragraph id="ID135d5543a0a64cf39c5e37e7b6563714"><enum>(3)</enum><header>Report</header><text>If
+				the Trade Representative takes action under subparagraph (E) of paragraph (2),
+				the Trade Representative shall, on the same day the Trade Representative takes
+				such action, transmit to Congress a report describing in detail the action, the
+				reasons for taking the action, and the reasons why the Trade Representative did
+				not take action under subparagraphs (A) through (D) of such paragraph.</text>
+								</paragraph></subsection><subsection id="IDd5f4be3774484e9aaee6d39501d386ce"><enum>(e)</enum><header>Additional
+				reporting</header><text>The Trade Representative shall report to the Committee
+				on Finance of the Senate and the Committee on Ways and Means of the House of
+				Representatives every 6 months on the progress being made to realize the trade
+				enforcement priorities identified in subsection (a)(1) and the steps being
+				taken to address the priority foreign country trade practices identified in
+				subsection
+				(a)(3).</text>
+							</subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="ID2e988aa2750747148ab334593733aca5"><enum>(b)</enum><header>Conforming
+			 amendment</header><text>The table of contents for the Trade Act of 1974 is
+			 amended by striking the item relating to section 310, and inserting the
+			 following new item:</text>
+					<quoted-block id="id262dee87-3c9f-4599-9c71-5b8cc15776f9" style="OLC">
+						<toc>
+							<toc-entry idref="ID443ffc31280f4b1bb4cbb6f878fb012d" level="section">Sec. 310. Identification of trade enforcement
+				priorities.</toc-entry>
+						</toc>
+						<after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection></section></title><title id="id4DA477C6A925474D87B73CB9962AE49B"><enum>II</enum><header>WTO
+			 Dispute Settlement Review Commission</header>
+			<section id="IDdb4c3a4a8a434e5fbd4ad6d4ceceb11c"><enum>201.</enum><header>Definitions</header><text display-inline="no-display-inline">For purposes of this title—</text>
+				<paragraph id="ID1d4b59ea0df64878949aefdb01fa5dfc"><enum>(1)</enum><header>Adverse
+			 finding</header><text>The term <term>adverse finding</term> means a finding by
+			 a dispute settlement panel or the Appellate Body that any law, regulation, or
+			 practice of, or application thereof by, the United States or any State is
+			 inconsistent with the obligations of the United States under a Uruguay Round
+			 Agreement (or nullifies or impairs benefits accruing to a WTO Member under such
+			 an Agreement).</text>
+				</paragraph><paragraph id="ID452e81542f224b078f757b2b32592f4d"><enum>(2)</enum><header>Appellate
+			 body</header><text>The term <term>Appellate Body</term> means the Appellate
+			 Body established by the Dispute Settlement Body pursuant to Article 17.1 of the
+			 Dispute Settlement Understanding.</text>
+				</paragraph><paragraph id="IDb5e71381133148f3a66f0471906b4a88"><enum>(3)</enum><header>Dispute
+			 settlement body</header><text>The term <term>Dispute Settlement Body</term>
+			 means the Dispute Settlement Body established pursuant to the Dispute
+			 Settlement Understanding.</text>
+				</paragraph><paragraph id="ID117884b4ec904b80b25d9b4874f20d93"><enum>(4)</enum><header>Dispute
+			 settlement panel; panel</header><text>The terms <term>dispute settlement
+			 panel</term> and <term>panel</term> mean a panel established pursuant to
+			 Article 6 of the Dispute Settlement Understanding.</text>
+				</paragraph><paragraph id="ID641a093ef94442318ba55e46c0e51921"><enum>(5)</enum><header>Dispute
+			 settlement understanding</header><text>The term <term>Dispute Settlement
+			 Understanding</term> means the Understanding on Rules and Procedures Governing
+			 the Settlement of Disputes referred to in section 101(d)(16) of the Uruguay
+			 Round Agreements Act (19 U.S.C. 3511(d)(16)).</text>
+				</paragraph><paragraph id="IDd8de63f3701f4d81a2382a4b6b33cd87"><enum>(6)</enum><header>Terms of
+			 reference</header><text>The term <term>terms of reference</term> has the
+			 meaning given such term in the Dispute Settlement Understanding.</text>
+				</paragraph><paragraph id="IDcde28e4a76ec4cb795c87ee7934d7cc7"><enum>(7)</enum><header>Trade
+			 representative</header><text>The term <term>Trade Representative</term> means
+			 the United States Trade Representative.</text>
+				</paragraph><paragraph id="ID6e6a8a5d8f624eaa98da84545e025cb4"><enum>(8)</enum><header>Uruguay round
+			 agreement</header><text>The term <term>Uruguay Round Agreement</term> means any
+			 of the Agreements described in section 101(d) of the Uruguay Round Agreements
+			 Act (19 U.S.C. 3511(d)).</text>
+				</paragraph><paragraph id="ID5eb2f9ad0a07441fa26e49eb1cd64b1e"><enum>(9)</enum><header>World Trade
+			 Organization; WTO</header><text>The terms <term>World Trade Organization</term>
+			 and <term>WTO</term> mean the organization established pursuant to the WTO
+			 Agreement.</text>
+				</paragraph><paragraph id="IDa2d21321c737453da6a9986a2d40844b"><enum>(10)</enum><header>WTO
+			 agreement</header><text>The term <term>WTO Agreement</term> means the Agreement
+			 Establishing the World Trade Organization entered into on April 15,
+			 1994.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID030460d2add344a0972c56da982bd927"><enum>(11)</enum><header>WTO
+			 member</header><text>The term <term>WTO Member</term> has the meaning given
+			 that term in section 2(10) of the Uruguay Round Agreements Act (19 U.S.C.
+			 3501(10)).</text>
+				</paragraph></section><section id="id44E0A31EE33741D98809C384835C03C0"><enum>202.</enum><header>Establishment
+			 of Commission</header><text display-inline="no-display-inline">There is
+			 established a commission to be known as the WTO Dispute Settlement Review
+			 Commission (in this section referred to as the
+			 <quote>Commission</quote>).</text>
+			</section><section id="IDcfda5ae8f73e4a048ba178e82c4f18ec"><enum>203.</enum><header>Membership</header>
+				<subsection id="ID80c1dd67dece441d8b26d13dc7cb869d"><enum>(a)</enum><header>Composition</header><text>The
+			 Commission shall be composed of 5 members, all of whom shall either be retired
+			 judges of the Federal judicial circuits or have substantial expertise in
+			 international trade law. The members shall be appointed by the President, after
+			 consultation with the majority leader and minority leader of the Senate, the
+			 majority leader and minority leader of the House of Representatives, the
+			 chairman and ranking member of the Committee on Finance of the Senate, and the
+			 chairman and ranking member of the Committee on Ways and Means of the House of
+			 Representatives.</text>
+				</subsection><subsection id="IDaceffd2c49f3442b94c74e629a947d3b"><enum>(b)</enum><header>Date of
+			 appointment</header><text>The appointments of the initial members of the
+			 Commission shall be made not later than 90 days after the date of enactment of
+			 this Act.</text>
+				</subsection><subsection id="IDc700b59c100e4f85ad4539e4532ddef0"><enum>(c)</enum><header>Period of
+			 appointment; vacancies</header>
+					<paragraph id="ID73ef2380f3de47808a7a4cdb07e53a69"><enum>(1)</enum><header>In
+			 general</header><text>Members of the Commission shall each be appointed for a
+			 term of 5 years, except that 3 of the initial members shall each be appointed
+			 for a term of 3 years.</text>
+					</paragraph><paragraph id="ID0cc588ad5d234675b0b9ca5fa9dab8d7"><enum>(2)</enum><header>Vacancies</header>
+						<subparagraph id="ID3518c963d4e24cf6a1a01914700dc063"><enum>(A)</enum><header>In
+			 general</header><text>Any vacancy on the Commission shall not affect its
+			 powers, but shall be filled in the same manner as the original appointment and
+			 shall be subject to the same conditions as the original appointment.</text>
+						</subparagraph><subparagraph id="IDe244b74b579a4dbfad5bf69f0997afa3"><enum>(B)</enum><header>Unexpired
+			 term</header><text>An individual chosen to fill a vacancy shall be appointed
+			 for the unexpired term of the member replaced.</text>
+						</subparagraph></paragraph></subsection><subsection id="ID9f45484d96604852a2e9d37cf2869cde"><enum>(d)</enum><header>Meetings</header>
+					<paragraph id="ID4c2aec48066a4d169253018256aec24f"><enum>(1)</enum><header>Initial
+			 meeting</header><text>Not later than 30 days after the date on which all
+			 members of the Commission have been appointed, the Commission shall hold its
+			 first meeting.</text>
+					</paragraph><paragraph id="IDfb346af5349d4e8fab0c4480ac532b52"><enum>(2)</enum><header>Subsequent
+			 meetings</header><text>The Commission shall meet subsequently at the call of
+			 the Chairperson.</text>
+					</paragraph></subsection><subsection id="ID19216358568b435abd6745cc821a0999"><enum>(e)</enum><header>Quorum</header><text>A
+			 majority of the members of the Commission shall constitute a quorum, but a
+			 lesser number of members may hold hearings.</text>
+				</subsection><subsection id="IDc37a4e68472b4a5b9db0cccf3d1ff8c6"><enum>(f)</enum><header>Chairperson and
+			 vice chairperson</header><text>The Commission shall select a Chairperson and
+			 Vice Chairperson from among its members.</text>
+				</subsection><subsection id="IDa8545dac97dc4a8f87d6ef891753c7f3"><enum>(g)</enum><header>Affirmative
+			 determinations</header><text>An affirmative vote by a majority of the members
+			 of the Commission shall be required for any affirmative determination by the
+			 Commission under section 204.</text>
+				</subsection><subsection id="IDb7a03c74bbd34da2a744a170a510157a"><enum>(h)</enum><header>Funding</header><text>Members
+			 of the Commission shall be allowed travel expenses, including per diem in lieu
+			 of subsistence at rates authorized for employees of agencies under subchapter I
+			 of chapter 57 of title 5, United States Code, while away from their homes or
+			 regular places of business in the performance of services for the
+			 Commission.</text>
+				</subsection></section><section id="IDc39ad857935445478a77d8cc34bd6609"><enum>204.</enum><header>Duties of the
+			 Commission</header>
+				<subsection id="ID3ed0538fd0514506bb15856f621bbf19"><enum>(a)</enum><header>Review of WTO
+			 Dispute Settlement Reports</header>
+					<paragraph id="IDa1ff046edbc743298fc7fbd057fc5060"><enum>(1)</enum><header>In
+			 general</header><text>The Commission shall review—</text>
+						<subparagraph id="ID4d1c33b40908413cbe05aa1fe7796bfd"><enum>(A)</enum><text>all reports of
+			 dispute settlement panels or the Appellate Body that contain adverse findings
+			 and that are adopted by the Dispute Settlement Body; and</text>
+						</subparagraph><subparagraph id="ID720e3e936dfe4526bc73a88d8303413c"><enum>(B)</enum><text>upon the request
+			 of the Trade Representative, the chairman or ranking member of the Committee on
+			 Finance of the Senate, or the chairman or ranking member of the Committee on
+			 Ways and Means of the House of Representatives, any other report of a dispute
+			 settlement panel or the Appellate Body that is adopted by the Dispute
+			 Settlement Body.</text>
+						</subparagraph></paragraph><paragraph id="ID5874fd3b55264e0b9781204be48d97b2"><enum>(2)</enum><header>Scope of
+			 review</header><text>The Commission shall conduct a complete review of the
+			 reports described in paragraph (1) and determine whether the panel or Appellate
+			 Body, as the case may be—</text>
+						<subparagraph id="ID656f917fa2cf41aea2fd453a16e98f91"><enum>(A)</enum><text>exceeded its
+			 authority or its terms of reference;</text>
+						</subparagraph><subparagraph id="ID37b2f5548de04c41964b4f879b70c02b"><enum>(B)</enum><text>added to the
+			 obligations, or diminished the rights, of the United States under the Uruguay
+			 Round Agreement that is the subject of the report;</text>
+						</subparagraph><subparagraph id="IDe1e29ca17f6343998a02b3aec1e3f9f4"><enum>(C)</enum><text>acted arbitrarily
+			 or capriciously, engaged in misconduct, or demonstrably departed from the
+			 procedures specified for panels and the Appellate Body in the applicable
+			 Uruguay Round Agreement; or</text>
+						</subparagraph><subparagraph id="ID3a7e50400f3c4c6c80f7713693a1eba5"><enum>(D)</enum><text>deviated from the
+			 applicable standard of review, including in antidumping, countervailing duty,
+			 and other unfair trade remedy cases, the standard of review set forth in
+			 Article 17.6 of the Agreement on Implementation of Article VI of the General
+			 Agreement on Tariffs and Trade, 1994.</text>
+						</subparagraph></paragraph><paragraph id="ID67ad968e27c0434abe14c15b857ad7e2"><enum>(3)</enum><header>No
+			 deference</header><text>In making its determination under paragraph (2), the
+			 Commission shall not accord deference to findings of law made by the dispute
+			 settlement panel or the Appellate Body, as the case may be.</text>
+					</paragraph><paragraph id="ID4cc314afb24744bcafddf93441aa6c0b"><enum>(4)</enum><header>Affirmative
+			 determination</header><text>If the Commission makes an affirmative
+			 determination with respect to the action of a panel or the Appellate Body under
+			 subparagraph (A), (B), (C), or (D) of paragraph (2), the Commission shall
+			 determine whether the action of the panel or Appellate Body materially affected
+			 the outcome of the report of the panel or Appellate Body.</text>
+					</paragraph></subsection><subsection id="IDadd74ffc654d4d409d74ae1d48e0fbff"><enum>(b)</enum><header>Determination;
+			 report</header>
+					<paragraph id="IDd8616c0e01014bf69698dc222a1c7529"><enum>(1)</enum><header>Determination</header>
+						<subparagraph id="ID6aadf4eb0ca04114901fd8a88d60ca88"><enum>(A)</enum><header>In
+			 general</header><text>Not later than 120 days after the date on which the
+			 Commission receives notice of a finding or request under section 205(b), the
+			 Commission shall make a written determination with respect to matters described
+			 in subsection (a)(2) and (4), including a full analysis of the basis for its
+			 determination. A vote by a majority of the members of the Commission shall
+			 constitute a determination of the Commission, although the members need not
+			 agree on the basis for their vote.</text>
+						</subparagraph><subparagraph id="ID297ea2022c3a4cfe88c00bc140bc9ee3"><enum>(B)</enum><header>Dissenting or
+			 concurring opinions</header><text>Any member of the Commission who disagrees
+			 with a determination of the Commission or who concurs in such a determination
+			 on a basis different from that of the Commission or other members of the
+			 Commission may write an opinion expressing such disagreement or concurrence, as
+			 the case may be.</text>
+						</subparagraph></paragraph><paragraph id="ID183077bb9351474ca310594859c03fdf"><enum>(2)</enum><header>Report</header><text>The
+			 Commission shall promptly report the determinations described in paragraph
+			 (1)(A) to the Committee on Finance of the Senate and the Committee on Ways and
+			 Means of the House of Representatives. The Commission shall include with the
+			 report any opinions written under paragraph (1)(B) with respect to the
+			 determination and a summary of any comments submitted pursuant to section
+			 205(b)(2)(A).</text>
+					</paragraph><paragraph id="ID698e06ca9b4441e4babcc2e2fc69239b"><enum>(3)</enum><header>Availability to
+			 the public</header><text>Each report of the Commission under paragraph (2),
+			 together with any opinions included with the report, shall be made available to
+			 the public.</text>
+					</paragraph></subsection></section><section id="IDe0e93a257abb4e6f90dd8af37b10e262"><enum>205.</enum><header>Powers of the
+			 Commission</header>
+				<subsection id="ID2c00adad67864bbe8d6c3e890b4b455a"><enum>(a)</enum><header>Hearings</header><text>The
+			 Commission may hold any hearings, sit and act at any time and place, take any
+			 testimony, and receive any evidence as the Commission considers advisable to
+			 carry out the purposes of this title. The Commission shall provide reasonable
+			 notice of a hearing held pursuant to this subsection.</text>
+				</subsection><subsection id="ID54f9dcfb9c7a4563b24c30502e410ed1"><enum>(b)</enum><header>Information
+			 from interested parties and Federal agencies</header>
+					<paragraph id="IDb195fb6fe1ed4fec92fb36dacc1a17ee"><enum>(1)</enum><header>Notification to
+			 commission</header>
+						<subparagraph id="ID70b3306b62c44e8da3ebf96d418689dd"><enum>(A)</enum><header>Under section
+			 <enum-in-header>204(a)(1)(A)</enum-in-header></header><text>The Trade
+			 Representative shall advise the Commission not later than 5 days after the date
+			 the Dispute Settlement Body adopts an adverse finding that is to be reviewed by
+			 the Commission under section 204(a)(1)(A).</text>
+						</subparagraph><subparagraph id="ID088a2650385f4905ac5d3c9bbdb55df9"><enum>(B)</enum><header>Under Section
+			 <enum-in-header>204(a)(1)(B)</enum-in-header></header><text>A request made by
+			 the Trade Representative, the chairman or ranking member of the Committee on
+			 Finance of the Senate, or the chairman or ranking member of the Committee on
+			 Ways and Means of the House of Representatives under section 204(a)(1)(B) shall
+			 be made not later than 1 year after the Dispute Settlement Body adopts the
+			 report that is the subject of the request.</text>
+						</subparagraph></paragraph><paragraph id="IDc71f30e0bd604913b82ebc1bd34c6a9e"><enum>(2)</enum><header>Submissions and
+			 requests for information</header>
+						<subparagraph id="ID1168ac9179d447e69531dfff89deda2d"><enum>(A)</enum><header>In
+			 general</header><text>The Commission shall promptly publish notice in the
+			 Federal Register of any notice or request received under paragraph (1), and
+			 provide notice of an opportunity for interested parties to submit comments to
+			 the Commission.</text>
+						</subparagraph><subparagraph id="IDe14bf062b12d45778da616681f30e3b1"><enum>(B)</enum><header>Comments
+			 available to public</header><text>The Commission shall make comments submitted
+			 pursuant to subparagraph (A) available to the public.</text>
+						</subparagraph><subparagraph id="ID19563fd91ad24d9f89d16674e1adeb76"><enum>(C)</enum><header>Information
+			 from Federal agencies and departments</header><text>The Commission may secure
+			 directly from any Federal department or agency any information the Commission
+			 considers necessary to carry out the provisions of this title. Upon request of
+			 the Chairperson of the Commission, the head of the department or agency shall
+			 furnish the requested information to the Commission in a timely manner.</text>
+						</subparagraph></paragraph><paragraph id="IDaf28f49f80b24783a3323dde845a5e0a"><enum>(3)</enum><header>Access to panel
+			 and appellate body documents</header>
+						<subparagraph id="IDecc11adab1f64f96b200fd8a25b2b5d1"><enum>(A)</enum><header>In
+			 general</header><text>The Trade Representative shall make available to the
+			 Commission all submissions and relevant documents relating to the panel or
+			 Appellate Body report at issue, including any information contained in
+			 submissions and relevant documents identified by the provider of the
+			 information as proprietary information or information designated as
+			 confidential by a foreign government.</text>
+						</subparagraph><subparagraph id="IDcd6d4bb35c2f4a5ea93ec44f7a7fffa1"><enum>(B)</enum><header>Public
+			 access</header><text>Any document that the Trade Representative submits to the
+			 Commission shall be available to the public, except information that is
+			 identified as proprietary or confidential or the disclosure of which would
+			 otherwise violate the rules of the WTO.</text>
+						</subparagraph></paragraph><paragraph id="IDac8a3cf7c1444287be8e83f16b2c9fa7"><enum>(4)</enum><header>Assistance from
+			 Federal agencies; confidentiality</header>
+						<subparagraph id="ID4396df1ce81843c0917964592e9f3a8f"><enum>(A)</enum><header>Administrative
+			 assistance</header><text>Any agency or department of the United States that is
+			 designated by the President shall provide administrative services, funds,
+			 facilities, staff, or other support services to the Commission to assist the
+			 Commission with the performance of the Commission’s functions.</text>
+						</subparagraph><subparagraph id="IDfba308eb16614d418d4c47df97783f85"><enum>(B)</enum><header>Confidentiality</header><text>The
+			 Commission shall protect from disclosure any document or information submitted
+			 to it by a department or agency of the United States that the agency or
+			 department requests be kept confidential. The Commission shall not be
+			 considered to be an agency for purposes of section 552 of title 5, United
+			 States Code.</text>
+						</subparagraph></paragraph></subsection></section><section id="IDd071fb00381c466db6592193d191ceca"><enum>206.</enum><header>Changes in
+			 agency regulations or practice relating to adverse finding</header><text display-inline="no-display-inline">Section 123(g) of the Uruguay Round
+			 Agreements Act (19 U.S.C. 3533(g)) is amended in paragraph (1)—</text>
+				<paragraph id="ID13f557574e4e480cad63c7844a51e982"><enum>(1)</enum><text>in subparagraph
+			 (E), by striking <quote>and</quote>;</text>
+				</paragraph><paragraph id="ID7ee2f4cbdddd4ee5871cfaad36d518c2"><enum>(2)</enum><text>by redesignating
+			 subparagraph (F) as subparagraph (G); and</text>
+				</paragraph><paragraph id="IDbd50d68a1180470f9be11aebb16ce28a"><enum>(3)</enum><text>by inserting
+			 after subparagraph (E) the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id2A4A93CE65E54A9D8C1D2A39EC2C8918" style="OLC">
+						<subparagraph id="ID2cb33ec777e64bf78b9eb729503ace10"><enum>(F)</enum><text>the Committee on
+				Finance of the Senate and the Committee on Ways and Means of the House of
+				Representatives have received the report on the determinations of the WTO
+				Dispute Settlement Review Commission under section 204(b)(2) of the Trade
+				Enforcement Act of 2007 with respect to the relevant dispute settlement panel
+				or Appellate Body report;
+				and</text>
+						</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></section></title><title id="id11E1F3F9B2194F0B9049A8C7640A5E9A"><enum>III</enum><header>Market
+			 disruption by imports from China</header>
+			<section id="ID11b6b65c274e42bb8ed0421ccbcf89f5"><enum>301.</enum><header>Limitation on
+			 presidential discretion</header><text display-inline="no-display-inline">Section 421 of the Trade Act of 1974 (19
+			 U.S.C. 2451) is amended—</text>
+				<paragraph id="IDf107f469e8814116b967c5b5f0d2ce7a"><enum>(1)</enum><text>in subsection
+			 (a)—</text>
+					<subparagraph id="ID643224bb5976469aa691abbcdc72944c"><enum>(A)</enum><text>by inserting
+			 <quote>any</quote> before <quote>increased duties</quote>; and</text>
+					</subparagraph><subparagraph id="IDa7fedb1c0e3c45bb85f0d0a9127daa60"><enum>(B)</enum><text>by striking
+			 <quote>, to the extent and for such period</quote> and all that follows to the
+			 end period and inserting <quote>recommended by the International Trade
+			 Commission</quote>;</text>
+					</subparagraph></paragraph><paragraph id="IDb3b7a90ba4a448dd9e388f2152b8e420"><enum>(2)</enum><text>in subsection
+			 (e), in the second sentence, by striking <quote>agreed upon by either
+			 group</quote> and all that follows to the end period and inserting <quote>shall
+			 be considered an affirmative determination under subsection (b)</quote>;</text>
+				</paragraph><paragraph id="IDf5ce2e26e8fc4fc9af8923aacd9a15e0"><enum>(3)</enum><text>in subsection
+			 (f)—</text>
+					<subparagraph id="ID5b9f82b8d282447eb85ea868bc444360"><enum>(A)</enum><text>in the heading,
+			 by striking <quote><header-in-text level="subsection" style="OLC">on Proposed
+			 Remedies</header-in-text></quote> and inserting <quote><header-in-text level="subsection" style="OLC">for Relief</header-in-text></quote>;</text>
+					</subparagraph><subparagraph id="IDcf3156ac2b2e40ae98dc4100db3db194"><enum>(B)</enum><text>in the first
+			 sentence—</text>
+						<clause id="id2BD9F88C819547139A91BB6BF4F34260"><enum>(i)</enum><text>by
+			 striking <quote>the President or Trade Representative may consider as</quote>
+			 and inserting <quote>is to be considered</quote>; and</text>
+						</clause><clause id="ID1b45a8332b2d4afdbdd2568327a54da2"><enum>(ii)</enum><text>by
+			 striking <quote>the Commission shall propose</quote> and inserting <quote>the
+			 Commission shall recommend</quote>; and</text>
+						</clause></subparagraph><subparagraph id="IDacebd19a3ba6469b91b10d28a4213bed"><enum>(C)</enum><text>in the second
+			 sentence, by striking <quote>proposed action</quote> and inserting
+			 <quote>recommended action</quote>;</text>
+					</subparagraph></paragraph><paragraph id="IDa425c621f42f4d8381170da84940600f"><enum>(4)</enum><text>in subsection
+			 (g)(2)(B)—</text>
+					<subparagraph commented="no" id="ID44d78135327e4ca58fc81cde4a19d775"><enum>(A)</enum><text>by striking
+			 <quote>or may be considered by the President or the Trade Representative
+			 as</quote> and inserting <quote>or if the determination is considered to
+			 be</quote>; and</text>
+					</subparagraph><subparagraph id="ID8eac0a773ac04a93bd39dda9e7429f41"><enum>(B)</enum><text>by striking
+			 <quote>on proposed remedies</quote> and inserting <quote>for
+			 relief</quote>;</text>
+					</subparagraph></paragraph><paragraph id="ID3d43d673a6604442ae0c7e8dec7786cc"><enum>(5)</enum><text>in subsection
+			 (h)—</text>
+					<subparagraph id="ID0974d7f687154b979b33e8d1e7c762e2"><enum>(A)</enum><text>in the heading,
+			 by striking <quote><header-in-text level="subsection" style="OLC">Proposed
+			 measure and recommendation to the President</header-in-text></quote> and
+			 inserting <quote><header-in-text level="subsection" style="OLC">Recommended
+			 Relief and Report by Trade Representative</header-in-text></quote>;</text>
+					</subparagraph><subparagraph id="ID900e4834c9984fc6bf9b66fbd6c6529a"><enum>(B)</enum><text>in paragraph
+			 (1)—</text>
+						<clause id="id13C37A8BB1B142AF9AFDC95085F6CD83"><enum>(i)</enum><text>by
+			 striking <quote>measure proposed by the Trade Representative to be taken
+			 pursuant to subsection (a)</quote> and inserting <quote>relief recommended by
+			 the Commission under subsection (f)</quote>; and</text>
+						</clause><clause id="ID41b0853c0ee047eb989725c789188bb5"><enum>(ii)</enum><text>by
+			 striking <quote>proposed measure</quote> and inserting <quote>recommended
+			 relief</quote>;</text>
+						</clause></subparagraph><subparagraph id="ID077894479f5f4ed78f00b7601010c14b"><enum>(C)</enum><text>in paragraph (2),
+			 by striking <quote>on the measure proposed by the Trade Representative</quote>
+			 and all that follows to the end period and inserting <quote>, shall transmit a
+			 report to the President recommending what action to take under subsection
+			 (k)</quote>; and</text>
+					</subparagraph><subparagraph id="ID615155330ce541b49a854cf5ef38aec9"><enum>(D)</enum><text>by adding at the
+			 end the following new paragraph:</text>
+						<quoted-block display-inline="no-display-inline" id="id04D909277F314481845585C992994CF3" style="OLC">
+							<paragraph id="ID6f4f9f28b6a94987bfa86974fa8f3a71" indent="up1"><enum>(3)</enum><text>The Trade Representative, after
+				submitting a report to the President under paragraph (2), shall promptly make
+				the report available to the public, excluding any proprietary or confidential
+				information. The Trade Representative shall publish a summary of the report in
+				the Federal
+				Register.</text>
+							</paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+					</subparagraph></paragraph><paragraph id="ID67ce52cf60ba4b77825a4f04f26dac43"><enum>(6)</enum><text>in subsection
+			 (i)—</text>
+					<subparagraph id="ID1125405225e14e36af7e0799a279815d"><enum>(A)</enum><text>in the flush
+			 sentence at the end of paragraph (1), by striking <quote>agreed upon by either
+			 group</quote> and all that follows to the end period and inserting <quote>shall
+			 be considered an affirmative determination of the Commission</quote>;
+			 and</text>
+					</subparagraph><subparagraph id="idFD070A3DB3BC4BFDA871FD1AEACAD008"><enum>(B)</enum><text>by striking
+			 paragraphs (2), (3), and (4), and inserting the following:</text>
+						<quoted-block display-inline="no-display-inline" id="id0309F08B9C9547D1BBB1C3CDCF7C1188" style="OLC">
+							<paragraph id="ID9EA3F2853B1D4777ADFB34222AF984CC" indent="up1"><enum>(2)</enum><text>On the date on which the Commission
+				completes its determinations under paragraph (1), the Commission shall transmit
+				a report on the determinations to the President and the Trade Representative,
+				including the reasons for its determinations. If the determinations under
+				paragraph (1) are affirmative or if the determinations are considered to be
+				affirmative under paragraph (1), the Commission shall include in its report its
+				recommendations on provisional relief to be taken to prevent or remedy the
+				market disruption. Only those members of the Commission who agreed to the
+				affirmative determinations under paragraph (1) are eligible to vote on the
+				recommended provisional relief to prevent or remedy market disruption. Members
+				of the Commission who did not agree to the affirmative determinations may
+				submit, in the report, dissenting or separate views regarding the determination
+				and any recommendation of provisional relief referred to in this
+				paragraph.</text>
+							</paragraph><paragraph id="id6A49C2F3B43142FF9AD4F1029E499BC7" indent="up1"><enum>(3)</enum><text>The provisional relief referred to in
+				paragraph (2) may include—</text>
+								<subparagraph id="id1742A09A6FA448DC901252777FE54D98"><enum>(A)</enum><text>the imposition of or increase in any
+				duty;</text>
+								</subparagraph><subparagraph id="idB5056AA96D00495D9DA40C0128AB46D3"><enum>(B)</enum><text>any modification, or imposition of any
+				quantitative restriction on the importation of any article into the United
+				States; or</text>
+								</subparagraph><subparagraph id="idFCA0251BAF2B481687A17D3A0E82FCFD"><enum>(C)</enum><text>any combination of actions under
+				subparagraph (A) or (B).</text>
+								</subparagraph></paragraph><paragraph id="id9940BCF313E04FDDA6868BE33A7D185C" indent="up1"><enum>(4)</enum><text>If the determinations under paragraph
+				(1) are affirmative or if the determinations are considered to be affirmative
+				under paragraph (1), the Trade Representative shall, within 10 days after
+				receipt of the Commission's report, transmit a report to the President
+				recommending what action to take with respect to provisional relief under
+				subsection (k).</text>
+							</paragraph><paragraph id="idFD0BEF248A4B45D1AD2BEA60E0789094" indent="up1"><enum>(5)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="idF7A0C2E49DA948F58505CC4633861913"><enum>(A)</enum><text>The President shall
+				proclaim any provisional relief recommended by the Commission not later than 10
+				days after the date the President receives the report described in paragraph
+				(4) from the Trade Representative.</text>
+								</subparagraph><subparagraph id="id3C874E03D01F48299B8A5121E65EEA2E" indent="up1"><enum>(B)</enum><text>Any provisional relief proclaimed by
+				the President pursuant to a determination of critical circumstances shall
+				remain in effect for a period not to exceed 200 days.</text>
+								</subparagraph><subparagraph id="id792AB218DB9140178684F10AD5227FCD" indent="up1"><enum>(C)</enum><text>Provisional relief shall cease to
+				apply upon the effective date of relief proclaimed under subsection (a), upon a
+				decision by the President not to provide such relief under subsection (k), or
+				upon a negative determination by the Commission under subsection
+				(b).</text>
+								</subparagraph></paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+					</subparagraph></paragraph><paragraph id="IDbdf868ec2154422d9617aee509adf777"><enum>(7)</enum><text>in subsection
+			 (j)—</text>
+					<subparagraph id="ID59940c43e80247c0b9927b46362744e6"><enum>(A)</enum><text>in paragraph (1),
+			 by striking <quote>which the Trade Representative considers to be</quote> and
+			 inserting <quote>that is considered to be</quote>;</text>
+					</subparagraph><subparagraph commented="no" id="ID6e940225a3de4d7693208c364e4e7f33"><enum>(B)</enum><text>by striking
+			 paragraph (2) and inserting the following:</text>
+						<quoted-block display-inline="no-display-inline" id="id22D9D1C62B324919A5664C0FF4D8DB2B" style="OLC">
+							<paragraph id="ID8015E3109E444680B942FA6F2C0DC018" indent="up1"><enum>(2)</enum><text>If no agreement is reached with the
+				People's Republic of China pursuant to consultations under paragraph (1) in the
+				time required for Presidential action under subsection (k), or if the President
+				determines that an agreement reached pursuant to such consultations is not
+				preventing or remedying the market disruption at issue in the time required for
+				Presidential action under subsection (k), the President shall provide import
+				relief in accordance with subsection
+				(a).</text>
+							</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</subparagraph></paragraph><paragraph id="IDa7fe7b3e9a5d488a859152d7614c3f97"><enum>(8)</enum><text>in subsection
+			 (k)—</text>
+					<subparagraph id="ID0ec85d2e21904892a0865caf1deb8eeb"><enum>(A)</enum><text>in the heading,
+			 by striking <quote><header-in-text level="subsection" style="OLC">Standard for
+			 presidential action</header-in-text></quote> and inserting
+			 <quote><header-in-text level="subsection" style="OLC">Timing for presidential
+			 action; exceptions</header-in-text></quote>;</text>
+					</subparagraph><subparagraph id="ID7db4bfa55bf34c94904c7630d31a898e"><enum>(B)</enum><text>in paragraph (1),
+			 by striking <quote>a recommendation from the Trade Representative</quote> and
+			 all that follows to the end period and inserting <quote>a report from the Trade
+			 Representative under subsection (h)(2), the President shall, pursuant to
+			 subsection (a), proclaim the relief recommended by the Commission</quote>;
+			 and</text>
+					</subparagraph><subparagraph id="ID27edb9ed215f41ca8b7882ab049e6156"><enum>(C)</enum><text>by amending
+			 paragraph (2) to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="id69382EF14DB54CA6A265B95DE10C0D77" style="OLC">
+							<paragraph id="IDe11af15138dc4da3a09f1b1fecb70fab" indent="up1"><enum>(2)</enum><text>The President may decline to proclaim
+				relief pursuant to subsection (a), may proclaim relief pursuant to subsection
+				(a) that differs from the relief recommended by the Commission, may decline to
+				proclaim provisional relief pursuant to subsection (i), or may proclaim
+				provisional relief pursuant to subsection (i) that differs from the relief
+				recommended by the Commission—</text>
+								<subparagraph id="ID121641ab49c140f38408ff2cae577fca"><enum>(A)</enum><text>only in extraordinary cases;
+				and</text>
+								</subparagraph><subparagraph id="ID2961f5dee782460fa1f091afca1a9831"><enum>(B)</enum><text>only if the President determines that
+				providing relief or provisional relief pursuant to subsection (a) or (i) or
+				providing the relief recommended by the Commission pursuant to subsection (a)
+				or (i)—</text>
+									<clause id="IDdc8e80f870d24c5da17ba7af728bb560"><enum>(i)</enum><text>would have an adverse impact on the
+				United States economy that clearly and significantly outweighs the benefits of
+				such action; or</text>
+									</clause><clause id="ID54f5a463b4cf4a76a51c5efbe5e78ffa"><enum>(ii)</enum><text>would cause serious harm to the
+				national security of the United
+				States.</text>
+									</clause></subparagraph></paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+					</subparagraph></paragraph><paragraph id="ID0b92ed46131a4e48974ba43fff7c1db4"><enum>(9)</enum><text>in subsection
+			 (l), by amending paragraph (1) to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id890E22DF308C439993DD9E92F59DF522" style="OLC">
+						<paragraph id="ID6d80461a5cda4c5c84a42232deabf4e5" indent="up1"><enum>(1)</enum><text>The President’s decision under
+				subsection (k) shall be submitted to the Committee on Finance of the Senate and
+				the Committee on Ways and Means of the House of Representatives and shall be
+				published in the Federal Register within 15 days of the decision. In the
+				submission to the committees and in publication in the Federal Register, the
+				President shall include the reasons for the decision and the scope and duration
+				of any action taken. If the President takes action that differs from the action
+				recommended by the Commission under subsection (f) or declines to take action
+				pursuant to subsection (k)(2), the President shall state in detail the reasons
+				for such action or
+				inaction.</text>
+						</paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="IDf15086bd5cd24311a664774a7bbcc8bc"><enum>(10)</enum><text>by redesignating
+			 subsections (m) through (o) as subsections (n) through (p),
+			 respectively;</text>
+				</paragraph><paragraph id="IDc722372c0b444a55ac5eba06d0255c23"><enum>(11)</enum><text>by inserting
+			 after subsection (l) the following new subsection:</text>
+					<quoted-block display-inline="no-display-inline" id="id5C3610B972CE4EABA2029AFEE4DEC950" style="OLC">
+						<subsection id="ID6e5247b187f7448e85d88878d29998fe"><enum>(m)</enum><header>Implementation
+				of action recommended by Commission</header><paragraph commented="no" display-inline="yes-display-inline" id="id60A23834700F48FA9CD58A107EF3BC9B"><enum>(1)</enum><text>If the President takes
+				action that differs from the action recommended by the Commission under
+				subsection (f) or declines to take action pursuant to subsection (k)(2)(B)(i),
+				the action recommended by the Commission under subsection (f) shall take effect
+				(as provided in subsection (n)(2)) upon the enactment of a joint resolution
+				described in paragraph (2) within the 90-day period beginning on the date on
+				which the President’s decision is transmitted to the Congress pursuant to
+				subsection (l).</text>
+							</paragraph><paragraph id="ID8d0112c2c3f64649a496bf0799651a5b" indent="up1"><enum>(2)</enum><text>For purposes of this section, the
+				term <term>joint resolution</term> means a joint resolution of the 2 Houses of
+				the Congress, the sole matter after the resolving clause of which is as
+				follows: <quote>That the Congress does not approve the action taken by, or the
+				determination of, the President under section 421 of the Trade Act of 1974,
+				notice of which was transmitted to the Congress on ______.</quote>, with the
+				blank space being filled with the appropriate date.</text>
+							</paragraph><paragraph id="ID02e7ddfc526c48ab95481fdb0cbe86e6" indent="up1"><enum>(3)</enum><text>The provisions of section 152 (b),
+				(d), (e), and (f) of the Trade Act of 1974 (19 U.S.C. 2192(b), (d), (e), and
+				(f)) shall apply to joint resolutions under this section.</text>
+							</paragraph><paragraph commented="no" id="IDddad2bf15a4b4824b6dccd237a54437a" indent="up1"><enum>(4)</enum><text>It is not in order for—</text>
+								<subparagraph commented="no" id="ID2d1760e5ede64ff0b799dc36072223df"><enum>(A)</enum><text>the Senate to consider any joint
+				resolution not reported by the Committee on Finance; or</text>
+								</subparagraph><subparagraph commented="no" id="ID1fdcb54374a142dfaee7cae21c8e40e1"><enum>(B)</enum><text>the House of Representatives to
+				consider any joint resolution not reported by the Committee on Ways and
+				Means.</text>
+								</subparagraph></paragraph></subsection><after-quoted-block>;</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="IDeb0ac9b156314413b7363e85dd6fd7c3"><enum>(12)</enum><text>in subsection
+			 (n), as redesignated, by striking <quote>Import relief under this
+			 section</quote> and all that follows to the end period and inserting the
+			 following:</text>
+					<quoted-block display-inline="no-display-inline" id="id4522E0A1D2ED4CD8BAD3C0F30365A206" style="OLC">
+						<paragraph commented="no" id="ID03790d08aaba4eb590f48ce5d6a4f7da" indent="up1"><enum>(1)</enum><text>Except as provided in paragraph (2),
+				import relief under this section shall take effect not later than 15 days after
+				the President’s determination to provide such relief.</text>
+						</paragraph><paragraph commented="no" id="IDa0172096703c4c35a4a575b86c3da150" indent="up1"><enum>(2)</enum><text>If the action recommended by the
+				Commission takes effect pursuant to subsection (m), the President shall, within
+				15 days after the date of the enactment of the joint resolution referred to in
+				subsection (m), proclaim the action recommended by the Commission under
+				subsection (f). Such action shall take effect not later than 15 days after the
+				date of the President’s
+				proclamation.</text>
+						</paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="ID444a256059c04038b222f750b08c0823"><enum>(13)</enum><text>in subsection
+			 (o), as redesignated—</text>
+					<subparagraph id="ID9ba3229add474bec96844fbfff387d4d"><enum>(A)</enum><text>in paragraph (1),
+			 by striking <quote>6-month</quote> and inserting <quote>1-year</quote>;
+			 and</text>
+					</subparagraph><subparagraph id="ID4b809a3983844fc0886c78aeb9e9012e"><enum>(B)</enum><text>in paragraph (3),
+			 by inserting <quote>or (m)</quote> after <quote>subsection (k)</quote>;
+			 and</text>
+					</subparagraph></paragraph><paragraph id="IDa025ee1a9ab2434ebc2a340300c0a33e"><enum>(14)</enum><text>in subsection
+			 (p), as redesignated—</text>
+					<subparagraph id="idEFA577AEF24B4C2EAB4FEBD4997514D4"><enum>(A)</enum><text>in paragraph (1),
+			 by inserting <quote>or (m)</quote> after <quote>subsection (k);</quote>;
+			 and</text>
+					</subparagraph><subparagraph id="id1FA574F11A81415E8282AA84B2410C83"><enum>(B)</enum><text>in paragraph (3),
+			 by striking <quote>subsection (m)</quote> and inserting <quote>subsection
+			 (n)</quote>.</text>
+					</subparagraph></paragraph></section></title><title id="id0EEA39F6F93348CEB7650E96EAD616CD"><enum>IV</enum><header>Strengthening
+			 antidumping and countervailing duty laws</header>
+			<section id="ID572c398a0822448db95b7b54be665b03"><enum>401.</enum><header>Application of
+			 countervailing duties to nonmarket economies</header>
+				<subsection id="ID76b24b3b9ffc4d45b1ae143ddc50bc94"><enum>(a)</enum><header>In
+			 general</header><text>Section 701(a)(1) of the Tariff Act of 1930 (19 U.S.C.
+			 1671(a)(1)) is amended by inserting <quote>(including a nonmarket economy
+			 country)</quote> after <quote>country</quote> each place it appears.</text>
+				</subsection><subsection id="IDa68c3693f1bf4f56a933ed060c0f3790"><enum>(b)</enum><header>Effective
+			 date</header><text>The amendment made by subsection (a) applies to petitions
+			 filed under section 702 of the Tariff Act of 1930 (19 U.S.C. 1671a) on or after
+			 October 1, 2006.</text>
+				</subsection></section><section id="IDd0651e97ba524a0c9b66a15bece56475"><enum>402.</enum><header>Clarification
+			 of determination of material injury</header><text display-inline="no-display-inline">Section 771(7) of the Tariff Act of 1930 (19
+			 U.S.C. 1677(7)) is amended by adding at the end the following new
+			 subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="id4C1FE91291B54377A5A2827B456DC85D" style="OLC">
+					<subparagraph id="ID7bb93c5ef054427f8dd5498c3783481d"><enum>(J)</enum><header>Clarification
+				of determination of material injury</header><text>In determining if there is
+				material injury, or threat of material injury, by reason of imports of the
+				subject merchandise, the Commission shall make its determination without regard
+				to—</text>
+						<clause id="IDc6f6b2c5416640bf87989e48832a7580"><enum>(i)</enum><text>whether other
+				imports are likely to replace the subject merchandise, or</text>
+						</clause><clause id="ID5e61a89a65bc484e9fe8db21ef2136b6"><enum>(ii)</enum><text>the effect of a
+				potential order on the domestic
+				industry.</text>
+						</clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section></title><title id="id2B12C73A225C43CE81AE6A4161B219A6"><enum>V</enum><header>Trade enforcement
+			 personnel</header>
+			<section id="IDcec97a5283ff4688aeb3875f75bdd9e6"><enum>501.</enum><header>Chief Trade
+			 Enforcement Officer</header>
+				<subsection id="IDccbe3317a1004403bb162981b1533adc"><enum>(a)</enum><header>Establishment
+			 of position</header><text>Section 141(b)(2) of the Trade Act of 1974 (19 U.S.C.
+			 2171(b)(2)) is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id5FD051CBEEBD4975A9B3799FE0F6D8F4" style="OLC">
+						<paragraph id="ID1575b02627cc4f4eb40402cfb3986215" indent="up1"><enum>(2)</enum><text>There shall be in the Office 3 Deputy
+				United States Trade Representatives, 1 Chief Agricultural Negotiator, and 1
+				Chief Trade Enforcement Officer who shall all be appointed by the President, by
+				and with the advice and consent of the Senate. As an exercise of the rulemaking
+				power of the Senate, any nomination of a Deputy United States Trade
+				Representative, the Chief Agricultural Negotiator, or the Chief Trade
+				Enforcement Officer submitted to the Senate for its advice and consent, and
+				referred to a committee, shall be referred to the Committee on Finance. Each
+				Deputy United States Trade Representative, the Chief Agricultural Negotiator,
+				and the Chief Trade Enforcement Officer shall hold office at the pleasure of
+				the President and shall have the rank of
+				Ambassador.</text>
+						</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="ID08083e00fce54f41ba709d7d74a2d112"><enum>(b)</enum><header>Functions of
+			 position</header><text>Section 141(c) of the Trade Act of 1974 (19 U.S.C.
+			 2171(c)) is amended by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="idA5C4B9AC96D849A8A903526AEBDB1AA1" style="OLC">
+						<paragraph id="IDf1a5079b6f00468eaf75f4fd614bc602" indent="up1"><enum>(6)</enum><text>The principal function of the Chief
+				Trade Enforcement Officer shall be to ensure that United States trading
+				partners comply with trade agreements to which the United States is a party.
+				The Chief Trade Enforcement Officer shall assist the United States Trade
+				Representative in investigating and prosecuting disputes pursuant to trade
+				agreements to which the United States is a party, including before the World
+				Trade Organization, and shall assist the United States Trade Representative in
+				carrying out the Trade Representative’s functions under subsection (d). The
+				Chief Trade Enforcement Officer shall make recommendations with respect to the
+				administration of United States trade laws relating to foreign government
+				barriers to United States goods, services, investment, and intellectual
+				property, and with respect to government procurement and other trade matters.
+				The Chief Trade Enforcement Officer shall perform such other functions as the
+				United States Trade Representative may
+				direct.</text>
+						</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</subsection><subsection id="IDcde97206005e414fb7fccf644b8742e7"><enum>(c)</enum><header>Compensation</header><text>Section
+			 5314 of title 5, United States Code, is amended by inserting <quote>Chief Trade
+			 Enforcement Officer</quote> as a new item after <quote>Chief Agricultural
+			 Negotiator</quote>.</text>
+				</subsection><subsection id="IDe97aa78eb4214541939b8c4e54b8ac5d"><enum>(d)</enum><header>Technical
+			 amendments</header><text>Section 141(e) of the Trade Act of 1974 (19 U.S.C.
+			 2171(e)) is amended—</text>
+					<paragraph id="ID3d0c1ae9c77748ea8eeb735939e2fe7b"><enum>(1)</enum><text>in paragraph (1),
+			 by striking <quote>5314</quote> and inserting <quote>5315</quote>; and</text>
+					</paragraph><paragraph id="IDe9c5e09206e94a04a32ed640dc91adc1"><enum>(2)</enum><text>in paragraph (2),
+			 by striking <quote>the maximum rate of pay for grade GS–18, as provided in
+			 section 5332</quote> and inserting <quote>the maximum rate of pay for level IV
+			 of the Executive Schedule in section 5315</quote>.</text>
+					</paragraph></subsection></section><section id="ID0fa0ef6401384c2685e6e99a8aa3d9a8"><enum>502.</enum><header>Trade
+			 Enforcement Working Group</header>
+				<subsection id="IDbe94d58302544898b4cb8312febfeb52"><enum>(a)</enum><header>Establishment</header><text>Not
+			 later than 90 days after the date of the enactment of this Act, the United
+			 States Trade Representative shall establish an interagency Trade Enforcement
+			 Working Group, which shall be chaired by the Chief Trade Enforcement Officer of
+			 the Office of the United States Trade Representative.</text>
+				</subsection><subsection id="ID99f52655c32c4d2593bc41bdc7a4eccf"><enum>(b)</enum><header>Membership</header><text>The
+			 Trade Enforcement Working Group shall include representatives from the
+			 Departments of State, Treasury, Commerce, and Agriculture, and such other
+			 departments and agencies as the United States Trade Representative considers
+			 appropriate.</text>
+				</subsection><subsection id="IDb89c831885c643eda4ab2688d092af3d"><enum>(c)</enum><header>Responsibility</header><text>The
+			 Trade Enforcement Working Group shall assist and advise the Chief Trade
+			 Enforcement Officer in carrying out the principal functions described in
+			 section 141(c)(6) of the Trade Act of 1974. Although the Chief Trade
+			 Enforcement Officer shall carefully consider any advice provided by the Trade
+			 Enforcement Working Group, the Chief Trade Enforcement Officer shall not seek
+			 clearance or any other form of approval from the Trade Enforcement Working
+			 Group for any actions the Chief Trade Enforcement Officer takes in carrying out
+			 the functions described in such section 141(c)(6).</text>
+				</subsection></section><section id="ID9a7efdfae2034ab5889b80143fc1e0ed"><enum>503.</enum><header>Authorization
+			 of appropriations</header><text display-inline="no-display-inline">There is
+			 authorized to be appropriated $5,000,000 to the Office of the United States
+			 Trade Representative to carry out the provisions of this title.</text>
+			</section></title><title id="id29F6D7C24AF34724AF8C816F59C88AD2"><enum>VI</enum><header>Intellectual
+			 property enforcement personnel</header>
+			<section id="ID5cd8365aa9c34de0be31a484eacb8443"><enum>601.</enum><header>Section 337
+			 judges</header><text display-inline="no-display-inline">Section 337 of the
+			 Tariff Act of 1930 (19 U.S.C. 1337) is amended by adding at the end the
+			 following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="idD4021F30FAC84FBFBF28FAD452BB15B2" style="OLC">
+					<subsection id="IDa52f67cb1e8a4e17aa4dd23cdb61cf36"><enum>(o)</enum><header>Section
+				<enum-in-header>337</enum-in-header> judges</header>
+						<paragraph id="id5EDE586F33B049968BD9B3FE18516F72"><enum>(1)</enum><header>In
+				general</header><text>Notwithstanding the provisions of subsection 556(b) of
+				title 5, United States Code, the Commission is authorized to appoint hearing
+				officers, other than administrative law judges appointed under section 3105 of
+				title 5, United States Code, to preside at the taking of evidence at hearings
+				required by this section and to make initial and recommended decisions in
+				accordance with sections 554, 556, and 557 of title 5, United States Code, in
+				investigations under this section. The hearing officers appointed under this
+				subsection shall be known as section 337 judges.</text>
+						</paragraph><paragraph id="id04F21CE18F6F4329B1F2C0891FDC9B57"><enum>(2)</enum><header>Qualifications</header><text>A
+				person appointed as a section 337 judge under paragraph (1) shall possess a
+				minimum of 7 years of legal experience and be licensed to practice law under
+				the laws of a State, the District of Columbia, the Commonwealth of Puerto Rico,
+				or any territorial court established under the Constitution of the United
+				States. The Commission may promulgate such other regulations as the Commission
+				considers necessary with respect to the qualifications of section 337 judges,
+				including technical expertise and experience in patent, trademark, copyright,
+				and unfair competition law.</text>
+						</paragraph><paragraph id="idAA7C4F451A73432988D2B43F742D68B9"><enum>(3)</enum><header>Rotation</header><text>Section
+				337 judges shall be assigned to cases in rotation to the extent practicable or
+				as otherwise provided for in the Commission’s rules.</text>
+						</paragraph><paragraph id="IDbf354a7ad79e4b9da1ee92d91a44a4d4"><enum>(4)</enum><header>Other
+				duties</header><text>A section 337 judge may not perform duties inconsistent
+				with the duties and responsibilities of a section 337 judge.</text>
+						</paragraph><paragraph id="idC9F00F5502F74C3E80E346792ACD271E"><enum>(5)</enum><header>Removal</header><text>A
+				section 337 judge may only be removed for good cause shown upon a hearing
+				conducted on the record by the Merit Systems Protection Board. The failure of
+				the Commission to adopt the initial or recommended decision of a section 337
+				judge shall not constitute good cause.</text>
+						</paragraph><paragraph id="IDd4511cfda0bf4d12ad4851158563c6ad"><enum>(6)</enum><header>Competitive
+				service</header><text>Except as otherwise provided, the laws, rules, and
+				regulations applicable to positions in the competitive service apply to section
+				337 judges. Upon appointment, a section 337 judge shall be paid in accordance
+				with the pay rates of section 5372 of title 5, United States Code, commensurate
+				with the pay rate of an administrative law judge with similar time in service.
+				Section 337 judges shall not be Senior Executive Service positions for the
+				purposes of sections 3131 and 3132 of title 5, United States Code.</text>
+						</paragraph><paragraph id="idCF9C0A44A9E042CEA9497636377D7230"><enum>(7)</enum><header>Performance
+				evaluations</header><text>Section 337 judges shall not receive performance
+				evaluations and shall not be compensated based on
+				performance.</text>
+						</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section></title><title id="id03B34C96500A46309E01CD0B3BC276DB"><enum>VII</enum><header>Interagency
+			 trade organization</header>
+			<section id="ID418b53f954b046a794553115bd540971"><enum>701.</enum><header>Clarification
+			 of role of interagency trade organization established under section
+			 242(<enum-in-header>a</enum-in-header>) of the Trade Expansion Act of
+			 1962</header><text display-inline="no-display-inline">Section 141(c)(1)(I) of
+			 the Trade Act of 1974 (19 U.S.C. 2171(c)(1)(I)) is amended to read as
+			 follows:</text>
+				<quoted-block display-inline="no-display-inline" id="id793F5CEBAE5645F8A1F0906F2C1A5EEC" style="OLC">
+					<subparagraph id="ID87e48739409443c0a80b1bad49422804"><enum>(I)</enum><text>be chairman of
+				the interagency trade organization established under section 242(a) of the
+				Trade Expansion Act of 1962, consult with and carefully consider any advice
+				provided by such organization in the performance of the functions of the United
+				States Trade Representative, but the United States Trade Representative shall
+				not seek clearance or any other form of approval from the interagency trade
+				organization for any actions the United States Trade Representative takes in
+				the performance of the functions described in this subsection;
+				and</text>
+					</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section></title></legis-body>
+</bill>

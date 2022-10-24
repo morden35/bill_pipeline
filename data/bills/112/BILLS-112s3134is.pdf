@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 3134</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20120510">May 10, 2012</action-date>
+			<action-desc><sponsor name-id="S320">Mrs. Hagan</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To suspend temporarily the duty on
+		  fluopicolide.</official-title>
+	</form>
+	<legis-body>
+		<section id="idDC0430A231A9462DBB5AF2167FFDD74A" section-type="section-one"><enum>1.</enum><header>fluopicolide</header>
+			<subsection id="id0043544A83A64D4B95F36BB86750F194"><enum>(a)</enum><header>In
+			 general</header><text>Subchapter II of chapter 99 of the Harmonized Tariff
+			 Schedule of the United States is amended by inserting in numerical sequence the
+			 following new heading:</text>
+				<quoted-block display-inline="no-display-inline" id="id136810B19D504F559F086C33DA912E98" style="OLC">
+					<table align-to-level="section" blank-lines-before="1" colsep="1" frame="none" line-rules="hor-ver" rowsep="0" rule-weights="0.0.0.0.4.17" table-template-name="Duty Suspension, 8 Column" table-type="exception-quote">
+						<tgroup block-style="1" cols="8" grid-typeface="1.1" rowsep="0" thead-tbody-ldg-size="0.7.9"><colspec coldef="txt-no-ldr-no-spread" colname="column1" colwidth="8pts" min-data-value="8"></colspec><colspec coldef="txt-no-ldr-no-spread" colname="column2" colwidth="69.00pt" min-data-value="35"></colspec><colspec coldef="txt" colname="column3" colwidth="198.00pt" min-data-value="60"></colspec><colspec coldef="txt-no-ldr-no-spread" colname="column4" colwidth="48.26pt" min-data-value="25"></colspec><colspec coldef="txt-no-ldr-no-spread" colname="column5" colwidth="69.94pt" min-data-value="38"></colspec><colspec coldef="txt-no-ldr-no-spread" colname="column6" colsep="1" colwidth="67.31pt" min-data-value="38"></colspec><colspec coldef="txt-no-spread" colname="column7" colwidth="75.75pt" min-data-value="38"></colspec><colspec align="justify" coldef="fig" colname="column8" colwidth="8.25pt" min-data-value="3"></colspec>
+							<tbody>
+								<row><entry align="left" colname="column1" leader-modify="clr-ldr" rowsep="0" stub-definition="txt-clr" stub-hierarchy="1"></entry><entry align="left" colname="column2" leader-modify="clr-ldr" rowsep="0" valign="top">9902.01.00</entry><entry align="left" colname="column3" leader-modify="force-ldr-bottom" rowsep="0" valign="bottom">2,6-Dichloro-N-[[3-chloro-5-(trifluoro-methyl)-2-pyridinyl]methyl]benzamide
+						(fluopicolide) (CAS No. 239110–15–7) (provided for in subheading
+						2933.39.21)</entry><entry align="left" colname="column4" leader-modify="clr-ldr" rowsep="0" valign="bottom">Free</entry><entry align="left" colname="column5" leader-modify="clr-ldr" rowsep="0" valign="bottom">No change</entry><entry align="left" colname="column6" leader-modify="clr-ldr" rowsep="0" valign="bottom">No change</entry><entry align="left" colname="column7" leader-modify="force-ldr-bottom" rowsep="0" valign="bottom">On or before 12/31/2015</entry><entry align="right" colname="column8" leader-modify="clr-ldr" rowsep="0" valign="bottom"></entry>
+								</row>
+							</tbody>
+						</tgroup></table>
+					<after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="idB7B6364D267D48E9982116F37F79D6A2"><enum>(b)</enum><header>Effective
+			 date</header><text>The amendment made by subsection (a) applies with respect to
+			 goods entered, or withdrawn from warehouse for consumption, on or after the
+			 15th day after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>

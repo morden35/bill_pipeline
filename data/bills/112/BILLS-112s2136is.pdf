@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 2136</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20120228">February 28, 2012</action-date>
+			<action-desc><sponsor name-id="S258">Ms. Landrieu</sponsor> (for
+			 herself and <cosponsor name-id="S245">Ms. Snowe</cosponsor>) introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSSB00">Committee on Small Business and
+			 Entrepreneurship</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To increase the maximum amount of leverage permitted
+		  under title III of the Small Business Investment Act of 1958, and for other
+		  purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="id405DE52B8AF443DDAAC898E58EF5B43C" section-type="section-one"><enum>1.</enum><header>Maximum leverage under title
+			 III of the Small Business Investment Act of 1958</header>
+			<subsection id="id7D4713AE042C4CC6AB12F6579A817A1E"><enum>(a)</enum><header>Authorization</header><text>For
+			 fiscal year 2013, the Administrator may make $4,000,000,000 in guarantees of
+			 debentures for programs under title III of the Small Business Investment Act of
+			 1958 (15 U.S.C. 681 et seq.).</text>
+			</subsection><subsection id="id4B4D86283E50491D9C2803E7BC172F87"><enum>(b)</enum><header>Family of
+			 funds</header><text>Section 303(b)(2)(B) of the Small Business Investment Act
+			 of 1958 (15 U.S.C. 683(b)(2)(B)) is amended by striking
+			 <quote>$225,000,000</quote> and inserting <quote>$350,000,000</quote>.</text>
+			</subsection></section></legis-body>
+</bill>

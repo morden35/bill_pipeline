@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 2065</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20070918">September 18, 2007</action-date>
+			<action-desc><sponsor name-id="S229">Mrs. Murray</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSHR00">Committee on Health, Education, Labor,
+			 and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide assistance to community health coalitions to
+		  increase access to and improve the quality of health care
+		  services.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>Community Coalitions for Access
+			 and Quality Improvement Act of 2007</short-title></quote>.</text>
+		</section><section id="ID033b52b475944ea691b643ab5e364d8e"><enum>2.</enum><header>Purpose</header><text display-inline="no-display-inline">Is it the purpose of this Act to provide
+			 assistance to community health coalitions (as defined in section (c)(1)) that
+			 have a clearly defined local need to increase access to and improve the quality
+			 of health care services through activities that—</text>
+			<paragraph id="ID3d5f59f7f77b426cbb8a2147de5d5b8e"><enum>(1)</enum><text>develop or
+			 strengthen the coordination of services to allow all individuals, including
+			 uninsured and low-income individuals, to receive efficient and higher quality
+			 care and to gain entry into and receive services from a comprehensive system of
+			 medical, dental, pharmaceutical, and behavioral health care;</text>
+			</paragraph><paragraph id="ID6131c71617d94ca1ad4aedd1841df26d"><enum>(2)</enum><text>develop efficient
+			 and sustainable infrastructure for a healthcare delivery system characterized
+			 by effective collaboration, information sharing, and clinical and financial
+			 coordination among all types of providers of care in the community; and</text>
+			</paragraph><paragraph id="IDc1db186de42f4fd5b8c44d30c19de59e"><enum>(3)</enum><text>develop or
+			 strengthen activities related to providing coordinated care for individuals
+			 with chronic conditions.</text>
+			</paragraph></section><section id="ID52a46f3f8fd541078c6ce4e73a1a48ff"><enum>3.</enum><header>Community
+			 coalitions for access and quality improvement</header>
+			<subsection id="ID37b0a199ff5642db892064ed676c55fc"><enum>(a)</enum><header>Grants To
+			 strengthen the effectiveness, efficiency, and coordination of
+			 services</header><text>The Secretary of Health and Human Services (referred to
+			 in this section as the <quote>Secretary</quote>) shall award grants to eligible
+			 entities assist in the development of integrated health care delivery systems
+			 to serve defined communities of individuals to—</text>
+				<paragraph id="IDf136226fcec64af5bb053743a35e2640"><enum>(1)</enum><text>improve the
+			 efficiency of and coordination among the providers providing services through
+			 such systems;</text>
+				</paragraph><paragraph id="IDd664a4cc4c45493181b3be20ac52bd3b"><enum>(2)</enum><text>assist local
+			 communities in developing programs targeted toward preventing and managing
+			 chronic diseases; and</text>
+				</paragraph><paragraph id="IDee14bc90b7f74fffb0795337b85f5d89"><enum>(3)</enum><text>expand and
+			 enhance the services provided through such systems.</text>
+				</paragraph></subsection><subsection id="ID2f2bd1832f4b469d8e246b4f3090fef5"><enum>(b)</enum><header>Eligible
+			 entities</header><text>To be eligible to receive a grant under this section, an
+			 entity shall—</text>
+				<paragraph id="IDa10f241a3c954e608dd20b80182c41bd"><enum>(1)</enum><text>represent a
+			 balanced consortium—</text>
+					<subparagraph id="IDd952d77994c84c2d97bfd0bf1447963e"><enum>(A)</enum><text>whose principal
+			 purpose is to assure the sustainable capacity for the provision of a broad
+			 range of coordinated services for all residents within a community defined in
+			 the entity’s grant application as described in paragraph (2); and</text>
+					</subparagraph><subparagraph id="IDa53d70ee673c4d9ab5861c8cf0252558"><enum>(B)</enum><text>that includes at
+			 least one of each of the following providers that serve the community (unless
+			 such provider does not exist within the community, declines or refuses to
+			 participate, or places unreasonable conditions on their participation)—</text>
+						<clause id="IDf49d1c8214f24bb3a45e22955dbc8215"><enum>(i)</enum><text>a
+			 federally qualified health center (as defined in section 1861(aa) of the Social
+			 Security Act (42 U.S.C. 1395x(aa)));</text>
+						</clause><clause id="ID5c429edc24c7400a88f1e51b2496d1b1"><enum>(ii)</enum><text>rural health
+			 clinics and rural health networks (as defined in section 1861(aa) of the Social
+			 Security Act (42 U.S.C. 1395x(aa)));</text>
+						</clause><clause id="IDe277e392e3c74118aceb83aa5b1a650e"><enum>(iii)</enum><text>a
+			 hospital with a low-income utilization rate that is greater than 25 percent (as
+			 defined in section 1923(b)(3) of the Social Security Act (42 U.S.C.
+			 1396r-4(b)(3))), or a Critical Access Hospital (as defined in section 19(c)(2)
+			 of such Act (42 U.S.C. 1395i-4(c)(2)));</text>
+						</clause><clause id="IDd826f3729a7d49a19864c6455d21f223"><enum>(iv)</enum><text>a
+			 public health department; and</text>
+						</clause><clause id="ID0a2aea7ed8a94ca08b8d792e20ea694e"><enum>(v)</enum><text>an
+			 interested public or private sector health care provider or an organization
+			 that has traditionally served the medically uninsured and low-income
+			 individuals; and</text>
+						</clause></subparagraph></paragraph><paragraph id="ID4356fe4a0a7e442fb37b4cc9f34dc819"><enum>(2)</enum><text>submit to the
+			 Secretary an application, at such time, in such manner, and containing such
+			 information and the Secretary may require, including—</text>
+					<subparagraph id="ID2cde309447904aab8467afd1aef58d7b"><enum>(A)</enum><text>a clear
+			 description of the community to be served and access, quality, and efficiency
+			 outcomes to be achieved under the grant;</text>
+					</subparagraph><subparagraph id="ID15744a309c4249b09c6c6f81fdf3f40a"><enum>(B)</enum><text>a description of
+			 the providers who will participate in the community coalition under the grant
+			 and each provider’s contribution to the care of individuals in the
+			 community;</text>
+					</subparagraph><subparagraph id="ID789ad9128f1f4b7bb5ce68b807857c9b"><enum>(C)</enum><text>a description of
+			 the activities that the applicant and the community coalition propose to
+			 perform under the grant to further the objectives of this section;</text>
+					</subparagraph><subparagraph id="ID575ac2a35f7d4371b4753e8e4d9b3fd7"><enum>(D)</enum><text>evidence
+			 demonstrating that the applicant is an established coalition with an ability to
+			 build on the current system for serving the community by involving providers
+			 who have traditionally provided a significant volume of care for uninsured and
+			 low-income individuals for that community;</text>
+					</subparagraph><subparagraph id="ID5e659983a4294e2088c714941620c4ad"><enum>(E)</enum><text>evidence
+			 demonstrating the coalition's ability to develop coordinated systems of care
+			 that either directly provide or ensure the prompt provision of a broad range of
+			 high quality, accessible services, including, as appropriate, primary,
+			 secondary, and tertiary services as well as pharmacy, substance abuse,
+			 behavioral health and oral health services, in a manner that assures continuity
+			 of care in the community;</text>
+					</subparagraph><subparagraph id="ID68811630f2f247dba05072148d3ce0e1"><enum>(F)</enum><text>evidence of
+			 community involvement, including the business community, in the development,
+			 implementation, and direction of the system of care that the coalition proposes
+			 to assure;</text>
+					</subparagraph><subparagraph id="ID5d9ddfc937e8436aac35d2ed249de4a6"><enum>(G)</enum><text>evidence
+			 demonstrating the coalition’s ability to ensure that participating individuals
+			 are enrolled in health care coverage programs, both public and private, for
+			 which the individuals are eligible;</text>
+					</subparagraph><subparagraph id="ID31bc07daa50d4c0d80e3f11d8ff7d9f2"><enum>(H)</enum><text>a plan for
+			 leveraging other sources of revenue, which may include State and local sources
+			 and private grant funds, and integrating current and proposed new funding
+			 sources in a manner to assure long-term sustainability of the system of
+			 care;</text>
+					</subparagraph><subparagraph id="ID901da233eb7b49bd8f2131afbbc7a435"><enum>(I)</enum><text>a plan for the
+			 evaluation of the activities carried out under the grant, including measurement
+			 of progress toward the goals and objectives of the program and the use of
+			 evaluation findings to improve system performance;</text>
+					</subparagraph><subparagraph id="ID5ee09da8065341e1aee237e716f06189"><enum>(J)</enum><text>evidence
+			 demonstrating fiscal responsibility through the use of appropriate accounting
+			 procedures and management systems;</text>
+					</subparagraph><subparagraph id="IDac7405db42c1462fb79431b724b41b84"><enum>(K)</enum><text>evidence
+			 demonstrating commitment to serve the community without regard to the ability
+			 of an individual or family to pay by arranging for or providing free or reduced
+			 charge care for the poor; and</text>
+					</subparagraph><subparagraph id="IDef631fdbb820472292598e680251f969"><enum>(L)</enum><text>such other
+			 information as the Secretary may require.</text>
+					</subparagraph></paragraph></subsection><subsection id="ID57bf190907414c0d908890f4c69595dc"><enum>(c)</enum><header>Limitations</header><text>The
+			 term of an initial grant to an eligible entity under this section shall be 3
+			 fiscal years. An entity may receive an extension for 2 additional years
+			 if—</text>
+				<paragraph id="ID50e509d9a3f24a90a6c38bd8d23492bc"><enum>(1)</enum><text>the eligible
+			 entity submits to the Secretary a request for a grant for such additional
+			 period;</text>
+				</paragraph><paragraph id="IDa268915d5cde48709c3e96979da946ee"><enum>(2)</enum><text>the Secretary
+			 determines that current performance justifies the granting of such an
+			 extension; and</text>
+				</paragraph><paragraph id="IDc83f73f9ec6640579dc49d0ef74e1677"><enum>(3)</enum><text>the Secretary
+			 determines that granting such extension is necessary to further the objectives
+			 described in subsection (a).</text>
+				</paragraph></subsection><subsection id="ID51dded395bd74a958e8207cf068f1e73"><enum>(d)</enum><header>Priorities</header><text>In
+			 awarding grants under this section, the Secretary—</text>
+				<paragraph id="IDbdb53cfdcd224c939b3b6e4a7daf9426"><enum>(1)</enum><text>may provide
+			 priority to applicants that demonstrate the greatest extent of unmet need in
+			 the community to be served for a more coordinated system of care; and</text>
+				</paragraph><paragraph id="IDc89e38cb3af740f48c2be14ec3841ed7"><enum>(2)</enum><text>shall provide
+			 priority to applicants that best promote the objectives of this section, taking
+			 into consideration the extent to which the applicant—</text>
+					<subparagraph id="IDb5f77b411a154fe098fe670a42cba66c"><enum>(A)</enum><text>identifies a
+			 community whose geographical area has a high or increasing percentage of
+			 individuals who are uninsured or low-income;</text>
+					</subparagraph><subparagraph id="ID7e6e452f2f8b400bb9527ed68c878160"><enum>(B)</enum><text>demonstrates that
+			 the applicant has included in its community coalition providers, support
+			 systems, and programs that have a tradition of serving individuals and families
+			 in the community who are uninsured or earn below 200 of the Federal poverty
+			 level;</text>
+					</subparagraph><subparagraph id="IDd275a70b7e8847e0bdd31c435bdb674b"><enum>(C)</enum><text>demonstrates that
+			 the proposed coalition activities would expand the utilization of preventive
+			 and primary care services for uninsured and underinsured individuals and
+			 families in the community, including pharmaceuticals, behavioral and mental
+			 health services, oral health services, or substance abuse services;</text>
+					</subparagraph><subparagraph id="ID25043beb403847969f7c9d598a9ad046"><enum>(D)</enum><text>proposes
+			 approaches that would improve coordination between health care providers and
+			 appropriate social service providers;</text>
+					</subparagraph><subparagraph id="IDb19e381f172948f99533b0f2d11c526b"><enum>(E)</enum><text>demonstrates
+			 collaboration with State and local governments;</text>
+					</subparagraph><subparagraph id="ID0b7a83309b4543fcbec9a455026b4755"><enum>(F)</enum><text>demonstrates that
+			 the applicant makes use of non-Federal contributions to the greatest extent
+			 possible; or</text>
+					</subparagraph><subparagraph id="IDd4f02a869c944099a8ae65f048aef028"><enum>(G)</enum><text>demonstrates the
+			 likelihood that the proposed activities will lead to sustainable integrated
+			 delivery systems as additional efforts of health systems development
+			 evolve.</text>
+					</subparagraph></paragraph></subsection><subsection id="ID32bad6bc0261453088531cef222b6271"><enum>(e)</enum><header>Use of
+			 funds</header>
+				<paragraph id="IDb4b87e8c70f54d968a7584229887c114"><enum>(1)</enum><header>Use by
+			 grantees</header>
+					<subparagraph id="ID7f6819d25c4c490980960908b38b2c72"><enum>(A)</enum><header>In
+			 general</header><text>Except as provided in paragraphs (2) and (3), a grantee
+			 shall use amounts provided under this section only for—</text>
+						<clause id="IDf296ca6e2fb24802b214bd3571672b9f"><enum>(i)</enum><text>direct expenses
+			 associated with achieving the greater integration of a health care delivery
+			 system so that the system either directly provides or ensures the provision of
+			 a broad range of culturally competent services, including, as appropriate,
+			 primary, secondary, and tertiary care as well as oral health, substance abuse,
+			 behavioral and mental health, and pharmaceutical services; and</text>
+						</clause><clause id="ID4281e3f930d542f695db6574611c10ee"><enum>(ii)</enum><text>direct patient
+			 care and service expansions to fill identified or documented gaps within an
+			 integrated delivery system.</text>
+						</clause></subparagraph><subparagraph id="IDb492fa2f1f114b58939121ac338f2d6f"><enum>(B)</enum><header>Specific
+			 uses</header><text>Upon compliance with subparagraph (A) a grantees may use
+			 amounts provided under this section for the following:</text>
+						<clause id="ID957985480d844f8fafdff49be38409de"><enum>(i)</enum><text>To
+			 provide increases in outreach activities and to close gaps in health care
+			 service, including referrals to specialty services and prescription drugs and
+			 conducting ongoing outreach to health disparity populations.</text>
+						</clause><clause id="ID758a5f28a513466c9a3b152c0cf78495"><enum>(ii)</enum><text>To
+			 make improvements to care management and delivery of patient-centered care,
+			 including patient navigation services.</text>
+						</clause><clause id="ID091020209f274d228626e5e1abf93973"><enum>(iii)</enum><text>To make
+			 improvements to coordinate transportation to health care facilities.</text>
+						</clause><clause id="IDe3fc8e95655047a28037c6c132100fa6"><enum>(iv)</enum><text>The development
+			 of provider networks and other innovative models to engage physicians in
+			 voluntary efforts to serve the medically underserved within a community.</text>
+						</clause><clause id="IDf9c98d426429418db7e1d6038ae8922c"><enum>(v)</enum><text>Recruitment,
+			 training, and compensation of necessary personnel.</text>
+						</clause><clause id="IDfd3db68d66fb4a88a470df8a2e27c7d8"><enum>(vi)</enum><text>The acquisition
+			 of technology for the purpose of coordinating care and improving provider
+			 communication, including the implementation of shared information systems or
+			 shared clinical systems.</text>
+						</clause><clause id="IDda1785a9bc724cc5b89b3e1d23e55284"><enum>(vii)</enum><text>The development
+			 of common processes such as mechanisms for determining eligibility for the
+			 programs provided through the system, common identification cards, sliding
+			 scale discounts, and the monitoring and tracking of outcomes.</text>
+						</clause><clause id="ID2b5ff6ff058c4d1286022164021f33bf"><enum>(viii)</enum><text>The
+			 development of specific prevention and disease management tools and
+			 processes.</text>
+						</clause><clause id="ID1cf256628a6d4d9e9c71dc7e6c6d6052"><enum>(ix)</enum><text>Language access
+			 services.</text>
+						</clause><clause id="ID0f8ed2ea353d42309bb6b0bc90359524"><enum>(x)</enum><text>The
+			 facilitation of the involvement of community organizations to provide better
+			 access to high quality health care services to individuals at risk for, or who
+			 have, chronic diseases or cancer.</text>
+						</clause><clause id="ID21b280a262184f29809a4846aa712409"><enum>(xi)</enum><text>Helping patients
+			 overcome barriers within the health care system to ensure prompt diagnostic and
+			 treatment resolution of an abnormal finding of cancer or chronic
+			 disease.</text>
+						</clause></subparagraph></paragraph><paragraph id="ID4a4df6a8f3ac4049a9dc2906e7e450a8"><enum>(2)</enum><header>Direct patient
+			 care limitation</header><text>Not to exceed 20 percent of the amounts received
+			 under a grant under this section may be used for providing direct patient care
+			 and services.</text>
+				</paragraph><paragraph id="IDefb1c8ebbedf4d99874856da2ff90734"><enum>(3)</enum><header>Reservation of
+			 funds for national program purposes</header><text>The Secretary may use not to
+			 exceed 7 percent of the amount appropriated to carry out this section each
+			 fiscal year to enter into contracts with an organization that has expertise in
+			 facilitating peer to peer technical assistance among grantees, to obtain
+			 assistance of experts and consultants, to hold meetings, to develop tools, to
+			 disseminate information, to demonstrate access, quality and efficiency outcomes
+			 for sustainability, and for evaluations.</text>
+				</paragraph></subsection><subsection id="IDcecaf228a43846e39ac84f16b9444e9d"><enum>(f)</enum><header>Requirements</header>
+				<paragraph id="idA9C6B8E3B69D4E8297D52B8DED6F514E"><enum>(1)</enum><header>Evaluation of
+			 effectiveness</header><text>An entity that receive a grant under this section
+			 shall annually submit to the Secretary a report concerning—</text>
+					<subparagraph id="ID275fe04319a14a9c8484f458850f060d"><enum>(A)</enum><text>the progress made
+			 in meeting the goals and measurable objectives set forth in the grant
+			 application submitted by the entity under subsection (b);</text>
+					</subparagraph><subparagraph id="ID2e217a5400d74bb0a09c1d486de7e149"><enum>(B)</enum><text>the extent to
+			 which activities carried out by the entity under the grant have—</text>
+						<clause id="ID27f525b0b2184cbc9f4a6cc1e36d62da"><enum>(i)</enum><text>improved the
+			 effectiveness, efficiency, and coordination of services for uninsured and
+			 low-income individuals in the community served by such entity, using commonly
+			 accepted outcome measures;</text>
+						</clause><clause id="IDf33f2bcc97ff445789c2166c1a64dad7"><enum>(ii)</enum><text>resulted in the
+			 provision of better quality health care for individuals and families in the
+			 community served; and</text>
+						</clause><clause id="ID72e5e8c0109b4499ad0f2fdde3e0c41e"><enum>(iii)</enum><text>resulted in the
+			 provision of health care to such individuals at lower cost than would have been
+			 possible in the absence of the activities conducted by such entity; and</text>
+						</clause></subparagraph><subparagraph id="idF1F0E388C0D3425DB609339F89BC04E8"><enum>(C)</enum><text>the findings of
+			 an independent financial audit conducted on all records that relate to the
+			 disposition of funds received under the grant.</text>
+					</subparagraph></paragraph><paragraph id="idDF760F97369A498CAE7675287D7EA63D"><enum>(2)</enum><header>Progress</header><text>The
+			 Secretary may not renew a grant under this section unless the Secretary
+			 determines that the coalition has made reasonable and demonstrable progress in
+			 meeting the goals and objectives set forth in the grant application for the
+			 preceding fiscal year.</text>
+				</paragraph></subsection><subsection id="ID1fefe0f6c17a4c5aa29b4463715ef129"><enum>(g)</enum><header>Maintenance of
+			 effort</header><text>With respect to activities for which a grant under this
+			 section is authorized, the Secretary may award such a grant only if the
+			 applicant and each of the participating providers agree that the grantee and
+			 each such provider will maintain its expenditures of non-Federal funds for such
+			 activities at a level that is not less then the level of such expenditures
+			 during the fiscal year immediately preceding the fiscal year for which the
+			 applicant is applying to receive such grant.</text>
+			</subsection><subsection id="IDbc50146282b44303b4eebcbe4355ea97"><enum>(h)</enum><header>Technical
+			 assistance</header><text>The Secretary may, either directly or by grant or
+			 contract, provide any entity that receives a grant under this section with
+			 technical and other nonfinancial assistance necessary to enable the entity to
+			 comply with the requirements of this section. The purposes of this section may
+			 be achieved by grant or contract with State and national not-for-profit
+			 organizations with expertise in building successful community
+			 coalitions.</text>
+			</subsection><subsection id="ID0b61488099704adbb30927a30e0e956d"><enum>(i)</enum><header>Evaluation of
+			 program</header><text>Not later than September 30, 2012, the Secretary shall
+			 prepare and submit to the appropriate committees of Congress a report that
+			 describes the extent to which projects funded under this section have been
+			 successful in improving the effectiveness, efficiency, and coordination of
+			 services in the communities served by such projects, including whether the
+			 projects resulted in the provision of better quality health care for such
+			 individuals, and whether such care was provided at lower costs than would have
+			 been provided in the absence of such projects.</text>
+			</subsection><subsection id="ID9a7e0a80bdf246e1b9e8cb515adc7b23"><enum>(j)</enum><header>Authorization
+			 of appropriations</header><text>There are authorized to be appropriated to
+			 carry out this section—</text>
+				<paragraph id="ID7f21256658054038b43a39dcf46d22c3"><enum>(1)</enum><text>$75,000,000 for
+			 fiscal year 2008;</text>
+				</paragraph><paragraph id="IDa3dda108f5d64e96a79514642b578cef"><enum>(2)</enum><text>$100,000,000 for
+			 fiscal year 2009;</text>
+				</paragraph><paragraph id="ID04bf00d9fd3440edb734bd42506ba827"><enum>(3)</enum><text>$125,000,000 for
+			 fiscal year 2010;</text>
+				</paragraph><paragraph id="ID81a4d362f4ba4a6882512fe9a6b71b2f"><enum>(4)</enum><text>$150,000,000 for
+			 fiscal year 2011; and</text>
+				</paragraph><paragraph id="IDe0681658a67249cd98e807a16080dd0b"><enum>(5)</enum><text>$175,000,000 for
+			 fiscal year 2012.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>

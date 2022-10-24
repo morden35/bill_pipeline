@@ -1,0 +1,879 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 851</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110414">April 14, 2011</action-date>
+			<action-desc><sponsor name-id="S172">Mr. Harkin</sponsor> (for himself,
+			 <cosponsor name-id="S167">Mr. Bingaman</cosponsor>, <cosponsor name-id="S330">Mr. Bennet</cosponsor>, <cosponsor name-id="S332">Mr.
+			 Franken</cosponsor>, <cosponsor name-id="S307">Mr. Brown of Ohio</cosponsor>,
+			 and <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>) introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSHR00">Committee on Health, Education, Labor,
+			 and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish expanded learning time initiatives, and for
+		  other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>Time for Innovation Matters in
+			 Education Act of 2011</short-title></quote>.</text>
+		</section><section id="ID5b070ed8a83648819e1f590da6162273"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+			<paragraph id="ID8c3208323b964211b55421af5b4428a3"><enum>(1)</enum><text>Although the
+			 demands of our global society have grown and expectations of our students and
+			 schools have risen, the time allotted for students and teachers to reach these
+			 standards has remained the same for decades.</text>
+			</paragraph><paragraph id="ID0ca414997936407ab756b43279bde502"><enum>(2)</enum><text>The
+			 near-universal school calendar, consisting of 180 6-hour days, has not changed
+			 since the school calendar was designed to meet the needs of farms and factories
+			 in the early 20th century.</text>
+			</paragraph><paragraph id="ID6ee7c059fd0949fdac569e1f1b3579bd"><enum>(3)</enum><text>According to the
+			 Programme for International Student Assessment (PISA), which measures how well
+			 students from more than 70 economies are prepared to meet the challenges they
+			 may encounter in the future, students in the United States have maintained a
+			 status quo for nearly 1 decade, while the mathematics and reading ratings of
+			 students from other high-performing nations surpass the ratings of students in
+			 the United States.</text>
+			</paragraph><paragraph id="ID94a960d40eb5421d80061108ab052166"><enum>(4)</enum><text>Quality expanded
+			 learning programs, which provide students with more than 300 additional school
+			 hours per year, have demonstrated success in improving student academic
+			 performance across the United States.</text>
+			</paragraph><paragraph id="ID53d59edf9efa469cb4857dcdfd22d221"><enum>(5)</enum><text>Expanded learning
+			 time initiatives can address the diverse academic needs and interests of
+			 students and modernize public schools to help students develop 21st century
+			 learning skills and prepare all students for life-long success.</text>
+			</paragraph><paragraph id="IDd41341f33410487c92f6fef4e3031743"><enum>(6)</enum><text>As of the date of
+			 enactment of this Act, most expanded learning opportunities are offered through
+			 charter schools or schools with independent organizational structures, but
+			 expanded learning time could positively impact all public school students, from
+			 prekindergarten through grade 12.</text>
+			</paragraph></section><section id="IDd66430d4a45345859ec01006b747fbe8"><enum>3.</enum><header>Purposes</header><text display-inline="no-display-inline">The purposes of this Act are—</text>
+			<paragraph id="ID4fd551c64bc94611968f724f82af4d85"><enum>(1)</enum><text>to increase
+			 opportunities for students in high-need schools to participate in expanded
+			 learning time initiatives, including expanded school days, expanded school
+			 weeks, or expanded school years, in order to increase student academic
+			 achievement and student engagement and success in schools, by—</text>
+				<subparagraph id="ID3db8ee976a634ea585a3e445bad25924"><enum>(A)</enum><text>providing
+			 students with more in-depth and rigorous learning opportunities in reading or
+			 language arts, mathematics, science, history and civics, and other core
+			 academic subjects;</text>
+				</subparagraph><subparagraph id="IDe36d5138a9814a0c85f0c7b177f60b92"><enum>(B)</enum><text>providing
+			 students with more time for additional subjects and enrichment activities that
+			 contribute to a well-rounded education, which may include music and the arts,
+			 physical education, service-learning, and experiential and work-based learning
+			 opportunities (such as community service, learning apprenticeships,
+			 internships, and job shadowing); and</text>
+				</subparagraph><subparagraph id="ID3c0f10bd0c3a4273a162a32d8b38dcde"><enum>(C)</enum><text>providing
+			 teachers with increased opportunities to work collaboratively, and to
+			 participate in common planning, within and across grades and subjects, to
+			 improve instruction;</text>
+				</subparagraph></paragraph><paragraph id="IDca29e0195a42454283320e6f39802720"><enum>(2)</enum><text>to improve
+			 teaching and learning by using expanded learning, including school redesign,
+			 to—</text>
+				<subparagraph id="IDf89ae951053f40729360912dd1fa5e8c"><enum>(A)</enum><text>create a seamless
+			 program or curriculum with regular and expanded teaching and learning
+			 opportunities within a school program that is comprehensively redesigned for
+			 students and teachers; and</text>
+				</subparagraph><subparagraph id="IDfcc456d1b9944803a134a20ad02fdabd"><enum>(B)</enum><text>improve access to
+			 instructional supports for academically struggling students;</text>
+				</subparagraph></paragraph><paragraph id="ID4b2e29f976f94bd08aaead0925109ee8"><enum>(3)</enum><text>to encourage
+			 States, local educational agencies, and schools to develop high-quality,
+			 innovative, replicable, and sustainable initiatives to expand learning time,
+			 including using school redesign; and</text>
+			</paragraph><paragraph id="ID43d5ce7af47246e6820f38173873f785"><enum>(4)</enum><text>to create
+			 partnerships between schools and local educational agencies, and external
+			 organizations such as community-based organizations, institutions of higher
+			 education, community learning centers, cultural organizations, and health and
+			 mental health agencies to provide expanded learning opportunities for
+			 students.</text>
+			</paragraph></section><section id="ID74c35ea0e13545a19aa8b4aaa65a6f0d"><enum>4.</enum><header>Definitions and
+			 references</header>
+			<subsection id="ID622688ce25684e4eab65e83016bfb24a"><enum>(a)</enum><header>Definitions</header><text>In
+			 this Act:</text>
+				<paragraph id="ID8fb205bbea6b41e0bc623eefc973bb9c"><enum>(1)</enum><header>Elementary and
+			 secondary education Act terms</header><text>The terms <term>community-based
+			 organization</term>, <term>core academic subjects</term>, <term>elementary
+			 school</term>, <term>highly qualified</term>, <term>institution of higher
+			 education</term>, <term>local educational agency</term>, <term>other
+			 staff</term>, <term>parent</term>, <term>professional development</term>,
+			 <term>secondary school</term>, <term>Secretary</term>, <term>State</term>, and
+			 <term>State educational agency</term> have the meanings given the terms in
+			 section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C.
+			 7801).</text>
+				</paragraph><paragraph id="id1093BAB8428B4675B9D5368002C2399F"><enum>(2)</enum><header>Community
+			 learning center</header><text>The term <term>community learning center</term>
+			 means a community learning center, as defined in section 4201(b) of the
+			 Elementary and Secondary Education Act of 1965 (20 U.S.C. 7171(b)), that
+			 receives assistance under part B of title IV of such Act.</text>
+				</paragraph><paragraph id="ID04aa9ecde4be44a1b50eddfe1d9471e9"><enum>(3)</enum><header>Eligible
+			 entity</header><text>The term <term>eligible entity</term> means—</text>
+					<subparagraph id="ID91f4ae5b9f094627bd8cc7ba2590ea24"><enum>(A)</enum><text>1 or more local
+			 educational agencies; or</text>
+					</subparagraph><subparagraph id="ID5262a6204faa45e0ab09e11989b2b337"><enum>(B)</enum><text>a partnership
+			 that includes 1 or more local educational agencies and 1 or more of the
+			 following:</text>
+						<clause commented="no" id="ID5bc39dbb43264a2fb3f1a95ace67fa6a"><enum>(i)</enum><text>A nonprofit
+			 community-based organization, such as—</text>
+							<subclause commented="no" id="id9B7DF1DD9EDF4E0484ED1FD48C4A47C6"><enum>(I)</enum><text>an organization
+			 with demonstrated experience in expanding learning opportunities and helping
+			 schools redesign their educational programs to better meet student needs;
+			 or</text>
+							</subclause><subclause commented="no" id="id0937341A5C26459EB6D2AE0D12F8E9FC"><enum>(II)</enum><text>an organization
+			 focused on alternative learning or dropout prevention.</text>
+							</subclause></clause><clause commented="no" id="ID6cdfb3ee33794c849c158fbf9d0412fe"><enum>(ii)</enum><text>An institution
+			 of higher education.</text>
+						</clause><clause commented="no" id="ID540133ab09f642cfb075bc8470fbe3bf"><enum>(iii)</enum><text>A community
+			 learning center.</text>
+						</clause><clause commented="no" id="id60CFE74A26BD4627AB3216ED0919EEC0"><enum>(iv)</enum><text>An entity that
+			 is carrying out an after-school program.</text>
+						</clause><clause commented="no" id="ID37d3b4bd0fc845c19749c8ef3000a5c7"><enum>(v)</enum><text>A public or
+			 nonprofit entity.</text>
+						</clause></subparagraph></paragraph><paragraph id="IDdc190a25d070468cadc5cdf489f21959"><enum>(4)</enum><header>Expanded
+			 learning time initiative</header><text>The term <term>expanded learning time
+			 initiative</term> means a program that—</text>
+					<subparagraph id="IDf10f1d0efc37413b8543a699d02ff016"><enum>(A)</enum><text>uses an expanded
+			 school day, expanded school week, or expanded school year schedule, that
+			 increases the total number of school hours for the school year at a school by
+			 not less than 300 hours (which shall include hours in which a student is
+			 engaged in academic activities, experiential learning, work-based learning, and
+			 enrichment, but shall not include hours in which a student is engaged in sports
+			 or employment activities)—</text>
+						<clause id="ID482a6e427c334dbf9f1df78559d1ca5e"><enum>(i)</enum><text>compared to the
+			 school year that is standard for the local educational agency serving the
+			 school, for schools of the comparable level (elementary school, middle school,
+			 or high school, as defined under applicable State law); or</text>
+						</clause><clause id="ID77b5ba08a6d746718d927f0de44e53a3"><enum>(ii)</enum><text>in
+			 the case of a charter school that is its own local educational agency, compared
+			 to the school year that is standard for local educational agencies in the
+			 surrounding area, for schools of the comparable level;</text>
+						</clause></subparagraph><subparagraph id="IDd635897caa26457e826c9e010b994284"><enum>(B)</enum><text>uses the expanded
+			 learning time involved to redesign the school's program in a manner that
+			 includes additional time—</text>
+						<clause id="IDbfb9edbfd3354ace96c0142177783073"><enum>(i)</enum><text>for
+			 academic work, and to support innovation in teaching, to improve the
+			 proficiency of participating students (particularly struggling students) in
+			 reading or language arts, mathematics, science, history and civics, and other
+			 core academic subjects;</text>
+						</clause><clause id="IDdc891fd5b9ba4aa6a0723d2a08dbb9ba"><enum>(ii)</enum><text>to
+			 advance student learning for all students, including those who already meet or
+			 exceed student academic achievement standards, as measured by State academic
+			 assessments required under section 1111(b)(3) of the Elementary and Secondary
+			 Education Act of 1965 (20 U.S.C. 6311(b)(3));</text>
+						</clause><clause id="ID7e86b57f25ad43f88a8b14d54827e099"><enum>(iii)</enum><text>for additional
+			 subjects and enrichment activities that contribute to a well-rounded education,
+			 which may include music and the arts, physical education, service-learning, and
+			 experiential and work-based learning opportunities (such as community service,
+			 learning apprenticeships, internships, and job shadowing); and</text>
+						</clause><clause id="ID3a73f16c300146e3be65381a3c571d67"><enum>(iv)</enum><text>for teachers for
+			 collaboration, and common planning, within and across grades and subjects;
+			 and</text>
+						</clause></subparagraph><subparagraph id="ID52f7eb98c9ea45da841358d0391a9de9"><enum>(C)</enum><text>will expand
+			 learning time for all students in all grade levels in the school, except
+			 that—</text>
+						<clause commented="no" id="ID1ec9e6fa89b64556b01f8a2bb5741494"><enum>(i)</enum><text>the program shall
+			 not require secondary schools to have all students on campus at all times;
+			 and</text>
+						</clause><clause commented="no" id="ID75d7cd612f104cb499d7f921e4a7d1de"><enum>(ii)</enum><text>a school that
+			 includes an on-site prekindergarten-level program may choose whether or not to
+			 expand the learning time of such program, however, if the school decides to
+			 provide expanded learning time for prekindergarten, the school must do so for
+			 all students enrolled in prekindergarten at the school.</text>
+						</clause></subparagraph></paragraph><paragraph id="IDea6f1959991a45a280bc0941c9cb6781"><enum>(5)</enum><header>Expanded
+			 learning time school</header><text>The term <term>expanded learning time
+			 school</term> means a school that has implemented an expanded learning time
+			 initiative using funds received under this Act.</text>
+				</paragraph><paragraph id="ID2b6ef156f2ba40f98fc587e4c673add2"><enum>(6)</enum><header>Graduation
+			 rate</header><text>The term <term>graduation rate</term> means a graduation
+			 rate as defined in section 1111(b)(2)(C)(vi) of the Elementary and Secondary
+			 Education Act of 1965 (20 U.S.C. 6311(b)(2)(C)(vi)) and clarified by section
+			 200.19(b) of title 34, Code of Federal Regulations, or any corresponding
+			 similar regulation or ruling.</text>
+				</paragraph><paragraph id="IDe28aef54c565489a8dc3ec10a87c2aac"><enum>(7)</enum><header>High-need
+			 school</header>
+					<subparagraph id="IDe3b1450d2d9248c38663f46a95049bc8"><enum>(A)</enum><header>In
+			 general</header><text>The term <term>high-need school</term> means—</text>
+						<clause id="ID86c3296832cd44459fefda6ff5be92d2"><enum>(i)</enum><text>a
+			 public elementary school or secondary school at which 50 percent or more of the
+			 students are low-income students; or</text>
+						</clause><clause id="IDf5fcdcbc09ed4788b1437df1e6ad6260"><enum>(ii)</enum><text>a
+			 high school with a graduation rate of less than 75 percent.</text>
+						</clause></subparagraph></paragraph><paragraph id="ID009a14ef0c0848fba7e958cde02b3a94"><enum>(8)</enum><header>High
+			 school</header><text>The term <term>high school</term> means a public high
+			 school, as defined under applicable State law.</text>
+				</paragraph><paragraph id="IDafcda0eae55e49479985ad4933e8e679"><enum>(9)</enum><header>Low-income
+			 student</header><text>The term <term>low-income student</term> means a student
+			 who is eligible to be counted under 1 of the measures of poverty described in
+			 section 1113(a)(5) of the Elementary and Secondary Education Act of 1965 (20
+			 U.S.C. 6313(a)(5)).</text>
+				</paragraph><paragraph id="ID47c702e7b6e24ada828e5b7545750b76"><enum>(10)</enum><header>Redesign</header><text>The
+			 term <term>redesign</term>, used with respect to a school or school program,
+			 means a process to significantly reconfigure a school's or program's schedule
+			 in a manner that more effectively utilizes students and teachers' time,
+			 including providing additional time—</text>
+					<subparagraph id="IDc0bc42f56d5740e4a7080ce1f32329fa"><enum>(A)</enum><text>for academic work
+			 and to support innovation in the teaching of core academic subjects;</text>
+					</subparagraph><subparagraph id="IDc0b4c2ebbde14f18a2575be7983736d7"><enum>(B)</enum><text>for teachers to
+			 collaborate and conduct common planning; and</text>
+					</subparagraph><subparagraph id="ID19c25c3d7fd842128cf09ede57255d19"><enum>(C)</enum><text>for innovative
+			 approaches to providing academic, experiential, and work-based learning
+			 opportunities.</text>
+					</subparagraph></paragraph></subsection><subsection id="ID76edb21eeaee4ddfb2af393445c9309f"><enum>(b)</enum><header>References</header><text>In
+			 this Act—</text>
+				<paragraph id="IDa437b2b46b5942f699e6b40aa62aaa2a"><enum>(1)</enum><text>a reference to a
+			 school day, school week, or school year includes a reference to a combination
+			 thereof; and</text>
+				</paragraph><paragraph id="ID15ed64da55e54f2088c4e5ba8080a3e9"><enum>(2)</enum><text>a reference to a
+			 school day, school week, or school year program (or schedule) includes a
+			 reference to a combination thereof.</text>
+				</paragraph></subsection></section><section id="IDc0a117a9602c4f989def737267cef35a"><enum>5.</enum><header>Program
+			 authorized</header>
+			<subsection id="IDcc7b3297b9a44532966227eff2542b0b"><enum>(a)</enum><header>Grants to State
+			 educational agencies</header><text>From the amount appropriated under section
+			 12, the Secretary is authorized to award grants on a competitive basis under
+			 section 6 to State educational agencies having applications approved pursuant
+			 to section 6(c) to enable such agencies to award subgrants on a competitive
+			 basis to eligible entities as described in sections 7 and 8.</text>
+			</subsection><subsection id="ID897d43803cf545ba8ef39691f8369dcd"><enum>(b)</enum><header>Reservation</header><text>From
+			 the amount made available under this Act for each fiscal year, the Secretary
+			 may reserve—</text>
+				<paragraph id="IDd150dd053abd43158b69de42477c6d75"><enum>(1)</enum><text>3 percent of the
+			 amount to carry out the activities described in section 10; and</text>
+				</paragraph><paragraph id="ID96ff32d436ae476f81ed80ebbbe0261a"><enum>(2)</enum><text>from the
+			 remainder—</text>
+					<subparagraph id="ID5cbbbfb6293b49ef81d0c0033b473203"><enum>(A)</enum><text>not more than 20
+			 percent of the remainder to award grants under section 9; and</text>
+					</subparagraph><subparagraph id="IDcff5e2a2692f40d892a96d756cba5c1e"><enum>(B)</enum><text>not more than
+			 $1,000,000 to carry out the review of applications for, selection of recipients
+			 of, and distribution of, grants to State educational agencies and eligible
+			 entities under sections 6 and 9.</text>
+					</subparagraph></paragraph></subsection></section><section id="IDf78b8c5214ac4193a8fac37f99a9c035"><enum>6.</enum><header>Grants to State
+			 educational agencies</header>
+			<subsection id="ID1b7a814bad7e48759e98de7afd0a4bcb"><enum>(a)</enum><header>Grants</header>
+				<paragraph id="ID4a5002aa1bf14e19971b821207d6ff48"><enum>(1)</enum><header>In
+			 general</header><text>The Secretary is authorized to award grants to State
+			 educational agencies on a competitive basis to assist the agencies in
+			 developing State expanded learning time grant programs in accordance with this
+			 Act, which shall involve awarding subgrants on a competitive basis to eligible
+			 entities in accordance with this Act, to plan and implement expanded learning
+			 time initiatives in high-need schools.</text>
+				</paragraph><paragraph id="ID26b2db015ccc468fa7bce10ef3117b81"><enum>(2)</enum><header>Distribution</header><text>The
+			 Secretary shall ensure that grants awarded under this section and section 9 are
+			 distributed to State educational agencies and eligible entities from diverse
+			 geographical regions.</text>
+				</paragraph></subsection><subsection id="ID64957b7002ee4d898d4b85976c230411"><enum>(b)</enum><header>Duration</header><text>The
+			 Secretary shall award grants described in subsection (a) for an initial period
+			 of not more than 4 years, and shall renew a State educational agency's grant
+			 for an additional period of not more than 2 years if the Secretary finds that
+			 the State educational agency is achieving the objectives of the grant and has
+			 shown improvement against baseline data on the performance indicators described
+			 in subsection (d)(4).</text>
+			</subsection><subsection id="IDf157b26343a94dd8a72c1479f7b482f6"><enum>(c)</enum><header>Applications</header><text>Each
+			 State educational agency desiring to receive a grant under this section shall
+			 submit an application to the Secretary at such time, in such manner, and
+			 accompanied by such information as the Secretary may require. At a minimum,
+			 each State educational agency application shall include—</text>
+				<paragraph id="ID6b5f54ad4f8d4a55b1f790d6c2fa186d"><enum>(1)</enum><text>a description of
+			 how the State educational agency will use grant funds under this
+			 section;</text>
+				</paragraph><paragraph id="IDa5fc5e4355344c3b9795d098eacd17d9"><enum>(2)</enum><text>a description of
+			 the peer review process and selection criteria the State educational agency
+			 will use to evaluate applications from, and select, eligible entities to
+			 receive expanded learning time planning and implementation subgrants, which
+			 shall include—</text>
+					<subparagraph id="idA460292481244831A7C323203AF5C96C"><enum>(A)</enum><text>a description of
+			 how the State educational agency will assess the capacity of eligible entities
+			 to plan and implement high-quality expanded learning time initiatives;
+			 and</text>
+					</subparagraph><subparagraph id="idEECE7CFFCC154167BBE084D693B56AD5"><enum>(B)</enum><text>a description of
+			 how the State educational agency will prioritize applications from eligible
+			 entities that meet the requirements of section 7(f);</text>
+					</subparagraph></paragraph><paragraph id="IDfae7f8bff983416f84236816a84392f5"><enum>(3)</enum><text>a description of
+			 the process the State educational agency will use to encourage local
+			 educational agencies and schools, especially local educational agencies and
+			 schools with a high percentage of low-income students, to implement expanded
+			 learning time initiatives;</text>
+				</paragraph><paragraph id="IDd6ced30311bb4eb19e17af6e20f5a1cb"><enum>(4)</enum><text>a description of
+			 how the State educational agency will provide, or has provided, technical
+			 assistance and support to eligible entities, local educational agencies, and
+			 schools receiving funds through the State educational agency under this Act, in
+			 implementing expanded learning time initiatives, including—</text>
+					<subparagraph id="ID8eac7330a3fc49edb293b0dbfadc294a"><enum>(A)</enum><text>assisting local
+			 educational agencies in identifying potential partners that are external
+			 organizations with demonstrated experience in expanding learning opportunities
+			 and helping schools redesign their educational programs to better meet student
+			 needs; and</text>
+					</subparagraph><subparagraph id="IDa55389de71864f89b307e1e08c53e37b"><enum>(B)</enum><text>assisting
+			 eligible entities, local educational agencies, and schools in collecting,
+			 reviewing, and analyzing data on student academic achievement;</text>
+					</subparagraph></paragraph><paragraph commented="no" id="IDf50abe3357194310b7415c194b6b8703"><enum>(5)</enum><text>a description of
+			 how the State educational agency will use the expanded learning time grant
+			 program, and lessons learned from such program—</text>
+					<subparagraph commented="no" id="id5311D6224F804D9C92F029DAD3CB033A"><enum>(A)</enum><text>to improve
+			 schools that have not made adequate yearly progress under section 1111(b)(2) of
+			 the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)) for 2
+			 or more consecutive years; and</text>
+					</subparagraph><subparagraph commented="no" id="id71B20013656D491C90353AC234BC4AC3"><enum>(B)</enum><text>to improve
+			 student academic achievement at such schools;</text>
+					</subparagraph></paragraph><paragraph id="IDedd1fc9d757e41e3b5870943e197a360"><enum>(6)</enum><text>a description of
+			 how the State educational agency will evaluate, on a regular basis, activities
+			 carried out by eligible entities receiving funds through the State educational
+			 agency under this Act;</text>
+				</paragraph><paragraph commented="no" id="ID0858de55783f46e097ac939f32977dbe"><enum>(7)</enum><text>a description of
+			 how the State educational agency will collect, analyze, and disseminate, to
+			 local educational agencies and other schools within the State, information on
+			 best practices learned from schools receiving funding under this Act, including
+			 best practices for—</text>
+					<subparagraph commented="no" id="id222CD33AF8FC4E90B7FF8773DF045CB0"><enum>(A)</enum><text>improving schools
+			 that have not made adequate yearly progress under section 1111(b)(2) of the
+			 Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)) for 2 or
+			 more years; and</text>
+					</subparagraph><subparagraph commented="no" id="id7C5EEE27992B458581EF04E7CFD58E7C"><enum>(B)</enum><text>improving student
+			 academic achievement at such schools;</text>
+					</subparagraph></paragraph><paragraph id="ID4e36129e786448788900cdba364f03db"><enum>(8)</enum><text>an assurance that
+			 the State educational agency, and any eligible entity receiving funds through
+			 the State educational agency under this Act, will, if requested, participate in
+			 the evaluation described in section 10(b)(3); and</text>
+				</paragraph><paragraph commented="no" id="IDb75fbb33d68e402a957f24dcaba68dee"><enum>(9)</enum><text>information
+			 identifying the per-pupil funding amount range the State will use to establish
+			 the correct amount of subgrants that will be awarded to local educational
+			 agencies under section 8(c).</text>
+				</paragraph></subsection><subsection id="ID0b25b4636de44f96a31f808c5ed192f5"><enum>(d)</enum><header>Authorized
+			 activities</header>
+				<paragraph id="ID66bb611c1ccb4633bf12c26466df0430"><enum>(1)</enum><header>Distribution</header><text>A
+			 State educational agency that receives a grant under this section—</text>
+					<subparagraph id="IDe614b13c4a3e4fcf935e54228aeb3671"><enum>(A)</enum><text>may reserve not
+			 more than 10 percent of the grant funds to carry out the activities described
+			 in paragraphs (2) through (4); and</text>
+					</subparagraph><subparagraph id="ID32ca9b54f4b8436ea247316a545a503d"><enum>(B)</enum><text>shall use an
+			 amount consisting of not less than 90 percent of the grant funds to award
+			 subgrants, on a competitive basis, to eligible entities under section 7 or
+			 section 8 to enable the eligible entities to carry out the authorized
+			 activities described in section 7(e) or 8(f), except that not more than 10
+			 percent of that amount shall be used for subgrants under section 7.</text>
+					</subparagraph></paragraph><paragraph id="IDbe1f7b63b3f545b6b82308f3089727e3"><enum>(2)</enum><header>State-level
+			 planning and administration</header><text>A State educational agency that
+			 receives a grant under this section may use grant funds reserved under
+			 paragraph (1)(A) for planning and administration, including—</text>
+					<subparagraph id="ID9bf42ac8565b495fb82ed37198172add"><enum>(A)</enum><text>evaluating
+			 applications from eligible entities;</text>
+					</subparagraph><subparagraph id="IDc9c721e7ca3b465bbac9d3deeb8339b7"><enum>(B)</enum><text>administering the
+			 distribution of subgrants to eligible entities; and</text>
+					</subparagraph><subparagraph id="IDad88a37b3a5f4d55af91e539b3624091"><enum>(C)</enum><text>assessing and
+			 evaluating, on a regular basis, activities carried out by eligible entities
+			 receiving funds through the State educational agency under this Act.</text>
+					</subparagraph></paragraph><paragraph id="ID34d14293d8fc4e8ea53a93e449c9874b"><enum>(3)</enum><header>Technical
+			 assistance for eligible entities</header><text>A State educational agency that
+			 receives a grant under this section may use grant funds reserved under
+			 paragraph (1)(A) for technical assistance, including—</text>
+					<subparagraph id="IDc3a2b95013964216b49d18f7a34782be"><enum>(A)</enum><text>assisting
+			 eligible entities in planning and implementing expanded learning time
+			 initiatives, including assisting local educational agencies in identifying
+			 potential partners that are external organizations with demonstrated experience
+			 in expanding learning opportunities and helping schools redesign their
+			 educational programs to better meet student needs;</text>
+					</subparagraph><subparagraph id="ID72e5fc2db3a44f039afb11a5e9621056"><enum>(B)</enum><text>implementing a
+			 program of professional development for teachers and administrators, in schools
+			 that receive funding under this Act, that prepares teachers and administrators
+			 to implement the authorized activities described in section 8(f); and</text>
+					</subparagraph><subparagraph id="IDc6b9356633e0441aada33e8ed330c0cd"><enum>(C)</enum><text>identifying best
+			 practices for using expanded learning time to improve student academic
+			 achievement in schools that have not made adequate yearly progress under
+			 section 1111(b)(2) of the Elementary and Secondary Education Act of 1965 (20
+			 U.S.C. 6311(b)(2)) for 2 or more years, and providing technical assistance to
+			 local educational agencies in using such best practices to implement expanded
+			 learning time in such schools.</text>
+					</subparagraph></paragraph><paragraph id="ID365c9b8efd0c468fb8be5aad04f6ac51"><enum>(4)</enum><header>Evaluation and
+			 reporting</header><text>A State educational agency that receives a grant under
+			 this section shall annually prepare and submit to the Secretary a report that
+			 contains all reports submitted by eligible entities under section 8(g), and
+			 provide an evaluation of progress made by eligible entities in improving the
+			 following (disaggregated by the student subgroups described in section
+			 1111(b)(2)(C)(v)(II) of the Elementary and Secondary Education Act of
+			 1965):</text>
+					<subparagraph id="ID3d100644ae79473181610e6a174abfce"><enum>(A)</enum><text>student academic
+			 achievement and growth, as measured by State academic assessments required
+			 under section 1111(b)(3) of the Elementary and Secondary Education Act of
+			 1965;</text>
+					</subparagraph><subparagraph id="ID2c070736f98c4debba2a4fd338ca04d7"><enum>(B)</enum><text>for high
+			 schools—</text>
+						<clause id="idABBA2C7EF7124D77B8867BD83A74E3F2"><enum>(i)</enum><text>graduation
+			 rates;</text>
+						</clause><clause id="id98E387C27A4E4678AA9C98C0F6517714"><enum>(ii)</enum><text>rates of student
+			 enrollment in an institution of higher education (as defined under section
+			 101(a) of the Higher Education Act of 1965) within 16 months of receiving a
+			 regular high school diploma; and</text>
+						</clause><clause id="id511508B893E0416BB79AAD118AFBCA35"><enum>(iii)</enum><text>rates of
+			 remediation and credit accumulation of students who enroll in a public
+			 institution of higher education (as defined in section 101(a) of the Higher
+			 Education Act of 1965) within the State;</text>
+						</clause></subparagraph><subparagraph id="IDe1524a334ab948029a62433ade641e59"><enum>(C)</enum><text>performance on a
+			 set of comprehensive school performance indicators, which—</text>
+						<clause id="idAFD6179D56164A1ABEB3777CE7583553"><enum>(i)</enum><text>shall
+			 include—</text>
+							<subclause id="IDa901f6291c894773bb241ecd6b5ba68e"><enum>(I)</enum><text>student
+			 attendance;</text>
+							</subclause><subclause id="ID9b57e89d20614df5badaf4e2a2fd3844"><enum>(II)</enum><text>as appropriate,
+			 rate of earned on-time promotion from grade to grade;</text>
+							</subclause><subclause id="ID98e16bea04da47f48f47f2174c80497c"><enum>(III)</enum><text>percentage of
+			 students failing a credit-bearing mathematics, reading or language arts, or
+			 science course, or failing 2 or more courses in any subjects; and</text>
+							</subclause><subclause id="IDee1c943329754763b9653937e1d675cf"><enum>(IV)</enum><text>for high
+			 schools, the percentage of students taking a curriculum that prepares students
+			 for postsecondary education; and</text>
+							</subclause></clause><clause id="ID294aea321d0c4eef8f14dec335bf4b14"><enum>(ii)</enum><text>for high
+			 schools, may include student rates of attainment of an associate or
+			 baccalaureate degree within 4, 5, and 6 years.</text>
+						</clause></subparagraph></paragraph></subsection><subsection id="ID92a2ae0b169342f0a0beadd9152df686"><enum>(e)</enum><header>Match</header>
+				<paragraph id="IDdb641a51a2604d4bab272962028d06bd"><enum>(1)</enum><header>In
+			 general</header><text>Each State educational agency that receives a grant under
+			 this section shall provide matching funds to carry out the activities supported
+			 by the grant in an amount not less than—</text>
+					<subparagraph id="ID79f00f66b09247839573fb826c98ddc5"><enum>(A)</enum><text>for the first
+			 year of an initial grant under this section, 10 percent of the cost of the
+			 activities;</text>
+					</subparagraph><subparagraph id="IDb18c7e2b82d448c8a2ac2088645d6e5d"><enum>(B)</enum><text>for the second
+			 year of such a grant, 20 percent of the cost of the activities;</text>
+					</subparagraph><subparagraph id="ID35bd6813f97947f3968f22ddd1f5f9ff"><enum>(C)</enum><text>for the third
+			 year of such grant, or the first year of a subsequent grant under this section,
+			 25 percent of the cost of the activities; and</text>
+					</subparagraph><subparagraph id="ID07b07961b22a45eaabb9467fc6188e47"><enum>(D)</enum><text>for the second or
+			 any succeeding year of such subsequent grant, 30 percent of the cost of the
+			 activities.</text>
+					</subparagraph></paragraph><paragraph id="ID74f7a7018aa04981a7f33f7e4e8d3e2d"><enum>(2)</enum><header>Matching
+			 funds</header><text>The State educational agency may provide the matching funds
+			 in cash or in kind, fairly evaluated, including plant, equipment, or services,
+			 but may not provide more than 50 percent of the matching funds in kind. The
+			 State educational agency may provide the matching funds from State, local, or
+			 private sources.</text>
+				</paragraph></subsection><subsection id="ID3d5389aaa49a45768281e8c5d79c3bf5"><enum>(f)</enum><header>Supplement not
+			 supplant</header><text>Funds used to make grants under this Act shall be used
+			 to supplement and not supplant other Federal, State, and local public funds
+			 expended to plan or implement expanded learning time initiatives.</text>
+			</subsection></section><section id="ID9bd346d6712246278ab53a8572f68bf0"><enum>7.</enum><header>Expanded
+			 learning time planning subgrants</header>
+			<subsection id="ID3eef931c28c4452898c4e52c350be6bb"><enum>(a)</enum><header>Subgrants
+			 authorized</header><text>A State educational agency receiving a grant under
+			 section 6 is authorized to award expanded learning time planning subgrants, on
+			 a competitive basis, to eligible entities.</text>
+			</subsection><subsection id="IDf0e0f0669c3a4fb2b06f3deb210b59d8"><enum>(b)</enum><header>Duration</header><text>The
+			 State educational agency shall award each subgrant described in subsection (a)
+			 for a period of not more than 1 year. Such grants shall be nonrenewable.</text>
+			</subsection><subsection id="ID0b0b3de3d23c4d6893add9c32db3b99e"><enum>(c)</enum><header>Subgrant
+			 amount</header><text>The State educational agency shall award each subgrant
+			 described in subsection (a) in an amount that is not less than $15,000 and not
+			 more than $60,000.</text>
+			</subsection><subsection id="IDea4f213dc6f34cec89a45acaac60b273"><enum>(d)</enum><header>Applications</header><text>Each
+			 eligible entity desiring to receive an expanded learning time planning subgrant
+			 pursuant to this section shall submit an application to the State educational
+			 agency at such time and in such manner as the agency may require. At a minimum,
+			 the eligible entity's application shall include—</text>
+				<paragraph id="ID890f0ead3a3642f69160863807ca7b06"><enum>(1)</enum><text>a description of
+			 the eligible entity's proposal to establish expanded learning time initiatives,
+			 including school redesign, at high-need schools served by the eligible
+			 entity;</text>
+				</paragraph><paragraph id="ID66239b60509f423f8bf4657e5f6dfb4b"><enum>(2)</enum><text>information
+			 identifying the number of high-need schools the eligible entity proposes to
+			 serve using funds made available under this Act, and a description of the
+			 process, considerations, and criteria the eligible entity will use to select
+			 schools to implement the expanded learning time initiatives—</text>
+					<subparagraph id="ID5f4b9684c10042e4b443c38bae9f6ce5"><enum>(A)</enum><text>which
+			 considerations shall include the percentage of low-income students attending
+			 each school; and</text>
+					</subparagraph><subparagraph id="IDb1914706716647769551de69ab053ed2"><enum>(B)</enum><text>which criteria
+			 shall include the local educational agency's determination of the capacity of
+			 each school to implement successfully a proposed expanded learning time
+			 initiative;</text>
+					</subparagraph></paragraph><paragraph id="ID0052689ecb5d4687b6a9f8aa838b8f29"><enum>(3)</enum><text>a description of
+			 the process by which the eligible entity will ensure the meaningful involvement
+			 of teachers, teacher organizations, parents, and community-based organizations
+			 in the development of the expanded learning time initiatives;</text>
+				</paragraph><paragraph id="IDe7e25f742fb94a0c9be405def412f0e0"><enum>(4)</enum><text>a description of
+			 how the local educational agency involved and participating high-need schools
+			 will work with external organizations that comprise the eligible entity
+			 involved, and any other external organizations as applicable (such as a
+			 community-based organization, an institution of higher education, a community
+			 learning center, an entity carrying out an after-school program, or an
+			 organization that will provide students with internships and work-based
+			 learning opportunities) to develop and implement expanded learning time
+			 initiatives;</text>
+				</paragraph><paragraph id="IDd9337e5f3c6b4bbdb605acdb279dc5bf"><enum>(5)</enum><text>an assurance that
+			 the eligible entity has the infrastructure in place to collect the data
+			 necessary for an evaluation of the impact of the expanded learning time
+			 initiatives on student academic achievement, graduation rates, and indicators
+			 described in section 6(d)(4), to be submitted in the report described in
+			 section 8(g); and</text>
+				</paragraph><paragraph id="ID8522c10e4c4a472a9038d70a410d94ad"><enum>(6)</enum><text>an assurance that
+			 each participating local educational agency will use the subgrant period to
+			 negotiate and reach an agreement with the recognized representatives of the
+			 employees of each participating high-need school served by the agency or, where
+			 there is no such representative, with the employees of each participating
+			 high-need school served by the agency.</text>
+				</paragraph></subsection><subsection id="ID45630eba740c4523b54491a23440b63c"><enum>(e)</enum><header>Authorized
+			 activities</header><text>An eligible entity receiving a subgrant under this
+			 section shall use the subgrant funds to develop a detailed plan to implement
+			 expanded learning time initiatives at high-need schools served by the eligible
+			 entity, as specified in this section.</text>
+			</subsection><subsection id="ID0671a55ad2484a48a50ed22c7e2d2756"><enum>(f)</enum><header>Priority</header><text>In
+			 awarding subgrants under this section, a State educational agency shall give
+			 priority to an application from an eligible entity that—</text>
+				<paragraph id="ID84be7d5a1ea640f4891a50fa6359a820"><enum>(1)</enum><text>serves a high
+			 percentage of students eligible to be counted under section 1124(c)(1)(A) of
+			 the Elementary and Secondary Education Act of 1965 (20 U.S.C.
+			 6333(c)(1)(A));</text>
+				</paragraph><paragraph id="IDdcc1c40043b1488aae7619fff55af792"><enum>(2)</enum><text>includes a
+			 nonprofit community-based organization with a demonstrated record of success in
+			 expanding learning opportunities or helping schools redesign their educational
+			 programs to better meet student needs;</text>
+				</paragraph><paragraph id="ID3611c6dd2d04465a97140fd17953a5cd"><enum>(3)</enum><text>has identified a
+			 coordinator at each high-need school that will participate in the expanded
+			 learning time initiative to support the integration and alignment of community
+			 partners for the school, and the programming of such partners, throughout the
+			 expanded school day, week, or year;</text>
+				</paragraph><paragraph id="ID1adabe3c7296429380018a8c6ee3d828"><enum>(4)</enum><text>will require each
+			 high-need school that will participate in the expanded learning time initiative
+			 to have a partnership agreement, signed by representatives of the school and
+			 all community partners that will be part of the initiative, that—</text>
+					<subparagraph id="IDc8290eae750f4d3ab4352f7dc6d930bc"><enum>(A)</enum><text>shows commitment
+			 from teachers, school leaders, and the staff of community partners to work
+			 collaboratively to implement the expanded learning time initiative;</text>
+					</subparagraph><subparagraph id="IDd676eaa83e2d4e2485e515e8ed0b3fa1"><enum>(B)</enum><text>sets clear
+			 expectations, including measurable goals for all community partners; and</text>
+					</subparagraph><subparagraph id="id0E0C6BDE9C8E4B559C3A1F5DD9470DFF"><enum>(C)</enum><text>shows that staff
+			 from all community partners are committed to collecting and reporting to the
+			 school relevant data about the participation, performance, and outcomes of
+			 expanded learning time programs in order to monitor progress toward achieving
+			 such goals, and that the school is committed to sharing information with the
+			 community partners, as necessary and appropriate, to assist the community
+			 partners in meeting such goals; and</text>
+					</subparagraph></paragraph><paragraph id="id1D3959539A13492F89A60A03F7E0688D"><enum>(5)</enum><text>will coordinate
+			 funds received under this Act with other Federal, State, local, or private
+			 sources of funding in order to implement high-quality expanded learning time
+			 initiatives in participating schools.</text>
+				</paragraph></subsection></section><section id="IDced47b68746c4a9f87cac25009dc2335"><enum>8.</enum><header>Expanded
+			 learning time implementation subgrants</header>
+			<subsection id="ID507a87ede3734ffa906365cc00fee623"><enum>(a)</enum><header>Subgrants
+			 authorized</header><text>A State educational agency receiving a grant under
+			 section 6 is authorized to award expanded learning time implementation
+			 subgrants, on a competitive basis, to eligible entities that have received
+			 subgrants pursuant to section 7.</text>
+			</subsection><subsection id="ID664d7b30af174527acb4ef4b84bddf78"><enum>(b)</enum><header>Duration</header><text>The
+			 State educational agency shall award each subgrant described in subsection (a)
+			 for an initial period of not more than 3 years, and shall renew such subgrant
+			 for an additional period of not more than 2 years if the State educational
+			 agency finds that the eligible entity is achieving the objectives of the
+			 subgrant and has shown improvement against baseline data on the performance
+			 indicators described in section 6(d)(4).</text>
+			</subsection><subsection id="ID6e2d9d2801f0470db8b6456e348fb7af"><enum>(c)</enum><header>Subgrant
+			 amount</header><text>In awarding a subgrant described in subsection (a) to an
+			 eligible entity, a State educational agency shall determine the amount of the
+			 subgrant by taking into account the number of students expected to participate
+			 in the expanded learning time initiatives involved, as specified in the
+			 application submitted by the eligible entity under subsection (d), and the
+			 approximate per student cost of implementing a high-quality expanded learning
+			 time initiative.</text>
+			</subsection><subsection id="ID4a1da46919814a839363b0391bdd909d"><enum>(d)</enum><header>Applications</header><text>Each
+			 eligible entity desiring to receive an expanded learning time implementation
+			 subgrant pursuant to this section shall submit an application to the State
+			 educational agency at such time and in such manner as the agency may require.
+			 At a minimum, the eligible entity's application shall include—</text>
+				<paragraph id="ID5eb7e984afd549948616adf079092ab2"><enum>(1)</enum><text>an identification
+			 and description of each high-need school (selected in accordance with the
+			 process, considerations, and criteria described in section 7(d)(2)) that will
+			 receive funding from the eligible entity to participate in an expanded learning
+			 time initiative, including—</text>
+					<subparagraph id="id72D354E102834B5D849F6E0C3FBB6363"><enum>(A)</enum><text>the number of
+			 students that will be served through the initiative at the school; and</text>
+					</subparagraph><subparagraph id="id43820003F1EA4FED90B3833C316A15D6"><enum>(B)</enum><text>student academic
+			 achievement, demographic, and socioeconomic data for students at the
+			 school;</text>
+					</subparagraph></paragraph><paragraph id="IDbbc727c0d00f42a4858fb12325693357"><enum>(2)</enum><text>a description of
+			 how the eligible entity will implement at each such school an expanded learning
+			 time initiative that involves an expanded school day, expanded school week, or
+			 expanded school year schedule, and school redesign at each such school
+			 consistent with section 4(a)(4)(A), which description shall include—</text>
+					<subparagraph id="IDf8782feafb5c47478257b943d6e16813"><enum>(A)</enum><text>a description of
+			 how the expanded learning time schedule will expand learning time by not less
+			 than 300 hours, consistent with section 4(a)(4); and</text>
+					</subparagraph><subparagraph id="ID2050937f37f24589aca98b02f524bb98"><enum>(B)</enum><text>a description of
+			 how the eligible entity will meet each of the other requirements of the
+			 definition in section 4(a)(4);</text>
+					</subparagraph></paragraph><paragraph id="ID626e7bef7f1847a3b702f381221ea516"><enum>(3)</enum><text>a description of
+			 the plan the eligible entity will use to evaluate, on an annual basis, the
+			 impact of each expanded learning time initiative, based on measures of student
+			 academic achievement, student engagement and success, and other appropriate
+			 measures;</text>
+				</paragraph><paragraph id="ID18575696b6774055b24366a3946c0f92"><enum>(4)</enum><text>a description of
+			 the additional subjects and enrichment activities that will be offered at each
+			 such school that contribute to a well-rounded education;</text>
+				</paragraph><paragraph id="IDf2d76d08ee0946099b618c72a3825c4b"><enum>(5)</enum><text>a comprehensive
+			 plan, developed in collaboration with teachers and, as appropriate, other
+			 staff, for professional development at each such school that includes a
+			 description of intended changes in teaching practices and curriculum delivery
+			 that will result in improved student academic achievement and student
+			 engagement and success;</text>
+				</paragraph><paragraph id="IDc9e03ab868d5406298aac5c73441b9cd"><enum>(6)</enum><text>a description of
+			 how the eligible entity will use the expanded learning time initiatives, and
+			 lessons learned from such initiatives, to improve student academic achievement
+			 in schools that have not made adequate yearly progress under section 1111(b)(2)
+			 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2))
+			 for 2 or more consecutive years;</text>
+				</paragraph><paragraph id="IDd5c950a7bab84a2f9bdf7856d445f5e1"><enum>(7)</enum><text>evidence of an
+			 agreement reached between each participating local educational agency and the
+			 exclusive recognized representative of the employees of each participating
+			 high-need school served by the agency, for employees to work the expanded
+			 learning time schedules involved, or if there is no such representative,
+			 evidence of an agreement supported by at least <fraction>2/3</fraction> of the
+			 employees of each participating high-need school served by the local
+			 educational agency, to work the expanded learning time schedules
+			 involved;</text>
+				</paragraph><paragraph id="ID77be35e268434cf3b6ea88c4ce580699"><enum>(8)</enum><text>a description of
+			 how the local educational agency involved and participating high-need schools
+			 will work with external organizations that comprise the eligible entity
+			 involved, and any other external organizations as applicable (such as a
+			 community-based organization, an institution of higher education, a community
+			 learning center, an entity carrying out an after-school program, or an
+			 organization that will provide students with internships and work-based
+			 learning opportunities) to implement expanded learning time initiatives,
+			 including a description of the specific roles and responsibilities of such
+			 external organizations;</text>
+				</paragraph><paragraph id="IDf2f70490e9ca49d49ad34ce961e3b6ea"><enum>(9)</enum><text>a description of
+			 the process by which the eligible entity ensured the meaningful involvement of
+			 teachers, teacher organizations, where applicable, administrators, parents, and
+			 community-based organizations in the development (including the design) of the
+			 expanded learning time initiatives;</text>
+				</paragraph><paragraph id="IDbfcfa4d9aba84a969d63581dd3637d28"><enum>(10)</enum><text>an assurance
+			 that the eligible entity will work with a community learning center, or an
+			 entity carrying out an after-school program, where appropriate, to provide
+			 after-school programs for students participating in the expanded learning time
+			 initiatives after the conclusion of the school day; and</text>
+				</paragraph><paragraph id="ID5e93f8ae07ba49ebae7d16216fff8456"><enum>(11)</enum><text>an assurance
+			 that the eligible entity will report to the State educational agency all data
+			 necessary for the State educational agency's report, under section
+			 6(d)(4).</text>
+				</paragraph></subsection><subsection id="IDc488985d04dd4c9a9ba97e05c4a91c5b"><enum>(e)</enum><header>Priority</header><text>In
+			 awarding subgrants under this section, a State educational agency shall give
+			 priority to an application from an eligible entity that meets the criteria
+			 described in section 7(f).</text>
+			</subsection><subsection id="IDc4e6847132bf418b90f0ad8594e8c304"><enum>(f)</enum><header>Authorized
+			 activities</header><text>An eligible entity receiving a subgrant under this
+			 section shall use the subgrant funds to implement high-quality expanded
+			 learning time initiatives, at high-need schools served by such eligible entity,
+			 that are consistent with section 4(a)(4).</text>
+			</subsection><subsection id="ID9f9f5bc224464351a4b2f3a5ac3e2326"><enum>(g)</enum><header>Reports by
+			 eligible entities</header><text>Each eligible entity receiving a subgrant under
+			 this section for expanded learning time initiatives shall, not later than 1
+			 year after the first day of the first school year in which the expanded
+			 learning time initiatives were implemented, prepare and submit to the State
+			 educational agency a report—</text>
+				<paragraph id="IDf4354b6dfe9f40fba5b516a488954120"><enum>(1)</enum><text>containing a
+			 detailed description of the expanded learning time initiatives carried
+			 out;</text>
+				</paragraph><paragraph id="ID977cb272914948c4a644bbb7d24a0996"><enum>(2)</enum><text>regarding the
+			 technical assistance the eligible entity provided to expanded learning time
+			 schools;</text>
+				</paragraph><paragraph id="IDb1afbef3189f47d6a9622e2a55c8f10a"><enum>(3)</enum><text>for each expanded
+			 learning time school—</text>
+					<subparagraph id="ID52aeda5857f64861bcb31816fa53cda9"><enum>(A)</enum><text>regarding the
+			 budget for, and actual expenses associated with carrying out, the expanded
+			 learning time initiatives in the first school year; and</text>
+					</subparagraph><subparagraph id="ID1ec273c745464685a1dca25b3e4cea6e"><enum>(B)</enum><text>regarding the
+			 amount of time by which the school day, school week, or school year, was
+			 expanded in the school; and</text>
+					</subparagraph></paragraph><paragraph id="ID5d08c2e0a3ac4846b4ee15f28992997e"><enum>(4)</enum><text>containing
+			 information on the impact of the expanded learning time initiatives,
+			 including—</text>
+					<subparagraph id="id9670D897F1284234A61F50C525D247CD"><enum>(A)</enum><text>data on student
+			 academic achievement and growth as measured by State academic assessments
+			 required under section 1111(b)(3) of the Elementary and Secondary Education Act
+			 of 1965 (20 U.S.C. 6311(b)(3));</text>
+					</subparagraph><subparagraph id="idF06BDAE507FA4FB78349717F66B2F609"><enum>(B)</enum><text>graduation rates;
+			 and</text>
+					</subparagraph><subparagraph id="id393E89215F174656B1548C4E83B119AB"><enum>(C)</enum><text>indicators
+			 described in section 6(d)(4).</text>
+					</subparagraph></paragraph></subsection><subsection id="IDe5f45969463247f188a11191ef7edf72"><enum>(h)</enum><header>Publication and
+			 availability of report summaries</header><text>The Secretary shall publish and
+			 make widely available to the public, including through a website or other
+			 means, a summary of the eligible entity reports received under section 6(d)(4)
+			 and subsection (g).</text>
+			</subsection></section><section id="ID82bf9fd64f6d49b4a992b4a4c63fe3e5"><enum>9.</enum><header>Grants to
+			 eligible entities</header>
+			<subsection id="ID8863d13f307d4caaacb2593ee6a5b194"><enum>(a)</enum><header>In
+			 general</header><text>The Secretary may award a grant under this section to an
+			 eligible entity that serves 1 or more areas within 1 or more States.</text>
+			</subsection><subsection id="ID92313d9bf6ee4d349c1773b88e6f70d2"><enum>(b)</enum><header>Planning and
+			 implementation grants</header><text>The Secretary may award a planning grant
+			 under subsection (a), to the eligible entity, to carry out the activities
+			 described in section 7(e). In the case of an eligible entity that has received
+			 a planning grant under subsection (a), the Secretary may award an
+			 implementation grant under subsection (a) to the eligible entity, to carry out
+			 the activities described in section 8(f).</text>
+			</subsection><subsection id="ID5026ef836f7e4dd98fc8a6d1ae0d3a6c"><enum>(c)</enum><header>Applications</header>
+				<paragraph id="id3C864A9A0674480D875FCA11BB4A8F82"><enum>(1)</enum><header>In
+			 General</header><text>To be qualified to receive a grant under subsection (a),
+			 an eligible entity shall submit to the Secretary an application that contains
+			 the following:</text>
+					<subparagraph id="id674F29E7F5454FEAA904508890BADA91"><enum>(A)</enum><text>If the
+			 application is for a planning grant—</text>
+						<clause id="id97A4B674C4864AF1832D6C429AC0D419"><enum>(i)</enum><text>information
+			 describing how the entity will undertake the activities described in section
+			 6(c)(7); and</text>
+						</clause><clause id="id70E3DF8FC2C54BB6B241BD24C9B33ABB"><enum>(ii)</enum><text>the information
+			 described in section 7(d).</text>
+						</clause></subparagraph><subparagraph id="id94777019C8F84C869FBF80A045EBA3FD"><enum>(B)</enum><text>If the
+			 application is for an implementation grant, the information described in
+			 section 8(d), other than paragraph (11) of that section.</text>
+					</subparagraph></paragraph><paragraph id="id5B3FC81F60BC4F58BB4245134B056044"><enum>(2)</enum><header>Priority</header><text>In
+			 determining whether to award a grant under subsection (a) to an eligible
+			 entity, the Secretary shall give priority to an eligible entity that meets the
+			 criteria described in section 7(f).</text>
+				</paragraph></subsection><subsection id="ID084c2812ff6547dd9750b616f48aeb70"><enum>(d)</enum><header>Period;
+			 amount</header><text>The subgrant period and amount described in subsections
+			 (b) and (c) of section 7 or 8, as appropriate, shall apply to the grant.</text>
+			</subsection><subsection id="IDd19798a681aa48f2915077017971cc32"><enum>(e)</enum><header>Authorities;
+			 responsibilities</header><text>The eligible entity shall have the same
+			 authorities and responsibilities under this Act as an eligible entity that
+			 receives a subgrant under section 7 or 8, as appropriate. In carrying out the
+			 report responsibilities described in section 8(g), the eligible entity shall
+			 submit the reports to the Secretary.</text>
+			</subsection><subsection id="IDe92618cf5bb749a293022b01abffa37c"><enum>(f)</enum><header>Match</header>
+				<paragraph id="ID5e07fdc1e65740979e10cc51b3b7fe88"><enum>(1)</enum><header>In
+			 general</header><text>Each eligible entity that receives an implementation
+			 grant under this section shall comply with the matching requirements described
+			 in section 6(e)(1), except that references in that section to a grant under
+			 section 6 shall be considered to be references to an implementation grant under
+			 this section.</text>
+				</paragraph><paragraph id="ID8967c07c0cf3499ab87b0eccda631709"><enum>(2)</enum><header>Matching
+			 funds</header><text>The eligible entity may provide the matching funds in cash
+			 or in kind, fairly evaluated, including plant, equipment, or services, but may
+			 not provide more than 50 percent of the matching funds in kind. The eligible
+			 entity may provide the matching funds from State, local, or private sources, or
+			 Federal sources under the Elementary and Secondary Education Act of 1965 (20
+			 U.S.C. 6301 et seq.).</text>
+				</paragraph></subsection></section><section id="ID16098a26944548f8882415bfe57bbede"><enum>10.</enum><header>National
+			 activities</header>
+			<subsection id="ID24046ccca20a47ba9f1c2f5032a41be7"><enum>(a)</enum><header>Technical
+			 assistance and support</header>
+				<paragraph id="ID208fb653f39244bdb3498a12b66a3bd9"><enum>(1)</enum><header>In
+			 general</header><text>The Secretary is authorized to provide, directly or by
+			 entering into a contract with an independent organization, technical assistance
+			 to State educational agencies, eligible entities, including eligible entities
+			 receiving grants under section 9, local educational agencies, and schools in
+			 developing and implementing expanded learning time initiatives under this
+			 Act.</text>
+				</paragraph><paragraph id="ID8f23a3838c14421f9dfe71ac83c87369"><enum>(2)</enum><header>Provision of
+			 assistance</header><text>The Secretary or such organization shall provide
+			 technical assistance that shall include—</text>
+					<subparagraph id="ID60ff30ca46594fe58b646c9f2880f07c"><enum>(A)</enum><text>assisting State
+			 educational agencies (and eligible entities receiving grants under section 9,
+			 at the election of the Secretary) with developing expanded learning time
+			 initiatives; and</text>
+					</subparagraph><subparagraph id="IDf6c8752f20124857a6c36704facaf2c9"><enum>(B)</enum><text>identifying and
+			 disseminating information about eligible entities, local educational agencies,
+			 and schools that have effectively planned and implemented expanded learning
+			 time initiatives, including schools that have implemented such initiatives to
+			 improve student academic achievement in schools that previously had not made
+			 adequate yearly progress under section 1111(b)(2) of the Elementary and
+			 Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)) for 2 or more
+			 years.</text>
+					</subparagraph></paragraph></subsection><subsection id="IDb1c977d826144126af045ad594e2f1fc"><enum>(b)</enum><header>Evaluation and
+			 dissemination</header>
+				<paragraph id="ID2d3f3a4d56424a9fa4258645a7ba0c08"><enum>(1)</enum><header>In
+			 general</header><text>The Secretary shall enter into a contract with an
+			 independent organization with expertise in school improvement, program
+			 evaluation, and measurement (such as an institution of higher education or
+			 other research organization) to assist with the provision of the technical
+			 assistance, and conduct the evaluation and analyses, described in this
+			 subsection.</text>
+				</paragraph><paragraph id="ID03c5cbd0bd3447f2aa7bbe6f33b5cca4"><enum>(2)</enum><header>Technical
+			 assistance on data collection and measures</header>
+					<subparagraph id="ID0b3e48a661e04c7d83921ef5e300cd81"><enum>(A)</enum><header>In
+			 general</header><text>The independent organization shall provide technical
+			 assistance to State educational agencies and eligible entities receiving funds
+			 under this Act with data collection and analysis of—</text>
+						<clause id="IDddae8339f2dc436391b893b3ccf991ba"><enum>(i)</enum><text>measures of
+			 student academic achievement and student engagement and success, including the
+			 indicators and other measures described in section 6(d)(4);</text>
+						</clause><clause id="ID1df411b1ec6c47899fdb7bc59c739e71"><enum>(ii)</enum><text>measures of
+			 teacher collaboration and common planning; and</text>
+						</clause><clause id="ID775c9ef91a664eb0b76542e02ac2fd9b"><enum>(iii)</enum><text>detailed
+			 measures of the amount of time devoted to core academic subjects and additional
+			 subjects and enrichment activities.</text>
+						</clause></subparagraph><subparagraph id="IDf826253811de459a82a57bc13088ddbf"><enum>(B)</enum><header>Special rule
+			 for eligible entities receiving grants under Section 9</header><text>If an
+			 eligible entity receives a grant under section 9, the eligible entity shall
+			 establish measures in lieu of the measures described in subparagraph (A) to
+			 assess the success of the eligible entity and schools receiving funds through
+			 the eligible entity under this Act.</text>
+					</subparagraph></paragraph><paragraph id="IDcc96afaf31de4e08bac55fcf9e577c01"><enum>(3)</enum><header>Report</header>
+					<subparagraph id="IDc46b974965564007bbcc4e58c65e253c"><enum>(A)</enum><header>In
+			 general</header><text>The independent organization shall prepare a report that
+			 shall include the evaluation described in subparagraph (B), including the
+			 analyses described in subparagraph (C), and the analyses described in
+			 subparagraph (D).</text>
+					</subparagraph><subparagraph id="IDebab304db7fc4f31b580ee704c9ca736"><enum>(B)</enum><header>Evaluation</header><text>The
+			 independent organization shall conduct an evaluation of the impact and
+			 implementation of the program funded under this Act, which evaluation shall
+			 rely in part on the reports prepared by States under section 6(d)(4) and
+			 eligible entities pursuant to section 8(g) (including reports described in
+			 section 9(e)).</text>
+					</subparagraph><subparagraph id="ID8359ac5f07ca47b0a8fb7220af608940"><enum>(C)</enum><header>Contents</header><text>In
+			 conducting the evaluation, the independent organization shall conduct an
+			 analysis of the impact of the expanded learning time initiatives funded under
+			 this Act, by analyzing data on the measures described in paragraph (2) and
+			 other appropriate measures for students participating in expanded learning time
+			 initiatives in all expanded learning time schools, with results from that
+			 analysis disaggregated by expanded school day, expanded school week, or
+			 expanded school year program, as appropriate.</text>
+					</subparagraph><subparagraph id="ID873f5c8dd4304e58822fae27e58dd697"><enum>(D)</enum><header>Analyses</header><text>The
+			 independent organization shall conduct—</text>
+						<clause id="IDb721d5e2659446b6a57a99c9ba72374d"><enum>(i)</enum><text>a
+			 comparative analysis of how variation in school design, instructional
+			 practices, and other conditions influence the success of the implementation of
+			 the expanded learning time initiatives;</text>
+						</clause><clause id="ID23665e9a692e4efaac25070d21249a7b"><enum>(ii)</enum><text>a
+			 comparative analysis of the conditions and activities that impact the planning
+			 and implementation of the expanded learning time initiatives, including—</text>
+							<subclause id="id0227C2E01A434CD1B89A8A6CAFF805F1"><enum>(I)</enum><text>teaching and
+			 leadership practices at a school;</text>
+							</subclause><subclause id="id87BAE6A640D64C4C878E25AD8E83704B"><enum>(II)</enum><text>student and
+			 teacher schedules;</text>
+							</subclause><subclause id="id938744865459419AA58119F99A4B1A8F"><enum>(III)</enum><text>the additional
+			 costs of operating an expanded learning time school;</text>
+							</subclause><subclause id="id80B5FD6AB4AC4437AD88AE19C6A08365"><enum>(IV)</enum><text>how the
+			 additional school hours required for the initiative involved are used to
+			 enhance teaching and learning; and</text>
+							</subclause><subclause id="idC0030D0153D6460BA0824CDD0FAF8057"><enum>(V)</enum><text>how external
+			 organizations are utilized for the initiative;</text>
+							</subclause></clause><clause id="ID65b6ea52cd67457ea734e7a5904819e5"><enum>(iii)</enum><text>an analysis of
+			 the similarities and differences in the ways in which schools implemented an
+			 expanded school day, expanded school week, or expanded school year schedule;
+			 and</text>
+						</clause><clause id="IDc9b6cd91e4ad404791d79e5ea5c685e2"><enum>(iv)</enum><text>any other
+			 analysis requested by the Secretary.</text>
+						</clause></subparagraph></paragraph><paragraph id="ID53c4e8aa459342808aadff403cf36b2c"><enum>(4)</enum><header>Dissemination</header><text>The
+			 independent organization shall submit the report described in paragraph (3) to
+			 Congress and the Secretary, and disseminate the report to the general public.
+			 The Secretary shall ensure that the report described in paragraph (3) is
+			 provided to eligible entities and local educational agencies on a periodic
+			 basis for use in improving initiatives.</text>
+				</paragraph></subsection></section><section id="ID6b3cadabee094deb8c901284269ffbb1"><enum>11.</enum><header>Construction</header><text display-inline="no-display-inline">Nothing in this Act shall be construed to
+			 alter or otherwise affect the rights, remedies, and procedures afforded to the
+			 employees of local educational agencies under Federal, State, or local law
+			 (including applicable regulations or court orders) or under the terms of
+			 collective bargaining agreements, memoranda of understanding, or other
+			 agreements between such employees and their employers.</text>
+		</section><section id="ID1143cfd03b5c427aa5624b744b2b0636"><enum>12.</enum><header>Authorization
+			 of appropriations</header><text display-inline="no-display-inline">There are
+			 authorized to be appropriated to carry out this Act such sums as may be
+			 necessary.</text>
+		</section></legis-body>
+</bill>

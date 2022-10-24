@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 3654</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20121204">December 4, 2012</action-date>
+			<action-desc><sponsor name-id="S198">Mr. Reid</sponsor> introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SLIA00">Committee on Indian
+			 Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To create equal footing for tribal economic
+		  development.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Gaming
+			 activities</header><text display-inline="no-display-inline">Section 207 of
+			 Public Law 100–89 (25 U.S.C. 737) is repealed.</text>
+		</section></legis-body>
+</bill>

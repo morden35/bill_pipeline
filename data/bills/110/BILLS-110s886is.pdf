@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" public-print="no" public-private="public" stage-count="1" star-print="no-star-print">
+	<form display="yes">
+		<distribution-code display="yes">II</distribution-code>
+		<congress display="yes">110th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num display="yes">S. 886</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED
+		  STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20070314">March 14, 2007</action-date>
+			<action-desc><sponsor name-id="S167">Mr. Bingaman</sponsor> (for
+			 himself and <cosponsor name-id="S057">Mr. Leahy</cosponsor>) introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSGA00">Committee on Homeland Security and
+			 Governmental Affairs</committee-name></action-desc>
+		</action>
+		<legis-type display="yes">A BILL</legis-type>
+		<official-title display="yes">To amend chapter 22 of title 44, United
+		  States Code, popularly known as the Presidential Records Act, to establish
+		  procedures for the consideration of claims of constitutionally based privilege
+		  against disclosure of Presidential records.</official-title>
+	</form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC">
+		<section commented="no" display-inline="no-display-inline" id="H97ECF86942694BCB9035F3EA06DEB2BE" section-type="section-one"><enum>1.</enum><header display-inline="yes-display-inline">Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Presidential Records Act Amendments of
+			 2007</short-title></quote>.</text>
+		</section><section commented="no" display-inline="no-display-inline" id="H783146FE0927476CBCCBE9E09263D4A4" section-type="subsequent-section"><enum>2.</enum><header display-inline="yes-display-inline">Procedures for consideration of claims of
+			 constitutionally based privilege against disclosure</header>
+			<subsection commented="no" display-inline="no-display-inline" id="H904F1043804F45BDA7CD71A786F75CC"><enum>(a)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/22">Chapter 22</external-xref> of title 44,
+			 United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H70B9C5C1D5314AA18DEB58B05EAC434B" style="USC">
+					<section commented="no" display-inline="no-display-inline" id="H8C7EBE4EF41646FB96955018B1B16DD" section-type="subsequent-section"><enum>2208.</enum><header display-inline="yes-display-inline">Claims of constitutionally based privilege
+				against disclosure</header>
+						<subsection commented="no" display-inline="no-display-inline" id="H2BFC51B6B0CC4EBBA400737B2367D36"><enum>(a)</enum><paragraph commented="no" display-inline="yes-display-inline" id="HAA3EF9D9251B4A8DB93EFBFF8E8F19BE"><enum>(1)</enum><text display-inline="yes-display-inline">When the Archivist determines under this
+				chapter to make available to the public any Presidential record that has not
+				previously been made available to the public, the Archivist shall—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="H69CB282DB96646B0A74F9698C7FF19A1" indent="up1"><enum>(A)</enum><text display-inline="yes-display-inline">promptly provide notice of such
+				determination to—</text>
+									<clause commented="no" display-inline="no-display-inline" id="H9714B5E6F59B4F10BAEDB7C026B1A1D"><enum>(i)</enum><text display-inline="yes-display-inline">the former President during whose term of
+				office the record was created; and</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="HE2D8FA011D4143BA9F69E0F5F7A4EB00"><enum>(ii)</enum><text display-inline="yes-display-inline">the incumbent President; and</text>
+									</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HB32F502EFE644F07906BA52654E4C5F7" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">make the notice available to the
+				public.</text>
+								</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="HAF5EE94171B84F469CE7A525F8728F45" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">The notice under paragraph (1)—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="H39323118102745F483255FA2EF6C689B"><enum>(A)</enum><text display-inline="yes-display-inline">shall be in writing; and</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H21A39C82E9C7435F906E0081CC2F796B"><enum>(B)</enum><text display-inline="yes-display-inline">shall include such information as may be
+				prescribed in regulations issued by the Archivist.</text>
+								</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="H6632CDE6BFC44C3396FBD07CAB456EF" indent="up1"><enum>(3)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="HFC92AEB6B20049A4B0C42447AFD57C4D"><enum>(A)</enum><text display-inline="yes-display-inline">Upon the expiration of the 20-day period
+				(excepting Saturdays, Sundays, and legal public holidays) beginning on the date
+				the Archivist provides notice under paragraph (1)(A), the Archivist shall make
+				available to the public the record covered by the notice, except any record (or
+				reasonably segregable part of a record) with respect to which the Archivist
+				receives from a former President or the incumbent President notification of a
+				claim of constitutionally based privilege against disclosure under subsection
+				(b).</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HE9785CB8D0BA4208B002C4831971D559" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">A
+				former President or the incumbent President may extend the period under
+				subparagraph (A) once for not more than 20 additional days (excepting
+				Saturdays, Sundays, and legal public holidays) by filing with the Archivist a
+				statement that such an extension is necessary to allow an adequate review of
+				the record.</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H15CEC26CF7184E418443CB30CD849D34" indent="up1"><enum>(C)</enum><text display-inline="yes-display-inline">Notwithstanding subparagraphs (A) and (B),
+				if the period under subparagraph (A), or any extension of that period under
+				subparagraph (B), would otherwise expire after January 19 and before July 20 of
+				the year in which the incumbent President first takes office, then such period
+				or extension, respectively, shall expire on July 20 of that year.</text>
+								</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="H2769EDC256074AF8A21F3799598D51B1"><enum>(b)</enum><paragraph commented="no" display-inline="yes-display-inline" id="HCB39849EDA824CD2BF001736D7FA51CC"><enum>(1)</enum><text display-inline="yes-display-inline">For purposes of this section, any claim of
+				constitutionally based privilege against disclosure shall be asserted
+				personally by a former President or the incumbent President, as
+				applicable.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="HCDF63C68DCDF42A8B3A16E593273DFC4" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">A
+				former President or the incumbent President shall notify the Archivist, the
+				Committee on Oversight and Government Reform of the House of Representatives,
+				and the Committee on Homeland Security and Governmental Affairs of the Senate
+				of a privilege claim under paragraph (1) on the same day that the claim is
+				asserted under paragraph (1).</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="H3BCB73E8475B43CAB79EEB964562EAA3"><enum>(c)</enum><paragraph commented="no" display-inline="yes-display-inline" id="H724AFB8C1B96492784568DFAE520B000"><enum>(1)</enum><text display-inline="yes-display-inline">The Archivist shall not make publicly
+				available a Presidential record that is subject to a privilege claim asserted
+				by a former President until the expiration of the 20-day period (excluding
+				Saturdays, Sundays, and legal public holidays) beginning on the date the
+				Archivist is notified of the claim.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="HE3E7C49D93C34E0AB28FCD2EF9935E77" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">Upon the expiration of such period the
+				Archivist shall make the record publicly available unless otherwise directed by
+				a court order in an action initiated by the former President under section
+				2204(e).</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="H602FA4973BAB43FDA67BC54E5976C4D2"><enum>(d)</enum><paragraph commented="no" display-inline="yes-display-inline" id="HD04560E49A234078AC8C83FEEBC0A01F"><enum>(1)</enum><text display-inline="yes-display-inline">The Archivist shall not make publicly
+				available a Presidential record that is subject to a privilege claim asserted
+				by the incumbent President unless—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="H9BAE8FAA20294EEEB09165A6290952A7" indent="up1"><enum>(A)</enum><text display-inline="yes-display-inline">the incumbent President withdraws the
+				privilege claim; or</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HBD0F80123F254D77A48EF5415C5E3B46" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">the Archivist is otherwise directed by a
+				final court order that is not subject to appeal.</text>
+								</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="H59E1D151B7CF4A61BCFF9CC9524D9700" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">This subsection shall not apply with
+				respect to any Presidential record required to be made available under section
+				2205(2)(A) or (C).</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="HAA154845343146AAA74FEE00C91DB8A7"><enum>(e)</enum><text display-inline="yes-display-inline">The Archivist shall adjust any otherwise
+				applicable time period under this section as necessary to comply with the
+				return date of any congressional subpoena, judicial subpoena, or judicial
+				process.</text>
+						</subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="idF5FA62FFF59D433596FF36533ABEC70D"><enum>(b)</enum><header display-inline="yes-display-inline">Restrictions</header><text display-inline="yes-display-inline">Section 2204 of title 44, United States
+			 Code (relating to restrictions on access to presidential records) is amended by
+			 adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idFC2A937FC145457FB07B77108D79BD0F" style="OLC">
+					<subsection commented="no" display-inline="no-display-inline" id="id6EDD56C8ABFF43C0AC5ECC6E3983692C"><enum>(f)</enum><text display-inline="yes-display-inline">The Archivist shall not make available any
+				original presidential records to any individual claiming access to any
+				presidential record as a designated representative under section 2205(3) if
+				that individual has been convicted of a crime relating to the review,
+				retention, removal, or destruction of records of the
+				Archives.</text>
+					</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="H243A76738DEF4E678710849F006508B"><enum>(c)</enum><header display-inline="yes-display-inline">Conforming amendments</header><paragraph commented="no" display-inline="yes-display-inline" id="HEF687DAF053440598500BB91881D9103"><enum>(1)</enum><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/44/2204">Section 2204(d)</external-xref> of title 44, United
+			 States Code, is amended by inserting <quote>, except section 2208,</quote>
+			 after <quote>chapter</quote>.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="H0B0F70416EB74CA180AFF2537486DF0" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/44/2207">Section 2207</external-xref> of title 44, United
+			 States Code, is amended in the second sentence by inserting <quote>, except
+			 section 2208,</quote> after <quote>chapter</quote>.</text>
+				</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="H74D71853CBA9445AA78BFB3F05210570"><enum>(d)</enum><header display-inline="yes-display-inline">Clerical amendment</header><text display-inline="yes-display-inline">The table of sections at the beginning of
+			 <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/22">chapter 22</external-xref> of title 44,
+			 United States Code, is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="HA62E0DB9D98349FE9D0350A4471DABCA" style="USC">
+					<toc regeneration="no-regeneration">
+						<toc-entry bold="off" level="section">2208. Claims of
+				constitutionally based privilege against
+				disclosure.</toc-entry>
+					</toc>
+					<after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section commented="no" display-inline="no-display-inline" id="HEB6F25DE7B004A52A344690680FC4B81" section-type="subsequent-section"><enum>3.</enum><header display-inline="yes-display-inline">Executive order of november 1,
+			 2001</header><text display-inline="no-display-inline">Executive Order number
+			 13233, dated November 1, 2001 (66 Fed. Reg. 56025), shall have no force or
+			 effect.</text>
+		</section></legis-body>
+</bill>

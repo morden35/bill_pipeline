@@ -10,17 +10,17 @@ from os.path import exists
 
 API_KEY = 'nt5nhSpwSqMbrGJ7hcsBkXFI1mfk80X0fexbnt45'
 
-CONGRESS_YRS = ['103', '104', '105', '106', '107', '108', '109', '110',
-                '111', '112', '113', '114', '115', '116', '117']
-DOC_CLASSES = ['s', 'sres', 'sconres', 'sjres', 'hr', 'hres', 'hconres',
-               'hjres']
-BILL_VERSIONS = ['as', 'ash', 'ath', 'ats', 'cdh', 'cds', 'cph', 'cps', 'eah',
-                   'eas', 'eh', 'eph', 'phs', 'enr', 'es', 'fah', 'fph', 'fps',
-                   'hdh', 'hds', 'ih', 'iph', 'ips', 'is', 'lth', 'lts', 'oph',
-                   'ops', 'pav', 'pch', 'pcs', 'pp', 'pap', 'pwah', 'rah',
-                   'ras', 'rch', 'rcs', 'rdh', 'rds', 'reah', 'res', 'renr',
-                   'rfh', 'rfs', 'rh', 'rih', 'ris', 'rs', 'rth', 'rts', 'sas',
-                   'sc']
+# CONGRESS_YRS = ['103', '104', '105', '106', '107', '108', '109', '110',
+#                 '111', '112', '113', '114', '115', '116', '117']
+# DOC_CLASSES = ['s', 'sres', 'sconres', 'sjres', 'hr', 'hres', 'hconres',
+#                'hjres']
+# BILL_VERSIONS = ['as', 'ash', 'ath', 'ats', 'cdh', 'cds', 'cph', 'cps', 'eah',
+#                    'eas', 'eh', 'eph', 'phs', 'enr', 'es', 'fah', 'fph', 'fps',
+#                    'hdh', 'hds', 'ih', 'iph', 'ips', 'is', 'lth', 'lts', 'oph',
+#                    'ops', 'pav', 'pch', 'pcs', 'pp', 'pap', 'pwah', 'rah',
+#                    'ras', 'rch', 'rcs', 'rdh', 'rds', 'reah', 'res', 'renr',
+#                    'rfh', 'rfs', 'rh', 'rih', 'ris', 'rs', 'rth', 'rts', 'sas',
+#                    'sc']
 
 def get_bill_ids(congress='116',
                  docClass='s',
@@ -47,21 +47,26 @@ def get_bill_ids(congress='116',
             and get_package() is called
         if the requests does not succeed, returns status code
     '''
-    bill_id_file = f'data/ids/{congress}/{congress}_{docClass}_{billVersion}.json'
+    bill_id_file = (f"data/ids/{congress}/{congress}_{docClass}_{billVersion}"
+                    ".json")
     if exists(bill_id_file):
         # Skip getting bill ids
         # Just get bill texts
         return get_package(bill_id_file)
     
-    url = f'https://api.govinfo.gov/collections/BILLS/{lastModifiedStartDate}?offset={offset}&pageSize={pageSize}&congress={congress}&docClass={docClass}&billVersion={billVersion}&api_key={API_KEY}'
+    url = (f'https://api.govinfo.gov/collections/BILLS/{lastModifiedStartDate}'
+           f'?offset={offset}&pageSize={pageSize}&congress={congress}&docClass'
+           f'={docClass}&billVersion={billVersion}&api_key={API_KEY}')
     PARAMS = {'headers': 'accept: application/json'}
 
     r = requests.get(url=url, params=PARAMS)
     if r.status_code == 200:
         data = r.json()
-        with open(f"data/ids/{congress}/{congress}_{docClass}_{billVersion}.json", "w") as outfile:
+        with open((f"data/ids/{congress}/{congress}_{docClass}_{billVersion}"
+                   ".json"), "w") as outfile:
             json.dump(data, outfile)
-        print(f"{data['count']} bill ids for congress '{congress}', docClass '{docClass}', billVersion '{billVersion}' saved to disk.")
+        print(f"{data['count']} bill ids for congress '{congress}', docClass "
+              f"'{docClass}', billVersion '{billVersion}' saved to disk.")
         # Get bill texts
         return get_package(outfile.name)
     print(f"Status code: {r.status_code}")
@@ -76,8 +81,8 @@ def get_package(bill_id_file):
     Inputs:
         bill_id_file (str) - Path to a file containing json with all bill ids
     Returns:
-        This function dumps pdf files containing bill texts into their respective
-        folders on disk.
+        This function dumps pdf files containing bill texts into their
+        respective folders on disk.
     '''
     congress = bill_id_file.split("/")[2]
     with open(bill_id_file, "rb") as read_content:
@@ -86,9 +91,10 @@ def get_package(bill_id_file):
         bill_count = id_content['count']
 
     # The API allows a maximum of 1000 requests per hour for a given API key.
-    max_bills = 1000
+    max_bills = 999
     num_machines = math.ceil(bill_count / max_bills)
-    print(f"{num_machines} machines required to get all {bill_count} bills in 1 hour.")
+    print(f"{num_machines} machines required to get all {bill_count} bills in "
+          "1 hour.")
     print("As a trial, we will get the first 10 bills.")
 
     bill_ids_saved = []
@@ -100,12 +106,14 @@ def get_package(bill_id_file):
         if exists(bill_pdf_path):
             continue
         bill_ids_saved.append(bill_id)
-        url = f'https://api.govinfo.gov/packages/{bill_id}/xml?api_key={API_KEY}'
+        url = (f"https://api.govinfo.gov/packages/{bill_id}/xml?api_key="
+               f"{API_KEY}")
         PARAMS = {'headers': 'accept: */*'}
         r = requests.get(url = url, params = PARAMS)
         with open(bill_pdf_path, "wb") as outfile:
             outfile.write(r.content)
-    print(f"{len(bill_ids_saved)} bill texts (.pdfs) for congress '{congress}' saved to disk: {bill_ids_saved}")
+    print(f"{len(bill_ids_saved)} bill texts (.pdfs) for congress '{congress}'"
+          f"saved to disk: {bill_ids_saved}")
 
 
 if __name__ == '__main__':

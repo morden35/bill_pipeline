@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 673</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20070216">February 16, 2007</action-date>
+			<action-desc><sponsor name-id="S297">Mr. Salazar</sponsor> (for
+			 himself, <cosponsor name-id="S262">Mr. Smith</cosponsor>,
+			 <cosponsor name-id="S222">Mr. Dorgan</cosponsor>, and <cosponsor name-id="S215">Mr. Craig</cosponsor>) introduced the following bill; which was
+			 read twice and referred to the <committee-name committee-id="SSFI00">Committee
+			 on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to provide
+		  credits for the installation of wind energy property, including by rural
+		  homeowners, farmers, ranchers, and small businesses, and for other
+		  purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="id5D38F68ABF884011B94914AEAD11A5EE" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Rural Wind Energy Development
+			 Act</short-title></quote>.</text>
+		</section><section id="H9E1BA40DEF1E4F54AA95E6925D001EEF" section-type="subsequent-section"><enum>2.</enum><header>Credit for
+			 installation of wind energy property including by rural homeowners, farmers,
+			 ranchers, and small businesses</header>
+			<subsection id="H5BAE736F83E3413D8400CACEC83BE600"><enum>(a)</enum><header>In
+			 general</header><text>Subpart B of part IV of subchapter A of chapter 1 of the
+			 Internal Revenue Code of 1986 is amended by adding at the end the following new
+			 section:</text>
+				<quoted-block id="HED1311439A3A4FE2B320E6E011002EAB">
+					<section id="HCF3450D987F84D5000F235DAB1B5624C"><enum>30D.</enum><header>Wind energy
+				property</header>
+						<subsection id="HC5A6DD234DBA42669127EEC8CB7B69FE"><enum>(a)</enum><header>Allowance of
+				credit</header><text>There shall be allowed as a credit against the tax imposed
+				by this chapter for the taxable year an amount equal to $1,500 with respect to
+				each half kilowatt of capacity of qualified wind energy property placed in
+				service or installed by the taxpayer during such taxable year.</text>
+						</subsection><subsection id="H78A8B217CE0E41F9B18BE0C97CDE5D66"><enum>(b)</enum><header>Limitation</header><text>No
+				credit shall be allowed under subsection (a) unless at least 50 percent of the
+				energy produced annually by the qualified wind energy property is consumed on
+				the site on which the property is placed in service or installed.</text>
+						</subsection><subsection id="HFF95991EAC2C451D826D19040000DB22"><enum>(c)</enum><header>Qualified wind
+				energy property</header><text>For purposes of this section, the term
+				<term>qualified wind energy property</term> means a wind turbine of 100
+				kilowatts of rated capacity or less if—</text>
+							<paragraph id="H9194C9E947304777B95D08B69E3763B0"><enum>(1)</enum><text display-inline="yes-display-inline">such turbine is placed in service or
+				installed on or in connection with property located in the United
+				States,</text>
+							</paragraph><paragraph id="HF959F22AC4CA4595AAA64BBC34A82ECB"><enum>(2)</enum><text>in the case of an
+				individual, the property on or in connection with which such turbine is
+				installed is a dwelling unit,</text>
+							</paragraph><paragraph id="H2C2283C192BC4BE881140357BBC606EF"><enum>(3)</enum><text>the original use
+				of such turbine commences with the taxpayer, and</text>
+							</paragraph><paragraph id="HB32FC181E7D141FDB56C7443C834E0FC"><enum>(4)</enum><text>such turbine
+				carries at least a 5-year limited warranty covering defects in design,
+				material, or workmanship, and, for property that is not installed by the
+				taxpayer, at least a 5-year limited warranty covering defects in
+				installation.</text>
+							</paragraph></subsection><subsection id="H3762920FD6D047539D534D3CF5DEFA47"><enum>(d)</enum><header>Limitation based
+				on amount of tax</header>
+							<paragraph id="H08DD49BC0CAE423493D6B0FCA4FBDF00"><enum>(1)</enum><header>In
+				general</header><text>The credit allowed under subsection (a) for any taxable
+				year shall not exceed the excess of—</text>
+								<subparagraph id="H232D63CE9A26406584809890745F13A3"><enum>(A)</enum><text>the sum of the
+				regular tax liability (as defined in section 26(b)) plus the tax imposed by
+				section 55, over</text>
+								</subparagraph><subparagraph id="H82B9CBCFF87144F9A99570EA682C6FDB"><enum>(B)</enum><text>the sum of the
+				credits allowable under this part (other than under this section and subpart C
+				thereof, relating to refundable credits) and section 1397E.</text>
+								</subparagraph></paragraph><paragraph id="HCBBA5255C15A46F58BF54B00E043CBF5"><enum>(2)</enum><header>Carryover of
+				unused credit</header><text>If the credit allowable under subsection (a)
+				exceeds the limitation imposed by paragraph (1) for such taxable year, such
+				excess shall be carried to the succeeding taxable year and added to the credit
+				allowable under subsection (a) for such taxable year.</text>
+							</paragraph></subsection><subsection id="H94D3CF7787A242698C3DC6AA2CB45C94"><enum>(e)</enum><header>Special
+				rules</header><text>For purposes of this section—</text>
+							<paragraph id="HC15D70ADD93A4FF29CDB36D051889377"><enum>(1)</enum><header>Tenant-stockholder
+				in cooperative housing corporation</header><text>In the case of an individual
+				who is a tenant-stockholder (as defined in section 216(b)(2)) in a cooperative
+				housing corporation (as defined in section 216(b)(1)), such individual shall be
+				treated as having paid his tenant-stockholder’s proportionate share (as defined
+				in section 216(b)(3)) of any expenditures paid or incurred for qualified wind
+				energy property by such corporation, and such credit shall be allocated
+				appropriately to such individual.</text>
+							</paragraph><paragraph id="H3565818B564947ABA73C1341D26007E7"><enum>(2)</enum><header>Condominiums</header>
+								<subparagraph id="H3AD9EDFB16E44BF597C39D6627EEB9A6"><enum>(A)</enum><header>In
+				general</header><text>In the case of an individual who is a member of a
+				condominium management association with respect to a condominium which he owns,
+				such individual shall be treated as having paid his proportionate share of
+				expenditures paid or incurred for qualified wind energy property by such
+				association, and such credit shall be allocated appropriately to such
+				individual.</text>
+								</subparagraph><subparagraph id="H64E73EC513CF4ED596B299E5D5DA367D"><enum>(B)</enum><header>Condominium
+				management association</header><text>For purposes of this paragraph, the term
+				<term>condominium management association</term> means an organization which
+				meets the requirements of section 528(c)(2) with respect to a condominium
+				project of which substantially all of the units are used by individuals as
+				dwelling units.</text>
+								</subparagraph></paragraph></subsection><subsection id="H162C2FC7B4E943E19104514BC7A7D282"><enum>(f)</enum><header>Basis
+				adjustment</header><text>For purposes of this subtitle, if a credit is allowed
+				under this section for any expenditure with respect to a dwelling unit or other
+				property, the increase in the basis of such dwelling unit or other property
+				which would (but for this subsection) result from such expenditure shall be
+				reduced by the amount of the credit so allowed.</text>
+						</subsection><subsection id="H46D18CEC3D7E4A71B285BBBE3CD0F6B1"><enum>(g)</enum><header>Application of
+				credit</header><text>The credit allowed under this section shall apply to
+				property placed in service or installed after December 31, 2006, and before
+				January 1,
+				2012.</text>
+						</subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HFE7ACF92576C4ACAAA7B846CAD2B4935"><enum>(b)</enum><header>Conforming
+			 amendment</header><text>Subsection (a) of section 1016 of the Internal Revenue
+			 Code of 1986 (relating to general rule for adjustments to basis) is amended by
+			 striking <quote>and</quote> at the end of paragraph (36), by striking the
+			 period at the end of paragraph (37) and inserting <quote>, and</quote>, and by
+			 adding at the end the following new paragraph:</text>
+				<quoted-block id="HD2CAF1E1982741178158C8CBA242F24B">
+					<paragraph id="H4CB350EAFE5B452EB4832B7D11AAD1F6"><enum>(38)</enum><text>in the case of a
+				dwelling unit or other property with respect to which a credit was allowed
+				under section 30D, to the extent provided in section
+				30D(f).</text>
+					</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HE2CD525C65AA46FBA8BCD0EAC97D0001"><enum>(c)</enum><header>Clerical
+			 amendment</header><text>The table of sections for subpart B of part IV of
+			 subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by
+			 inserting after the item relating to section 30C the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H4F3EE19F07E6496CB8FF4DE76640EFE1" style="OLC">
+					<toc container-level="quoted-block-container" idref="HED1311439A3A4FE2B320E6E011002EAB" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+						<toc-entry idref="HCF3450D987F84D5000F235DAB1B5624C" level="section">Sec. 3D. Wind energy
+				property.</toc-entry>
+					</toc>
+					<after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HC3BEDCE934C744729921F2DEDD751FA"><enum>(d)</enum><header>Effective
+			 date</header><text>The amendments made by this section shall apply to taxable
+			 years ending after December 31, 2006.</text>
+			</subsection></section><section id="H07067D4C23E14EBFBE0711BE998593FE"><enum>3.</enum><header>3-year
+			 accelerated depreciation period for wind energy property</header>
+			<subsection id="HB04D74A603754BC89B29FF90819D4243"><enum>(a)</enum><header>In
+			 general</header><text>Subparagraph (A) of section 168(e)(3) of the Internal
+			 Revenue Code of 1986 is amended by striking <quote>and</quote> at the end of
+			 clause (ii), by striking the period at the end of clause (iii) and inserting
+			 <quote>, and</quote>, and by inserting after clause (iii) the following new
+			 clause:</text>
+				<quoted-block display-inline="no-display-inline" id="HEB215D96D863430FA20400B6A1766182" style="OLC">
+					<clause id="HF6984B158FE54FFC9C3D5E24794500CF"><enum>(iv)</enum><text display-inline="yes-display-inline">any property which would be described in
+				subparagraph (A) of section 48(a)(3) if <quote>wind energy</quote> were
+				substituted for <quote>solar energy</quote> in clause (i) thereof and the last
+				sentence of such section did not apply to such
+				subparagraph.</text>
+					</clause><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="H83A3C352E43A40BBBA680070E2FD4453"><enum>(b)</enum><header>Conforming
+			 amendment</header><text>Section 168(e)(3)(B)(vi)(I) of such Code is amended to
+			 read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="HBBFB79D3C8144ABAB72359A1995CF900" style="OLC">
+					<subclause id="H040DB62E5FFB41E28515F2D9D1F60006"><enum>(I)</enum><text display-inline="yes-display-inline">is described in subparagraph (A) of section
+				48(a)(3) if the last sentence of such section did not apply to such
+				subparagraph,</text>
+					</subclause><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="H7045DB3C7FEE493DADBDF2C9A54C06E5"><enum>(c)</enum><header>Effective
+			 date</header><text>The amendments made by this section shall apply to property
+			 placed in service after December 31, 2006.</text>
+			</subsection></section></legis-body>
+</bill>

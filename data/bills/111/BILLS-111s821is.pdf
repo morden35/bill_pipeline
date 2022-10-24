@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>111th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 821</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20090402">April 2, 2009</action-date>
+			<action-desc><sponsor name-id="S313">Mr. Sanders</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSVA00">Committee on Veterans'
+			 Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to prohibit the
+		  Secretary of Veterans Affairs from collecting certain copayments from veterans
+		  who are catastrophically disabled, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="H697F529C1441437590AC9EDB9C983766" section-type="section-one"><enum>1.</enum><header>Prohibition on collection of
+			 certain copayments from veterans who are catastrophically disabled</header>
+			<subsection id="H03AAE20FBB1847FCB909F9586D60AF2E"><enum>(a)</enum><header>In
+			 general</header><text display-inline="yes-display-inline">Section 1710 of title
+			 38, United States Code, is amended—</text>
+				<paragraph id="HCE0CA65679D54DFABD14BFBCBE3C24"><enum>(1)</enum><text>by
+			 redesignating subsection (h) as subsection (i); and</text>
+				</paragraph><paragraph id="H28E784E756C0460A8DD2D85FDE70E167"><enum>(2)</enum><text>by inserting after
+			 subsection (g) the following new subsection (h):</text>
+					<quoted-block display-inline="no-display-inline" id="HF924B6A3856D4001927B132461673122" style="OLC">
+						<subsection id="H9F31543889A742CD880015E2C100B06E"><enum>(h)</enum><text display-inline="yes-display-inline">Notwithstanding any other provision of this
+				section, a veteran who is catastrophically disabled shall not be required to
+				make any payment otherwise required under subsection (f) or (g) for the receipt
+				of hospital care or nursing home care under this
+				section.</text>
+						</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="H2650FB78820F42F4BAECA714DA00A41D"><enum>(b)</enum><header>Effective
+			 date</header><text>Subsection (h) of section 1710 of title 38, United States
+			 Code, as added by subsection (a), shall apply with respect to hospital care or
+			 nursing home care provided after the date of the enactment of this Act.</text>
+			</subsection></section></legis-body>
+</bill>

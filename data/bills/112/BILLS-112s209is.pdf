@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 209</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110126">January 26, 2011</action-date>
+			<action-desc><sponsor name-id="S339">Mr. Kirk</sponsor> introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSAS00">Committee on Armed
+			 Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit the use of funds to transfer individuals
+		  detained by the United States at Naval Station, Guantanamo Bay, Cuba, and
+		  certain other enemy belligerents to the United States.</official-title>
+	</form>
+	<legis-body id="H3D67245E3F2545F8A12E4B5DF91B490C" style="OLC">
+		<section id="H73F74730CA764A1191B2BE64E09A25BE" section-type="section-one"><enum>1.</enum><header>Prohibition on use of funds
+			 to transfer individuals detained at Guantanamo Bay, Cuba, and certain other
+			 enemy belligerents to the United States</header>
+			<subsection id="H5D175119F3C34D84B0976F73ADE5485E"><enum>(a)</enum><header>Prohibition</header><text display-inline="yes-display-inline">None of the funds appropriated or otherwise
+			 made available to any Federal department or agency may be used to transfer any
+			 individual described in subsection (b) to the United States.</text>
+			</subsection><subsection id="HBBB091099E00474CA3B5E9315754D19C"><enum>(b)</enum><header>Individual
+			 described</header><text display-inline="yes-display-inline">An individual
+			 described in this subsection is any individual who is—</text>
+				<paragraph id="H05089DA590CF4E22A4A1DE8B224EED01"><enum>(1)</enum><text display-inline="yes-display-inline">detained by the United States at Naval
+			 Station, Guantanamo Bay, Cuba; or</text>
+				</paragraph><paragraph id="HA9C2D5F794374E1F8D302B33C5C75CDC"><enum>(2)</enum><text display-inline="yes-display-inline">a foreign national who is—</text>
+					<subparagraph id="H09BCA9387C2B45CFA1E8E89B825EE398"><enum>(A)</enum><text display-inline="yes-display-inline">captured or detained outside the United
+			 States as an enemy belligerent; and</text>
+					</subparagraph><subparagraph id="H8154CF5FA8454121BA43D8EA6B07791A"><enum>(B)</enum><text>in the custody or
+			 under the effective control of the Department of Defense.</text>
+					</subparagraph></paragraph></subsection><subsection id="HA3CD2FC18CE14D1D8C408957E1E4930C"><enum>(c)</enum><header>Definitions</header><text>For
+			 purposes of this section:</text>
+				<paragraph id="H474A3CC9F7A6475495BD2F7DF386B6B4"><enum>(1)</enum><text>The term
+			 <quote>foreign national</quote> means an individual who is not a citizen or
+			 national of the United States.</text>
+				</paragraph><paragraph id="H77C7CE8406554E148442AF007C085954"><enum>(2)</enum><text display-inline="yes-display-inline">The term <quote>enemy belligerent</quote>
+			 includes a privileged belligerent and an unprivileged enemy belligerent, as
+			 such terms are defined by section 948a of title 10, United States Code.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>

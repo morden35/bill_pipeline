@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 336</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110214">February 14, 2011</action-date>
+			<action-desc><sponsor name-id="S302">Mr. DeMint</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To permanently extend the 2001 and 2003 tax relief
+		  provisions, and to permanently repeal the estate tax, and to provide permanent
+		  AMT relief, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HE41783BCD73347129BE332B65E7D7562" style="OLC">
+		<section id="HA82234EAA69C407CB60A2B3A85E82E10" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Tax Relief Certainty Act of
+			 2011</short-title></quote>.</text>
+		</section><title id="H08966C6B4204427894CC505AC34D5F06"><enum>I</enum><header>Permanent tax
+			 relief</header>
+			<section id="H4D0B7706A25D4562B18DA052D9B56493" section-type="subsequent-section"><enum>101.</enum><header>Repeal of EGTRRA
+			 sunset</header><text display-inline="no-display-inline">Section 901 of the
+			 Economic Growth and Tax Relief Reconciliation Act of 2001 is repealed.</text>
+			</section><section id="H903EF27A422E43748E25121BE2AB29DD"><enum>102.</enum><header>Repeal of
+			 JGTRRA sunset</header><text display-inline="no-display-inline">Section 303 of
+			 the Jobs and Growth Tax Relief Reconciliation Act of 2003 is repealed.</text>
+			</section><section commented="no" display-inline="no-display-inline" id="H39B1A86C146A468DAA7966CBB4AD77EF" section-type="subsequent-section"><enum>103.</enum><header display-inline="yes-display-inline">Technical and conforming
+			 amendments</header><text display-inline="no-display-inline">The Secretary of
+			 the Treasury or the Secretary’s delegate shall, not later than 90 days after
+			 the date of the enactment of this Act, submit to the Committee on Ways and
+			 Means of the House of Representatives and the Committee on Finance of the
+			 Senate a draft of any technical and conforming changes in the Internal Revenue
+			 Code of 1986 which are necessary to reflect throughout such Code the purposes
+			 of the provisions of, and amendments made by, this Act.</text>
+			</section></title><title id="HECB2D0CDC3FD4A54BE170B7038393D61"><enum>II</enum><header>Permanent
+			 individual AMT relief</header>
+			<section id="H2E40F205EFB848C4AC73A2A1F91774F2"><enum>201.</enum><header>Permanent
+			 individual AMT relief</header>
+				<subsection display-inline="no-display-inline" id="HCA9C851235BC4CDB92A2700525CA32EE"><enum>(a)</enum><header>Modification of
+			 alternative minimum tax exemption amount</header>
+					<paragraph id="H13738E5D00744D0BBB13A1C2DE8CB4C2"><enum>(1)</enum><header>In
+			 general</header><text>Paragraph (1) of section 55(d) of the Internal Revenue
+			 Code of 1986 (relating to exemption amount) is amended to read as
+			 follows:</text>
+						<quoted-block act-name="" id="H9E12FEA329924A6A9CC251C271229CDE" style="OLC">
+							<paragraph id="H42F607B4F2DA4011A61FC0453B87ECD6"><enum>(1)</enum><header>Exemption amount
+				for taxpayers other than corporations</header><text>In the case of a taxpayer
+				other than a corporation, the term <term>exemption amount</term> means—</text>
+								<subparagraph id="H8D59AD8CA0F8463CB95FD1E64EACF164"><enum>(A)</enum><text>the dollar amount
+				for taxable years beginning in the calendar year as specified in the table
+				contained in paragraph (4)(A) in the case of—</text>
+									<clause id="H42A462432CE14556A99C1A3608A34DC5"><enum>(i)</enum><text>a
+				joint return, or</text>
+									</clause><clause id="H395D40D74C254F52B848D8831D0FDDBC"><enum>(ii)</enum><text>a
+				surviving spouse,</text>
+									</clause></subparagraph><subparagraph id="H1670795055184948A7565FB3F6F3BFD1"><enum>(B)</enum><text>the dollar amount
+				for taxable years beginning in the calendar year as specified in the table
+				contained in paragraph (4)(B) in the case of an individual who—</text>
+									<clause id="H232C79BF7A9A43459CDC094740C205C5"><enum>(i)</enum><text>is
+				not a married individual, and</text>
+									</clause><clause id="HCB38C1A1881E470FA20ED319C6C55BCE"><enum>(ii)</enum><text>is not a
+				surviving spouse,</text>
+									</clause></subparagraph><subparagraph id="HCFFEB028B67E47988CA3481BFB700ADD"><enum>(C)</enum><text>50 percent of the
+				dollar amount applicable under paragraph (1)(A) in the case of a married
+				individual who files a separate return, and</text>
+								</subparagraph><subparagraph id="HDF2BA50894634EB992662FFB82A83B1C"><enum>(D)</enum><text>$22,500 in the
+				case of an estate or trust.</text>
+								</subparagraph><continuation-text continuation-text-level="paragraph">For
+				purposes of this paragraph, the term <term>surviving spouse</term> has the
+				meaning given to such term by section 2(a), and marital status shall be
+				determined under section
+				7703.</continuation-text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph><paragraph id="H9C53E369FA544314981A65C3983AD542"><enum>(2)</enum><header>Specified
+			 exemption amounts</header><text display-inline="yes-display-inline">Section
+			 55(d) of such Code is amended by adding at the end the following new
+			 paragraph:</text>
+						<quoted-block display-inline="no-display-inline" id="HFE83399F305B4432926AB0BC178A513B" style="OLC">
+							<paragraph id="H420661E279954CCBBC9C7558AEA7E792"><enum>(4)</enum><header>Specified
+				exemption amounts</header>
+								<subparagraph id="H77C7922604CE4A849F4E22081FAF438B"><enum>(A)</enum><header>Taxpayers
+				described in paragraph
+				<enum-in-header>(1)(A)</enum-in-header></header><text>For purposes of paragraph
+				(1)(A)—</text>
+									<table align-to-level="section" blank-lines-before="1" colsep="1" frame="topbot" line-rules="hor-ver" rowsep="0" rule-weights="4.4.4.0.0.0" table-template-name="Generic: 1 text, 1 num" table-type="">
+										<tgroup cols="2" grid-typeface="1.1" rowsep="0" thead-tbody-ldg-size="10.10.12"><colspec coldef="txt" colname="column1" colwidth="269pts" min-data-value="200" rowsep="0"></colspec><colspec coldef="fig" colname="column2" colwidth="103.50pt" min-data-value="10" rowsep="0"></colspec>
+											<thead>
+												<row><entry align="center" colname="column1" morerows="0" namest="column1" rowsep="1">For taxable years beginning in—</entry><entry align="center" colname="column2" morerows="0" namest="column2" rowsep="1">The<linebreak></linebreak> exemption<linebreak></linebreak> amount is:</entry>
+												</row>
+											</thead>
+											<tbody>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2011</entry><entry align="right" colname="column2" rowsep="0">$74,450</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2012</entry><entry align="right" colname="column2" rowsep="0">$78,250</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2013</entry><entry align="right" colname="column2" rowsep="0">$81,450</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2014</entry><entry align="right" colname="column2" rowsep="0">$85,050</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2015</entry><entry align="right" colname="column2" rowsep="0">$88,650</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2016</entry><entry align="right" colname="column2" rowsep="0">$92,650</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2017</entry><entry align="right" colname="column2" rowsep="0">$96,550</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2018</entry><entry align="right" colname="column2" rowsep="0">$100,950</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2019</entry><entry align="right" colname="column2" rowsep="0">$105,150</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2020</entry><entry align="right" colname="column2" rowsep="0">$109,950</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2021</entry><entry align="right" colname="column2" rowsep="0">$112,250.</entry>
+												</row>
+											</tbody>
+										</tgroup>
+									</table>
+								</subparagraph><subparagraph id="H86F1C76878694CD0802EA5821899ACA1"><enum>(B)</enum><header>Taxpayers
+				described in paragraph
+				<enum-in-header>(1)(B)</enum-in-header></header><text>For purposes of paragraph
+				(1)(B)—</text>
+									<table align-to-level="section" blank-lines-before="1" colsep="1" frame="topbot" line-rules="hor-ver" rowsep="0" rule-weights="4.4.4.0.0.0" table-template-name="Generic: 1 text, 1 num" table-type="">
+										<tgroup cols="2" grid-typeface="1.1" rowsep="0" thead-tbody-ldg-size="10.10.12"><colspec coldef="txt" colname="column1" colwidth="269pts" min-data-value="200" rowsep="0"></colspec><colspec coldef="fig" colname="column2" colwidth="105.75pt" min-data-value="10" rowsep="0"></colspec>
+											<thead>
+												<row><entry align="center" colname="column1" morerows="0" namest="column1" rowsep="1">For taxable years beginning in—</entry><entry align="center" colname="column2" morerows="0" namest="column2" rowsep="1">The<linebreak></linebreak> exemption<linebreak></linebreak> amount is:</entry>
+												</row>
+											</thead>
+											<tbody>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2011</entry><entry align="right" colname="column2" rowsep="0">$48,450</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2012</entry><entry align="right" colname="column2" rowsep="0">$50,350</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2013</entry><entry align="right" colname="column2" rowsep="0">$51,950</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2014</entry><entry align="right" colname="column2" rowsep="0">$53,750</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2015</entry><entry align="right" colname="column2" rowsep="0">$55,550</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2016</entry><entry align="right" colname="column2" rowsep="0">$57,550</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2017</entry><entry align="right" colname="column2" rowsep="0">$59,500</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2018</entry><entry align="right" colname="column2" rowsep="0">$61,700</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2019</entry><entry align="right" colname="column2" rowsep="0">$63,800</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2020</entry><entry align="right" colname="column2" rowsep="0">$66,200</entry>
+												</row>
+												<row><entry align="left" colname="column1" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2021</entry><entry align="right" colname="column2" rowsep="0">$68,200.</entry>
+												</row>
+											</tbody>
+										</tgroup></table>
+								</subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="H345F4C43E1A84E28BB8BFB65680F78FE"><enum>(b)</enum><header>Alternative
+			 minimum tax relief for nonrefundable credits</header>
+					<paragraph commented="no" display-inline="no-display-inline" id="HC328CCD346974E929217A2EBDE967110"><enum>(1)</enum><header>In
+			 general</header><text>Subsection (a) of section 26 of the Internal Revenue Code
+			 of 1986 is amended to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="H5FBAD5FA1C04447386ECBCEFB0AB17A2" style="OLC">
+							<subsection commented="no" display-inline="no-display-inline" id="H193E47E20CCB4A3D87953389CDA53C43"><enum>(a)</enum><header>Limitation based
+				on amount of tax</header><text>The aggregate amount of credits allowed by this
+				subpart for the taxable year shall not exceed the sum of—</text>
+								<paragraph id="H5DE740E5CE4E4B539CC322EEEDF1181E"><enum>(1)</enum><text>the taxpayer's
+				regular tax liability for the taxable year reduced by the foreign tax credit
+				allowable under section 27(a), and</text>
+								</paragraph><paragraph id="H2AD4CD866DC6419C9176F59BD12BEE56"><enum>(2)</enum><text>the tax imposed by
+				section 55(a) for the taxable
+				year.</text>
+								</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="H31BF4F28C5BC4634A27C090A1FBC2DB3"><enum>(2)</enum><header>Conforming
+			 amendments</header>
+						<subparagraph commented="no" display-inline="no-display-inline" id="H99C75F1692FB434087A0BCD0B9C9D028"><enum>(A)</enum><header>Child tax
+			 credit</header>
+							<clause commented="no" display-inline="no-display-inline" id="H549D347D54A446859E29128349CC7E88"><enum>(i)</enum><text>Section 24(b) of
+			 such Code is amended by striking paragraph (3).</text>
+							</clause><clause commented="no" display-inline="no-display-inline" id="H8CED582A19E248B1A6A94D264BC56BCF"><enum>(ii)</enum><text>Section 24(d)(1)
+			 of such Code is amended—</text>
+								<subclause commented="no" display-inline="no-display-inline" id="HB40BF54B666740EC979CD103E0AE7E74"><enum>(I)</enum><text>by striking
+			 <quote>section 26(a)(2) or subsection (b)(3), as the case may be,</quote> each
+			 place it appears in subparagraphs (A) and (B) and inserting <quote>section
+			 26(a)</quote>, and</text>
+								</subclause><subclause commented="no" display-inline="no-display-inline" id="HA33EAABD0EA64CED8D7E4E7D10BC51F4"><enum>(II)</enum><text>by striking
+			 <quote>section 26(a)(2) or subsection (b)(3), as the case may be</quote> in the
+			 second last sentence and inserting <quote>section 26(a)</quote>.</text>
+								</subclause></clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H209D40F9E27F465EA69C60CE288235C8"><enum>(B)</enum><header>Credit for
+			 interest on certain home mortgages</header><text>Section 25(e)(1)(C) of such
+			 Code is amended to read as follows:</text>
+							<quoted-block display-inline="no-display-inline" id="HDAD15CE46F81462A9E4775D8B868EE47" style="OLC">
+								<subparagraph commented="no" display-inline="no-display-inline" id="H1FB5DB06212B4C709F2274DBABDB1DCB"><enum>(C)</enum><header>Applicable tax
+				limit</header><text>For purposes of this paragraph, the term <quote>applicable
+				tax limit</quote> means the limitation imposed by section 26(a) for the taxable
+				year reduced by the sum of the credits allowable under this subpart (other than
+				this section and sections 23, 25D, and
+				1400C).</text>
+								</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HBDD512EA4BAC440AA54B4D4DC6787EB0"><enum>(C)</enum><header>Savers'
+			 credit</header><text>Section 25B of such Code is amended by striking subsection
+			 (g).</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HEB1C319B685545368199D49516841883"><enum>(D)</enum><header>Residential
+			 energy efficient property</header><text>Section 25D(c) of such Code is amended
+			 to read as follows:</text>
+							<quoted-block display-inline="no-display-inline" id="H34A87D5876CA4F289EAC01E7D0C781DB" style="OLC">
+								<subsection commented="no" display-inline="no-display-inline" id="HD694889714F34DEAB342D4B2A739209A"><enum>(c)</enum><header>Carryforward of
+				unused credit</header><text>If the credit allowable under subsection (a)
+				exceeds the limitation imposed by section 26(a) for such taxable year reduced
+				by the sum of the credits allowable under this subpart (other than this
+				section), such excess shall be carried to the succeeding taxable year and added
+				to the credit allowable under subsection (a) for such succeeding taxable
+				year.</text>
+								</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HC627E543B4134BDB928F9D5FD7A7FEFB"><enum>(E)</enum><header>Certain plug-in
+			 electric vehicles</header><text>Section 30(c)(2) of such Code is amended to
+			 read as follows:</text>
+							<quoted-block display-inline="no-display-inline" id="H557758B6CDEB4550AD5EC90F6946940F" style="OLC">
+								<paragraph commented="no" display-inline="no-display-inline" id="H611C08D844F74A75A6C9ACA772E594C6"><enum>(2)</enum><header>Personal
+				credit</header><text>For purposes of this title, the credit allowed under
+				subsection (a) for any taxable year (determined after application of paragraph
+				(1)) shall be treated as a credit allowable under subpart A for such taxable
+				year.</text>
+								</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H0881E541E847476798F1AA444759D139"><enum>(F)</enum><header>Alternative
+			 motor vehicle credit</header><text>Section 30B(g)(2) of such Code is amended to
+			 read as follows:</text>
+							<quoted-block display-inline="no-display-inline" id="H49E58F1D66824FC4AA221006407D5EC9" style="OLC">
+								<paragraph commented="no" display-inline="no-display-inline" id="H176E21D72E72427A9C8484C47C7107D6"><enum>(2)</enum><header>Personal
+				credit</header><text>For purposes of this title, the credit allowed under
+				subsection (a) for any taxable year (determined after application of paragraph
+				(1)) shall be treated as a credit allowable under subpart A for such taxable
+				year.</text>
+								</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HDC3FD7155D914D8AAAC7FB631220912F"><enum>(G)</enum><header>New qualified
+			 plug-in electric vehicle credit</header><text>Section 30D(c)(2) of such Code is
+			 amended to read as follows:</text>
+							<quoted-block display-inline="no-display-inline" id="HE6340F3179204C8B9B3105F22564B187" style="OLC">
+								<paragraph commented="no" display-inline="no-display-inline" id="H39BD454F03144BCFAD50D224ABDE8555"><enum>(2)</enum><header>Personal
+				credit</header><text>For purposes of this title, the credit allowed under
+				subsection (a) for any taxable year (determined after application of paragraph
+				(1)) shall be treated as a credit allowable under subpart A for such taxable
+				year.</text>
+								</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HEB0B5946D5F8484694CB636FABFC491F"><enum>(H)</enum><header>Cross
+			 references</header><text>Section 55(c)(3) of such Code is amended by striking
+			 <quote>26(a), 30C(d)(2),</quote> and inserting <quote>30C(d)(2)</quote>.</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H4294DD0448D440B08CE077E78B3C2382"><enum>(I)</enum><header>Foreign tax
+			 credit</header><text>Section 904 of such Code is amended by striking subsection
+			 (i) and by redesignating subsections (j), (k), and (l) as subsections (i), (j),
+			 and (k), respectively.</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H1495ACA2440141AEAA2E92493F57D6EA"><enum>(J)</enum><header>First-time home
+			 buyer credit for the District of Columbia</header><text>Section 1400C(d) of
+			 such Code is amended to read as follows:</text>
+							<quoted-block display-inline="no-display-inline" id="H74B092DE1E964CA69A6CADAAD50EF891" style="OLC">
+								<subsection commented="no" display-inline="no-display-inline" id="H2BBF7FE12EB94BBF990F8226F9402043"><enum>(d)</enum><header>Carryforward of
+				unused credit</header><text>If the credit allowable under subsection (a)
+				exceeds the limitation imposed by section 26(a) for such taxable year reduced
+				by the sum of the credits allowable under subpart A of part IV of subchapter A
+				(other than this section and section 25D), such excess shall be carried to the
+				succeeding taxable year and added to the credit allowable under subsection (a)
+				for such taxable
+				year.</text>
+								</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+						</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idCD17430A4CF14EB48B0BF144FB07B50C"><enum>(3)</enum><header>Adoption
+			 credit</header>
+						<subparagraph commented="no" display-inline="no-display-inline" id="id5FF67B292A9C4F249356398BAF564E83"><enum>(A)</enum><header>In
+			 general</header><text>Section 10909 of the Patient Protection and Affordable
+			 Care Act, and the amendments made thereby, are repealed; and the Internal
+			 Revenue Code of 1986 shall be applied as if such section, and amendments, had
+			 never been enacted.</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idD1D87478AC0E4312ADD76B71E77A302E"><enum>(B)</enum><header>Conforming
+			 amendments</header>
+							<clause commented="no" display-inline="no-display-inline" id="H4181AD31BA71434186EF8B13EC6D36F4"><enum>(i)</enum><text>Section 23(b) of
+			 the Internal Revenue Code of 1986, as in effect on December 31, 2009, is
+			 amended by striking paragraph (4).</text>
+							</clause><clause commented="no" display-inline="no-display-inline" id="HEE462CFDB0A444A9AE65EC34CC5DFED5"><enum>(ii)</enum><text>Section 23(c) of
+			 such Code, as in effect on December 31, 2009, is amended by striking paragraphs
+			 (1) and (2) and inserting before paragraph (3) the following:</text>
+								<quoted-block display-inline="no-display-inline" id="H0B758AB16809459E95854A76104EFCE0" style="OLC">
+									<paragraph commented="no" display-inline="no-display-inline" id="HBD9D6E6FA1EA480EA31B7280E3189029"><enum>(1)</enum><header>In
+				general</header><text>If the credit allowable under subsection (a) for any
+				taxable year exceeds the limitation imposed by section 26(a) for such taxable
+				year, reduced by the sum of the credits allowable under this subpart (other
+				than this section and sections 25D and 1400C), such excess shall be carried to
+				the succeeding taxable year and added to the credit allowable under subsection
+				(a) for such taxable
+				year.</text>
+									</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+							</clause><clause commented="no" display-inline="no-display-inline" id="HBEE29B9543284BA68B7ED9C4C5C39B02"><enum>(iii)</enum><text>Section 23(c) of
+			 such Code, as in effect on December 31, 2009, is amended by redesignating
+			 paragraph (3) as paragraph (2).</text>
+							</clause></subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="H23657B800E334A61BC906FD6E3D48246"><enum>(c)</enum><header>Effective
+			 date</header><text>The amendments and the repeal made by this section shall
+			 apply to taxable years beginning after December 31, 2010.</text>
+				</subsection></section></title><title id="idAF75A4BBA5264EF08A018F9F96E26604"><enum>III</enum><header>Permanent
+			 estate tax relief</header>
+			<section id="id0A730D3D41DC44839DD88CC5F86F1E5B"><enum>301.</enum><header>Permanent
+			 estate tax relief</header>
+				<subsection id="id7C2BEC376B3D4172979B8CBEF57257A4"><enum>(a)</enum><header>In
+			 general</header><text display-inline="yes-display-inline">Title III of the Tax
+			 Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010,
+			 and the amendments made thereby, are repealed; and the Internal Revenue Code of
+			 1986 shall be applied as if such title, and amendments, had never been
+			 enacted.</text>
+				</subsection><subsection id="id9696B06427864801A4D98390014BF8D5"><enum>(b)</enum><header>Effective
+			 date</header><text>The repeal made by this section shall apply to estates of
+			 decedents dying, gifts made, and generation skipping transfers after December
+			 31, 2009.</text>
+				</subsection></section></title></legis-body>
+</bill>

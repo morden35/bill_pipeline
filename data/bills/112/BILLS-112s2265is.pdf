@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 2265</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20120329">March 29, 2012</action-date>
+			<action-desc><sponsor name-id="S236">Mr. Inhofe</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to cover
+		  screening computed tomography colonography as a colorectal cancer screening
+		  test under the Medicare program.</official-title>
+	</form>
+	<legis-body id="HB0B846D905794D76ACDCA0F629EEAEBF" style="OLC">
+		<section id="H8CED2C51AD0B4943AE8800912131A754" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>CT Colonography Screening for
+			 Colorectal Cancer Act of 2012</short-title></quote>.</text>
+		</section><section id="H9BCBAFB602D44F4CBB86A9AD9DF43F6F"><enum>2.</enum><header>Coverage of
+			 computed tomography colonography screening as a colorectal cancer screening
+			 test under Medicare</header>
+			<subsection id="H2A3CA4335BCB447D9A0F84A1EE522539"><enum>(a)</enum><header>In
+			 general</header><text>Section 1861(pp)(1) of the Social Security Act (42 U.S.C.
+			 1395x(pp)(1)) is amended—</text>
+				<paragraph id="HC8BEE2F72B8F42109AD074D2767992FF"><enum>(1)</enum><text>by redesignating
+			 subparagraph (D) as subparagraph (E); and</text>
+				</paragraph><paragraph id="HE652660ADE97481C90AD0A233A3A757D"><enum>(2)</enum><text>by inserting after
+			 subparagraph (C) the following new subparagraph:</text>
+					<quoted-block id="H7BDACEFAC198408D97C8290183A96646" style="OLC">
+						<subparagraph id="H1559D584A3564335BE5AD588DB223C8C"><enum>(D)</enum><text>Screening computed
+				tomography
+				colonography.</text>
+						</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="H02001EAA4BDF47E6A5ABCD75D34811EC"><enum>(b)</enum><header>Frequency limits
+			 and payment</header><text>Section 1834(d) of such Act (42 U.S.C. 1395m(d)) is
+			 amended by adding at the end the following new paragraph:</text>
+				<quoted-block id="H23F1AFB931544FC3B95B1D38E6BA09D7" style="OLC">
+					<paragraph id="H663946EF29474EE3924ADEC06C9A0E4D"><enum>(4)</enum><header>Screening
+				computed tomography colonography</header>
+						<subparagraph id="H80E12141F11D4E02B48E699CEE89419D"><enum>(A)</enum><header>Fee
+				schedule</header><text>With respect to a colorectal cancer screening test
+				consisting of screening computed tomography colonography, subject to
+				subparagraph (B), payment under section 1848 shall be consistent with payment
+				under such section for similar or related services.</text>
+						</subparagraph><subparagraph id="H79F99E13D170497AB050FF4ACC6D2F51"><enum>(B)</enum><header>Payment
+				limit</header><text>In the case of screening computed tomography colonography,
+				payment under this part shall not exceed such amount as the Secretary
+				specifies, based upon rates recognized for diagnostic computed tomography
+				colonography.</text>
+						</subparagraph><subparagraph id="H9A93827B153E4B9E90E56714BF4D0B4E"><enum>(C)</enum><header>Facility payment
+				limit</header><text display-inline="yes-display-inline">Notwithstanding any
+				other provision of this title, in the case of an individual who receives
+				screening computed tomography colonography—</text>
+							<clause id="H95D235EA056D407BBB24D64668268E84"><enum>(i)</enum><text>in
+				computing the amount of any applicable coinsurance, the computation of such
+				coinsurance shall be based upon the fee schedule under which payment is made
+				for the services; and</text>
+							</clause><clause id="HC54C1BF3D2644341B7A7CF9A41B77AA7"><enum>(ii)</enum><text>the amount of
+				such coinsurance shall not exceed 25 percent of the payment amount under the
+				fee schedule described in clause (i).</text>
+							</clause></subparagraph><subparagraph id="H20C264BFED584224893D9255C57478B6"><enum>(D)</enum><header>Frequency
+				limit</header><text>No payment may be made under this part for a colorectal
+				cancer screening test consisting of screening computed tomography
+				colonography—</text>
+							<clause id="HA971997B2BD14849996A2F22A0927D5F"><enum>(i)</enum><text>if
+				the individual is under 50 years of age; or</text>
+							</clause><clause id="H4F3D1967C37747269758FA260A04DFD9"><enum>(ii)</enum><subclause commented="no" display-inline="yes-display-inline" id="H2EBB77B1E23649459107DBE03FCD2758"><enum>(I)</enum><text>in the case of
+				individuals at high risk for colorectal cancer, if the procedure is performed
+				within the 23 months after a previous screening computed tomography
+				colonography or a previous screening colonoscopy; or</text>
+								</subclause><subclause id="H5EB822062DE24BB885A57D174D870DFB" indent="up1"><enum>(II)</enum><text>in the case of an individual who is not
+				at high risk for colorectal cancer, if the procedure is performed within the
+				119 months after a previous screening colonoscopy or within the 59 months after
+				a previous screening flexible sigmoidoscopy or a previous screening computed
+				tomography
+				colonography.</text>
+								</subclause></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="HCFACC464D3EF45FD8613B949ABBF37BD"><enum>(c)</enum><header>Conforming
+			 frequency limits for other colorectal cancer screening tests</header>
+				<paragraph id="H19053394BD19471986F9750619C9CA8A"><enum>(1)</enum><header>Screening
+			 flexible sigmoidoscopy</header><text>Paragraph (2)(E)(ii) of section 1834(d) of
+			 the Social Security Act (42 U.S.C. 1395m(d)) is amended by inserting <quote>or
+			 screening computed tomography colonography</quote> after <quote>previous
+			 screening flexible sigmoidoscopy</quote>.</text>
+				</paragraph><paragraph id="H40A40DB29FCA492EA3EA120896F66A33"><enum>(2)</enum><header>Screening
+			 colonoscopy</header><text>Paragraph (3)(E) of such section is amended—</text>
+					<subparagraph id="H276EB34EBBAE4E0A8C79F50D04AF7D93"><enum>(A)</enum><text>by inserting
+			 <quote>or screening computed tomography colonography</quote> after <quote>23
+			 months after a previous screening colonoscopy</quote>; and</text>
+					</subparagraph><subparagraph id="H8824B1AE2E7A4E978DFD7B93FBC845C3"><enum>(B)</enum><text>by inserting
+			 <quote>or screening computed tomography colonography</quote> after
+			 <quote>screening flexible sigmoidoscopy</quote>.</text>
+					</subparagraph></paragraph></subsection><subsection id="H24CFB8B1124B41B3AC4557027DE564A3"><enum>(d)</enum><header>Effective
+			 date</header><text>The amendments made by this section shall apply to items and
+			 services furnished on or after January 1, 2013.</text>
+			</subsection></section><section id="HB6A1244F6A0A47E892A756E527DEF468"><enum>3.</enum><header>Exemption of
+			 screening computed tomography colonography from special rule on payment for
+			 imaging services</header>
+			<subsection id="HDAC7697AFD7D45B2BE6A4F81C43A344C"><enum>(a)</enum><header>In
+			 general</header><text>Section 1848(b)(4)(B) of the Social Security Act (42
+			 U.S.C. 1395w–4(b)(4)(B)) is amended by inserting <quote>and screening computed
+			 tomography colonography</quote> after <quote>diagnostic and screening
+			 mammography</quote>.</text>
+			</subsection><subsection id="H20D6124C753C40709975299F4B71B4D0"><enum>(b)</enum><header>Effective
+			 date</header><text>The amendment made by subsection (a) shall apply to items
+			 and services furnished on or after January 1, 2013.</text>
+			</subsection></section><section id="H8BBB55452F074A0CBC462C428F491974"><enum>4.</enum><header>Reports on the
+			 status of covering computed tomography colonography as a colorectal cancer
+			 screening test under Medicare</header>
+			<subsection id="H2CAED0AD32DE4299BAAB2665E2776FC6"><enum>(a)</enum><header>Preliminary
+			 report</header><text>Not later than 90 days after the date of the enactment of
+			 this Act, the Secretary of Health and Human Services shall submit a preliminary
+			 report to Congress on the status of coverage of computed tomography
+			 colonography as a colorectal cancer screening test under the Medicare program
+			 under title XVIII of the Social Security Act, including the extent to which
+			 such coverage as required by the amendments made by sections 2 and 3 have been
+			 implemented.</text>
+			</subsection><subsection id="H73A2A7F624FA4F47B19C0F5FB4D37636"><enum>(b)</enum><header>Annual
+			 report</header><text>Not later than September 30 of each fiscal year during the
+			 5-year period beginning with fiscal year 2014, the Secretary shall submit to
+			 Congress, a status report on the following:</text>
+				<paragraph id="H70879C4DB1144E4BA344BEAFAB17D350"><enum>(1)</enum><text display-inline="yes-display-inline">The impact of screening computed tomography
+			 colonography on the change in colorectal cancer screening compliance of
+			 Medicare beneficiaries.</text>
+				</paragraph><paragraph id="H119C19A5C86C4E629B390B32D250BAB0"><enum>(2)</enum><text display-inline="yes-display-inline">The various utilization rates with respect
+			 to Medicare beneficiaries for each available colorectal cancer screening option
+			 before and after the availability of and coverage of screening computed
+			 tomography colonography under the Medicare program pursuant to the enactment of
+			 this Act, including—</text>
+					<subparagraph id="HBDC877F4B1634CFD9AA3445A04A53C1C"><enum>(A)</enum><text>by initial
+			 colorectal cancer screening performed with respect to a Medicare beneficiary
+			 per year, including the age of the beneficiary when the initial screening was
+			 performed; and</text>
+					</subparagraph><subparagraph id="HBEA49458D9AF46EBB24581D4E30A672C"><enum>(B)</enum><text display-inline="yes-display-inline">by follow-up screening performed, whereby
+			 the analysis demonstrates to what extent screening computed tomography
+			 colonography was used as a substitute for a previous screening
+			 procedure.</text>
+					</subparagraph></paragraph><paragraph id="H34737B4E3D7F487D8F738658C249FA69"><enum>(3)</enum><text display-inline="yes-display-inline">Access to screening computed tomography
+			 colonography by Medicare beneficiaries, especially in rural areas or
+			 underserved populations, before and after the date of implementation of
+			 coverage of such screening benefit under the Medicare program pursuant to the
+			 enactment of this Act.</text>
+				</paragraph><paragraph id="H846D0B111AA3448D9F08AD213D95565D"><enum>(4)</enum><text>Recommendations
+			 for such legislation and administrative action as the Secretary determines
+			 appropriate to implement this Act.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>

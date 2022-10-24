@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>115 S1736 IS: Capital for Farmers and Ranchers Act </dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2017-08-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>115th CONGRESS</congress><session>1st Session</session><legis-num>S. 1736</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20170803">August 3, 2017</action-date><action-desc><sponsor name-id="S344">Mr. Hoeven</sponsor> (for himself, <cosponsor name-id="S343">Mr. Boozman</cosponsor>, and <cosponsor name-id="S392">Mr. Strange</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and Forestry</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Consolidated Farm and Rural Development Act to adjust limitations on certain Farm
+			 Service Agency guaranteed and direct loans.</official-title></form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause">
+ <section id="id7ECAC54E827C44A196CCFC06928C73C8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Capital for Farmers and Ranchers Act </short-title></quote>.</text> </section><section id="S1" section-type="subsequent-section"><enum>2.</enum><header>Farm loan funding reform</header> <subsection id="idFD1F6ED676564DA5BC60CEEF6A87051F"><enum>(a)</enum><header>Limitations on amount of farm ownership loans</header><text>Section 305(a)(2) of the Consolidated Farm and Rural Development Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1925">7 U.S.C. 1925(a)(2)</external-xref>) is amended—</text>
+ <paragraph id="idC6FD4D821A5348CF8A7317EB7CF4FB82"><enum>(1)</enum><text>by striking <quote>$300,000</quote> and inserting <quote>$600,000</quote>;</text> </paragraph><paragraph id="id84FC319BD77F47CC9AC2726BF604D4A9"><enum>(2)</enum><text>by striking <quote>$700,000</quote> and inserting <quote>$2,500,000</quote>; and</text>
+ </paragraph><paragraph id="id148B0529C7D04D1C92C1B7009043E518"><enum>(3)</enum><text>by striking <quote>2000</quote> and inserting <quote>2017</quote>.</text> </paragraph></subsection><subsection id="id3C090BD7F598424F9669F96CBFE79942"><enum>(b)</enum><header>Limitations on amount of operating loans</header><text>Section 313(a)(1) of the Consolidated Farm and Rural Development Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1943">7 U.S.C. 1943(a)(1)</external-xref>) is amended—</text>
+ <paragraph id="idB980013214934F5190750B36B646FD40"><enum>(1)</enum><text>by striking <quote>$300,000</quote> and inserting <quote>$600,000</quote>;</text> </paragraph><paragraph id="idA451EBB556A54004A5FDB2D160C6C18E"><enum>(2)</enum><text>by striking <quote>$700,000</quote> and inserting <quote>$2,500,000</quote>; and</text>
+ </paragraph><paragraph id="id90AAB1A0DD9B4508ACDAD3CC536A7210"><enum>(3)</enum><text>by striking <quote>2000</quote> and inserting <quote>2017</quote>.</text></paragraph></subsection></section></legis-body></bill> 
+

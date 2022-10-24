@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 3354</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20120628">June 28, 2012</action-date>
+			<action-desc><sponsor name-id="S309">Mr. Casey</sponsor> introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSAS00">Committee on Armed
+			 Services</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To authorize the Transition Assistance Advisor program of
+		  the Department of Defense, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>Transition Assistance Advisor Act
+			 of 2012</short-title></quote>.</text>
+		</section><section id="id0DF7A70334BE465296A42E7483115378"><enum>2.</enum><header>Transition
+			 Assistance Advisor program</header>
+			<subsection id="id99146E690CC545B7BD16CAF03EE188F2"><enum>(a)</enum><header>Program
+			 authorized</header>
+				<paragraph id="idDCBED4DD05734D6D90236DF72F9C3673"><enum>(1)</enum><header>In
+			 general</header><text>Chapter 58 of title 10, United States Code, is amended by
+			 inserting after section 1144 the following new section:</text>
+					<quoted-block display-inline="no-display-inline" id="idF734B5457C94493883BC8D047508F1ED" style="USC">
+						<section id="id27F8736640854D3696D756F0A29B63D3"><enum>1144A.</enum><header>Transition
+				Assistance Advisors</header>
+							<subsection id="id349A8138DA3F45C89AB4B8EC2F085CB1"><enum>(a)</enum><header>In
+				general</header><text>The Secretary of Defense shall establish as part of the
+				Transition Assistance Program (TAP) a Transition Assistance Advisor (TAA)
+				program to provide professionals in each State to serve as statewide points of
+				contact to assist members of the armed forces in accessing benefits and health
+				care furnished under laws administered by the Secretary of Defense and benefits
+				and health care furnished under laws administered by the Secretary of Veterans
+				Affairs.</text>
+							</subsection><subsection id="id48B24FBBF5FD4E42A09E76DC86C833D2"><enum>(b)</enum><header>Number of
+				advisors</header><text>The Secretary of Defense shall ensure that the minimum
+				number of Transition Assistance Advisors in each State is as follows:</text>
+								<paragraph id="idc79f12f1a60944f4b4ee9b26a8dc434b"><enum>(1)</enum><text>During the period
+				beginning 180 days before the commencement of a contingency operation (or, if
+				later, as soon before as is otherwise practicable) and ending 180 days after
+				the conclusion of such contingency operation—</text>
+									<subparagraph id="id5316DFCCE58A454E8DA9D17B73F9FAE7"><enum>(A)</enum><text>in the case of a
+				State with fewer than 1,500 members of the Army National Guard of the United
+				States and the Air National Guard of the United States residing in the State,
+				not less than one Transition Assistance Advisor; and</text>
+									</subparagraph><subparagraph id="id7254E89DD79B45FEBEADAA9B1085AB0A"><enum>(B)</enum><text>in the case of a
+				State with 1,500 or more members of the Army National Guard of the United
+				States and the Air National Guard of the United States who reside in such
+				State, not less than one Transition Assistance Advisor for each 1,500 members
+				of the Army National Guard of the United States and the Air National Guard of
+				the United States who reside in such State.</text>
+									</subparagraph></paragraph><paragraph id="id102a8ecad99e465fa93788a6b3098dff"><enum>(2)</enum><text>At any time not
+				covered by paragraph (1)—</text>
+									<subparagraph id="idAD3E111A3FD749008EB962CD742228DC"><enum>(A)</enum><text>in the case of a
+				State with fewer than 5,000 members of the Army National Guard of the United
+				States and the Air National Guard of the United States residing in the State,
+				not less than one Transition Assistance Advisor; and</text>
+									</subparagraph><subparagraph id="id78E2BA8F60C940C49337E919E2A2F902"><enum>(B)</enum><text>in the case of a
+				State with 5,000 or more members of the Army National Guard of the United
+				States and the Air National Guard of the United States who reside in such
+				State, not less than one Transition Assistance Advisor for each 1,500 members
+				of the Army National Guard of the United States and the Air National Guard of
+				the United States who reside in such State.</text>
+									</subparagraph></paragraph></subsection><subsection id="id799F726785584564B2CBFEC00319E2C8"><enum>(c)</enum><header>Duties</header><text>The
+				duties of a Transition Assistance Advisor includes the following:</text>
+								<paragraph id="idea13e51109ed486ea0fbe21111ef3879"><enum>(1)</enum><text>To assist with
+				the creation and execution of individual transition plans for members of the
+				National Guard described in subsection (d)(2) and their families for the
+				reintegration of such members into civilian life.</text>
+								</paragraph><paragraph id="id8c8e0798254f400e80a6abf9c37ef1e7"><enum>(2)</enum><text>To provide
+				employment support services to members of the National Guard and their
+				families, including assistance with discovering employment opportunities and
+				identifying and obtaining assistance from programs within and outside of the
+				Federal Government.</text>
+								</paragraph><paragraph id="idac1d9cf3736443c69d962b19763d3dc2"><enum>(3)</enum><text>Provide
+				information on relocation, health care, mental health care, and financial
+				support services available to members of the National Guard or their families
+				from the Department of Defense, the Department of Veterans Affairs, and other
+				Federal, State, and local agencies.</text>
+								</paragraph><paragraph id="id2ff0362331654ac4b771f2053d054bd9"><enum>(4)</enum><text>Provide
+				information on educational support services available to members of the
+				National Guard, including Post–9/11 Educational Assistance under chapter 33 of
+				title 38.</text>
+								</paragraph></subsection><subsection id="idE2B7717271D1480BAECE094B6A095E39"><enum>(d)</enum><header>Transition
+				plans</header><paragraph commented="no" display-inline="yes-display-inline" id="id7FCDA6F78A0045B5AA90EFFEF53A7BCD"><enum>(1)</enum><text>Each individual plan
+				created under subsection (c)(1) for a member of the National Guard described in
+				paragraph (2) shall include the following:</text>
+									<subparagraph id="id00EC4AFAF59E4F4AA6B8AC53E4759BCA" indent="up1"><enum>(A)</enum><text>A plan for the transition of the
+				member to life in the civilian world, including with respect to employment,
+				education, and health care.</text>
+									</subparagraph><subparagraph id="id054e99553be54c489bf68070de7e9960" indent="up1"><enum>(B)</enum><text>A description of the transition
+				services that the member and the member's family will need to achieve their
+				transition objectives, including information on any forms that such member will
+				need to fill out to be eligible for such services.</text>
+									</subparagraph><subparagraph id="id458bc61a7b6e4bf1867438dd2db96bf2" indent="up1"><enum>(C)</enum><text>A point of contact for each agency or
+				entity that can provide the transition services described in subparagraph
+				(B).</text>
+									</subparagraph></paragraph><paragraph id="idDE281C3D23314A96966C2DA3A8DE4AB3" indent="up1"><enum>(2)</enum><text>A member of the National Guard
+				described in this paragraph is any member of the National Guard who has served
+				on active duty in the armed forces for a period of more than 180 days.</text>
+								</paragraph></subsection><subsection id="id7678CC7F9E14415198A127146E006223"><enum>(e)</enum><header>State
+				defined</header><text>In this section, the term <term>State</term> means each
+				of the several States of the United States, the District of Columbia, and any
+				territory of the United States.</text>
+							</subsection><subsection id="idE73EBCDABFB74D5285E47E16F71DC289"><enum>(f)</enum><header>Authorization
+				of appropriations</header><text>There is authorized to be appropriated to the
+				Secretary to carry out this section—</text>
+								<paragraph id="id31AED301C4B8430B8079A4442326A23D"><enum>(1)</enum><text>$10,000,000 for
+				fiscal year 2013; and</text>
+								</paragraph><paragraph id="id21F8E1966DEB4AA08ED8D64ADCAF506F"><enum>(2)</enum><text>such sums as may
+				be necessary for each fiscal year
+				thereafter.</text>
+								</paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="id24E5682356B144D68E449EE5F16A0659"><enum>(2)</enum><header>Clerical
+			 amendment</header><text>The table of sections at the beginning of chapter 58 of
+			 such title is amended by inserting after the item relating to section 1144 the
+			 following new item:</text>
+					<quoted-block display-inline="no-display-inline" id="idA9CB62BB1FBF49A5BED6BAB97B0D8AF3" style="OLC">
+						<toc>
+							<toc-entry bold="off" level="section">1144A. Transition Assistance
+				Advisors.</toc-entry>
+						</toc>
+						<after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="id26D9480DD7EA491B9F81CD1365D6F590"><enum>(b)</enum><header>Report</header><text>Not
+			 later than 90 days after the date of the enactment of this Act, the Secretary
+			 of Defense shall submit to Congress a report setting forth a description of the
+			 efforts of the Secretary to implement the requirements of section 1144A of
+			 title 10, United States Code, as added by subsection (a)(1).</text>
+			</subsection></section></legis-body>
+</bill>

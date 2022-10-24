@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 1460</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110801">August 1, 2011</action-date>
+			<action-desc><sponsor name-id="S127">Mr. Baucus</sponsor> (for himself,
+			 <cosponsor name-id="S314">Mr. Tester</cosponsor>, and <cosponsor name-id="S300">Mr. Burr</cosponsor>) introduced the following bill; which was
+			 read twice and referred to the <committee-name committee-id="SSBK00">Committee
+			 on Banking, Housing, and Urban Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To grant the congressional gold medal, collectively, to
+		  the First Special Service Force, in recognition of its superior service during
+		  World War II.</official-title>
+	</form>
+	<legis-body>
+		<section id="idEEFFEAC352DC47AA920AD3720AC1C34C" section-type="section-one"><enum>1.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+			<paragraph id="ID55c8f943ba304a2fa34abaef13d51711"><enum>(1)</enum><text>The First Special
+			 Service Force (in this Act referred to as the <quote>Force</quote>) was
+			 organized as a joint American-Canadian unit activated in July 1942 at Fort
+			 Harrison near Helena, Montana.</text>
+			</paragraph><paragraph id="IDbcb97d9db80d4fbea50f63aee6a7466a"><enum>(2)</enum><text>The Force was
+			 initially intended to target military and industrial installations that were
+			 supporting the German war effort, including important hydroelectric plants,
+			 which would severely limit the production of strategic materials used by the
+			 Axis powers.</text>
+			</paragraph><paragraph id="ID4c69ad2f662e4abbb372abf098d3fec5"><enum>(3)</enum><text>From July 1942
+			 through June 1943, volunteers of the Force trained in hazardous, arctic
+			 conditions, in the mountains of western Montana, and the waterways of Camp
+			 Bradford, Virginia.</text>
+			</paragraph><paragraph id="ID108b63fc097d44e8946917fc838fff16"><enum>(4)</enum><text>The combat
+			 echelon of the Force totaled 1,800 soldiers—half American, half Canadian. There
+			 were also 800 American members of the Service Battalion, which provided
+			 important support for the combat troops.</text>
+			</paragraph><paragraph id="IDbd41fb1df5a64debb1fb87d33880ff91"><enum>(5)</enum><text>A special bond
+			 developed between the Canadian and American soldiers. They were not segregated
+			 by geography, although it was commanded by an American colonel.</text>
+			</paragraph><paragraph id="ID8eac2cf17ada459aafebcaf726a1aa8b"><enum>(6)</enum><text>The Force was
+			 unique, as it was the only unit formed during World War II consisting of troops
+			 from 2 different countries.</text>
+			</paragraph><paragraph id="IDdc3526a82cfa427ebe34ce30faf4d68c"><enum>(7)</enum><text>In October 1943,
+			 the Force went to Italy, where it fought in battles south of Cassino, including
+			 Monte La Difensa and Monte Majo.</text>
+			</paragraph><paragraph id="ID1fff4467efc84a6688e0af2290e3fd7c"><enum>(8)</enum><text>These mountain
+			 peaks were a critical anchor of the German defense line, and on December 3,
+			 1943, the Force’s units ascended to the top of La Difensa’s precipitous face.
+			 Climbing through the night, the battalion suffered heavy casualties and
+			 overcame fierce resistance to overtake the German line.</text>
+			</paragraph><paragraph id="ID587a9e6f5c3e4a2c85c9a71dc53cabed"><enum>(9)</enum><text>After La Difensa,
+			 the Force continued to fight tough battles at high altitudes, in rugged
+			 terrain, and in severe weather. After battles on the strongly defended Italian
+			 peaks of Sammucro, Vischiataro, and Remetanea, the Force’s combat units had
+			 been reduced from 1,800 to fewer than 500.</text>
+			</paragraph><paragraph id="ID93b876a2f28145ad8efacab90de67695"><enum>(10)</enum><text>In 1944, the
+			 Force went to the Anzio Beachhead for 4 months, engaging in raids and
+			 aggressive patrols. On June 4, 1944, members of the Force were the first Allied
+			 troops to liberate Rome.</text>
+			</paragraph><paragraph id="ID2db970174adb4c37b9dd3ba8e9261f69"><enum>(11)</enum><text>After Rome, the
+			 Force moved to southern Italy, where it prepared to assist in the liberation of
+			 France.</text>
+			</paragraph><paragraph id="IDf363c9b31f264da6be738095da52bb86"><enum>(12)</enum><text>During the early
+			 morning of August 15, 1944, the Force made silent landings on Les Iles
+			 D’Hyeres, small islands in the Mediterranean Sea along the southern coast of
+			 France. They faced a sustained and withering assault from the German garrisons,
+			 as the Force progressed from the islands to the Franco-Italian border.</text>
+			</paragraph><paragraph id="ID16322c50af9941749f68ddd6c1e11d5f"><enum>(13)</enum><text>After securing
+			 the Franco-Italian border, the United States Army ordered the disbandment of
+			 the First Special Service Force on December 5, 1944 in Nice, France.</text>
+			</paragraph><paragraph id="ID0d63d6e851184a5989a4e1c40ce5e9ed"><enum>(14)</enum><text>In 251 days of
+			 combat, the Force suffered 2,314 casualties, or 134 percent of its combat
+			 strength. It captured more than 30,000 prisoners, won 5 United States campaign
+			 stars, and 8 Canadian battle honors. It never failed a mission.</text>
+			</paragraph><paragraph id="IDd2e1973738304d40823686a9da0292c1"><enum>(15)</enum><text>The United
+			 States is forever indebted to the acts of bravery and selflessness of these
+			 troops, risking their lives in covert missions for the cause of freedom.</text>
+			</paragraph><paragraph id="ID25297197cdb9460b86b76d11b6ca5fa4"><enum>(16)</enum><text>The unparalleled
+			 work of the Force along the seas and skies of Europe were critical in repelling
+			 the Nazi advance and liberating numerous French and Italian communities.</text>
+			</paragraph><paragraph id="ID57e20432b6364a93917e747d66dda44e"><enum>(17)</enum><text>The bond between
+			 the American and Canadian service members has endured over the decades, as they
+			 continue to meet every year for reunions, alternating between Canada and the
+			 United States.</text>
+			</paragraph><paragraph id="IDaa544413e9c44205a975f577224b9fbc"><enum>(18)</enum><text>The traditions
+			 and honors exhibited by the First Special Service Force are carried forward
+			 with its lineage embracing outstanding active units of 2 great democracies in
+			 the Special Forces of the United States, the Canadian Airborne Regiment, and
+			 the Canadian Special Operations Regiment.</text>
+			</paragraph></section><section id="IDab584b15d3264c93aa7d17f4c238fe91"><enum>2.</enum><header>Congressional
+			 gold medal</header>
+			<subsection id="ID25d103f22ac340c09910d4f32e687c57"><enum>(a)</enum><header>Award
+			 authorized</header><text>The Speaker of the House of Representatives and the
+			 President pro tempore of the Senate shall make appropriate arrangements for the
+			 award, on behalf of the Congress, of 2 gold medals of appropriate design to the
+			 First Special Service Force, collectively, in recognition of their dedicated
+			 service during World War II.</text>
+			</subsection><subsection id="ID63969398705c4656b377a1a17a058047"><enum>(b)</enum><header>Design and
+			 striking</header><text>For the purposes of the award referred to in subsection
+			 (a), the Secretary of the Treasury (in this Act referred to as the
+			 <quote>Secretary</quote>) shall strike the gold medals with suitable emblems,
+			 devices, and inscriptions, to be determined by the Secretary.</text>
+			</subsection><subsection id="IDe13fa68247704aea99832ac84d0f03ae"><enum>(c)</enum><header>Award to
+			 Smithsonian and First Special Service Force Association</header>
+				<paragraph id="ID085ede972cc34c1fab116ce7cc357f7f"><enum>(1)</enum><header>In
+			 general</header><text>Following the award of the gold medals in honor of the
+			 First Special Service Force, under subsection (a)—</text>
+					<subparagraph id="id4FE51ED881224669809D6F3123D80635"><enum>(A)</enum><text>one gold medal
+			 shall be given to the Smithsonian Institution, where it will be displayed as
+			 appropriate and made available for research; and</text>
+					</subparagraph><subparagraph id="id74F2117371AB42D9B6BBE4229FF06783"><enum>(B)</enum><text>one gold medal
+			 shall be given to the First Special Service Force Association in Helena,
+			 Montana.</text>
+					</subparagraph></paragraph><paragraph id="ID66048d84fab54c37a17b97df0475107f"><enum>(2)</enum><header>Sense of
+			 Congress</header><text>It is the sense of the Congress that the Smithsonian
+			 Institution and the First Special Service Force Association should make the
+			 gold medals received under paragraph (1) available for display elsewhere,
+			 particularly at other appropriate locations associated with the First Special
+			 Service Force, including Fort William Henry Harrison in Helena, Montana.</text>
+				</paragraph></subsection></section><section id="IDc4970abae93e4d29bc55dfd1ddb0c5ef"><enum>3.</enum><header>Duplicate
+			 medals</header><text display-inline="no-display-inline">The Secretary may
+			 strike and sell duplicates in bronze of the gold medals struck under section 2,
+			 at a price sufficient to cover the costs of the medals, including labor,
+			 materials, dies, use of machinery, and overhead expenses.</text>
+		</section><section id="ID63e89e865a684f20a13b282d409ea3b2"><enum>4.</enum><header>National
+			 medals</header><text display-inline="no-display-inline">Medals struck pursuant
+			 to this Act are national medals for purposes of chapter 51 of title 31, United
+			 States Code.</text>
+		</section><section id="IDc0a2c12f8fb54ea58c4c39325bc19d01"><enum>5.</enum><header>Authority to use
+			 funds; proceeds of sale</header>
+			<subsection id="IDe8f3303b060946b997211f7561647fe3"><enum>(a)</enum><header>Authority To
+			 use funds</header><text>There is authorized to be charged against the United
+			 States Mint Public Enterprise Fund, an amount not to exceed $30,000 to pay for
+			 the cost of the medals authorized under section 2.</text>
+			</subsection><subsection id="IDab83f70c809e42c9b85a47968463780e"><enum>(b)</enum><header>Proceeds of
+			 sale</header><text>Amounts received from the sale of duplicate bronze medals
+			 under section 3 shall be deposited in the United States Mint Public Enterprise
+			 Fund.</text>
+			</subsection></section></legis-body>
+</bill>

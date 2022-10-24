@@ -1,0 +1,525 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 2349</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20071114">November 14, 2007</action-date>
+			<action-desc><sponsor name-id="S198">Mr. Reid</sponsor> (for
+			 <cosponsor name-id="S010">Mr. Biden</cosponsor> (for himself and
+			 <cosponsor name-id="S105">Mr. Lugar</cosponsor>)) introduced the following
+			 bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFR00">Committee on Foreign
+			 Relations</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To reauthorize the programs of the Overseas Private
+		  Investment Corporation, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="idD837A642CC3B4A939C03C3357853B39E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Overseas Private Investment
+			 Corporation Reauthorization Act of 2007</short-title></quote>.</text>
+		</section><section id="IDe477dc861faa426ab20b51db3afa203f"><enum>2.</enum><header>Reauthorization
+			 of OPIC programs</header><text display-inline="no-display-inline">Section
+			 235(a)(2) of the Foreign Assistance Act of 1961 (22 U.S.C. 2195(a)(2)) is
+			 amended by striking <quote>September 30, 2007</quote> and inserting
+			 <quote>September 30, 2011</quote>.</text>
+		</section><section id="IDfe230b4aa36b46e08cc0be68b828d2de"><enum>3.</enum><header>Requirements
+			 regarding international worker rights</header>
+			<subsection id="ID09b4aad96699402dbeaabafeea247b74"><enum>(a)</enum><header>Country
+			 requirements</header><text>Subsection (a) of section 231A of the Foreign
+			 Assistance Act of 1961 (22 U.S.C. 2191a(a)) is amended—</text>
+				<paragraph id="IDcf43cdc5df904364910c23861bf8bd5a"><enum>(1)</enum><text>by amending the
+			 subsection heading to read as follows: <quote><header-in-text level="subsection" style="OLC">International Worker
+			 Rights</header-in-text></quote>;</text>
+				</paragraph><paragraph id="ID989503cde6a6474a8e35d77a5da02cc3"><enum>(2)</enum><text>in paragraph (4),
+			 by striking <quote>(4) In</quote> and inserting <quote>(4)
+			 <header-in-text level="paragraph" style="OLC">Additional
+			 determination</header-in-text>.—In</quote>; and</text>
+				</paragraph><paragraph id="ID4f85b59b7ca842409d51972b953f713b"><enum>(3)</enum><text>by striking
+			 paragraphs (1) through (3) and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id35F0CDDA72D542C5814E1EB63C040B4D" style="OLC">
+						<paragraph id="ID82a5cdfe84644a93a492e1a1e5457880"><enum>(1)</enum><header>Limitation on
+				OPIC activities</header>
+							<subparagraph id="idD5D7A79325A64523977821DA7026FB6F"><enum>(A)</enum><header>In
+				general</header><text>The Corporation may insure, reinsure, guarantee, or
+				finance a project only if the country in which the project is to be undertaken
+				is taking steps to adopt and implement laws that extend international worker
+				rights to workers in that country, including in any designated zone, or special
+				administrative region or area, in that country.</text>
+							</subparagraph><subparagraph id="idD8E120A783A54FC4B70D6A394028B13C"><enum>(B)</enum><header>Contract
+				language</header><text>The Corporation shall also include the following
+				language, in substantially the following form, in all contracts which the
+				Corporation enters into with eligible investors to provide financial support
+				under this title: <quote>The investor agrees not to take any actions to
+				obstruct or prevent employees of the foreign enterprise from exercising their
+				international worker rights (as defined in section 238(h) of the Foreign
+				Assistance Act of 1961), and agrees to adhere to the obligations regarding
+				those international worker rights. The investor agrees to the elimination of
+				discrimination with respect to employment and occupation.</quote>.</text>
+							</subparagraph></paragraph><paragraph id="IDc6f2c31d91f94c43a2be071dfa1cbe16"><enum>(2)</enum><header>Preference to
+				certain countries</header><text>To the extent practicable and consistent with
+				its development objectives, the Corporation shall give preferential
+				consideration to projects in countries that have adopted, maintained, and
+				enforced laws that substantially provide international worker rights, as well
+				as the elimination of discrimination with respect to employment and
+				occupation.</text>
+						</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID3adb82fe4b64490c95989718bc563783"><enum>(3)</enum><header>Use of annual
+				reports on international worker rights</header><text>The Corporation shall, in
+				carrying out paragraph (1)(A), use, among other sources, the reports submitted
+				to the Congress pursuant to section 504 of the Trade Act of 1974 (19 U.S.C.
+				2464). The Corporation should also consider other relevant sources, including
+				the observations, reports, and recommendations of the International Labour
+				Organization.</text>
+						</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection commented="no" id="idAC87B02636C642EB9CA4CBEF7F4AC2A8"><enum>(b)</enum><header>Definitions</header><text>Section
+			 238 of the Foreign Assistance Act of 1961 (22 U.S.C. 2198) is amended—</text>
+				<paragraph commented="no" id="IDcb3e0322703c4c80a11aa250a8fba952"><enum>(1)</enum><text>in subsection
+			 (f), by striking <quote>and</quote> after the semicolon;</text>
+				</paragraph><paragraph commented="no" id="ID9c295d08aa34420397b0638389783f8d"><enum>(2)</enum><text>in subsection
+			 (g), by striking the period at the end and inserting <quote>;</quote>;
+			 and</text>
+				</paragraph><paragraph commented="no" id="ID60758f63be044a539611a97fb2c360b6"><enum>(3)</enum><text>by adding at the
+			 end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id75586A485BF94898B0C66D6C1B4F2C21" style="OLC">
+						<subsection commented="no" id="ID3556ae204b50470293c953d38ed506c8"><enum>(h)</enum><text>the term
+				<term>international worker rights</term> means internationally recognized
+				worker rights, as defined in section 507(4) of the Trade Act of 1974 (19 U.S.C.
+				2467(4)); and</text>
+						</subsection><subsection commented="no" id="idAD46C39BE2F549839909D6B90CDA3F40"><enum>(i)</enum><text>the terms
+				<term>Category A project</term> and <term>Category A extractive industry
+				project</term> mean any project or other activity for which the Corporation
+				proposes to provide insurance, reinsurance, financing, or other support under
+				this title and which is likely to have a significant adverse environmental
+				impact.</text>
+						</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="ID844331e81f1248e7a96fbb3e5b523734"><enum>(c)</enum><header>General
+			 provisions and powers</header><text>Section 239 of the Foreign Assistance Act
+			 of 1961 (22 U.S.C. 2199) is amended—</text>
+				<paragraph id="IDafbccede151745628f9f223ed24c66fd"><enum>(1)</enum><text>in subsection
+			 (h), by adding at the end the following: <quote>The Corporation shall also
+			 consult with relevant stakeholders in developing such criteria.</quote>;
+			 and</text>
+				</paragraph><paragraph id="ID67c83ae18dbe40059415dc74b3fb1263"><enum>(2)</enum><text>in subsection
+			 (i), in the first sentence, by inserting <quote>(including international worker
+			 rights and the elimination of discrimination with respect to employment and
+			 occupation)</quote> after <quote>fundamental freedoms</quote> each place it
+			 appears.</text>
+				</paragraph></subsection></section><section id="ID2950876f5c8843399124f1fd047fee48"><enum>4.</enum><header>Environmental
+			 assessments</header><text display-inline="no-display-inline">Section 231A(b) of
+			 the Foreign Assistance Act of 1961 (22 U.S.C. 2191a(b)) is amended to read as
+			 follows:</text>
+			<quoted-block display-inline="no-display-inline" id="id6AFBD44901684038A36F2394C47D0C33" style="OLC">
+				<subsection id="ID78ea4af11bb14ae7b20e9f8df3435d32"><enum>(b)</enum><header>Environmental
+				impact</header><text>The Board of Directors of the Corporation shall not vote
+				in favor of any action proposed to be taken by the Corporation that is likely
+				to have significant adverse environmental impacts, unless for at least 60 days
+				before the date of the vote—</text>
+					<paragraph id="ID7a3d6608d094476398c310d74d71263b"><enum>(1)</enum><text>an environmental
+				impact assessment, or initial environmental audit, analyzing the environmental
+				impacts of the proposed action and of alternatives to the proposed action has
+				been completed by the project applicant and made available to the Board of
+				Directors; and</text>
+					</paragraph><paragraph id="ID97336b5f4c814682855117bb0e3100ee"><enum>(2)</enum><text>such assessment
+				or audit has been made available to the public of the United States, locally
+				affected groups in the host country, and nongovernmental organizations in the
+				host
+				country.</text>
+					</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="IDdda178bf94fa4419b72411ec7999cc81"><enum>5.</enum><header>Community
+			 support</header><text display-inline="no-display-inline">Section 237 of the
+			 Foreign Assistance Act of 1961 (22 U.S.C. 2197) is amended by adding at the end
+			 the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="idA4BB2157B269454D8DA38C05B8505A89" style="OLC">
+				<subsection id="IDb5202ab79cc844b9bd8224ed6c6faa1c"><enum>(p)</enum><header>Community
+				support</header><text>To the maximum extent practicable, the Corporation shall
+				require the applicant for a project that is subject to the requirements of
+				section 231A(b) to obtain broad community support for the
+				project.</text>
+				</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="ID1e1c51b9c6ec494281f5028aaee2c0ce"><enum>6.</enum><header>Climate change
+			 mitigation action plan</header><text display-inline="no-display-inline">Title
+			 IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2291
+			 et seq.) is amended by inserting after section 234A the following new
+			 section:</text>
+			<quoted-block display-inline="no-display-inline" id="id3ABD9B8D97344946A4877DE8A2EEBC0A" style="OLC">
+				<section id="ID567d8b14b8d54a298a7cb67c9fb5466e"><enum>234B.</enum><header>Climate
+				change mitigation</header>
+					<subsection id="ID60b03dc89798462ba595570b2668856f"><enum>(a)</enum><header>Mitigation
+				action plan</header><text>The Corporation shall, not later than 180 days after
+				the date of the enactment of the Overseas Private Investment Corporation
+				Reauthorization Act of 2007, institute a climate change mitigation action plan
+				that includes the following:</text>
+						<paragraph id="ID8686d724a8034f798d383aa864485e9b"><enum>(1)</enum><header>Clean
+				technology</header>
+							<subparagraph id="ID973387ca06184cb3aa204833cd0f7184"><enum>(A)</enum><header>Increasing
+				assistance</header><text>The Corporation shall establish a goal of
+				substantially increasing its support of projects that use, develop, or
+				otherwise promote the use of clean energy technologies over the 10-year period
+				beginning on the date of the enactment of the Overseas Private Investment
+				Corporation Reauthorization Act of 2007.</text>
+							</subparagraph><subparagraph id="ID8d8e6531bc3f429e991dbc4bf7dd366f"><enum>(B)</enum><header>Preferential
+				treatment to projects</header><text>The Corporation shall give preferential
+				treatment to the evaluation and awarding of assistance for and provide greater
+				flexibility in supporting projects that use, develop, or otherwise promote the
+				use of clean energy technologies.</text>
+							</subparagraph></paragraph><paragraph id="ID92c311c8d4a3400fb706931b404cf8c0"><enum>(2)</enum><header>Environmental
+				impact assessments</header>
+							<subparagraph id="ID1670c6988c99431abf651a09001d6beb"><enum>(A)</enum><header>Greenhouse gas
+				emissions</header><text>The Corporation shall, in making an environmental
+				impact assessment for a project under section 231A(b), take into account the
+				degree to which the project contributes to the emission of greenhouse
+				gases.</text>
+							</subparagraph><subparagraph id="IDf0ca766e362445258348075a8e72fe66"><enum>(B)</enum><header>Other duties
+				not affected</header><text>The requirement under subparagraph (A) is in
+				addition to any other requirement, obligation, or duty of the
+				Corporation.</text>
+							</subparagraph></paragraph><paragraph id="IDa3c50d1f13d34094aa7a303af52c07f7"><enum>(3)</enum><header>Goals for
+				reducing greenhouse gas emissions</header>
+							<subparagraph id="IDaab18a2b2f3b4cfbadcef0b7912a0f94"><enum>(A)</enum><header>In
+				general</header><text>The Corporation shall continue to maintain—</text>
+								<clause id="ID521992f0224a4746b90ceb6cca6a52d7"><enum>(i)</enum><text>a
+				goal for reducing direct greenhouse gas emissions associated with projects in
+				the Corporation’s portfolio on the date of the enactment of the Overseas
+				Private Investment Corporation Reauthorization Act of 2007 by 20 percent over a
+				10-year period; and</text>
+								</clause><clause id="ID71b1cd1e70d04ee9bac6da373cd7409a"><enum>(ii)</enum><text>a goal for
+				limiting annual investments in projects that have significant greenhouse gas
+				emissions after such date of enactment in a manner that reduces greenhouse gas
+				emissions associated with projects in the Corporation’s total portfolio by 20
+				percent over a 10-year period.</text>
+								</clause></subparagraph><subparagraph id="ID74688cfb16704721a1fea65a037cbfca"><enum>(B)</enum><header>Special
+				rules</header>
+								<clause id="IDef11ddab236c4ad789c59d9352b60c0d"><enum>(i)</enum><header>Baseline</header><text>For
+				purposes of determining the percentage that greenhouse gas emissions are
+				reduced under subparagraph (A), the Corporation shall use the aggregate
+				estimated greenhouse gas emissions for projects in the Corporation’s
+				portfolio.</text>
+								</clause><clause id="ID5a68cb41ee584969ae94f7ff814e9cd8"><enum>(ii)</enum><header>Significant
+				greenhouse gas emissions projects</header><text>For purposes of this paragraph,
+				projects that have significant greenhouse gas emissions are projects that
+				result in the emission of more than 100,000 tons of CO<subscript>2</subscript>
+				equivalent each year.</text>
+								</clause></subparagraph><subparagraph id="ID78c3fef304c8404b9bfc458567a5f6f4"><enum>(C)</enum><header>Reporting
+				requirements</header><text>The Corporation shall include, in each annual report
+				under section 240A, the following information with respect to the period
+				covered by the report:</text>
+								<clause id="IDe65b5c66f4ee4189833a19592e51079b"><enum>(i)</enum><text>The annual
+				greenhouse gas emissions attributable to each project in the Corporation’s
+				active portfolio that has significant greenhouse gas emissions.</text>
+								</clause><clause id="ID3c6d0d277ffb4139b4d7b051b46f18f2"><enum>(ii)</enum><text>The estimated
+				greenhouse gas emissions for each new project for which the Corporation
+				provided insurance financing, or reinsurance that has significant greenhouse
+				gas emissions since the last report.</text>
+								</clause><clause id="ID591557baded644ac9efe78ac43a7f858"><enum>(iii)</enum><text>The extent to
+				which the Corporation is meeting the goals described in subparagraph (A) for
+				reducing greenhouse gas emissions.</text>
+								</clause><clause id="ID3e383b9329724cbca0ced2d3212f930e"><enum>(iv)</enum><text>Each new project
+				for which the Corporation provided insurance, financing, or reinsurance that
+				involves renewable energy and environmentally beneficial products and services,
+				including increased energy efficiency.</text>
+								</clause></subparagraph></paragraph><paragraph id="ID25d3dd6afe734d4a89dd4c3754dce796"><enum>(4)</enum><header>Report to
+				congressional committees</header><text>The Corporation shall, not later than
+				180 days after the date of the enactment of the Overseas Private Investment
+				Corporation Reauthorization Act of 2007, submit to the Committees on Foreign
+				Relations and Appropriations of the Senate and the Committees on Foreign
+				Affairs and Appropriations of the House of Representatives a report on the plan
+				developed to carry out paragraph (1)(A). Thereafter, the Corporation shall
+				include in its annual report under section 240A a discussion of such plan and
+				its implementation.</text>
+						</paragraph></subsection><subsection id="ID80ce9946f13d47c3ad16afddc8d90a03"><enum>(b)</enum><header>Extraction
+				investments</header>
+						<paragraph id="ID8e53a3e350f24c0db47f4d10cfb50123"><enum>(1)</enum><header>Prior
+				notification to congressional committees</header><text>The Corporation shall
+				provide notice of consideration to the Committees on Foreign Relations and
+				Appropriations of the Senate and the Committees on Foreign Affairs and
+				Appropriations of the House of Representatives at least 60 days before approval
+				of a Category A extractive industry project (as defined in section 238(i)) or
+				any extractive industry project in which assistance by the Corporation would be
+				valued at $10,000,000 or more (including contingent liability). Nothing in this
+				subsection shall affect the limitations and prohibitions with respect to direct
+				investments described in section 234(c).</text>
+						</paragraph><paragraph id="IDc44926aa2a7e4c59983186235ea0cb4a"><enum>(2)</enum><header>Commitment to
+				EITI principles</header>
+							<subparagraph id="idF0FC7F4E21DF483F9ADC4830626D8901"><enum>(A)</enum><header>In
+				general</header><text>Except as provided in subparagraph (B), the Corporation
+				may approve a contract of insurance or reinsurance, or any guaranty, or enter
+				into an agreement to provide financing to an eligible investor for a project
+				that significantly involves an extractive industry only if—</text>
+								<clause id="IDa18a552dd13947f288fc2c8cb55d3ad6"><enum>(i)</enum><text>the eligible
+				investor has agreed to implement the Extractive Industries Transparency
+				Initiative principles and criteria, or substantially similar principles and
+				criteria related to the specific project to be carried out; and</text>
+								</clause><clause id="IDc829a07718d94045bb8354ca7afff338"><enum>(ii)</enum><subclause commented="no" display-inline="yes-display-inline" id="id49264E08FF6F4D099265D678B849F066"><enum>(I)</enum><text>the host country where
+				the project is to be carried out has committed to the Extractive Industries
+				Transparency Initiative principles and criteria, or substantially similar
+				principles and criteria; or</text>
+									</subclause><subclause id="id494E9285F9BF444F9F1EB657D20C4EF5" indent="up1"><enum>(II)</enum><text>the host country where the project is to
+				be carried out has in place or is taking the necessary steps to establish
+				functioning systems for—</text>
+										<item id="id2420D82802504DE69080D8F78BACFFA2"><enum>(aa)</enum><text>accurately accounting for revenues
+				and expenditures in connection with the extraction and export of the type of
+				natural resource to be extracted or exported;</text>
+										</item><item id="id004B380D5E9E4651B1868451BF06F96C"><enum>(bb)</enum><text>the independent audit of such
+				revenues and expenditures and the widespread public dissemination of the audit;
+				and</text>
+										</item><item id="idC359E05B51CB423A9BAB27D7525FFB5B"><enum>(cc)</enum><text>verifying government receipts against
+				company payments, including widespread dissemination of such payment
+				information, and disclosing such documents as Host Government Agreements,
+				Concession Agreements, and bidding documents, allowing in any such
+				dissemination or disclosure for the redaction of, or exceptions for,
+				information that is commercially proprietary or that would create competitive
+				disadvantage.</text>
+										</item></subclause></clause></subparagraph><subparagraph id="idDAAFE3B1F8C54D75B8180F8F300D0073"><enum>(B)</enum><header>Exception</header><text>If
+				the host country does not meet the requirements of subparagraph (A)(ii) (I) or
+				(II), the Corporation may approve a contract of insurance or reinsurance, or
+				any guaranty, or enter into an agreement to provide financing if the
+				Corporation determines it is in the foreign policy interest of the United
+				States for the Corporation to support the project in the host country and the
+				host country does not prevent an eligible investor from complying with this
+				paragraph.</text>
+							</subparagraph></paragraph><paragraph id="IDdbfc671185fb4d9998267a53b515a6dc"><enum>(3)</enum><header>Preference for
+				certain projects</header><text>With respect to all projects that significantly
+				involve an extractive industry, the Corporation, to the extent practicable and
+				consistent with the Corporation's development objectives, shall give preference
+				to a project in which both the eligible investor has agreed to implement the
+				Extractive Industries Transparency Initiative principles and criteria, or
+				substantially similar principles and criteria, and the host country where the
+				project is to be carried out has committed to the Extractive Industries
+				Transparency Initiative principles and criteria, or substantially similar
+				principles and criteria.</text>
+						</paragraph><paragraph id="ID2653075fb13445448c2ddd58f9fd7f2e"><enum>(4)</enum><header>Reporting
+				requirement</header><text>The Corporation shall include in its annual report
+				required under section 240A a description of its activities to carry out this
+				subsection.</text>
+						</paragraph></subsection><subsection id="ID99e1bff41753429fa40f0179abdf3cbc"><enum>(c)</enum><header>Definitions</header><text>In
+				this section:</text>
+						<paragraph id="IDae7e95f8e9034699b97e0f5926e85954"><enum>(1)</enum><header>Clean
+				technology</header><text>The term <term>clean energy technology</term> means an
+				energy supply or end-use technology—</text>
+							<subparagraph id="IDde5308d0e73a4d4384cf3732168e9e20"><enum>(A)</enum><text>such as—</text>
+								<clause id="ID0387d002ce924ec28d66f9f2cbc2fa10"><enum>(i)</enum><text>solar
+				technology;</text>
+								</clause><clause id="IDb4dbab08d9db4da1a81408e69b1294d8"><enum>(ii)</enum><text>wind
+				technology;</text>
+								</clause><clause id="ID2ea1d208bfb148a085ebf016f2fd25c1"><enum>(iii)</enum><text>geothermal
+				technology;</text>
+								</clause><clause id="ID769656c7c9094273b2723cb8328a1bc8"><enum>(iv)</enum><text>hydroelectric
+				technology;</text>
+								</clause><clause id="ID73ea3458a7154feb94b1e508bb64abc6"><enum>(v)</enum><text>biomass
+				technology; and</text>
+								</clause><clause id="ID8e62ff2485194e3ba994af734339372c"><enum>(vi)</enum><text>carbon capture
+				and storage technology; and</text>
+								</clause></subparagraph><subparagraph id="ID2ac22418b3484ff89afe080dbf26a9c9"><enum>(B)</enum><text>that, over its
+				life cycle and compared to a similar technology already in commercial
+				use—</text>
+								<clause id="ID1b25dc7f856d47ea82e38f111e5765d3"><enum>(i)</enum><text>results
+				in—</text>
+									<subclause id="ID099528e71f1444a794c98ff6bd0ba107"><enum>(I)</enum><text>reduced emissions
+				of greenhouse gases;</text>
+									</subclause><subclause id="ID686be6ba19ad4525a2eec82b5ea4e5bf"><enum>(II)</enum><text>increased
+				geological sequestration of greenhouse gases;</text>
+									</subclause><subclause id="ID4a2243b29513456eb873ad6f6597ee9f"><enum>(III)</enum><text>decreases
+				energy intensity of operation; or</text>
+									</subclause><subclause id="ID633d0881e5c942b8bedac00b54b53906"><enum>(IV)</enum><text>reduces fossil
+				fuel consumption; and</text>
+									</subclause></clause><clause id="ID81f40c37204a46b69d2391a4100729f6"><enum>(ii)</enum><text>may—</text>
+									<subclause id="ID2f2b0cd6fcf8401d8602b2be85348329"><enum>(I)</enum><text>substantially
+				lower emissions of air pollutants; or</text>
+									</subclause><subclause id="IDaad6c9b7e0384edaa8e3b2bad7f69c74"><enum>(II)</enum><text>generate
+				substantially smaller and less hazardous quantities of solid or liquid
+				waste.</text>
+									</subclause></clause></subparagraph></paragraph><paragraph id="IDd7634b794b344498adefe648c0b53646"><enum>(2)</enum><header>Greenhouse
+				gas</header><text>The term <term>greenhouse gas</term> means—</text>
+							<subparagraph id="ID2789479eb3c6433c9e10161ee904eb2a"><enum>(A)</enum><text>carbon
+				dioxide;</text>
+							</subparagraph><subparagraph id="IDd268c92e25e84b1292b4f65904a59dbc"><enum>(B)</enum><text>methane;</text>
+							</subparagraph><subparagraph id="IDe73a85c6b4174fa9988f0cf98021312a"><enum>(C)</enum><text>nitrous
+				oxide;</text>
+							</subparagraph><subparagraph id="IDd4385edc06be468982e13e2703b86707"><enum>(D)</enum><text>hydrofluorocarbons;</text>
+							</subparagraph><subparagraph id="ID33be3ef3f6784542bda797c77a6dfd29"><enum>(E)</enum><text>perfluorocarbons;
+				or</text>
+							</subparagraph><subparagraph id="ID9f19037acf0e4ee4ba3858a06e2f7bcc"><enum>(F)</enum><text>sulfur
+				hexafluoride.</text>
+							</subparagraph></paragraph><paragraph id="IDecfddec44d3a48208782dd2bb7844c7d"><enum>(3)</enum><header>Extractive
+				industry</header><text>The term <term>extractive industry</term> refers to an
+				enterprise engaged in the exploration, development, or extraction of oil and
+				gas reserves, metal ores, gemstones, industrial minerals (except rock used for
+				construction purposes), or
+				coal.</text>
+						</paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="ID1c9a1660a90549b2a2c62678eababca3"><enum>7.</enum><header>Increased
+			 transparency</header>
+			<subsection id="ID121a42536960449cba3bad8cba8d34a2"><enum>(a)</enum><header>In
+			 general</header><text>Section 237 of the Foreign Assistance Act of 1961 (22
+			 U.S.C. 2197), as amended by section 5, is amended by adding at the end the
+			 following new subsections:</text>
+				<quoted-block display-inline="no-display-inline" id="id96712AEF5A8D4541BE6EF3937A1B9C94" style="OLC">
+					<subsection id="IDc8b5fdcfcc954ba49aabfbfc30f2d842"><enum>(q)</enum><header>Availability of
+				project information</header><text>Beginning 90 days after the date of the
+				enactment of the Overseas Private Investment Corporation Reauthorization Act of
+				2007, the Corporation shall make public, and post on its Internet website,
+				summaries of all new projects supported by the Corporation, and other relevant
+				information, except that the Corporation shall not include any confidential
+				business information in the summaries and information made available under this
+				subsection.</text>
+					</subsection><subsection id="ID5938998dded94bee97bb057fe92b742a"><enum>(r)</enum><header>Review of
+				methodology</header><text>Not later than 180 days after the date of the
+				enactment of the Overseas Private Investment Corporation Reauthorization Act of
+				2007, the Corporation shall make available to the public the methodology,
+				including relevant regulations, used to assess and monitor the impact of
+				projects supported by the Corporation on—</text>
+						<paragraph id="id85E56A1718BE49A8A6D4246BA4D329EC"><enum>(1)</enum><text>the development
+				of host countries;</text>
+						</paragraph><paragraph id="id23DDC1D79B444D45B300BE0835F80A21"><enum>(2)</enum><text>the environment
+				of host countries;</text>
+						</paragraph><paragraph id="id8FCAAEB4DF28448A940893869797C3E1"><enum>(3)</enum><text>international
+				worker rights (as well as the elimination of discrimination with respect to
+				employment and occupation) in host countries; and</text>
+						</paragraph><paragraph id="idC5A0B80740254F55B08BA4F6CCA6D27B"><enum>(4)</enum><text>United States
+				employment.</text>
+						</paragraph></subsection><subsection id="IDc7cbbf1dd5ba4dd1a9105e20d22f59b7"><enum>(s)</enum><header>Public notice
+				prior to project approval</header>
+						<paragraph id="ID9b080499843c4b2d83dde61144c4023a"><enum>(1)</enum><header>Public
+				notice</header><text>The Board of Directors of the Corporation may not vote in
+				favor of any action proposed to be taken by the Corporation on any Category A
+				project until at least 60 days after the Corporation—</text>
+							<subparagraph id="IDc6d57d9fb12b46358845bc1fe7d9f5a3"><enum>(A)</enum><text>makes available
+				for public comment a summary of the project and relevant information about the
+				project; and</text>
+							</subparagraph><subparagraph id="ID6b37ea1653e648e496f7ccfddc92b569"><enum>(B)</enum><text>makes the summary
+				and information described in subparagraph (A) available to locally affected
+				groups in the area of impact of the proposed project, and to host country
+				nongovernmental organizations.</text>
+							</subparagraph></paragraph><paragraph id="IDe893a5a14b4e4e64a3811fab818677da"><enum>(2)</enum><header>Limitations on
+				disclosure</header><text>The Corporation shall not include any business
+				confidential information in the summary and information made available under of
+				paragraph (1).</text>
+						</paragraph><paragraph id="ID33d71395f8914e76ab072d510535b980"><enum>(3)</enum><header>Published
+				response</header><text>To the extent practicable, the Corporation shall publish
+				responses to the comments received under paragraph (1) and submit the responses
+				to the Board not later than 7 days before a vote is to be taken on any action
+				proposed by the Corporation on the
+				project.</text>
+						</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="ID436325f4f01a439c8978d3ce8534590a"><enum>(b)</enum><header>Office of
+			 accountability</header><text>Section 237 of the Foreign Assistance Act of 1961
+			 (22 U.S.C. 2197), as amended by subsection (a), is amended by adding at the end
+			 the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="id949D83D653214181BC943E530CC7C087" style="OLC">
+					<subsection id="IDd0d59e92b7d74ebaa41d2209a1045a37"><enum>(t)</enum><header>Office of
+				accountability</header><text>The Corporation shall maintain an Office to
+				provide, upon request, problem-solving services for projects supported by the
+				Corporation and, to the maximum extent practicable, review the Corporation's
+				compliance with policies relating to the environment, extractive industries,
+				transparency, human rights, social standards, international worker rights, and
+				the elimination of discrimination with respect to employment and occupation.
+				The Office shall operate in a manner that is fair, objective, and
+				transparent.</text>
+					</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection></section><section id="ID2024046be2094943b7a2b11c9676a33f"><enum>8.</enum><header>Extension of
+			 authority to operate in Iraq</header><text display-inline="no-display-inline">Section 239 of the Foreign Assistance Act of
+			 1961 (22 U.S.C. 2199) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idD61AE20D089C4B7091B53E4A69D47965" style="OLC">
+				<subsection id="ID121750a71e18471d9634f7f26d36f067"><enum>(l)</enum><header>Operations in
+				iraq</header><text>Notwithstanding subsections (a) and (b) of section 237, the
+				Corporation is authorized to undertake in Iraq any program authorized by this
+				title.</text>
+				</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="IDc26f251223fa4092b5478fb671585146"><enum>9.</enum><header>Low-income
+			 housing</header><text display-inline="no-display-inline">Not later than 1 year
+			 after the date of the enactment of this Act, the Corporation shall submit a
+			 report to the Committee on Foreign Relations of the Senate and the Committee on
+			 Foreign Affairs of the House of Representatives, in consultation with
+			 appropriate departments, agencies, and instrumentalities of the United States,
+			 as well as private entities, on the feasibility of broadening the assistance
+			 the Corporation provides to projects that provide assistance to low-income home
+			 buyers. If the Corporation finds such assistance is feasible, the Corporation
+			 shall identify and begin to implement steps to proceed to provide such
+			 assistance.</text>
+		</section><section id="IDda77cfb496734864995e41c142955005"><enum>10.</enum><header>Assistance for
+			 small businesses and entities</header><text display-inline="no-display-inline">Section 240 of the Foreign Assistance Act of
+			 1961 (22 U.S.C. 2200) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="id342BD6347F1D4ABDA333BD8597D01479" style="OLC">
+				<subsection id="IDba73ddffb3d6494392bfad971ae0ec16"><enum>(c)</enum><header>Resources
+				dedicated to small businesses, cooperatives, and other small United States
+				investors</header><text display-inline="yes-display-inline">The Corporation
+				shall ensure that adequate personnel and resources, including senior officers,
+				are dedicated to assist United States small businesses, cooperatives, and other
+				small United States investors in obtaining insurance, reinsurance, financing,
+				and other support under this title. The Corporation shall include, in each
+				annual report under section 240A, the following information with respect to the
+				period covered by the report:</text>
+					<paragraph id="ID19daedeb4bad4e7793f138c61c0e53cb"><enum>(1)</enum><text>A description of
+				such personnel and resources.</text>
+					</paragraph><paragraph id="ID08b443d25f524fdeaefa509fb2177549"><enum>(2)</enum><text>The number of
+				small businesses, cooperatives, and other small United States investors that
+				received such insurance, reinsurance, financing, and other support, and the
+				dollar value of such insurance, reinsurance, financing, and other
+				support.</text>
+					</paragraph><paragraph id="ID7650571a4e23486d8dad4674ea467d38"><enum>(3)</enum><text>A description of
+				the projects for which such insurance, reinsurance, financing, and other
+				support was
+				provided.</text>
+					</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section id="ID31d05057b1b94909b5f4fed353416d0a"><enum>11.</enum><header>Technical
+			 corrections</header>
+			<subsection id="ID912a2888bc414c8aa59e562acb00bccc"><enum>(a)</enum><header>Pilot equity
+			 finance program</header><text>Section 234 of the Foreign Assistance Act of 1961
+			 (22 U.S.C. 2194) is amended—</text>
+				<paragraph id="IDe62dc07ed0254cff9dbaaba2b8d881c1"><enum>(1)</enum><text>by striking
+			 subsection (g); and</text>
+				</paragraph><paragraph id="ID5f163f2d28a24d9fa1a15bd6eeb92d83"><enum>(2)</enum><text>by redesignating
+			 subsection (h) as subsection (g).</text>
+				</paragraph></subsection><subsection id="ID5a5efc14161e443ebdff2ba247bac0d3"><enum>(b)</enum><header>Transfer
+			 authority</header><text>Section 235 of the Foreign Assistance Act of 1961 (22
+			 U.S.C. 2195) is amended—</text>
+				<paragraph id="IDcfd85225f61046e398aa9dc79109ef0f"><enum>(1)</enum><text>by striking
+			 subsection (e); and</text>
+				</paragraph><paragraph id="IDb93bda3193934b11ac5e6c1954a137b8"><enum>(2)</enum><text>by redesignating
+			 subsection (f) as subsection (e).</text>
+				</paragraph></subsection><subsection id="ID422cc4f1f9de4bff945a9db54e178a0c"><enum>(c)</enum><header>Guaranty
+			 contract</header><text>Section 237(j) of the Foreign Assistance Act of 1961 (22
+			 U.S.C. 2197(j)) is amended by inserting <quote>insurance, reinsurance,
+			 and</quote> after <quote>Each</quote>.</text>
+			</subsection><subsection id="ID15c22ab36bf1424eabfd00f9e544e364"><enum>(d)</enum><header>Transfer of
+			 predecessor programs and authorities</header>
+				<paragraph commented="no" id="IDf15ff3d29d4b4b62af07ff4974615c23"><enum>(1)</enum><header>Transfer</header><text>Section
+			 239 of the Foreign Assistance Act of 1961 (22 U.S.C. 2199), as amended by
+			 section 3, is amended—</text>
+					<subparagraph commented="no" id="ID5567f83bb0b444e59f6740a562ff4c4f"><enum>(A)</enum><text>by striking
+			 subsection (b); and</text>
+					</subparagraph><subparagraph commented="no" id="ID6a8064254563413db089ebb6fa9e55d5"><enum>(B)</enum><text>by redesignating
+			 subsections (c) through (<italic>l</italic>) as subsections (b) through (k),
+			 respectively.</text>
+					</subparagraph></paragraph><paragraph id="IDc42a4f4db77c416f9dc320818a8dc136"><enum>(2)</enum><header>Conforming
+			 amendments</header>
+					<subparagraph id="id3BAB94DA18F94D34BEA59EC0FB9F8796"><enum>(A)</enum><text>Section 237(m)(1)
+			 of the Foreign Assistance Act of 1961 (22 U.S.C. 2197(m)(1)) is amended by
+			 striking <quote>239(g)</quote> and inserting <quote>239(f)</quote>.</text>
+					</subparagraph><subparagraph id="IDd3b41aed3f2d423489ae817c48156688"><enum>(B)</enum><text>Section 240A(a)
+			 of the Foreign Assistance Act of 1961 (22 U.S.C. 2200A(a)) is amended—</text>
+						<clause id="ID2b51c0b5cf72472fb914d5f71362b265"><enum>(i)</enum><text>in
+			 paragraph (1), by striking <quote>239(h)</quote> and inserting
+			 <quote>239(g)</quote>; and</text>
+						</clause><clause id="IDfd38033e1e934bf6bd871db2378efbb5"><enum>(ii)</enum><text>in
+			 paragraph (2)(A), by striking <quote>239(i)</quote> and inserting
+			 <quote>239(h)</quote>.</text>
+						</clause></subparagraph><subparagraph id="IDca0f78e16a0842688cc43cffccb96787"><enum>(C)</enum><text>Section
+			 209(e)(16) of the Admiral James W. Nance and Meg Donovan Foreign Relations
+			 Authorization Act, Fiscal Years 2000 and 2001 (as enacted into law by section
+			 1000(a)(7) of Public Law 106–113; 31 U.S.C. 1113 note) is amended by striking
+			 <quote>239(c)</quote> and <quote>2199(c)</quote> and inserting
+			 <quote>239(b)</quote> and <quote>2199(b)</quote>, respectively.</text>
+					</subparagraph></paragraph></subsection><subsection commented="no" id="ID03ed2295fd2844109f8deab7722b8ac9"><enum>(e)</enum><header>Additional
+			 clerical amendments</header><text>Section 234(b) of the Foreign Assistance Act
+			 of 1961 (22 U.S.C. 2194(b)) is amended by striking <quote>235(a)(2)</quote> and
+			 inserting <quote>235(a)(1)</quote>.</text>
+			</subsection></section></legis-body>
+</bill>

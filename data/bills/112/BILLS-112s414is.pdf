@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 414</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110217">February 17, 2011</action-date>
+			<action-desc><sponsor name-id="S253">Mr. Durbin</sponsor> (for himself,
+			 <cosponsor name-id="S245">Ms. Snowe</cosponsor>, <cosponsor name-id="S223">Mrs.
+			 Boxer</cosponsor>, <cosponsor name-id="S308">Mr. Cardin</cosponsor>, and
+			 <cosponsor name-id="S335">Mr. Brown of Massachusetts</cosponsor>) introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFR00">Committee on Foreign
+			 Relations</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To protect girls in developing countries through the
+		  prevention of child marriage, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="ID7ccdda7abbf04b9a9947e8f11398ae27" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>International Protecting Girls by
+			 Preventing Child Marriage Act of 2011</short-title></quote>.</text>
+		</section><section id="IDf3e20eaaf87d41ed8d177a0be51ae167"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress makes the following
+			 findings:</text>
+			<paragraph id="ID1e80b62d380941e98c183fb746fae36d"><enum>(1)</enum><text>Child marriage,
+			 also known as <term>forced marriage</term> or <term>early marriage</term>, is a
+			 harmful traditional practice that deprives girls of their dignity and human
+			 rights.</text>
+			</paragraph><paragraph id="IDeb79c6acd9c84489a87e2b9539191162"><enum>(2)</enum><text>Child marriage as
+			 a traditional practice, as well as through coercion or force, is a violation of
+			 article 16 of the Universal Declaration of Human Rights, which states,
+			 <quote>Marriage shall be entered into only with the free and full consent of
+			 intending spouses</quote>.</text>
+			</paragraph><paragraph id="ID3e621118c72d49c9bacad88447406d17"><enum>(3)</enum><text>According to the
+			 United Nations Children's Fund (UNICEF), an estimated 60,000,000 girls in
+			 developing countries now ages 20 through 24 were married under the age of 18,
+			 and if present trends continue more than 100,000,000 more girls in developing
+			 countries will be married as children over the next decade, according to the
+			 Population Council.</text>
+			</paragraph><paragraph id="ID96034e4f574f4a36892f521e8bcfb985"><enum>(4)</enum><text>Between
+			 <fraction>1/2</fraction> and <fraction>3/4</fraction> of all girls are married
+			 before the age of 18 in Niger, Chad, Mali, Bangladesh, Guinea, the Central
+			 African Republic, Mozambique, Burkina Faso, and Nepal, according to Demographic
+			 Health Survey data.</text>
+			</paragraph><paragraph id="ID6899af8a39924c55b0062b2ccd9eb681"><enum>(5)</enum><text>Factors
+			 perpetuating child marriage include poverty, a lack of educational or
+			 employment opportunities for girls, parental concerns to ensure sexual
+			 relations within marriage, the dowry system, and the perceived lack of value of
+			 girls.</text>
+			</paragraph><paragraph id="ID5c361436a0ee4f53a9d6929264df4646"><enum>(6)</enum><text>Child marriage
+			 has negative effects on the health of girls, including significantly increased
+			 risk of maternal death and morbidity, infant mortality and morbidity, obstetric
+			 fistula, and sexually transmitted diseases, including HIV/AIDS.</text>
+			</paragraph><paragraph id="ID70ff530d88e840328221665259bf1c92"><enum>(7)</enum><text>According to the
+			 United States Agency for International Development (USAID), increasing the age
+			 at first birth for a woman will increase her chances of survival. Currently,
+			 pregnancy and childbirth complications are the leading cause of death for women
+			 15 to 19 years old in developing countries.</text>
+			</paragraph><paragraph id="IDa27da22ab9e3479393bc7192fc32be0a"><enum>(8)</enum><text>Most countries
+			 with high rates of child marriage have a legally established minimum age of
+			 marriage, yet child marriage persists due to strong traditional norms and the
+			 failure to enforce existing laws.</text>
+			</paragraph><paragraph id="ID3743f37b3b0f433cb526eaa3fae8cba2"><enum>(9)</enum><text>Secretary of
+			 State Hillary Clinton has stated that child marriage is <quote>a clear and
+			 unacceptable violation of human rights</quote>, and that <quote>the Department
+			 of State categorically denounces all cases of child marriage as child
+			 abuse</quote>.</text>
+			</paragraph><paragraph id="IDe917fc67a7bf4156bae358ee220cfa41"><enum>(10)</enum><text>According to an
+			 International Center for Research on Women analysis of Demographic and Health
+			 Survey data, areas or regions in developing countries in which 40 percent or
+			 more of girls under the age of 18 are married are considered high-prevalence
+			 areas for child marriage.</text>
+			</paragraph><paragraph id="IDe72ad9f8752947c1aa2d7eb24ef7e5a2"><enum>(11)</enum><text>Investments in
+			 girls' schooling, creating safe community spaces for girls, and programs for
+			 skills building for out-of-school girls are all effective and demonstrated
+			 strategies for preventing child marriage and creating a pathway to empower
+			 girls by addressing conditions of poverty, low status, and norms that
+			 contribute to child marriage.</text>
+			</paragraph></section><section id="ID439623d1fcb84986a71269bc6c8052b5"><enum>3.</enum><header>Child marriage
+			 defined</header><text display-inline="no-display-inline">In this Act, the term
+			 <term>child marriage</term> means the marriage of a girl or boy, not yet the
+			 minimum age for marriage stipulated in law in the country in which the girl or
+			 boy is a resident or, where there is no such law, under the age of 18.</text>
+		</section><section id="ID96bfa8bc68bb4bc5aa04b48417cb34c8"><enum>4.</enum><header>Sense of
+			 Congress</header><text display-inline="no-display-inline">It is the sense of
+			 Congress that—</text>
+			<paragraph id="ID7973e44f51f24784a68b8ea74746ccf2"><enum>(1)</enum><text>child marriage is
+			 a violation of human rights, and the prevention and elimination of child
+			 marriage should be a foreign policy goal of the United States;</text>
+			</paragraph><paragraph id="ID27cc538050a74b1eb7247fbfea345f1b"><enum>(2)</enum><text>the practice of
+			 child marriage undermines United States investments in foreign assistance to
+			 promote education and skills building for girls, reduce maternal and child
+			 mortality, reduce maternal illness, halt the transmission of HIV/AIDS, prevent
+			 gender-based violence, and reduce poverty; and</text>
+			</paragraph><paragraph id="IDa4cc0d6b41064f68bb17f81e8d476c29"><enum>(3)</enum><text>expanding
+			 educational opportunities for girls, economic opportunities for women, and
+			 reducing maternal and child mortality are critical to achieving the Millennium
+			 Development Goals and the global health and development objectives of the
+			 United States, including efforts to prevent HIV/AIDS.</text>
+			</paragraph></section><section id="ID038ae1a95c0542c486b0b558e024f7f2"><enum>5.</enum><header>Strategy to
+			 prevent child marriage in developing countries</header>
+			<subsection id="IDdbc0c1fbca774fef831240796e397110"><enum>(a)</enum><header>Assistance
+			 authorized</header>
+				<paragraph id="idFB5D1D696EA94D03A1495B8B8C2D1B35"><enum>(1)</enum><header>In
+			 general</header><text>The President is authorized to provide assistance,
+			 including through multilateral, nongovernmental, and faith-based organizations,
+			 to prevent the incidence of child marriage in developing countries through the
+			 promotion of educational, health, economic, social, and legal empowerment of
+			 girls and women.</text>
+				</paragraph><paragraph id="ID33ad71b7fcba476e978c48ec16783ac9"><enum>(2)</enum><header>Priority</header><text>In
+			 providing assistance authorized under paragraph (1), the President shall give
+			 priority to—</text>
+					<subparagraph id="IDaf3b89abafc84ea8928203bb2eb67622"><enum>(A)</enum><text>areas or regions
+			 in developing countries in which 40 percent or more of girls under the age of
+			 18 are married; and</text>
+					</subparagraph><subparagraph id="ID364b8307bf894a97a2b53474fd16d75e"><enum>(B)</enum><text>activities
+			 to—</text>
+						<clause id="ID2620026a489442e5883b34a0b37f2993"><enum>(i)</enum><text>expand and
+			 replicate existing community-based programs that are successful in preventing
+			 the incidence of child marriage;</text>
+						</clause><clause id="IDb49bc0e1ce0f4fafbcc8080e6f9b126e"><enum>(ii)</enum><text>establish pilot
+			 projects to prevent child marriage; and</text>
+						</clause><clause id="ID560f4c972f05401b911417197c30d327"><enum>(iii)</enum><text>share
+			 evaluations of successful programs, program designs, experiences, and
+			 lessons.</text>
+						</clause></subparagraph></paragraph></subsection><subsection id="IDcf700cfbd8ac4e00b5a194602f74bb6e"><enum>(b)</enum><header>Strategy
+			 required</header>
+				<paragraph id="idB62B9FB1CBC8411A9FB65C8DFDFEEE97"><enum>(1)</enum><header>In
+			 general</header><text>The President shall establish a multi-year strategy to
+			 prevent child marriage and promote the empowerment of girls at risk of child
+			 marriage in developing countries, which should address the unique needs,
+			 vulnerabilities, and potential of girls under age 18 in developing
+			 countries.</text>
+				</paragraph><paragraph id="IDe8a0d85323ba4d6d86f1726c96aaba70"><enum>(2)</enum><header>Consultation</header><text>In
+			 establishing the strategy required by paragraph (1), the President shall
+			 consult with Congress, relevant Federal departments and agencies, multilateral
+			 organizations, and representatives of civil society.</text>
+				</paragraph><paragraph id="IDbc09127b5c1d424198ce0ebfaf666cb9"><enum>(3)</enum><header>Elements</header><text>The
+			 strategy required by paragraph (1) shall—</text>
+					<subparagraph id="ID5d3d459d4e5f4ece96d193beabf47397"><enum>(A)</enum><text>focus on areas in
+			 developing countries with high prevalence of child marriage;</text>
+					</subparagraph><subparagraph id="ID561bc7372ab543588061011f048ff85a"><enum>(B)</enum><text>encompass
+			 diplomatic initiatives between the United States and governments of developing
+			 countries, with attention to human rights, legal reforms, and the rule of
+			 law;</text>
+					</subparagraph><subparagraph id="IDd05a8735fe3b45b7bb6ef72537bcd048"><enum>(C)</enum><text>encompass
+			 programmatic initiatives in the areas of education, health, income generation,
+			 changing social norms, human rights, and democracy building; and</text>
+					</subparagraph><subparagraph id="IDdc3005afefba483082e7d5652aaf87dc"><enum>(D)</enum><text>be submitted to
+			 Congress not later than one year after the date of the enactment of this
+			 Act.</text>
+					</subparagraph></paragraph></subsection><subsection id="ID10dd26a2b02a4c3d9a01c8255e2c411f"><enum>(c)</enum><header>Report</header><text>Not
+			 later than three years after the date of the enactment of this Act, the
+			 President should submit to Congress a report that includes—</text>
+				<paragraph id="ID23c3e1e7f87e4bf2b31bd1c19889ae50"><enum>(1)</enum><text>a description of
+			 the implementation of the strategy required by subsection (b);</text>
+				</paragraph><paragraph id="ID15ad4b6a82364656b554f014f4dad41e"><enum>(2)</enum><text>examples of best
+			 practices or programs to prevent child marriage in developing countries that
+			 could be replicated; and</text>
+				</paragraph><paragraph id="IDa436c5dd15fc4ceca3e4c4945f03db8d"><enum>(3)</enum><text>an assessment,
+			 including data disaggregated by age and sex to the extent possible, of current
+			 United States funded efforts to specifically prevent child marriage in
+			 developing countries.</text>
+				</paragraph></subsection><subsection id="ID93f2b3dd97bb4312bb1385f81312c1c7"><enum>(d)</enum><header>Coordination</header><text>Assistance
+			 authorized under subsection (a) shall be integrated with existing United States
+			 development programs.</text>
+			</subsection><subsection id="id1B78A1937C5043289FDEA0AE65149D12"><enum>(e)</enum><header>Activities
+			 supported</header><text>Assistance authorized under subsection (a) may be made
+			 available for activities in the areas of education, health, income generation,
+			 agriculture development, legal rights, democracy building, and human rights,
+			 including—</text>
+				<paragraph id="IDc5853808edce4bda864f865992aa4106"><enum>(1)</enum><text>support for
+			 community-based activities that encourage community members to address beliefs
+			 or practices that promote child marriage and to educate parents, community
+			 leaders, religious leaders, and adolescents of the health risks associated with
+			 child marriage and the benefits for adolescents, especially girls, of access to
+			 education, health care, livelihood skills, microfinance, and savings
+			 programs;</text>
+				</paragraph><paragraph id="ID2249d1d2dfcf430bb54045da51825131"><enum>(2)</enum><text>support for
+			 activities to educate girls in primary and secondary school at the appropriate
+			 age and keeping them in age-appropriate grade levels through
+			 adolescence;</text>
+				</paragraph><paragraph id="ID42c5531e2c024c6f87b2f0ac87fbfaff"><enum>(3)</enum><text>support for
+			 activities to reduce education fees and enhance safe and supportive conditions
+			 in primary and secondary schools to meet the needs of girls, including—</text>
+					<subparagraph id="IDea860de09b634ddbae4287863c09e77e"><enum>(A)</enum><text>access to water
+			 and suitable hygiene facilities, including separate lavatories and latrines for
+			 girls;</text>
+					</subparagraph><subparagraph id="ID8a7afd729aba42fdaf6f3bfa64d9e977"><enum>(B)</enum><text>assignment of
+			 female teachers;</text>
+					</subparagraph><subparagraph id="IDac5a1db0698e4ba9b47b92df9121b987"><enum>(C)</enum><text>safe routes to
+			 and from school; and</text>
+					</subparagraph><subparagraph id="ID2a524e01c1ed4064b25329de9b8e7775"><enum>(D)</enum><text>eliminating
+			 sexual harassment and other forms of violence and coercion;</text>
+					</subparagraph></paragraph><paragraph id="IDb4890b7e52ef4082aca88cf2f3db0505"><enum>(4)</enum><text>support for
+			 activities that allow adolescent girls to access health care services and
+			 proper nutrition, which is essential to both their school performance and their
+			 economic productivity;</text>
+				</paragraph><paragraph id="ID262678c125394028bd1dc4cdf0ae4736"><enum>(5)</enum><text>assistance to
+			 train adolescent girls and their parents in financial literacy and access
+			 economic opportunities, including livelihood skills, savings, microfinance, and
+			 small-enterprise development;</text>
+				</paragraph><paragraph id="IDcf221698c89f407594201b9df9ecce5f"><enum>(6)</enum><text>support for
+			 education, including through community and faith-based organizations and youth
+			 programs, that helps remove gender stereotypes and the bias against girls used
+			 to justify child marriage, especially efforts targeted at men and boys,
+			 promotes zero tolerance for violence, and promotes gender equality, which in
+			 turn help to increase the perceived value of girls;</text>
+				</paragraph><paragraph id="ID9846515fbfe04d2c9d13ed1418b398d8"><enum>(7)</enum><text>assistance to
+			 create peer support and female mentoring networks and safe social spaces
+			 specifically for girls; and</text>
+				</paragraph><paragraph id="IDb71a26df8e524ce79bc5f897b7e444fa"><enum>(8)</enum><text>support for local
+			 advocacy work to provide legal literacy programs at the community level to
+			 ensure that governments and law enforcement officials are meeting their
+			 obligations to prevent child and forced marriage.</text>
+				</paragraph></subsection></section><section id="ID35091875645446a9a47a3bee337d7b89"><enum>6.</enum><header>Research and
+			 data</header><text display-inline="no-display-inline">It is the sense of
+			 Congress that the President and all relevant agencies should, as part of their
+			 ongoing research and data collection activities—</text>
+			<paragraph id="ID3bda4fb9dcb2461da03d4b82cadafbf0"><enum>(1)</enum><text>collect and make
+			 available data on the incidence of child marriage in countries that receive
+			 foreign or development assistance from the United States where the practice of
+			 child marriage is prevalent; and</text>
+			</paragraph><paragraph id="IDd8f886b295454fc594c81505bc8b85e0"><enum>(2)</enum><text>collect and make
+			 available data on the impact of the incidence of child marriage and the age at
+			 marriage on progress in meeting key development goals.</text>
+			</paragraph></section><section id="IDf251254d40964af9bcfc583b760c36ef"><enum>7.</enum><header>Department of
+			 State's country reports on human rights practices</header><text display-inline="no-display-inline">The Foreign Assistance Act of 1961 is
+			 amended—</text>
+			<paragraph id="ID92aa00eb5dfa4408ba69c163d82ee3a6"><enum>(1)</enum><text>in section 116
+			 (22 U.S.C. 2151n), by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="id1862A3FDEE0A404F86D9534A622232D9" style="OLC">
+					<subsection id="ID88236511f2d0451197702386284a88fb"><enum>(g)</enum><text>The report
+				required by subsection (d) shall include, for each country in which child
+				marriage is prevalent, a description of the status of the practice of child
+				marriage in such country. In this subsection, the term <term>child
+				marriage</term> means the marriage of a girl or boy, not yet the minimum age
+				for marriage stipulated in law or under the age of 18 if no such law exists, in
+				the country in which such girl or boy is a
+				resident.</text>
+					</subsection><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+			</paragraph><paragraph id="ID2bf5edcfa67842a69325d6e67e0138be"><enum>(2)</enum><text>in section 502B
+			 (22 U.S.C. 2304), by adding at the end the following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="id27F43ED7EF484D1380F7163C389786B3" style="OLC">
+					<subsection id="ID963360ee34b24f5f8912d319403c460a"><enum>(j)</enum><text>The report
+				required by subsection (b) shall include, for each country in which child
+				marriage is prevalent, a description of the status of the practice of child
+				marriage in such country. In this subsection, the term <term>child
+				marriage</term> means the marriage of a girl or boy, not yet the minimum age
+				for marriage stipulated in law or under the age of 18 if no such law exists, in
+				the country in which such girl or boy is a
+				resident.</text>
+					</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</paragraph></section></legis-body>
+</bill>

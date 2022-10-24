@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 1528</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110908">September 8, 2011</action-date>
+			<action-desc><sponsor name-id="S321">Mr. Johanns</sponsor> (for
+			 himself, <cosponsor name-id="S153">Mr. Grassley</cosponsor>,
+			 <cosponsor name-id="S105">Mr. Lugar</cosponsor>, <cosponsor name-id="S343">Mr.
+			 Boozman</cosponsor>, <cosponsor name-id="S260">Mr. Roberts</cosponsor>,
+			 <cosponsor name-id="S299">Mr. Vitter</cosponsor>, <cosponsor name-id="S339">Mr.
+			 Kirk</cosponsor>, <cosponsor name-id="S236">Mr. Inhofe</cosponsor>,
+			 <cosponsor name-id="S348">Mr. Paul</cosponsor>, <cosponsor name-id="S345">Mr.
+			 Johnson of Wisconsin</cosponsor>, <cosponsor name-id="S261">Mr.
+			 Sessions</cosponsor>, <cosponsor name-id="S303">Mr. Thune</cosponsor>,
+			 <cosponsor name-id="S254">Mr. Enzi</cosponsor>, <cosponsor name-id="S347">Mr.
+			 Moran</cosponsor>, <cosponsor name-id="S305">Mr. Isakson</cosponsor>,
+			 <cosponsor name-id="S342">Mr. Blunt</cosponsor>, <cosponsor name-id="S344">Mr.
+			 Hoeven</cosponsor>, <cosponsor name-id="S290">Mr. Chambliss</cosponsor>,
+			 <cosponsor name-id="S283">Mr. Nelson of Nebraska</cosponsor>, and
+			 <cosponsor name-id="S312">Mrs. McCaskill</cosponsor>) introduced the following
+			 bill; which was read twice and referred to the
+			 <committee-name committee-id="SSEV00">Committee on Environment and Public
+			 Works</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Clean Air Act to limit Federal regulation of
+		  nuisance dust in areas in which that dust is regulated under State, tribal, or
+		  local law, to establish a temporary prohibition against revising any national
+		  ambient air quality standard applicable to coarse particulate matter, and for
+		  other purposes.</official-title>
+	</form>
+	<legis-body id="H8023D53E00074FA088749AA127EB93B2" style="OLC">
+		<section id="HB77AD0ED9EA7497DAFE19736B811218A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Farm Dust Regulation Prevention Act of
+			 2011</short-title></quote>.</text>
+		</section><section id="HB02B3E2AB0564F90B4AF060651D7AA63"><enum>2.</enum><header>Nuisance
+			 dust</header><text display-inline="no-display-inline">Part A of title I of the
+			 Clean Air Act (42 U.S.C. 7401 et seq.) is amended by adding at the end the
+			 following:</text>
+			<quoted-block display-inline="no-display-inline" id="H3876EBF104E440AE89D71355E8A895E3" style="OLC">
+				<section id="H348F04F3376549CB86C8D99390D808B3"><enum>132.</enum><header>Regulation of
+				nuisance dust primarily by State, tribal, and local governments</header>
+					<subsection id="HF2E1EEFDC8E44E45AABC30CF31F06652"><enum>(a)</enum><header>Definition of
+				nuisance dust</header><text display-inline="yes-display-inline">In this
+				section, the term <term>nuisance dust</term> means particulate matter—</text>
+						<paragraph id="H594ABD05EB4348FFB7E441248CCEBEBD"><enum>(1)</enum><text>generated from
+				natural sources, unpaved roads, agricultural activities, earth moving, or other
+				activities typically conducted in rural areas; or</text>
+						</paragraph><paragraph id="HFB91EDD6A5A2484BB7F91CA64BA553DD"><enum>(2)</enum><text display-inline="yes-display-inline">consisting primarily of soil, windblown
+				dust, or other natural or biological materials, or some combination of those
+				materials.</text>
+						</paragraph></subsection><subsection id="HDDDA2B3AB28F4B3696EB189AA367891A"><enum>(b)</enum><header>Applicability</header><text display-inline="yes-display-inline">Except as provided in subsection (c), this
+				Act does not apply to, and references in this Act to particulate matter are
+				deemed to exclude, nuisance dust.</text>
+					</subsection><subsection id="H2F77230379174A1DAD683E026CE05938"><enum>(c)</enum><header>Exception</header><text display-inline="yes-display-inline">Subsection (b) does not apply with respect
+				to any geographical area in which nuisance dust is not regulated under State,
+				tribal, or local law to the extent that the Administrator finds that—</text>
+						<paragraph id="HCD9FA1CDD933442B8B169188DE9BD977"><enum>(1)</enum><text display-inline="yes-display-inline">nuisance dust (or any subcategory of
+				nuisance dust) causes substantial adverse public health and welfare effects at
+				ambient concentrations; and</text>
+						</paragraph><paragraph id="H011A8694D4764D4C89FC2085646DC9CA"><enum>(2)</enum><text display-inline="yes-display-inline">the benefits of applying standards and
+				other requirements of this Act to nuisance dust (or such a subcategory of
+				nuisance dust) outweigh the costs (including local and regional economic and
+				employment impacts) of applying those standards and other requirements to
+				nuisance dust (or such a
+				subcategory).</text>
+						</paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section><section display-inline="no-display-inline" id="H77E2FD06421F402187777F1E792F903E" section-type="subsequent-section"><enum>3.</enum><header>Temporary prohibition
+			 against revising any national ambient air quality standard applicable to coarse
+			 particulate matter</header><text display-inline="no-display-inline">Before the
+			 date that is 1 year after the date of the enactment of this Act, the
+			 Administrator of the Environmental Protection Agency may not propose, finalize,
+			 implement, or enforce any regulation revising the national primary ambient air
+			 quality standard or the national secondary ambient air quality standard
+			 applicable to particulate matter with an aerodynamic diameter greater than 2.5
+			 micrometers under section 109 of the Clean Air Act (42 U.S.C. 7409).</text>
+		</section></legis-body>
+</bill>

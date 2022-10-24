@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-print="no" public-private="public" stage-count="1" star-print="no-star-print">
+	<form display="yes">
+		<distribution-code display="yes">II</distribution-code>
+		<congress display="yes">111th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num display="yes">S. 1121</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED
+		  STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20090521">May 21, 2009</action-date>
+			<action-desc><sponsor name-id="S172">Mr. Harkin</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSHR00">Committee on Health, Education, Labor,
+			 and Pensions</committee-name></action-desc>
+		</action>
+		<legis-type display="yes">A BILL</legis-type>
+		<official-title display="yes">To amend part D of title V of the
+		  Elementary and Secondary Education Act of 1965 to provide grants for the
+		  repair, renovation, and construction of elementary and secondary schools,
+		  including early learning facilities at the elementary schools.</official-title>
+	</form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC">
+		<section commented="no" display-inline="no-display-inline" id="S1" section-type="section-one"><enum>1.</enum><header display-inline="yes-display-inline">Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>School Building Fairness Act of
+			 2009</short-title></quote>.</text>
+		</section><section commented="no" display-inline="no-display-inline" id="ID632d1b0ed7f744498462994d52798b71" section-type="subsequent-section"><enum>2.</enum><header display-inline="yes-display-inline">Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+			<paragraph commented="no" display-inline="no-display-inline" id="IDc493197937d1473eb7b43b6d088fb835"><enum>(1)</enum><text display-inline="yes-display-inline">Providing safe, healthy, and up-to-date
+			 public elementary and secondary school facilities is a crucial component of
+			 improving student academic performance and retaining high-quality, committed
+			 educators.</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID29d92df72bd3413e80dd595801f56a39"><enum>(2)</enum><text display-inline="yes-display-inline">The 2009 Infrastructure Report Card
+			 compiled by the American Society of Civil Engineers gives public schools a D
+			 grade.</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDc952dab02baa4a9fa4da1e053d6e99ea"><enum>(3)</enum><text display-inline="yes-display-inline">The National Center for Education
+			 Statistics, in 2000, reported that the Nation's elementary and secondary
+			 schools required approximately $127,000,000,000 to repair or upgrade
+			 facilities.</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDcfa195cbb6264cfa8dbfa6e62b66d61a"><enum>(4)</enum><text display-inline="yes-display-inline">A State-by-State analysis by the American
+			 Federation of Teachers in 2008 concluded that the Nation's school
+			 infrastructure needs total an estimated $254,600,000,000.</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDd3c84d2915584fc4b3e7204457745cfe"><enum>(5)</enum><text display-inline="yes-display-inline">The Department of Education documented in
+			 1998 that the average age of a public elementary or secondary school building
+			 was estimated at 42 years old, an age when schools tend to deteriorate.</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID42fc584f1bf04411a9bed3c24457e19f"><enum>(6)</enum><text display-inline="yes-display-inline">School districts spent more than
+			 $304,000,000,000 for public school construction contracts from 1995 through
+			 2004, according to data collected by McGraw-Hill Construction.</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID61c6ebdd26ae4940907fe0623acb3c62"><enum>(7)</enum><text display-inline="yes-display-inline">According to a 2006 report by the Building
+			 Educational Success Together coalition, the per-student investment made in the
+			 most affluent school districts to repair or construct schools was nearly double
+			 the amount of the per-student investment made in the most disadvantaged school
+			 districts.</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID977202e4572f4e6784b9a0abef3c1032"><enum>(8)</enum><text display-inline="yes-display-inline">Since 1998, the Iowa Demonstration
+			 Construction Grant Program has provided $121,000,000 in Federal assistance to
+			 over 300 school districts for school repair and construction. That Federal
+			 investment in school repair and construction has leveraged more than
+			 $600,000,000 of additional local funding through a match required by the State
+			 government.</text>
+			</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID627a30287aee4ed1acf62901054a079a"><enum>(9)</enum><text display-inline="yes-display-inline">Green schools use an average of 33 percent
+			 less energy than conventionally built schools, and generate financial savings
+			 of about $70 per square foot, according to the 2006 report <quote>Greening
+			 America’s Schools: Costs and Benefits</quote>.</text>
+			</paragraph></section><section commented="no" display-inline="no-display-inline" id="ID16afa86ca88542a4b63d8b51fa575144" section-type="subsequent-section"><enum>3.</enum><header display-inline="yes-display-inline">Grants for school repair, renovation, and
+			 construction</header><text display-inline="no-display-inline">Part D of title V
+			 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7241 et seq.)
+			 is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="idCFA7E7F6B6344B43A12B900A8C2D4118" style="OLC">
+				<subpart commented="no" id="idEC1EEC7D53F8474F8C7CC22829428DFA" level-type="subsequent"><enum>22</enum><header display-inline="yes-display-inline">School facilities</header>
+					<section commented="no" display-inline="no-display-inline" id="ID69adac78549b495490115ac8cffa2008" section-type="subsequent-section"><enum>5621.</enum><header display-inline="yes-display-inline">Grants for school repair, renovation, and
+				construction</header>
+						<subsection commented="no" display-inline="no-display-inline" id="ID9555d86dca39468a802c5711f7a3d822"><enum>(a)</enum><header display-inline="yes-display-inline">Definitions</header><text display-inline="yes-display-inline">In this section:</text>
+							<paragraph commented="no" display-inline="no-display-inline" id="IDdf6316a1415147bd8184061be22b455d"><enum>(1)</enum><header display-inline="yes-display-inline">Charter
+				school</header><text display-inline="yes-display-inline">The term <term>charter
+				school</term> has the meaning given the term in section 5210.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID65e5f353940f4063bf12f0226915739c"><enum>(2)</enum><header display-inline="yes-display-inline">CHPS Criteria</header><text display-inline="yes-display-inline">The term <term>CHPS Criteria</term> means
+				the green building rating criteria developed by the Collaborative for High
+				Performance Schools.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID2d5154ebe95e477198fb4f48304a782a"><enum>(3)</enum><header display-inline="yes-display-inline">Energy star</header><text display-inline="yes-display-inline">The term <term>Energy Star</term> means the
+				Energy Star program of the Department of Energy and the Environmental
+				Protection Agency.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDd3cc5e7306ed4a7e9f7f244981e49e79"><enum>(4)</enum><header display-inline="yes-display-inline">Green globes</header><text display-inline="yes-display-inline">The term <term>Green Globes</term> means
+				the Green Building Initiative environmental design and rating system.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID542d6831a1184ab7b3d2ec578dfdf749"><enum>(5)</enum><header display-inline="yes-display-inline">High-need local educational
+				agency</header><text display-inline="yes-display-inline">The term
+				<term>high-need local educational agency</term> has the meaning given the term
+				in section 2102(3)(A).</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDd4e84d86403542f29d818797c3eaa12f"><enum>(6)</enum><header display-inline="yes-display-inline">LEED green building rating
+				system</header><text display-inline="yes-display-inline">The term <term>LEED
+				Green Building Rating System</term> means the United States Green Building
+				Council Leadership in Energy and Environmental Design green building rating
+				system.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDc96424174dcc421da1e33646e4790da0"><enum>(7)</enum><header display-inline="yes-display-inline">Rural local educational
+				agency</header><text display-inline="yes-display-inline">The term <term>rural
+				local educational agency</term> means a local educational agency that the State
+				determines is located in a rural area using objective data and a commonly
+				employed definition of the term <term>rural</term>.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDa50e0f90e32c4287bb1bd23655697767"><enum>(8)</enum><header display-inline="yes-display-inline">State</header><text display-inline="yes-display-inline">The term <term>State</term> means each of
+				the several states of the United States, the District of Columbia, and the
+				Commonwealth of Puerto Rico.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID69eb54669a144082bddcafb6e7821369"><enum>(b)</enum><header display-inline="yes-display-inline">Allocation of funds</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="ID05ff2e2db34647f68634469f3c80557b"><enum>(1)</enum><header display-inline="yes-display-inline">Reservations</header><text display-inline="yes-display-inline">From the funds appropriated under
+				subsection (i) for a fiscal year, the Secretary shall reserve 1 percent to
+				provide assistance to the outlying areas and for payments to the Secretary of
+				the Interior to provide assistance to schools funded by the Bureau of Indian
+				Education. Funds allocated under this subparagraph shall be reserved by the
+				Secretary for distribution among the outlying areas and the Secretary of the
+				Interior on the basis of their relative need for public elementary school and
+				secondary school repair, renovation, and construction, as determined by the
+				Secretary.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID9a0c7e60a07b4a8e9cca1d6a3b0787ac"><enum>(2)</enum><header display-inline="yes-display-inline">Allocation to State educational
+				agencies</header><text display-inline="yes-display-inline">From the funds
+				appropriated under subsection (i) for a fiscal year that are not reserved under
+				paragraph (1) for the fiscal year, the Secretary shall allocate to each State
+				educational agency serving a State an amount that bears the same relation to
+				the funds as the amount the State received under part A of title I for the
+				fiscal year preceding the fiscal year for which the determination is made bears
+				to the amount all States received under such part for such preceding fiscal
+				year, except that no such State educational agency shall receive less than 0.5
+				percent of the amount allocated under this subsection.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID68f958e4fa544d72930f5dabce2794ed"><enum>(c)</enum><header display-inline="yes-display-inline">Within-State distributions</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="ID996fc66eec4c4b75a3d49898f716f99b"><enum>(1)</enum><header display-inline="yes-display-inline">Administrative and other costs</header>
+								<subparagraph commented="no" display-inline="no-display-inline" id="ID5e1257c3cd414c4e8c64aa0a865c7e1a"><enum>(A)</enum><header display-inline="yes-display-inline">State educational agency administration and
+				other costs</header><text display-inline="yes-display-inline">Except as
+				provided in subparagraph (D), each State educational agency may reserve not
+				more than 1 percent of the State educational agency's allocation under
+				subsection (b) for the purposes of administering the distribution of grants
+				under this subsection and awarding grants under subparagraph (C)(v).</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID844172f9049d4294a5974a657bda3235"><enum>(B)</enum><header display-inline="yes-display-inline">Required uses</header><text display-inline="yes-display-inline">The State educational agency shall use a
+				portion of the funds reserved under subparagraph (A)—</text>
+									<clause commented="no" display-inline="no-display-inline" id="id88E5B74FE40548D995E4FEB054688728"><enum>(i)</enum><text display-inline="yes-display-inline">to provide technical assistance to local
+				educational agencies; and</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="id89FFD3371E794C209ABACFE943617DC8"><enum>(ii)</enum><text display-inline="yes-display-inline">to establish or support a State-level
+				database of public elementary school and secondary school facility inventory,
+				condition, design, and utilization.</text>
+									</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID99937fee4e354cb6a20010149938d5c7"><enum>(C)</enum><header display-inline="yes-display-inline">Permissible uses</header><text display-inline="yes-display-inline">The State educational agency may use a
+				portion of the funds reserved under subparagraph (A) for—</text>
+									<clause commented="no" display-inline="no-display-inline" id="ID8c74b6c21d4e4a88bf1439b45cfcf30c"><enum>(i)</enum><text display-inline="yes-display-inline">developing a statewide public elementary
+				school and secondary school educational facility master plan;</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="ID1e65d11583ee43849bf58c7170dcea7c"><enum>(ii)</enum><text display-inline="yes-display-inline">developing policies, procedures, and
+				standards for high-quality, energy efficient public elementary school and
+				secondary school facilities;</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="ID92df5f0fcee747cb8f20ba9e1494dc53"><enum>(iii)</enum><text display-inline="yes-display-inline">supporting interagency collaboration that
+				will lead to broad community use of public elementary school and secondary
+				school facilities, and school-based services for students served by high-need
+				local educational agencies or rural local educational agencies;</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="ID03b0ff4152414a699d152561fb4d2927"><enum>(iv)</enum><text display-inline="yes-display-inline">helping to defray the cost of issuing State
+				bonds to finance public elementary school and secondary school repair,
+				renovation, and construction; and</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="ID4a6e9dc5c66f444081d316313fbf11af"><enum>(v)</enum><text display-inline="yes-display-inline">awarding grants to State-operated or
+				State-supported schools, such as a State school for the deaf or for the blind,
+				to enable such schools to carry out school repair, renovation, and construction
+				activities in accordance with subsection (d).</text>
+									</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDe72733991f4a46618c04d32ca558bfb8"><enum>(D)</enum><header display-inline="yes-display-inline">State entity administration and other
+				costs</header><text display-inline="yes-display-inline">If the State
+				educational agency transfers funds to a State entity described in paragraph
+				(2)(A), the State educational agency shall transfer to such State entity not
+				less than 75 percent of the amount reserved under subparagraph (A) for the
+				purpose of carrying out the activities described in subparagraph (C).</text>
+								</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID78d4a27f30bc42dcbfcfaaf85ff41da9"><enum>(2)</enum><header display-inline="yes-display-inline">Distribution of competitive school repair,
+				renovation, and construction grants to local educational agencies</header>
+								<subparagraph commented="no" display-inline="no-display-inline" id="IDe326b86af2854a6b8e26ff728e719f09"><enum>(A)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Of the funds allocated to a State
+				educational agency under subsection (b) that are not reserved under paragraph
+				(1), the State educational agency shall distribute 100 percent of such funds to
+				local educational agencies or, if the State educational agency is not
+				responsible for the financing of education facilities, the State educational
+				agency shall transfer such funds to the State entity responsible for the
+				financing of education facilities (referred to in this section as the
+				<term>State entity</term>) for distribution by such State entity to local
+				educational agencies in accordance with this paragraph, to be used, consistent
+				with subsection (d), for public elementary school or secondary school repair,
+				renovation, and construction.</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID8835725c5f5b4a02b5b5d1caf1971be2"><enum>(B)</enum><header display-inline="yes-display-inline">Competitive grants to local educational
+				agencies</header><text display-inline="yes-display-inline">The State
+				educational agency or State entity shall carry out a program to award grants,
+				on a competitive basis, to local educational agencies for public elementary
+				school or secondary school repair, renovation, and construction. Of the total
+				amount available for distribution to local educational agencies under this
+				paragraph, the State educational agency or State entity, shall, in carrying out
+				the grant competition—</text>
+									<clause commented="no" display-inline="no-display-inline" id="ID33a72ac9be1f483bb1fe30ef8cc09b1f"><enum>(i)</enum><text display-inline="yes-display-inline">award to high-need local educational
+				agencies, in the aggregate, not less than an amount which bears the same
+				relationship to such total amount as the aggregate amount such high-need local
+				educational agencies received under part A of title I for the fiscal year
+				preceding the fiscal year for which the determination is made bears to the
+				aggregate amount received for such preceding fiscal year under such part by all
+				local educational agencies in the State;</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="ID3ad9359b9c2d481c8fb9bdee18f7f0d9"><enum>(ii)</enum><text display-inline="yes-display-inline">award to rural local educational agencies
+				in the State, in the aggregate, not less than an amount which bears the same
+				relationship to such total amount as the aggregate amount such rural local
+				educational agencies received under part A of title I for the fiscal year
+				preceding the fiscal year for which the determination is made bears to the
+				aggregate amount received for such preceding fiscal year under such part by all
+				local educational agencies in the State; and</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="ID2b9d035967af40a3a41bcb456cdc601a"><enum>(iii)</enum><text display-inline="yes-display-inline">award the remaining funds to local
+				educational agencies in the State that did not receive a grant award under
+				clause (i) or (ii), including to high-need local educational agencies and rural
+				local educational agencies that did not receive a grant award under clause (i)
+				or (ii).</text>
+									</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDd4762280b099495ca7d9a459c7dbc480"><enum>(C)</enum><header display-inline="yes-display-inline">Criteria for awarding grants</header><text display-inline="yes-display-inline">In awarding competitive grants under this
+				paragraph, a State educational agency or State entity shall take into account
+				the following criteria:</text>
+									<clause commented="no" display-inline="no-display-inline" id="ID272d64b714084d36aebe9dd997770a44"><enum>(i)</enum><header display-inline="yes-display-inline">Percentage of poor children</header><text display-inline="yes-display-inline">The percentage of children served by the
+				local educational agency who are between 5 to 17 years of age, inclusive, and
+				who are from families with incomes below the poverty line.</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="ID3167eba280424381bb60351b7a08b230"><enum>(ii)</enum><header display-inline="yes-display-inline">Need for school repair, renovation, and
+				construction</header><text display-inline="yes-display-inline">The need of a
+				local educational agency for school repair, renovation, and construction, as
+				demonstrated by the condition of the public elementary school or secondary
+				school facilities of the local educational agency or the local educational
+				agency's need for such facilities.</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="IDc80c33f1463c48e4bd33f074c7f10126"><enum>(iii)</enum><header display-inline="yes-display-inline">Green schools</header><text display-inline="yes-display-inline">The extent to which a local educational
+				agency will make use, in the repair, renovation, or construction to be
+				undertaken, of green practices that are certified, verified, or consistent with
+				any applicable provisions of—</text>
+										<subclause commented="no" display-inline="no-display-inline" id="IDbdef46a22adc43158ce5da27d331a7b9"><enum>(I)</enum><text display-inline="yes-display-inline">the LEED Green Building Rating
+				System;</text>
+										</subclause><subclause commented="no" display-inline="no-display-inline" id="IDa3a661b04dc8472e9912c4f5ea220bb0"><enum>(II)</enum><text display-inline="yes-display-inline">Energy Star;</text>
+										</subclause><subclause commented="no" display-inline="no-display-inline" id="IDa693d681986644159cd4510e537e9029"><enum>(III)</enum><text display-inline="yes-display-inline">the CHPS Criteria;</text>
+										</subclause><subclause commented="no" display-inline="no-display-inline" id="ID8322829062964282b3592d6f4b1b00ea"><enum>(IV)</enum><text display-inline="yes-display-inline">Green Globes; or</text>
+										</subclause><subclause commented="no" display-inline="no-display-inline" id="IDd216e952c8e243a6a3e4090ef6d84cc8"><enum>(V)</enum><text display-inline="yes-display-inline">an equivalent program adopted by the State
+				or another jurisdiction with authority over the local educational
+				agency.</text>
+										</subclause></clause><clause commented="no" display-inline="no-display-inline" id="IDfbe80a291a324237826ce0ad37843e12"><enum>(iv)</enum><header display-inline="yes-display-inline">Fiscal capacity</header><text display-inline="yes-display-inline">The fiscal capacity of a local educational
+				agency to meet the needs of the local educational agency for repair,
+				renovation, and construction of public elementary school or secondary school
+				facilities without assistance under this section, including the ability of the
+				local educational agency to raise funds through the use of local bonding
+				capacity and otherwise.</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="ID97d2196918bc4e03b08a6d20ba96f82f"><enum>(v)</enum><header display-inline="yes-display-inline">Likelihood of maintaining the
+				facility</header><text display-inline="yes-display-inline">The likelihood that
+				a local educational agency will maintain, in good condition, any facility whose
+				repair, renovation, or construction is assisted under this section.</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="ID437a0a868ac24dd7a7ece2303ae6e3f2"><enum>(vi)</enum><header display-inline="yes-display-inline">Charter school access to
+				funding</header><text display-inline="yes-display-inline">In the case of a
+				local educational agency that proposes to fund a repair, renovation, or
+				construction project for a public charter school, the extent to which the
+				public charter school lacks access to funding for the project through the
+				financing methods available to other public schools or local educational
+				agencies in the State.</text>
+									</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDdc84e7c59ea645f5a12c29be1651bf71"><enum>(D)</enum><header display-inline="yes-display-inline">Matching requirement</header>
+									<clause commented="no" display-inline="no-display-inline" id="ID52b4b15d16ec4e4982487afbba646e10"><enum>(i)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">A State educational agency or State entity
+				shall require local educational agencies to match funds awarded under this
+				paragraph.</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="ID33d1703300b147bba5822ffb18c215e6"><enum>(ii)</enum><header display-inline="yes-display-inline">Match amount</header><text display-inline="yes-display-inline">The amount of a match described in clause
+				(i) may be established by using a sliding scale that takes into account the
+				relative poverty of the population served by the local educational
+				agency.</text>
+									</clause></subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="IDc0fc12d5ceef4f1bbc2332b7d9d2abdb"><enum>(d)</enum><header display-inline="yes-display-inline">Rules applicable to school repair,
+				renovation, and construction</header><text display-inline="yes-display-inline">With respect to funds made available under
+				this section that are used for school repair, renovation, and construction, the
+				following rules shall apply:</text>
+							<paragraph commented="no" display-inline="no-display-inline" id="ID1bdc5b69bd7c4b688aceaa4e200b7e6e"><enum>(1)</enum><header display-inline="yes-display-inline">Permissible uses of funds</header><text display-inline="yes-display-inline">School repair, renovation, and construction
+				shall be limited to 1 or more of the following:</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="ID9f87d1a5155d4463b93e672edc3da575"><enum>(A)</enum><text display-inline="yes-display-inline">Upgrades, repair, construction, or
+				replacement of public elementary school or secondary school building systems or
+				components to improve the quality of education and ensure the health and safety
+				of students and staff, including—</text>
+									<clause commented="no" display-inline="no-display-inline" id="IDf494c3ea468b4ad185a630112f1916f6"><enum>(i)</enum><text display-inline="yes-display-inline">repairing, replacing, or constructing early
+				learning facilities at public elementary schools (including renovation of
+				existing facilities to serve children under 5 years of age);</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="IDd5b8bde9a62c404b80f60617ad6e8171"><enum>(ii)</enum><text display-inline="yes-display-inline">repairing, replacing, or installing roofs,
+				windows, doors, electrical wiring, plumbing systems, or sewage systems;</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="IDe90cf317af7e41e2907d3e4ca522a63a"><enum>(iii)</enum><text display-inline="yes-display-inline">repairing, replacing, or installing
+				heating, ventilation, or air conditioning systems (including insulation);
+				and</text>
+									</clause><clause commented="no" display-inline="no-display-inline" id="ID5a6d7082f70e4093892bfb5ad0e53097"><enum>(iv)</enum><text display-inline="yes-display-inline">bringing such public schools into
+				compliance with fire and safety codes.</text>
+									</clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID8d4c09e8f67c447da92e3e3c0e9b88ed"><enum>(B)</enum><text display-inline="yes-display-inline">School facilities modifications necessary
+				to render public elementary school or secondary school facilities accessible in
+				order to comply with the Americans with Disabilities Act of 1990 (42 U.S.C.
+				12101 et seq.) and section 504 of the Rehabilitation Act of 1973 (29 U.S.C.
+				794).</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDff7c05070983478eae30b3b6ab763a08"><enum>(C)</enum><text display-inline="yes-display-inline">Improvements to the environmental
+				conditions of public elementary school or secondary school sites, including
+				asbestos abatement or removal, and the reduction or elimination of human
+				exposure to lead-based paint, mold, or mildew.</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID5c9b6b8c35ea498490dcaa0c70d7cf36"><enum>(D)</enum><text display-inline="yes-display-inline">Measures designed to reduce or eliminate
+				human exposure to classroom noise and environmental noise pollution.</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID5fd74cbdade24b1897ab194e264c90e7"><enum>(E)</enum><text display-inline="yes-display-inline">Modifications necessary to reduce the
+				consumption of electricity, natural gas, oil, water, coal, or land.</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID193e78b184e44b4eaba4f1e3a5dd31cd"><enum>(F)</enum><text display-inline="yes-display-inline">Upgrades or installations of educational
+				technology infrastructure to ensure that students have access to up-to-date
+				educational technology.</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDa49766ab84d64dc68d2e3b7ea31f26f2"><enum>(G)</enum><text display-inline="yes-display-inline">Measures that will broaden or improve the
+				use of public elementary school or secondary school buildings and grounds by
+				the community in order to improve educational outcomes.</text>
+								</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDe636b69ac598479b9c20ca89cc1c83ff"><enum>(2)</enum><header display-inline="yes-display-inline">Impermissible uses of funds</header><text display-inline="yes-display-inline">No funds received under this section may be
+				used for—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="ID99a3c850b13c419ea4cfa1d2a4dfced4"><enum>(A)</enum><text display-inline="yes-display-inline">payment of maintenance costs in connection
+				with any projects constructed in whole or part with Federal funds provided
+				under this section;</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDf950e8f2c75748de92382a5fcb7d5792"><enum>(B)</enum><text display-inline="yes-display-inline">purchase or upgrade of vehicles;</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID414bfcf69d3a476fa1bfeba35ea882a1"><enum>(C)</enum><text display-inline="yes-display-inline">improvement or construction of stand-alone
+				facilities whose purpose is not the education of children, including central
+				office administration or operations or logistical support facilities;</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="IDd50bbfb5c46542259c678dcb483512b3"><enum>(D)</enum><text display-inline="yes-display-inline">purchase of information technology
+				hardware, including computer, monitors, or printers; or</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID91a405f697c249f1a68316066588a123"><enum>(E)</enum><text display-inline="yes-display-inline">stadiums or other facilities primarily used
+				for athletic contests or exhibitions or other events for which admission is
+				charged to the general public.</text>
+								</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID906353efd7714423ba188775999a8905"><enum>(3)</enum><header display-inline="yes-display-inline">Supplement, not supplant</header><text display-inline="yes-display-inline">A local educational agency or
+				State-operated or State-supported school shall use Federal funds subject to
+				this subsection only to supplement the amount of funds that would, in the
+				absence of such Federal funds, be made available from non-Federal sources for
+				school repair, renovation, and construction.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="IDcd3f26be1ab348b5a479e44fab01f14d"><enum>(e)</enum><header display-inline="yes-display-inline">Qualified bidders;
+				competition</header><text display-inline="yes-display-inline">Each local
+				educational agency that receives funds under subsection (c)(2) shall ensure
+				that, if the local educational agency carries out repair, renovation, or
+				construction through a contract, any such contract process ensures the maximum
+				number of qualified bidders, including small, minority, and women-owned
+				businesses, through full and open competition.</text>
+						</subsection><subsection commented="no" display-inline="no-display-inline" id="IDb8940b6a106247818c90157fa3a62965"><enum>(f)</enum><header display-inline="yes-display-inline">Public
+				comment</header><text display-inline="yes-display-inline">Each local
+				educational agency receiving funds under subsection (c)(2)—</text>
+							<paragraph commented="no" display-inline="no-display-inline" id="IDcd5bb276132945209950a2a717ed71d2"><enum>(1)</enum><text display-inline="yes-display-inline">shall provide an opportunity for public
+				comment, and ensure that parents, educators, and all other interested members
+				of the community in which the school to be assisted is located have the
+				opportunity to consult, on the use of the funds received under such
+				subsection;</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID121a6fde346742428d2a012f635be662"><enum>(2)</enum><text display-inline="yes-display-inline">shall provide the public with adequate and
+				efficient notice of the opportunity described in paragraph (1) in a widely read
+				and distributed medium; and</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID5ffb33356c064adda3d13ae3430f034d"><enum>(3)</enum><text display-inline="yes-display-inline">shall provide the opportunity described in
+				paragraph (1) in accordance with any applicable State and local law specifying
+				how the comments may be received and how the comments may be reviewed by any
+				member of the public.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID4c9d84994f3649089a3e8bcab7bed563"><enum>(g)</enum><header display-inline="yes-display-inline">Reporting</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="IDb54968b3be8d47d59f19a1c94ffedcc2"><enum>(1)</enum><header display-inline="yes-display-inline">Local reporting</header><text display-inline="yes-display-inline">Each local educational agency receiving
+				funds under subsection (c)(2) shall submit a report to the State educational
+				agency, at such time as the State educational agency may require, describing
+				the use of such funds for school repair, renovation, and construction.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDd2e8189fd603489590a2735e23c197de"><enum>(2)</enum><header display-inline="yes-display-inline">State reporting</header><text display-inline="yes-display-inline">Each State educational agency receiving
+				funds under subsection (b) shall submit to the Secretary, at such time as the
+				Secretary may require, a report on the use of funds received under this section
+				and made available to local educational agencies (and, if applicable, to
+				State-operated or State-sponsored schools) for school repair, renovation, and
+				construction.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID5604ead6cb774663bc8b36d933f9a761"><enum>(h)</enum><header display-inline="yes-display-inline">Reallocation</header><text display-inline="yes-display-inline">If a State educational agency does not
+				apply for an allocation of funds under subsection (b) for a fiscal year, or
+				does not use the State educational agency's entire allocation for such fiscal
+				year, then the Secretary may reallocate the amount of the State educational
+				agency's allocation (or the remainder thereof, as the case may be) for such
+				fiscal year to the remaining State educational agencies in accordance with
+				subsection (b).</text>
+						</subsection><subsection commented="no" display-inline="no-display-inline" id="ID5ef4f30996b54ffba2637194f0d1d45f"><enum>(i)</enum><header display-inline="yes-display-inline">Authorization of
+				appropriations</header><text display-inline="yes-display-inline">There is
+				authorized to be appropriated to carry out this section, $6,000,000,000 for
+				fiscal year 2010, and such sums as may be necessary for each of fiscal years
+				2011 through 2014.</text>
+						</subsection></section><section commented="no" display-inline="no-display-inline" id="ID87ad6d197dad410ca4142228f21b07fa" section-type="subsequent-section"><enum>5622.</enum><header display-inline="yes-display-inline">National center for education statistics
+				study</header>
+						<subsection commented="no" display-inline="no-display-inline" id="ID7f3ee56204e14af3b4e2ee129fd0da0a"><enum>(a)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">The National Center for Education
+				Statistics (NCES) shall conduct a study of the condition of public elementary
+				school and secondary school facilities in the United States.</text>
+						</subsection><subsection commented="no" display-inline="no-display-inline" id="ID193024b76e8745d9a18fd26c4a5a2111"><enum>(b)</enum><header display-inline="yes-display-inline">Estimates and measures</header><text display-inline="yes-display-inline">In conducting the study, the National
+				Center for Education Statistics shall—</text>
+							<paragraph commented="no" display-inline="no-display-inline" id="IDd0baffac8ce242fea72ad581f81b2629"><enum>(1)</enum><text display-inline="yes-display-inline">estimate the costs needed to repair and
+				renovate all public elementary schools and secondary schools in the United
+				States to good overall condition; and</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID8aa1dcf4981a4167bf668d187b29733d"><enum>(2)</enum><text display-inline="yes-display-inline">measure recent expenditures of Federal,
+				State, local and private funds for public elementary school and secondary
+				school repair, renovation, and construction costs in the United States.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="ID430b0c8a7da84fac977af48c0300871a"><enum>(c)</enum><header display-inline="yes-display-inline">Analysis</header><text display-inline="yes-display-inline">In conducting the study, the National
+				Center for Education Statistics shall examine trends in expenditures of
+				Federal, State, local, and private funds since fiscal year 2001 for repair,
+				renovation, and construction activities for public elementary schools and
+				secondary schools in the United States, including examining the differences
+				between the types of schools assisted, and the types of repair, renovation, and
+				construction activities conducted, with those expenditures.</text>
+						</subsection><subsection commented="no" display-inline="no-display-inline" id="IDac7cb2c33e8d4a00a6ec5bb909971a93"><enum>(d)</enum><header display-inline="yes-display-inline">Report</header><text display-inline="yes-display-inline">The National Center for Education
+				Statistics shall prepare and submit to Congress a report containing the results
+				of the study.</text>
+						</subsection></section><section commented="no" display-inline="no-display-inline" id="ID7405cefb0087469cab9568cca1298d13" section-type="subsequent-section"><enum>5623.</enum><header display-inline="yes-display-inline">National clearinghouse for educational
+				facilities</header>
+						<subsection commented="no" display-inline="no-display-inline" id="IDf15f387ced244d3991e1ab290ecee4fd"><enum>(a)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">From the funds appropriated under
+				subsection (c), the Secretary shall award a grant or contract to maintain a
+				clearinghouse that will collect and disseminate information on effective, best
+				educational practices, and the latest research, regarding the planning, design,
+				financing, construction, improvement, operation, and maintenance of safe,
+				healthy, high-performance public school facilities for nursery and
+				pre-kindergarten, kindergarten through grade 12, and higher, education.</text>
+						</subsection><subsection commented="no" display-inline="no-display-inline" id="ID0b94161c0e6240efaa3b123a5b4ced81"><enum>(b)</enum><header display-inline="yes-display-inline">Duration</header><text display-inline="yes-display-inline">The grant or contract under subsection (a)
+				shall be awarded for a period of 5 years.</text>
+						</subsection><subsection commented="no" display-inline="no-display-inline" id="ID2cf2fa938b2c4a3aae63720e4c1701ec"><enum>(c)</enum><header display-inline="yes-display-inline">Authorization of
+				appropriations</header><text display-inline="yes-display-inline">There are
+				authorized to be appropriated to carry out this section $1,500,000 for each of
+				fiscal years 2010 through
+				2014.</text>
+						</subsection></section></subpart><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>

@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 1238</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110621" legis-day="20110616">June 21 (legislative
+			 day, June 16), 2011</action-date>
+			<action-desc><sponsor name-id="S245">Ms. Snowe</sponsor> (for herself
+			 and <cosponsor name-id="S176">Mr. Rockefeller</cosponsor>) introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To make bills implementing trade agreements subject to a
+		  point of order unless certain conditions are met, and for other
+		  purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>Currency Exchange Rate
+			 Transparency Act</short-title></quote>.</text>
+		</section><section id="idC688C21602264D969D7A69DB60E3C16F"><enum>2.</enum><header>Limitations on
+			 bills implementing trade agreements</header>
+			<subsection id="id16C12F1732A046FA89E9AE32EBB63D25"><enum>(a)</enum><header>In
+			 general</header><text>Notwithstanding section 151 of the Trade Act of 1974 (19
+			 U.S.C. 2191) or any other provision of law, any bill implementing a trade
+			 agreement between the United States and another country (or extending permanent
+			 normal trade relations) shall be subject to a point of order pursuant to
+			 subsection (c) unless—</text>
+				<paragraph id="idEC723BDD17214331BF943E4621F9A90E"><enum>(1)</enum><text>the bill is
+			 accompanied by a Presidential certification described in subsection (b);
+			 and</text>
+				</paragraph><paragraph id="idD4BB2C1CC0714AC0870ABD1021C0A828"><enum>(2)</enum><text>the bill contains
+			 a provision approving that certification.</text>
+				</paragraph></subsection><subsection id="id42923447361D49A9A7F4BAAA3566CAE9"><enum>(b)</enum><header>Certification</header>
+				<paragraph id="id87B4CF3725554BE5A4C3BA41CA591F1F"><enum>(1)</enum><header>In
+			 general</header><text>A certification described in this subsection means a
+			 certification submitted by the President to the Congress that, in the 10-year
+			 period preceding the certification, the government of a country described in
+			 paragraph (2) has not engaged in the intervention or manipulation of the rate
+			 of exchange between that country's currency and the United States dollar for
+			 purposes of preventing effective balance of payments adjustments or gaining
+			 unfair competitive advantage in international trade.</text>
+				</paragraph><paragraph id="id84E6B9A156884D3897DE5FA704E5AF66"><enum>(2)</enum><header>Country
+			 described</header><text>A country described in this paragraph is a
+			 country—</text>
+					<subparagraph id="id704B27CBD87E42DC83F8A725FE767EF6"><enum>(A)</enum><text>with respect to
+			 which the United States is entering into a trade agreement; or</text>
+					</subparagraph><subparagraph id="id5A324C4B4B6C41BF983AE239D2AAD28F"><enum>(B)</enum><text>with respect to
+			 which the United States is extending permanent normal trade relations</text>
+					</subparagraph></paragraph></subsection><subsection id="ID79622ADEC2B349EDA3DE7314EFA17BBD"><enum>(c)</enum><header>Point of Order
+			 in Senate</header>
+				<paragraph id="ID8B41A648D5374DD5BCB8A199946C409A"><enum>(1)</enum><header>In
+			 general</header><text>The Senate shall cease consideration of a bill to
+			 implement a trade agreement (or to extend permanent normal trade relations),
+			 if—</text>
+					<subparagraph id="id687A4B3828AD49DE8144F31A02A8A5CD"><enum>(A)</enum><text>a point of order
+			 is made by any Senator against the bill because the bill is not accompanied by
+			 a certification described in subsection (b); and</text>
+					</subparagraph><subparagraph id="idB46B95B0FBFC485CA0A12858DF047A90"><enum>(B)</enum><text>the point of
+			 order is sustained by the presiding officer.</text>
+					</subparagraph></paragraph><paragraph id="ID704134B200AF429F833CE74C783C50D6"><enum>(2)</enum><header>Waivers and
+			 appeals</header>
+					<subparagraph id="IDC0B4F5FA683A438FB48FA3A71AD8DBE8"><enum>(A)</enum><header>Waivers</header><text>Before
+			 the presiding officer rules on a point of order described in paragraph (1), any
+			 Senator may move to waive the point of order and the motion to waive shall not
+			 be subject to amendment. A point of order described in paragraph (1) is waived
+			 only by the affirmative vote of a majority of the Members of the Senate, duly
+			 chosen and sworn.</text>
+					</subparagraph><subparagraph id="ID2EB4FAC8A896453D8D746BB1C3A8EB5B"><enum>(B)</enum><header>Appeals</header><text>After
+			 the presiding officer rules on a point of order under this paragraph, any
+			 Senator may appeal the ruling of the presiding officer on the point of order as
+			 it applies to some or all of the provisions on which the presiding officer
+			 ruled. A ruling of the presiding officer on a point of order described in
+			 paragraph (1) is sustained unless a majority of the Members of the Senate, duly
+			 chosen and sworn, vote not to sustain the ruling.</text>
+					</subparagraph><subparagraph id="ID64D18D0B91164F2EAE33E624278A8F13"><enum>(C)</enum><header>Debate</header><text>Debate
+			 on a motion to waive under subparagraph (A) or on an appeal of the ruling of
+			 the presiding officer under subparagraph (B) shall be limited to 1 hour. The
+			 time shall be equally divided between, and controlled by, the majority leader
+			 and the minority leader of the Senate, or their designees.</text>
+					</subparagraph></paragraph></subsection></section></legis-body>
+</bill>

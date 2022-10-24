@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 1827</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20111108">November 8, 2011</action-date>
+			<action-desc><sponsor name-id="S284">Ms. Stabenow</sponsor> (for
+			 herself and <cosponsor name-id="S293">Mr. Graham</cosponsor>) introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish a Trade Enforcement Division in the Office
+		  of the United States Trade Representative, and for other
+		  purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>Trade Prosecutor Act of
+			 2011</short-title></quote>.</text>
+		</section><section id="idC9BCB6C45D3E47719E25B6A93E3A846A"><enum>2.</enum><header>Establishment of
+			 Trade Enforcement Division and Deputy United States Trade Representative for
+			 Trade Enforcement</header>
+			<subsection commented="no" display-inline="no-display-inline" id="id0F1E8763ECBD438E9940C040BF205F0F"><enum>(a)</enum><header>Establishment</header><text>Chapter
+			 4 of title I of the Trade Act of 1974 (19 U.S.C. 2171) is amended by adding at
+			 the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idEC0CA0D186794F80BD182E236B28F8F6" style="OLC">
+					<section commented="no" display-inline="no-display-inline" id="id3922AFF1EABF4B2CB6217B0AD2DB4B6F"><enum>142.</enum><header>Trade
+				Enforcement Division and Deputy United States Trade Representative for Trade
+				Enforcement</header>
+						<subsection id="id8BAA51E22FDA45C8AB0F12DB7A1A4828"><enum>(a)</enum><header>Establishment
+				of Trade Enforcement Division</header><text>There is established within the
+				Office of the United States Trade Representative a Trade Enforcement Division
+				(in this section referred to as the <term>Division</term>).</text>
+						</subsection><subsection commented="no" display-inline="no-display-inline" id="id3A0BE7BABC924783AA52531BE3F60469"><enum>(b)</enum><header>Establishment
+				of position of Deputy United States Trade Representative for Trade
+				Enforcement</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="id3072DF0D723C4CFB9E2B95E9B74E5F20"><enum>(1)</enum><header>In
+				general</header><text display-inline="yes-display-inline">The Division shall be
+				headed by a Deputy United States Trade Representative for Trade
+				Enforcement.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id0DFB7C4A4625470DB1BB94946D4DBF60"><enum>(2)</enum><header>Appointment and
+				nomination</header><text display-inline="yes-display-inline">The Deputy United
+				States Trade Representative for Trade Enforcement shall be appointed by the
+				President, by and with the advice and consent of the Senate. As an exercise of
+				the rulemaking power of the Senate, any nomination of the Deputy United States
+				Trade Representative for Trade Enforcement submitted to the Senate for its
+				advice and consent, and referred to a committee, shall be referred to the
+				Committee on Finance.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id2F39A2CBEA72452EBF7C5F0179C503FC"><enum>(3)</enum><header>Rank</header><text display-inline="yes-display-inline">The Deputy United States Trade
+				Representative for Trade Enforcement shall hold office at the pleasure of the
+				President and shall have the rank of Ambassador.</text>
+							</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="IDe5baefc1c7bf4d198049f2e076de8119"><enum>(c)</enum><header>Functions of
+				Deputy United States Trade Representative for Trade Enforcement</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="ID5ae3d49c55704247873c2f0cac7496a3"><enum>(1)</enum><header>Principal
+				function</header><text display-inline="yes-display-inline">The principal
+				function of the Deputy United States Trade Representative for Trade Enforcement
+				shall be to ensure that United States trading partners comply with trade
+				agreements to which the United States is a party.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idF27800A94C8A4B04BFBCC06BFF97C215"><enum>(2)</enum><header>Additional
+				functions</header><text display-inline="yes-display-inline">The Deputy United
+				States Trade Representative for Trade Enforcement shall—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="id033C91AC724D413A974AE173E839A09B"><enum>(A)</enum><text display-inline="yes-display-inline">assist the United States Trade
+				Representative in investigating and prosecuting disputes before the World Trade
+				Organization and pursuant to other bilateral or regional trade agreements to
+				which the United States is a party;</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id2C65556CD1AB4BE9A8359A6EE893A082"><enum>(B)</enum><text display-inline="yes-display-inline">assist the United States Trade
+				Representative in carrying out the United States Trade Representative's
+				functions under section 141(d);</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idE2EAA09A1D3241D6BAB2B829A90BFC0E"><enum>(C)</enum><text display-inline="yes-display-inline">make recommendations with respect to the
+				administration of United States trade laws relating to barriers imposed by
+				foreign governments to the importation of United States goods, services, and
+				intellectual property, and other trade matters; and</text>
+								</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id9ED4AD125D034FBF80FDCB2337D23A39"><enum>(D)</enum><text display-inline="yes-display-inline">perform such other functions as the United
+				States Trade Representative may direct.</text>
+								</subparagraph></paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id11093C476EC14F85B9990C0073BDA6C3"><enum>(d)</enum><header>Office of Trade
+				Assistance for Small Business</header>
+							<paragraph id="H7E70194FAC2145B385A200CA462E5311"><enum>(1)</enum><header>Establishment</header><text display-inline="yes-display-inline">There is established within the Division
+				the Office of Trade Assistance for Small Business.</text>
+							</paragraph><paragraph id="HEC6267C3524343FDB9651970F8809769"><enum>(2)</enum><header>Functions</header><text>The
+				Office of Trade Assistance for Small Business shall provide technical and legal
+				assistance and advice to eligible small businesses to enable such small
+				businesses to prepare and file petitions (other than those that, in the opinion
+				of the Office, are frivolous) under section 302.</text>
+							</paragraph><paragraph commented="no" display-inline="no-display-inline" id="H2E1F022963414FB292D0F2BB2C5C8712"><enum>(3)</enum><header>Eligible small
+				business defined</header><text>The term <quote>eligible small business</quote>
+				means any business concern that, in the judgment of the Office of Trade
+				Assistance for Small Business, due to its size, has neither adequate internal
+				resources nor financial ability to obtain qualified outside assistance in
+				preparing and filing petitions and complaints under section 302. In determining
+				whether a business concern is an eligible small business, the Office of Trade
+				Assistance for Small Business may consult with the Administrator of the Small
+				Business Administration and the heads of other appropriate Federal departments
+				and
+				agencies.</text>
+							</paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="id4688B266758E4C98ADBC43243E61A0C5"><enum>(b)</enum><header>Conforming
+			 amendment</header><text display-inline="yes-display-inline">The table of
+			 contents for the Trade Act of 1974 is amended by inserting after the item
+			 relating to section 141 the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id5A51F46968334D27AE8BDC65E25581BB" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">Sec. 142. Trade Enforcement Division and
+				Deputy United States Trade Representative for Trade
+				Enforcement.</toc-entry>
+					</toc>
+					<after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="id367C61D4980844FA9089D7A6872F3AAE"><enum>(c)</enum><header>Compensation
+			 for Deputy United States Trade Representative for Trade
+			 Enforcement</header><text display-inline="yes-display-inline">Section 5314 of
+			 title 5, United States Code, is amended by striking <quote>Deputy United States
+			 Trade Representatives (3).</quote> and inserting <quote>Deputy United States
+			 Trade Representatives (4).</quote>.</text>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="idB6C55B3E6F5A48AFB5692AB4CD3575A9"><enum>(d)</enum><header>Conforming
+			 repeal</header><text>Section 2112 of the Bipartisan Trade Promotion Authority
+			 Act of 2002 (19 U.S.C. 3812) is repealed.</text>
+			</subsection></section><section id="id3F858A628622426CB6012112F1471D55"><enum>3.</enum><header>Establishment of
+			 Chief Manufacturing Negotiator</header>
+			<subsection id="IDccbe3317a1004403bb162981b1533adc"><enum>(a)</enum><header>Establishment
+			 of position</header><text>Section 141(b)(2) of the Trade Act of 1974 (19 U.S.C.
+			 2171(b)(2)) is amended to read as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="id5FD051CBEEBD4975A9B3799FE0F6D8F4" style="OLC">
+					<paragraph id="ID1575b02627cc4f4eb40402cfb3986215" indent="up1"><enum>(2)</enum><text>There shall be in the Office 3 Deputy
+				United States Trade Representatives (in addition to the Deputy United States
+				Trade Representative for Trade Enforcement established under section 142), 1
+				Chief Agricultural Negotiator, and 1 Chief Manufacturing Negotiator who shall
+				all be appointed by the President, by and with the advice and consent of the
+				Senate. As an exercise of the rulemaking power of the Senate, any nomination of
+				a Deputy United States Trade Representative, the Chief Agricultural Negotiator,
+				or the Chief Manufacturing Negotiator submitted to the Senate for its advice
+				and consent, and referred to a committee, shall be referred to the Committee on
+				Finance. Each Deputy United States Trade Representative, the Chief Agricultural
+				Negotiator, and the Chief Manufacturing Negotiator shall hold office at the
+				pleasure of the President and shall have the rank of
+				Ambassador.</text>
+					</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+			</subsection><subsection id="ID08083e00fce54f41ba709d7d74a2d112"><enum>(b)</enum><header>Functions of
+			 position</header><text>Section 141(c) of the Trade Act of 1974 (19 U.S.C.
+			 2171(c)) is amended—</text>
+				<paragraph id="idD6DABA7CCCFA4846899761ADA222D211"><enum>(1)</enum><text>by moving
+			 paragraph (5) 2 ems to the left; and</text>
+				</paragraph><paragraph id="id3D4F7C862DD54DA2A80CAB1D1667E1D2"><enum>(2)</enum><text>by adding at the
+			 end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id16998B6EECB64FC798710189839EB516" style="OLC">
+						<paragraph id="IDf1a5079b6f00468eaf75f4fd614bc602" indent="up1"><enum>(6)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="idD9C222A859B94B28AE655655E2EE2B61"><enum>(A)</enum><text>The principal function
+				of the Chief Manufacturing Negotiator shall be to conduct trade negotiations
+				and to enforce trade agreements relating to United States manufacturing
+				products and services. The Chief Manufacturing Negotiator shall be a vigorous
+				advocate on behalf of United States manufacturing interests and shall perform
+				such other functions as the United States Trade Representative may
+				direct.</text>
+							</subparagraph><subparagraph id="idE9BFCA3543094F13A180620174DF4D20" indent="up1"><enum>(B)</enum><text>Not later than 1 year after the date
+				of the enactment of this paragraph, and annually thereafter, the Chief
+				Manufacturing Negotiator shall submit to the Committee on Finance of the Senate
+				and the Committee on Ways and Means of the House of Representatives a report on
+				the actions taken by the Chief Manufacturing Negotiator in the preceding
+				year.</text>
+							</subparagraph></paragraph><after-quoted-block>. </after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="IDcde97206005e414fb7fccf644b8742e7"><enum>(c)</enum><header>Compensation</header><text>Section
+			 5314 of title 5, United States Code, as amended by section 101(c), is further
+			 amended by inserting <quote>Chief Manufacturing Negotiator.</quote> after
+			 <quote>Chief Agricultural Negotiator.</quote>.</text>
+			</subsection><subsection id="IDe97aa78eb4214541939b8c4e54b8ac5d"><enum>(d)</enum><header>Technical
+			 amendments</header><text>Section 141(e) of the Trade Act of 1974 (19 U.S.C.
+			 2171(e)) is amended—</text>
+				<paragraph id="ID3d0c1ae9c77748ea8eeb735939e2fe7b"><enum>(1)</enum><text>in paragraph (1),
+			 by striking <quote>5314</quote> and inserting <quote>5315</quote>; and</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDe9c5e09206e94a04a32ed640dc91adc1"><enum>(2)</enum><text>in paragraph (2),
+			 by striking <quote>the maximum rate of pay for grade GS–18, as provided in
+			 section 5332</quote> and inserting <quote>the maximum rate of pay for level IV
+			 of the Executive Schedule in section 5315</quote>.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>

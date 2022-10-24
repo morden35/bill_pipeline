@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>111th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 666</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20090323">March 23, 2009</action-date>
+			<action-desc><sponsor name-id="S230">Mr. Feingold</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and
+			 Forestry</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prohibit products that contain dry ultra-filtered milk
+		  products, milk protein concentrate, or casein from being labeled as domestic
+		  natural cheese, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>Quality Cheese Act of
+			 2009</short-title></quote>.</text>
+		</section><section id="id4636D94BB47E483C993ACCE6F9713049"><enum>2.</enum><header>Natural cheese
+			 standard</header>
+			<subsection id="idFC4BD0F807BB4F3482A6EB18145B76BC"><enum>(a)</enum><header>Findings</header><text>Congress
+			 finds that—</text>
+				<paragraph id="IDe7bf39b46e9a45079d6401f988c47d4e"><enum>(1)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id0475E69DE29445668BE0DDC9B07815AA"><enum>(A)</enum><text>any change in domestic
+			 natural cheese standards to allow dry ultra-filtered milk products, milk
+			 protein concentrate, or casein to be labeled as domestic natural cheese would
+			 result in increased costs to the dairy price support program; and</text>
+					</subparagraph><subparagraph id="id2B1FC48FD056469186DA982BDF8DDA83" indent="up1"><enum>(B)</enum><text>that change would be unfair to
+			 taxpayers, who would be forced to pay more program costs;</text>
+					</subparagraph></paragraph><paragraph id="IDa94b5c11b0ee44de8ad7c4d37e259584"><enum>(2)</enum><text>any change in
+			 domestic natural cheese standards to allow dry ultra-filtered milk products,
+			 milk protein concentrate, or casein to be labeled as domestic natural cheese
+			 would result in lower revenues for dairy farmers;</text>
+				</paragraph><paragraph id="ID550c8325cc7c4c9e8d95519d484a053d"><enum>(3)</enum><text>any change in
+			 domestic natural cheese standards to allow dry ultra-filtered milk products,
+			 milk protein concentrate, or casein to be labeled as domestic natural cheese
+			 would cause dairy products containing dry ultra-filtered milk, milk protein
+			 concentrate, or casein to become vulnerable to contamination and would
+			 compromise the sanitation, hydrosanitary, and phytosanitary standards of the
+			 United States dairy industry; and</text>
+				</paragraph><paragraph id="IDd6d0c05633684c1e9bf03fa53c8a5491"><enum>(4)</enum><text>changing the
+			 labeling standard for domestic natural cheese would be misleading to the
+			 consumer.</text>
+				</paragraph></subsection><subsection id="ID8b7006722be9427dbfb093d9e755e402"><enum>(b)</enum><header>Prohibition</header><text>Section
+			 401 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 341) is
+			 amended—</text>
+				<paragraph id="ID4ef330880e384d2396c476cadea65786"><enum>(1)</enum><text>by striking
+			 <quote>Whenever</quote> and inserting <quote>(a) Whenever</quote>; and</text>
+				</paragraph><paragraph id="ID7f82f8b801f4492b8635c2b7276c9290"><enum>(2)</enum><text>by adding at the
+			 end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idA6A1161DFC2C4F1F86FA9E2141B09CE4" style="OLC">
+						<subsection id="ID54335486b8324dd2be8c1ec99917414a"><enum>(b)</enum><text>The Commissioner
+				may not use any Federal funds to amend section 133.3 of title 21, Code of
+				Federal Regulations (or any corresponding similar regulation or ruling), to
+				include dry ultra-filtered milk, milk protein concentrate, or casein in the
+				definition of the term <quote>milk</quote> or <quote>nonfat milk</quote>, as
+				defined in the standards of identity for cheese and cheese products published
+				at part 133 of title 21, Code of Federal Regulations (or any corresponding
+				similar regulation or
+				ruling).</text>
+						</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection></section></legis-body>
+</bill>

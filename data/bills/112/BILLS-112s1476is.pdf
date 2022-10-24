@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 1476</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110802">August 2, 2011</action-date>
+			<action-desc><sponsor name-id="S118">Mr. Hatch</sponsor> (for himself
+			 and <cosponsor name-id="S301">Mr. Coburn</cosponsor>) introduced the following
+			 bill; which was read twice and referred to the
+			 <committee-name committee-id="SSGA00">Committee on Homeland Security and
+			 Governmental Affairs</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To reduce the size of the Federal workforce and Federal
+		  employee costs relating to pay, bonuses, and travel expenses.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>Federal Workforce Reduction and
+			 Reform Act of 2011</short-title></quote>.</text>
+		</section><section id="idC9992D713B074F3898D9F4D3E9539910"><enum>2.</enum><header>Freeze on pay
+			 and bonuses of Federal employees</header>
+			<subsection commented="no" display-inline="no-display-inline" id="idE4685EEF32294D889D986DE4B9044AB2"><enum>(a)</enum><header>Extension of
+			 pay freeze for Federal employees to 3 years</header><text display-inline="yes-display-inline">Section 147 of the Continuing
+			 Appropriations Act, 2011 (Public Law 111–242) is amended—</text>
+				<paragraph commented="no" display-inline="no-display-inline" id="idC9DCC6F8F61D4458900B13A501F68BE7"><enum>(1)</enum><text>in subsection
+			 (b)(1), by striking <quote>December 31, 2012</quote> and inserting
+			 <quote>December 31, 2014</quote>; and</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idD395D14489D54938AE0F6EFF495667B2"><enum>(2)</enum><text display-inline="yes-display-inline">in subsection (c), by striking
+			 <quote>December 31, 2012</quote> and inserting <quote>December 31,
+			 2014</quote>.</text>
+				</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id00EA2866A0B54BB48244B33CD9084547"><enum>(b)</enum><header>3-Year freeze
+			 on bonuses</header>
+				<paragraph commented="no" display-inline="no-display-inline" id="id5BA9219158214A57AC0F3E8126F5478E"><enum>(1)</enum><header>Definitions</header><text>In
+			 this subsection—</text>
+					<subparagraph commented="no" display-inline="no-display-inline" id="id509BB37AEDB447A3ADD5F35F50EFB881"><enum>(A)</enum><text>the term
+			 <term>agency</term> has the meaning given under section 4501(1) of title 5,
+			 United States Code; and</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id72693116C27F4689B444C412B75281DB"><enum>(B)</enum><text>the term
+			 <term>employee</term> has the meaning given under section 4501(2) of title 5,
+			 United States Code.</text>
+					</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id02E2CF0A39C4400E81D52085C8790F94"><enum>(2)</enum><header>Freeze on
+			 bonuses</header><text>Notwithstanding any other provision of law, during each
+			 of fiscal years 2012, 2013, and 2014, no agency may pay any bonus (including
+			 any recruitment or retention bonus) or any cash award (including any
+			 performance-based cash award under section 4505a of title 5, United States
+			 Code, or any similar provision of law) to any employee.</text>
+				</paragraph></subsection></section><section id="H9083282AAD6C4C19B13B2C15CE36D109"><enum>3.</enum><header>Reduction in
+			 Federal workforce</header>
+			<subsection id="H576480AEA39C430BBBF623D3E7872B23"><enum>(a)</enum><header>Definitions</header><text>In
+			 this section—</text>
+				<paragraph id="HF4E333C6B0F34440AA9EED84F49E251E"><enum>(1)</enum><text>the term
+			 <term>agency</term> means an Executive agency as defined under section 105 of
+			 title 5, United States Code, excluding the Government Accountability
+			 Office;</text>
+				</paragraph><paragraph id="H99FB0A946CA844069A1853835AC2A52D"><enum>(2)</enum><text>the term
+			 <term>Federal employee</term> means an employee as defined under section 2105
+			 of title 5, United States Code; and</text>
+				</paragraph><paragraph id="HBC241FACF3EE435698BEB65A9266B8DE"><enum>(3)</enum><text>the term
+			 <term>total number of Federal employees</term> means the total number of
+			 Federal employees in all agencies.</text>
+				</paragraph></subsection><subsection id="H6033D43692B547348C337F33B1470866"><enum>(b)</enum><header>Limitation</header><text>The
+			 President, through the Office of Management and Budget (in consultation with
+			 the Office of Personnel Management), shall take appropriate measures to ensure
+			 that, effective beginning in fiscal year 2022, the total number of Federal
+			 employees shall not exceed 85 percent of the total number of Federal employees
+			 on September 30, 2011.</text>
+			</subsection><subsection id="HDC1CB31A038244278F660802A9EACFCA"><enum>(c)</enum><header>Monitoring and
+			 notification</header><text>The Office of Management and Budget (in consultation
+			 with the Office of Personnel Management)—</text>
+				<paragraph id="H67990F5BC0534A2A98E6116ACC603E77"><enum>(1)</enum><text>shall continuously
+			 monitor all agencies and make a determination, as of September 30, 2011, and
+			 the last day of each quarter of each fiscal year beginning thereafter, as to
+			 whether or not the total number of Federal employees exceeds the maximum number
+			 allowable under subsection (b); and</text>
+				</paragraph><paragraph id="H3F086674A2F048D795F45B0E72C521C9"><enum>(2)</enum><text>whenever a
+			 determination under paragraph (1) is made that the total number of Federal
+			 employees exceeds the maximum number allowable under subsection (b), shall
+			 provide written notice to that effect to the President and Congress within 14
+			 days after the last day of the quarter to which such determination
+			 relates.</text>
+				</paragraph></subsection><subsection id="HB1CDC069920640C895B8E04D2712AEBB"><enum>(d)</enum><header>Compliance</header><text>Whenever,
+			 with respect to the quarter ending on September 30, 2021, or any subsequent
+			 quarter, the Office of Management and Budget provides written notice under
+			 subsection (c)(2) that the total number of Federal employees exceeds the
+			 maximum number allowable under subsection (b), no agency may thereafter appoint
+			 any employee to fill any vacancy within such agency until the Office of
+			 Management and Budget provides written notice to the President and Congress of
+			 a determination under subsection (c)(1) that the total number of Federal
+			 employees no longer exceeds the maximum number allowable under subsection (b).
+			 Any notice under the preceding sentence shall be provided within 14 days after
+			 the last day of the quarter to which the determination relates.</text>
+			</subsection><subsection id="H0484349DBD8A49938AED831D2E1F23E0"><enum>(e)</enum><header>Waiver</header><text>This
+			 section may be waived upon a determination by the President that—</text>
+				<paragraph id="H35B8B49DDF3A4D5AA10EE19C18DE0660"><enum>(1)</enum><text>the existence of a
+			 state of war or other national security concern so requires; or</text>
+				</paragraph><paragraph id="H39CF5CF247C84BEDA5E0F5473B6B55E6"><enum>(2)</enum><text>the existence of
+			 an extraordinary emergency threatening life, health, public safety, property,
+			 or the environment so requires.</text>
+				</paragraph></subsection><subsection id="H0FAB556B007349C5AB79EAC1796B9037"><enum>(f)</enum><header>Counting
+			 rule</header><text>For purposes of this section, any determination of the
+			 number of employees in an agency shall be expressed on a full-time equivalent
+			 basis.</text>
+			</subsection><subsection id="H00F296FD582C4E709AF40DC849C20527"><enum>(g)</enum><header>Limitation on
+			 procurement of service contracts</header><text>The President, through the
+			 Office of Management and Budget (in consultation with the Office of Personnel
+			 Management), shall take appropriate measures to ensure that there is no
+			 increase in the procurement of service contracts by reason of the enactment of
+			 this section, except in cases in which a cost comparison demonstrates that such
+			 contracts would be to the financial advantage of the Government.</text>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="H53CBC79A91F34093A6A8F2902A69CAE6"><enum>(h)</enum><header>Regulations</header><text>Any
+			 regulations necessary to carry out this section may be prescribed by the
+			 President or his designee.</text>
+			</subsection></section><section id="id2BE41D8454D249A0AE16B93066650BFD"><enum>4.</enum><header>Reduction in
+			 contract employees</header>
+			<subsection id="id61CD4A548EA2475DAB27EF05B8858E9B"><enum>(a)</enum><header>Definitions</header><text>In
+			 this section, the term <term>agency</term> means an Executive agency as defined
+			 under section 105 of title 5, United States Code, excluding the Government
+			 Accountability Office.</text>
+			</subsection><subsection id="id262B9EB9FDF344DCA6F3F96C4E626CF6"><enum>(b)</enum><header>Limitation</header><text>The
+			 President, through the Office of Management and Budget (in consultation with
+			 the Office of Personnel Management), shall take appropriate measures to ensure
+			 that, effective beginning in fiscal year 2022, the total number of contract
+			 employees shall not exceed 85 percent of the total number of contract employees
+			 on September 30, 2011.</text>
+			</subsection><subsection id="id19F97D8261FC4466894F346641E93B3D"><enum>(c)</enum><header>Monitoring and
+			 notification</header><text>The Office of Management and Budget (in consultation
+			 with the Office of Personnel Management)—</text>
+				<paragraph id="id30F585EABC1D43EFB24064CCC20E05B4"><enum>(1)</enum><text>shall
+			 continuously monitor all agencies and make a determination, as of September 30,
+			 2011, and the last day of each quarter of each fiscal year beginning
+			 thereafter, as to whether or not the total number of contract employees exceeds
+			 the maximum number allowable under subsection (b); and</text>
+				</paragraph><paragraph id="id3ED564220F0E40C5BBFAF2F5A12A4EA9"><enum>(2)</enum><text>whenever a
+			 determination under paragraph (1) is made that the total number of contract
+			 employees exceeds the maximum number allowable under subsection (b), shall
+			 provide written notice to that effect to the President and Congress within 14
+			 days after the last day of the quarter to which such determination
+			 relates.</text>
+				</paragraph></subsection><subsection id="id60A6F680F0CE40F9B27E872C2E975F91"><enum>(d)</enum><header>Compliance</header><text>Whenever,
+			 with respect to the quarter ending on September 30, 2021, or any subsequent
+			 quarter, the Office of Management and Budget provides written notice under
+			 subsection (c)(2) that the total number of contract employees exceeds the
+			 maximum number allowable under subsection (b), no agency may thereafter appoint
+			 any employee to fill any vacancy within such agency until the Office of
+			 Management and Budget provides written notice to the President and Congress of
+			 a determination under subsection (c)(1) that the total number of contract
+			 employees no longer exceeds the maximum number allowable under subsection (b).
+			 Any notice under the preceding sentence shall be provided within 14 days after
+			 the last day of the quarter to which the determination relates.</text>
+			</subsection><subsection id="idA4D4C5C16A1C4C14B70F371616F32B0F"><enum>(e)</enum><header>Waiver</header><text>This
+			 section may be waived upon a determination by the President that—</text>
+				<paragraph id="id665B0F84E7CB4DD08A07C4CF0C2A360A"><enum>(1)</enum><text>the existence of
+			 a state of war or other national security concern so requires; or</text>
+				</paragraph><paragraph id="idA50A7040916B4C4380F309B0937C794A"><enum>(2)</enum><text>the existence of
+			 an extraordinary emergency threatening life, health, public safety, property,
+			 or the environment so requires.</text>
+				</paragraph></subsection><subsection id="idB9DBEF0B0B734C10BD8552E6F77CF0BC"><enum>(f)</enum><header>Counting
+			 rule</header><text>For purposes of this section, any determination of the
+			 number of contact employees shall be expressed on a full-time equivalent
+			 basis.</text>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="idA93B109C26704B2E91BC55488ADC600A"><enum>(g)</enum><header>Regulations</header><text>Any
+			 regulations necessary to carry out this section may be prescribed by the
+			 President or his designee.</text>
+			</subsection></section><section id="IDca8d3d854b3947ac9220b8886c55f4b4"><enum>5.</enum><header>Limitation of
+			 Government travel costs</header>
+			<subsection id="idED5A862D590C4793977EEFCD0EE267E9"><enum>(a)</enum><header>Definition</header><text>In
+			 this section, the term <term>agency</term>—</text>
+				<paragraph id="idFBCD3A3FDE224428AD85A6728ADFFA4C"><enum>(1)</enum><text>has the meaning
+			 given under section 5701(1) of title 5, United States Code; and</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id27B9018D84F2413F921D9A96ED29E547"><enum>(2)</enum><text>does not include
+			 the Department of Defense.</text>
+				</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id49CDB4DE34E34D0980B9B6BC7F6E4D6B"><enum>(b)</enum><header>Limitation</header>
+				<paragraph id="ID8b951814d9fd4ef1bf7882d268c906cf"><enum>(1)</enum><header>In
+			 General</header><text>Notwithstanding any other provision of law, the total
+			 amount which is paid or reimbursed by an agency under subchapter I of chapter
+			 57 of title 5, United States Code (relating to travel and subsistence expenses;
+			 mileage allowances for official travel by Federal employees) may not—</text>
+					<subparagraph id="idA5FCDA903B494B9AA93540F45F90550C"><enum>(A)</enum><text>for each of
+			 fiscal years 2012 and 2013, exceed 50 percent of the total amount so paid or
+			 reimbursed by such agency for fiscal year 2011; and</text>
+					</subparagraph><subparagraph id="idD56BAA1DD5D948578D84D0DC45F447FB"><enum>(B)</enum><text>for fiscal year
+			 2014, exceed 25 percent of the total amount so paid or reimbursed by such
+			 agency for fiscal year 2011.</text>
+					</subparagraph></paragraph><paragraph id="IDaf6a01a5d3484661bb79a98a14af74fa"><enum>(2)</enum><header>Exceptions</header><text>For
+			 purposes of carrying out paragraph (1), there shall not be taken into account
+			 the amounts paid or reimbursed for—</text>
+					<subparagraph id="ID06e5707cdfd64fcfa7f60fa1cfe0f8b0"><enum>(A)</enum><text>any subsistence
+			 or travel expenses for threatened law enforcement personnel, as described in
+			 section 5706a of title 5, United States Code; or</text>
+					</subparagraph><subparagraph id="ID921b097077fa402fbfb134fdbc66637e"><enum>(B)</enum><text>any other
+			 expenses for which an exception is established under paragraph (3) for reasons
+			 relating to national security or public safety.</text>
+					</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="ID59b4a8bd65194145aa80054b7c3a7e21"><enum>(3)</enum><header>Regulations</header><text>Any
+			 regulations necessary to carry out this subsection shall, in consultation with
+			 the Director of the Office of Management and Budget, be prescribed by the same
+			 respective authorities as are responsible for prescribing regulations under
+			 section 5707 of title 5, United States Code.</text>
+				</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id6C2B246A13DF42F5886AFE48933647F7"><enum>(c)</enum><header>Reserve travel
+			 amount</header>
+				<paragraph commented="no" display-inline="no-display-inline" id="id77786DD791474E5998062BB65FC4CB1A"><enum>(1)</enum><header>Definition</header><text>In
+			 this subsection, the term <term>reserve travel amount</term> means an amount
+			 equal to 10 percent of the total amount of appropriations made available to an
+			 agency in any fiscal year for purposes of payment or reimbursement by that
+			 agency under subchapter I of chapter 57 of title 5, United States Code
+			 (relating to travel and subsistence expenses; mileage allowances for official
+			 travel by Federal employees).</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="idCB804B92929144ADBCC528DEF369BE6D"><enum>(2)</enum><header>Requirement</header><text>For
+			 each of fiscal years 2012 through 2014, each agency shall have a reserve travel
+			 amount available for expenditure or obligation on September 1 of each such
+			 fiscal year for purposes of payment or reimbursement by that agency under
+			 subchapter I of chapter 57 of title 5, United States Code (relating to travel
+			 and subsistence expenses; mileage allowances for official travel by Federal
+			 employees).</text>
+				</paragraph></subsection></section></legis-body>
+</bill>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 769</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110408">April 8, 2011</action-date>
+			<action-desc><sponsor name-id="S172">Mr. Harkin</sponsor> (for himself
+			 and <cosponsor name-id="S305">Mr. Isakson</cosponsor>) introduced the following
+			 bill; which was read twice and referred to</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 38, United States Code, to prevent the
+		  Secretary of Veterans Affairs from prohibiting the use of service dogs on
+		  Department of Veterans Affairs property.</official-title>
+	</form>
+	<legis-body id="HE16C9579794C45A3B9DEC6F8D168D8C8" style="OLC">
+		<section id="H5D24A5AA97204ACAA5E645EDB10FACF2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Veterans Equal Treatment for Service
+			 Dogs Act of 2011</short-title></quote> or the <quote><short-title>VETS Dogs Act of 2011</short-title></quote>.</text>
+		</section><section id="H75355026E549495E994DDBACC1802F6E"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress makes the following
+			 findings:</text>
+			<paragraph id="HBC91C05862C14DE89C13F95B76109C1F"><enum>(1)</enum><text>The usage of
+			 medical service dogs among veterans is increasing.</text>
+			</paragraph><paragraph id="H581BF92E923F47BD9A1E8C2F34B91158"><enum>(2)</enum><text>The Department of
+			 Veterans Affairs currently allows seeing-eye dogs in Department
+			 facilities.</text>
+			</paragraph><paragraph id="H87D4AC0BCB164F518E3C2D8244621269"><enum>(3)</enum><text>The Department
+			 does not place any limitations on the access of seeing-eye dogs to Department
+			 facilities.</text>
+			</paragraph><paragraph id="H499F277DE63640DA9A2C8C75D28158D6"><enum>(4)</enum><text>Titles II and III
+			 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq. and
+			 12181 et seq.) require that a public entity or place of public accommodation
+			 modify its policies, practices, and procedures to allow an individual with a
+			 disability to use a service animal.</text>
+			</paragraph></section><section id="HD48CE33F34934118B9004E5A5D7C0571"><enum>3.</enum><header>Use of service
+			 dogs on property of the Department of Veterans Affairs</header><text display-inline="no-display-inline">Section 1714 of title 38, United States
+			 Code, is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="H0F77C4A562714959BBBEFCF8DAAE96EB" style="USC">
+				<subsection id="HCC8C26D611034CBA9C46E45A0459452C"><enum>(e)</enum><text display-inline="yes-display-inline">The Secretary may not prohibit the use of
+				service dogs provided under subsection (c) in any facility or on any property
+				of the Department or in any facility or on any property that receives funding
+				from the
+				Secretary.</text>
+				</subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+		</section></legis-body>
+</bill>

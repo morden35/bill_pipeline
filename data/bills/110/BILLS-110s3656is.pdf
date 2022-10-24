@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 3656</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20080930" legis-day="20080917">September 30
+			 (legislative day, September 17), 2008</action-date>
+			<action-desc><sponsor name-id="S270">Mr. Schumer</sponsor> (for himself
+			 and <cosponsor name-id="S278">Mrs. Clinton</cosponsor>) introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To preserve access to healthcare under the Medicare and
+		  Medicaid programs.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title; table of contents</header>
+			<subsection id="idADE779F0A13E4E9F9CDE790FD604B7AF"><enum>(a)</enum><header>Short
+			 title</header><text display-inline="yes-display-inline">This Act may be cited
+			 as the <quote><short-title>Preserving Access to Healthcare
+			 (PATH) Act of 2008</short-title></quote>.</text>
+			</subsection><subsection id="idE127EC9DD6804873AD808345FA4A725E"><enum>(b)</enum><header>Table of
+			 contents</header><text>The table of contents of this Act is as follows:</text>
+				<toc>
+					<toc-entry idref="S1" level="section">Sec. 1. Short title; table of
+				contents.</toc-entry>
+					<toc-entry idref="idF6381539FBE545CABD603F276BB115A8" level="section">Sec. 2. Temporary non-application of Medicare phased-out
+				indirect medical education adjustment factor.</toc-entry>
+					<toc-entry idref="id8D6C2E0761E844E2926B6F8D031928AA" level="section">Sec. 3. Delay in implementation of Medicaid outpatient hospital
+				services regulation.</toc-entry>
+					<toc-entry idref="id313549BC38434839B4AEB912D8214437" level="section">Sec. 4. Delay in phase out of the Medicare hospice budget
+				neutrality adjustment factor.</toc-entry>
+					<toc-entry idref="id4F11850FA33244C594F4C04139A9FDDA" level="section">Sec. 5. Treatment of certain Medicaid family demonstration
+				project.</toc-entry>
+					<toc-entry idref="id07A9B4FB2B2442A7942B8A4700A75EB8" level="section">Sec. 6. Delay in implementation of certain provisions relating
+				to Medicare rural health clinics and federally qualified health
+				centers.</toc-entry>
+					<toc-entry idref="idF2DF3C3828F54EAF806CFE3E8C17C213" level="section">Sec. 7. Mandatory State use of National Correct Coding
+				Initiative.</toc-entry>
+					<toc-entry idref="id15FD6B35F5CA4E399828C09016EB34AB" level="section">Sec. 8. Medicaid Improvement Fund technical
+				correction.</toc-entry>
+					<toc-entry idref="id73E9631823414F8F91C83A243F7BB536" level="section">Sec. 9. Funding for the Medicare Improvement Fund.</toc-entry>
+				</toc>
+			</subsection></section><section id="idF6381539FBE545CABD603F276BB115A8"><enum>2.</enum><header>Temporary
+			 non-application of Medicare phased-out indirect medical education adjustment
+			 factor</header>
+			<subsection id="idE458496B89234502A9AC94DEC3C7C4D0"><enum>(a)</enum><header>In
+			 general</header><text>Notwithstanding any other provision of law, during the
+			 period beginning on October 1, 2008, and ending on March 31, 2009, section
+			 412.322 of title 42, Code of Federal Regulations, shall be applied without
+			 regard to paragraph (c) of such section.</text>
+			</subsection><subsection id="id68EAFF0957734619B093A1DFBA7A90F8"><enum>(b)</enum><header>No effect on
+			 subsequent periods</header><text>Nothing in subsection (a) shall be construed
+			 as having any effect on the application of section 412.322 of title 42, Code of
+			 Federal Regulations, after March 31, 2009.</text>
+			</subsection></section><section id="id8D6C2E0761E844E2926B6F8D031928AA"><enum>3.</enum><header>Delay in
+			 implementation of Medicaid outpatient hospital services
+			 regulation</header><text display-inline="no-display-inline">Notwithstanding any
+			 other provision of law, during the 6-month period that begins on the date of
+			 enactment of this Act, the Secretary of Health and Human Services shall not
+			 finalize or otherwise implement provisions contained in the proposed rule
+			 published on September 28, 2007, on pages 55158 through 55166 of volume 72,
+			 Federal Register (relating to parts 440 and 447 of title 42, Code of Federal
+			 Regulations).</text>
+		</section><section id="id313549BC38434839B4AEB912D8214437" section-type="subsequent-section"><enum>4.</enum><header>Delay in phase out of
+			 the Medicare hospice budget neutrality adjustment factor</header><text display-inline="no-display-inline">Notwithstanding any other provision of law,
+			 including the provisions contained in the final rule published on August 8,
+			 2008, on pages 46464 through 46522 of volume 73, Federal Register (relating to
+			 part 418 of title 42, Code of Federal Regulations), the Secretary of Health and
+			 Human Services shall not phase out or eliminate the budget neutrality
+			 adjustment factor in the Medicare hospice wage index prior to April 1,
+			 2009.</text>
+		</section><section id="id4F11850FA33244C594F4C04139A9FDDA"><enum>5.</enum><header>Treatment of
+			 certain Medicaid family demonstration project</header><text display-inline="no-display-inline">The Secretary of Health and Human Services,
+			 acting through the Administer of the Centers for Medicare &amp; Medicaid
+			 Services and upon the request of the State of California, shall extend
+			 approval, and full Federal financial participation, of the State's Medicaid
+			 family planning demonstration project, which was approved under a waiver
+			 pursuant to section 1115 of the Social Security Act, until June 30, 2009, under
+			 the eligibility requirements and processes that were in place for such project
+			 as of the date before the first extension period for such project.</text>
+		</section><section id="id07A9B4FB2B2442A7942B8A4700A75EB8"><enum>6.</enum><header>Delay in
+			 implementation of certain provisions relating to Medicare rural health clinics
+			 and federally qualified health centers</header><text display-inline="no-display-inline">Notwithstanding any other provision of law,
+			 the Secretary of Health and Human Services shall not, prior to April 1, 2009,
+			 take any action (through promulgation of regulation, issuance of regulatory
+			 guidance, or other administrative action) to—</text>
+			<paragraph id="ID46a28d14968f478a8839ca7099ea6c83"><enum>(1)</enum><text>finalize or
+			 otherwise implement provisions contained in the proposed rule published on June
+			 27, 2008, on pages 36696 through 36719 of volume 73, Federal Register, that
+			 relate to—</text>
+				<subparagraph id="id31AE4D98EC5A4AA390FCD543E4D3FAA7"><enum>(A)</enum><text>decertifying
+			 rural health clinics under the Medicare program under title XVIII of the Social
+			 Security Act that are determined to no longer be in nonurbanized areas;
+			 and</text>
+				</subparagraph><subparagraph id="idF39969B292134F558A63E599661B87BA"><enum>(B)</enum><text>changes in the
+			 payment methodology for rural health clinics and federally qualified health
+			 centers under the Medicare program as described in sections 405.2410 and
+			 405.2466(b)(1)(iii) of title 42, Code of Federal Regulations; or</text>
+				</subparagraph></paragraph><paragraph id="IDebf71ecde66a4619814a61317a85dc05"><enum>(2)</enum><text>promulgate or
+			 implement any rule or provisions similar to the provisions described in
+			 paragraph (1).</text>
+			</paragraph></section><section id="idF2DF3C3828F54EAF806CFE3E8C17C213"><enum>7.</enum><header>Mandatory State
+			 use of National Correct Coding Initiative</header>
+			<subsection id="idE54F7C4E164842CA919BDA768260B644"><enum>(a)</enum><header>In
+			 general</header><text display-inline="yes-display-inline">Section 1903(r) of
+			 the Social Security Act (42 U.S.C. 1396b(r)) is amended—</text>
+				<paragraph id="id3F82A9C30A11423F90B1C6F2020834C6"><enum>(1)</enum><text>in paragraph
+			 (1)(B)—</text>
+					<subparagraph id="id0EEECD76839742729BA2AB9AD899C800"><enum>(A)</enum><text display-inline="yes-display-inline">in clause (ii), by striking
+			 <quote>and</quote> at the end;</text>
+					</subparagraph><subparagraph id="ID9260e70095694a4a8be9a2d5091bfa89"><enum>(B)</enum><text>in clause (iii),
+			 by adding <quote>and</quote> after the semicolon; and</text>
+					</subparagraph><subparagraph id="id3B9AA6F08F1A480CB84AD1F4F5A50515"><enum>(C)</enum><text>by adding at the
+			 end the following new clause:</text>
+						<quoted-block display-inline="no-display-inline" id="idBBAB67B171F24E8F941F2E6B0E4E2D72" style="OLC">
+							<clause id="id210D1C4CCF1E444BBA41CEAB35215973"><enum>(iv)</enum><text>effective for
+				claims filed on or after October 1, 2009, incorporate compatible methodologies
+				of the National Correct Coding Initiative administered by the Secretary (or any
+				successor initiative to promote correct coding and to control improper coding
+				leading to inappropriate payment) and such other methodologies of that
+				Initiative (or such other national correct coding methodologies) as the
+				Secretary identifies in accordance with paragraph
+				(3);</text>
+							</clause><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+					</subparagraph></paragraph><paragraph id="id6587F149A465459CBA44B906848AD54D"><enum>(2)</enum><text>by adding at the
+			 end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id3D355BA254624DA0ACE0AEB697F840D3" style="OLC">
+						<paragraph id="id87BDE0F2E36A48869F1103E12A3C1837" indent="up1"><enum>(3)</enum><text>Not later than September 1, 2009, the
+				Secretary shall do the following:</text>
+							<subparagraph id="id6202DBF50AA74AACB596251ECAF91E6E"><enum>(A)</enum><text>Identify those methodologies of the
+				National Correct Coding Initiative administered by the Secretary (or any
+				successor initiative to promote correct coding and to control improper coding
+				leading to inappropriate payment) which are compatible to claims filed under
+				this title.</text>
+							</subparagraph><subparagraph id="idB225009BE6D4426CA17402661B1681B6"><enum>(B)</enum><text>Identify those methodologies of such
+				Initiative (or such other national correct coding methodologies) that should be
+				incorporated into claims filed under this title with respect to items or
+				services for which States provide medical assistance under this title and no
+				national correct coding methodologies have been established under such
+				Initiative with respect to title XVIII.</text>
+							</subparagraph><subparagraph id="idFC2005CF0B604759BC24B109B6C5780C"><enum>(C)</enum><text>Notify States of—</text>
+								<clause id="idF09919C081514499AD87070F9E21F3BB"><enum>(i)</enum><text>the methodologies identified under
+				subparagraphs (A) and (B) (and of any other national correct coding
+				methodologies identified under subparagraph (B)); and</text>
+								</clause><clause id="id18181449A3B8475D982243371A546348"><enum>(ii)</enum><text>how States are to incorporate such
+				methodologies into claims filed under this title.</text>
+								</clause></subparagraph><subparagraph id="idE770B3A3B0C14ABE8B6808AA2A6046FE"><enum>(D)</enum><text>Submit a report to Congress that
+				includes the notice to States under subparagraph (C) and an analysis supporting
+				the identification of the methodologies made under subparagraphs (A) and
+				(B).</text>
+							</subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="id192B0D24BFF24758943FB5BA61EF27A6"><enum>(b)</enum><header>Extension for
+			 state law amendment</header><text>In the case of a State plan under title XIX
+			 of the Social Security Act (42 U.S.C. 1396 et seq.) which the Secretary of
+			 Health and Human Services determines requires State legislation in order for
+			 the plan to meet the additional requirements imposed by the amendment made by
+			 subsection (a)(1)(C), the State plan shall not be regarded as failing to comply
+			 with the requirements of such title solely on the basis of its failure to meet
+			 these additional requirements before the first day of the first calendar
+			 quarter beginning after the close of the first regular session of the State
+			 legislature that begins after the date of enactment of this Act. For purposes
+			 of the previous sentence, in the case of a State that has a 2-year legislative
+			 session, each year of the session is considered to be a separate regular
+			 session of the State legislature.</text>
+			</subsection></section><section id="id15FD6B35F5CA4E399828C09016EB34AB"><enum>8.</enum><header>Medicaid
+			 Improvement Fund technical correction</header>
+			<subsection id="idD66765491B504D77B59D05B9F59A3259"><enum>(a)</enum><header>In
+			 general</header><text display-inline="yes-display-inline">Section 1941(b)(1)(B)
+			 of the Social Security Act, as added by section 7002(b) of the Supplemental
+			 Appropriations Act, 2008, is amended by inserting <quote>each of</quote> after
+			 <quote>for</quote>.</text>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="id126BB3E7233F42A081F555A9E99357E1"><enum>(b)</enum><header>Effective
+			 date</header><text>The amendment made by subsection (a) shall take effect as if
+			 included in the enactment of the Supplemental Appropriations Act, 2008 (Public
+			 Law 110–252).</text>
+			</subsection></section><section id="id73E9631823414F8F91C83A243F7BB536"><enum>9.</enum><header>Funding for the
+			 Medicare Improvement Fund</header><text display-inline="no-display-inline">Section 1898(b)(1) of the Social Security
+			 Act, as added by section 7002(a) of the Supplemental Appropriations Act, 2008
+			 (Public Law 110–252) and as amended by section 188(a)(2) of the Medicare
+			 Improvements for Patients and Providers Act of 2008 (Public Law 110–275) and by
+			 section 6 of the QI Program Supplemental Funding Act of 2008, is amended by
+			 striking <quote>$2,290,000,000</quote> and inserting
+			 <quote>$2,590,000,000</quote>.</text>
+		</section></legis-body>
+</bill>

@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 25</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110125" legis-day="20110105">January 25
+			 (legislative day, January 5), 2011</action-date>
+			<action-desc><sponsor name-id="S324">Mrs. Shaheen</sponsor> (for
+			 herself, <cosponsor name-id="S339">Mr. Kirk</cosponsor>, and
+			 <cosponsor name-id="S253">Mr. Durbin</cosponsor>) introduced the following
+			 bill; which was read twice and referred to the
+			 <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and
+			 Forestry</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To phase out the Federal sugar program, and for other
+		  purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="id859079745DC7429BB696090D8888D46F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Stop Unfair Giveaways and Restrictions
+			 Act of 2011</short-title></quote> or <quote><short-title>SUGAR Act of 2011</short-title></quote>.</text>
+		</section><section id="IDec13324ac8a34706b235b092df1a909d" section-type="subsequent-section"><enum>2.</enum><header>Sugar program</header>
+			<subsection id="ID9da5315b8ebd40e286ccab773885edac"><enum>(a)</enum><header>In
+			 general</header><text>Section 156 of the Federal Agriculture Improvement and
+			 Reform Act of 1996 (7 U.S.C. 7272) is amended—</text>
+				<paragraph id="IDc1a4b7b4d313439aa3090285131195d8"><enum>(1)</enum><text>in subsection
+			 (d), by striking paragraph (1) and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="idFAA6A8CFF5EE495E838BC36101DF2DB9" style="OLC">
+						<paragraph id="ID19a23dab86964c1794b50d76644a826b"><enum>(1)</enum><header>Loans</header><text>The
+				Secretary shall carry out this section through the use of recourse
+				loans.</text>
+						</paragraph><after-quoted-block>;</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="ID42f8b2a4236a44febd4dd5ff05e0e7b5"><enum>(2)</enum><text>by redesignating
+			 subsection (i) as subsection (j);</text>
+				</paragraph><paragraph id="IDa100e9e0bd484f0d8231d7af1b0ba3d6"><enum>(3)</enum><text>by inserting
+			 after subsection (h) the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id137BBEBD282C4FD5B51ABBEEEDB37705" style="OLC">
+						<subsection id="IDd224380e45d3445d9e9f2bff55c73774"><enum>(i)</enum><header>Phased
+				reduction of loan rate</header><text>For each of the 2012, 2013, and 2014 crops
+				of sugar beets and sugarcane, the Secretary shall lower the loan rate for each
+				succeeding crop in a manner that progressively and uniformly lowers the loan
+				rate for sugar beets and sugarcane to $0 for the 2015
+				crop.</text>
+						</subsection><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+				</paragraph><paragraph id="ID9248b248f6dc4f86bce1d1437efe47bd"><enum>(4)</enum><text>in subsection (j)
+			 (as redesignated), by striking <quote>2012</quote> and inserting
+			 <quote>2014</quote>.</text>
+				</paragraph></subsection><subsection id="IDdbc0feaf2751429a8d6998ab16463a1a"><enum>(b)</enum><header>Prospective
+			 repeal</header><text>Effective beginning with the 2015 crop of sugar beets and
+			 sugarcane, section 156 of the Federal Agriculture Improvement and Reform Act of
+			 1996 (7 U.S.C. 7272) is repealed.</text>
+			</subsection></section><section id="id97230421011A48CB8931F9361CB41160"><enum>3.</enum><header>Elimination of
+			 sugar price support and production adjustment programs</header>
+			<subsection id="ID1da049e9c3144bf9891210ba127de884"><enum>(a)</enum><header>In
+			 general</header><text>Notwithstanding any other provision of law—</text>
+				<paragraph id="IDe33c3ab6b30b45b7ba06d137997d5010"><enum>(1)</enum><text>a processor of
+			 any of the 2015 or subsequent crops of sugarcane or sugar beets shall not be
+			 eligible for a loan under any provision of law with respect to the crop;
+			 and</text>
+				</paragraph><paragraph id="IDcb555e1f1fe64b2d80532438f42f6e6f"><enum>(2)</enum><text>the Secretary of
+			 Agriculture may not make price support available, whether in the form of a
+			 loan, payment, purchase, or other operation, for any of the 2015 and subsequent
+			 crops of sugar beets and sugarcane by using the funds of the Commodity Credit
+			 Corporation or other funds available to the Secretary.</text>
+				</paragraph></subsection><subsection id="ID66c22d4810d64baf96198d3b8b110455"><enum>(b)</enum><header>Termination of
+			 marketing quotas and allotments</header>
+				<paragraph id="id77F7D577303148D494898C679AC0F9F2"><enum>(1)</enum><header>In
+			 general</header><text display-inline="yes-display-inline">Part VII of subtitle
+			 B of title III of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1359aa et
+			 seq.) is repealed.</text>
+				</paragraph><paragraph id="ID60cc9e0c82ca4e0485b2d86820342e58"><enum>(2)</enum><header>Conforming
+			 amendment</header><text>Section 344(f)(2) of the Agricultural Adjustment Act of
+			 1938 (7 U.S.C. 1344(f)(2)) is amended by striking <quote>sugar cane for sugar,
+			 sugar beets for sugar,</quote>.</text>
+				</paragraph></subsection><subsection id="id3CDEFF845F4D4095B808D46E962508DC"><enum>(c)</enum><header>General
+			 powers</header>
+				<paragraph id="IDcd7cda8d13be4f4fb8752eddf54d3313"><enum>(1)</enum><header>Section 32
+			 activities</header><text>Section 32 of the Act of August 24, 1935 (7 U.S.C.
+			 612c), is amended in the second sentence of the first paragraph—</text>
+					<subparagraph id="IDd5c80911983f4d169c0ec093d29d6048"><enum>(A)</enum><text>in paragraph (1),
+			 by inserting <quote>(other than sugar beets and sugarcane)</quote> after
+			 <quote>commodities</quote>; and</text>
+					</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="ID00a13971eaf2466bb159eede2d20da22"><enum>(B)</enum><text>in paragraph (3),
+			 by inserting <quote>(other than sugar beets and sugarcane)</quote> after
+			 <quote>commodity</quote>.</text>
+					</subparagraph></paragraph><paragraph id="ID1b8385fbed01463bb575b3d672905da5"><enum>(2)</enum><header>Powers of
+			 commodity credit corporation</header><text>Section 5(a) of the Commodity Credit
+			 Corporation Charter Act (15 U.S.C. 714c(a)) is amended by inserting <quote>,
+			 sugar beets, and sugarcane</quote> after <quote>tobacco</quote>.</text>
+				</paragraph><paragraph id="IDc1c4cc2bf08c494cb9c1b4674283e569"><enum>(3)</enum><header>Price support
+			 for nonbasic agricultural commodities</header><text>Section 201(a) of the
+			 Agricultural Act of 1949 (7 U.S.C. 1446(a)) is amended by striking <quote>milk,
+			 sugar beets, and sugarcane</quote> and inserting <quote>, and
+			 milk</quote>.</text>
+				</paragraph><paragraph id="id166203228A1A4F8B9036B7FE31B5BE70"><enum>(4)</enum><header>Commodity
+			 Credit Corporation storage payments</header><text>Section 167 of the Federal
+			 Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7287) is
+			 repealed.</text>
+				</paragraph><paragraph id="idC54437783D4A4636BB922A6077917A7B"><enum>(5)</enum><header>Suspension and
+			 repeal of permanent price support authority</header><text>Section 171(a)(1) of
+			 the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C.
+			 7301(a)(1)) is amended—</text>
+					<subparagraph id="id7D4C55FF86A547CC960EF0134992CB7C"><enum>(A)</enum><text>by striking
+			 subparagraph (E); and</text>
+					</subparagraph><subparagraph id="idFA6CE5451E39497BB3A9066A33F1D377"><enum>(B)</enum><text>by redesignating
+			 subparagraphs (F) through (I) as subparagraphs (E) through (H),
+			 respectively.</text>
+					</subparagraph></paragraph><paragraph id="id427D8291F988429BA398A4BEA041FF21"><enum>(6)</enum><header>Storage
+			 facility loans</header><text>Section 1402(c) of the Farm Security and Rural
+			 Investment Act of 2002 (7 U.S.C. 7971) is repealed.</text>
+				</paragraph><paragraph commented="no" display-inline="no-display-inline" id="IDae01dc6947b54641895b551fad854e1a"><enum>(7)</enum><header>Feedstock
+			 flexibility program for bioenergy producers</header><text>Effective beginning
+			 with the 2013 crop of sugar beets and sugarcane, section 9010 of the Farm
+			 Security and Rural Investment Act of 2002 (7 U.S.C. 8110) is repealed.</text>
+				</paragraph></subsection><subsection id="IDf1305f58e8254995aa4992091ea761d3"><enum>(d)</enum><header>Transition
+			 provisions</header><text>This section and the amendments made by this section
+			 shall not affect the liability of any person under any provision of law as in
+			 effect before the application of this section and the amendments made by this
+			 section.</text>
+			</subsection></section><section id="id592FA0F52EF344DCB286B847ADEDE4AF"><enum>4.</enum><header>Tariff-rate
+			 quotas</header>
+			<subsection id="ID7b7d5f36723e47e398576dbea6fda534"><enum>(a)</enum><header>Establishment</header><text>Except
+			 as provided in subsection (c) and notwithstanding any other provision of law,
+			 not later than October 1, 2011, the Secretary of Agriculture shall develop and
+			 implement a program to increase the tariff-rate quotas for raw cane sugar and
+			 refined sugars for a quota year in a manner that ensures—</text>
+				<paragraph id="ID1413b2c6b69d44949ef9885fae206a0d"><enum>(1)</enum><text>a robust and
+			 competitive sugar processing industry in the United States; and</text>
+				</paragraph><paragraph id="ID0bd7c83419294cd1bcf5c8498553c517"><enum>(2)</enum><text>an adequate
+			 supply of sugar at reasonable prices in the United States.</text>
+				</paragraph></subsection><subsection id="ID611c8b2cbaf94e84b87af3f0cdb557f2"><enum>(b)</enum><header>Factors</header><text>In
+			 determining the tariff-rate quotas necessary to satisfy the requirements of
+			 subsection (a), the Secretary shall consider the following:</text>
+				<paragraph id="ID997a30c3dc9f46b7b72bfccb21ccecfb"><enum>(1)</enum><text>The quantity and
+			 quality of sugar that will be subject to human consumption in the United States
+			 during the quota year.</text>
+				</paragraph><paragraph id="IDefc0243a2f3b48f0a27f1874d03b138a"><enum>(2)</enum><text>The quantity and
+			 quality of sugar that will be available from domestic processing of sugarcane,
+			 sugar beets, and in-process beet sugar.</text>
+				</paragraph><paragraph id="IDabe0f1374d2b4d53a30ac3308a341377"><enum>(3)</enum><text>The quantity of
+			 sugar that would provide for reasonable carryover stocks.</text>
+				</paragraph><paragraph id="ID85fe31ece12540fb8e632d0f4143cc37"><enum>(4)</enum><text>The quantity of
+			 sugar that will be available from carryover stocks for human consumption in the
+			 United States during the quota year.</text>
+				</paragraph><paragraph id="ID43f666591d384a39b80e947517e6946e"><enum>(5)</enum><text>Consistency with
+			 the obligations of the United States under international agreements.</text>
+				</paragraph></subsection><subsection id="IDaf50d1082c73406abd7cd5c53f9e890e"><enum>(c)</enum><header>Exemption</header><text>Subsection
+			 (a) shall not include specialty sugar.</text>
+			</subsection><subsection id="id05187B29B4BD4F9BAB9933E15D1EFE88"><enum>(d)</enum><header>Definitions</header><text>In
+			 this section, the terms <term>quota year</term> and <term>human
+			 consumption</term> have the meaning such terms had under section 359k of the
+			 Agricultural Adjustment Act of 1938 (7 U.S.C. 1359kk) (as in effect on the day
+			 before the date of the enactment of this Act).</text>
+			</subsection></section><section id="ID4c713967f34740ab832b9a1ae7e30a4a"><enum>5.</enum><header>Application</header><text display-inline="no-display-inline">Except as otherwise provided in this Act,
+			 this Act and the amendments made by this Act shall apply beginning with the
+			 2012 crop of sugar beets and sugarcane.</text>
+		</section></legis-body>
+</bill>

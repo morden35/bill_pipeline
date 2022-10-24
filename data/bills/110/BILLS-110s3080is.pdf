@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 3080</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20080604">June 4, 2008</action-date>
+			<action-desc><sponsor name-id="S221">Mrs. Feinstein</sponsor> (for
+			 herself, <cosponsor name-id="S224">Mr. Gregg</cosponsor>,
+			 <cosponsor name-id="S275">Ms. Cantwell</cosponsor>, <cosponsor name-id="S250">Mr. Allard</cosponsor>, and <cosponsor name-id="S252">Ms.
+			 Collins</cosponsor>) introduced the following bill; which was read twice and
+			 referred to the <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To ensure parity between the temporary duty imposed on
+		  ethanol and tax credits provided on ethanol.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+			 the <quote><short-title>Imported Ethanol Parity
+			 Act</short-title></quote>.</text>
+		</section><section id="ID9434bed628264bca8763def4778eff1f"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+			<paragraph id="ID462a020859e44f33bcae4e02c662be34"><enum>(1)</enum><text>On May 6, 2006,
+			 the Chairman of the Finance Committee of the Senate stated on the Senate floor
+			 that, <quote>the United States tariff on ethanol operates as an offset to an
+			 excise tax credit that applies to both domestically produced and imported
+			 ethanol.</quote>.</text>
+			</paragraph><paragraph id="ID00b6a08d43894ac7a0fd4eeabafeabe2"><enum>(2)</enum><text>On May 9, 2006,
+			 the Renewable Fuels Association stated: <quote>the secondary tariff exists as
+			 an offset to the tax incentive gasoline refiners receive for every gallon of
+			 ethanol they blend, regardless of the ethanol’s origin.</quote>. In May 2008,
+			 the Renewable Fuels Association’s Executive Director asserted that <quote>The
+			 tariff is there not so much to protect the industry but the United States
+			 taxpayer.</quote>.</text>
+			</paragraph><paragraph id="IDfbe87facb2994fc78dcc831b3cc7e076"><enum>(3)</enum><text>In a letter to
+			 Congress dated June 20, 2007, the American Coalition for Ethanol, the American
+			 Farm Bureau Federation, the National Corn Growers Association, the National
+			 Council of Farmer Cooperatives, the National Sorghum Producers, and the
+			 Renewable Fuels Association stated that the <quote>(blender) tax credit is
+			 available to refiners regardless of whether the ethanol blended is imported or
+			 domestic. To prevent United States taxpayers from subsidizing foreign ethanol
+			 companies, Congress passed an offset to the tax credit that foreign companies
+			 pay in the form of a tariff.</quote>.</text>
+			</paragraph><paragraph id="ID322f7062224047d9878d0be109264abf"><enum>(4)</enum><text>The Food,
+			 Conservation, and Energy Act of 2008, as contained in the Conference Report to
+			 accompany H.R. 2419 in the 110th Congress, proposes to decrease the excise tax
+			 credit for blending ethanol from $0.51 to $0.45 per gallon, but extend the
+			 $0.54 per gallon temporary duty on imported ethanol, increasing the competitive
+			 disadvantage of ethanol imports in the United States marketplace. The
+			 legislation would transform a tariff designed to offset a domestic subsidy into
+			 a real import barrier of at least $0.09 per gallon.</text>
+			</paragraph><paragraph id="IDbacd4a9b49404cf4beebd6f64935163c"><enum>(5)</enum><text>The State of
+			 California is adopting a Low Carbon Fuels Standard that requires a reduction in
+			 the lifecycle greenhouse gas emissions from transportation fuels, and the
+			 Energy Independence and Security Act of 2007 requires the United States to use
+			 increasing quantities of <quote>advanced biofuels</quote> that have lifecycle
+			 greenhouse gas emissions that are at least 50 percent less than lifecycle
+			 greenhouse gas emissions from gasoline.</text>
+			</paragraph><paragraph id="ID0634f468eeb14b5c85cc088e2739a1e9"><enum>(6)</enum><text>The lifecycle
+			 greenhouse gas emissions of ethanol vary depending on production methods and
+			 feedstocks. These differences will impact the degree to which ethanol may be
+			 used to meet <quote>low-carbon</quote> fuel requirements under California law
+			 and the Energy Independence and Security Act of 2007.</text>
+			</paragraph><paragraph id="IDcd4f2da8f491471b9d451dafec5db7f2"><enum>(7)</enum><text>Sugar cane
+			 ethanol plants use biomass from sugar stalks as process energy, resulting in
+			 less fossil fuel input compared to current corn-to-ethanol processes.</text>
+			</paragraph><paragraph id="ID06cf423ddaf34167ab8e5dc63532905a"><enum>(8)</enum><text>The 2007
+			 California Energy Commission Report, entitled <quote>Full Fuel Cycle
+			 Assessment: Well-to-Wheels Energy Inputs, Emissions, and Water Impacts</quote>,
+			 concluded that the direct lifecycle greenhouse gas emissions of imported sugar
+			 based ethanol are 68 percent lower than gasoline, while the direct lifecycle
+			 greenhouse gas emissions of corn based ethanol from the Midwest are 15 to 28
+			 percent lower than gasoline.</text>
+			</paragraph><paragraph id="ID882fac7a27654526a2bbada781f3558a"><enum>(9)</enum><text>The cost to ship
+			 ethanol by sea from foreign production areas to California is competitive with
+			 the cost to ship ethanol by rail from the American Midwest, according to
+			 ethanol producers and importers.</text>
+			</paragraph><paragraph id="ID3f9e8ffb13034e079954e85b0440a03a"><enum>(10)</enum><text>Ethanol
+			 production will vary from region to region each year based on crop performance,
+			 and a global biofuels marketplace would permit mutually beneficial trade
+			 between producing regions capable of stabilizing both fuel and food
+			 prices.</text>
+			</paragraph><paragraph id="IDfec77acdd2684a93a497635ac295b915"><enum>(11)</enum><text>In March 2007,
+			 the United States and Brazil entered into a strategic alliance to cooperate on
+			 advanced research for biofuels, develop biofuel technology, and expand the
+			 production and use of biofuels throughout the Western Hemisphere, especially in
+			 the Caribbean and Central America.</text>
+			</paragraph><paragraph id="IDb6696c6b091d4bd184beff72a6d62ceb"><enum>(12)</enum><text>On March 9,
+			 2007, President Bush stated <quote>it's in the interest of the United States
+			 that there be a prosperous neighborhood. And one way to help spread prosperity
+			 in Central America is for them to become energy producers.</quote>.</text>
+			</paragraph><paragraph id="id947166334D6E40C38082891A772750EE"><enum>(13)</enum><text>According to a
+			 February 2008 study by the Massachusetts Institute of Technology, titled
+			 <quote>Biomass to Ethanol: Potential Production and Environmental
+			 Impacts</quote>, the current ethanol distribution system in the United States
+			 is not capable of efficiently supplying ethanol to the East Coast
+			 markets.</text>
+			</paragraph></section><section id="idBCF487EC2C9A40FDA10F28AF17392377"><enum>3.</enum><header>Ethanol Tax
+			 Parity</header><text display-inline="no-display-inline">Not later than 30 days
+			 after the date of the enactment of this Act, and semiannually thereafter, the
+			 President shall reduce the temporary duty imposed on ethanol under subheading
+			 9901.00.50 of the Harmonized Tariff Schedule of the United States by an amount
+			 equal to the reduction in any Federal income or excise tax credit under section
+			 40(h), 6426(b), or 6427(e)(1) of the Internal Revenue Code of 1986 and take any
+			 other action necessary to ensure that the temporary duty imposed on ethanol
+			 under such subheading 9901.00.50 is equal to, or lower than, any Federal income
+			 or excise tax credit applicable to ethanol under the Internal Revenue Code of
+			 1986.</text>
+		</section></legis-body>
+</bill>

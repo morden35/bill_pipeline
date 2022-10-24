@@ -1,0 +1,1941 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>111th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 1470</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20090720">July 20, 2009</action-date>
+			<action-desc><sponsor name-id="S314">Mr. Tester</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSEG00">Committee on Energy and Natural
+			 Resources</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To sustain the economic development and recreational use
+		  of National Forest System land and other public land in the State of Montana,
+		  to add certain land to the National Wilderness Preservation System, to release
+		  certain wilderness study areas, to designate new areas for recreation, and for
+		  other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+			 title; table of contents</header>
+			<subsection id="idF7E834E4299B460491BAF072FE6A3203"><enum>(a)</enum><header>Short
+			 title</header><text>This Act may be cited as the <quote><short-title>Forest Jobs and Recreation Act of
+			 2009</short-title></quote>.</text>
+			</subsection><subsection id="id1F1747B8839C4F6E8F6A0348F33D163D"><enum>(b)</enum><header>Table of
+			 contents</header><text>The table of contents for this Act is as follows:</text>
+				<toc>
+					<toc-entry idref="S1" level="section">Sec. 1. Short title; table of
+				contents.</toc-entry>
+					<toc-entry idref="ID2a9313d519f74ba1ac094942b8e3fbf3" level="section">Sec. 2. Findings; purposes.</toc-entry>
+					<toc-entry idref="ID6c24401a9d554cfbaef459c9a822b33b" level="section">Sec. 3. Definitions.</toc-entry>
+					<toc-entry idref="id407686D9CFC14099BC16A41F2B6B1009" level="title">TITLE I—Stewardship and restoration</toc-entry>
+					<toc-entry idref="ID4080bf17906d408ba978a4619b6aaa68" level="section">Sec. 101. Definitions.</toc-entry>
+					<toc-entry idref="idCAE8DB6EC99A4E6B972E7C02A4D1C124" level="section">Sec. 102. Stewardship and restoration projects.</toc-entry>
+					<toc-entry idref="id5E511259033E434B9B4A467D1ABC3C65" level="section">Sec. 103. Resource advisory committees.</toc-entry>
+					<toc-entry idref="IDd40a01b1f832410fa95874d2acbec446" level="section">Sec. 104. Monitoring; reporting.</toc-entry>
+					<toc-entry idref="idFF86D1A163B442FCB6E6DB31CBD13877" level="section">Sec. 105. Biomass combined heat and power system
+				projects.</toc-entry>
+					<toc-entry idref="IDb5dea39e8bec472eafb02fd7808b5428" level="section">Sec. 106. Funding.</toc-entry>
+					<toc-entry idref="idAFA737BDB4B84132B9642C0874B53243" level="section">Sec. 107. Administration.</toc-entry>
+					<toc-entry idref="idE5553FFB09414897B66C22B21707F320" level="section">Sec. 108. Termination of authority.</toc-entry>
+					<toc-entry idref="id11A0F982E1C041198DFD8CB2E1A31FC0" level="title">TITLE II—Designation of wilderness and national recreation
+				areas</toc-entry>
+					<toc-entry idref="ID1174439a382645fc8b6558f83dc00701" level="section">Sec. 201. Designation of wilderness and national recreation
+				areas.</toc-entry>
+					<toc-entry idref="ID1cb9e90c78ec403baed3504f54b9489e" level="section">Sec. 202. Administration.</toc-entry>
+					<toc-entry idref="id42EFEA23DCA044B581672CE7C77196E6" level="section">Sec. 203. Release of Bureau of Land Management study
+				areas.</toc-entry>
+					<toc-entry idref="ID220a7e202ff3481bb3871ed8a4c74355" level="section">Sec. 204. Release of Sapphire and West Pioneer Wilderness study
+				areas.</toc-entry>
+					<toc-entry idref="id89A75E4CFDD9445A8A95A4FC4F5D3077" level="section">Sec. 205. Lost Creek Protection Area.</toc-entry>
+					<toc-entry idref="idDDBEE2EC51C54E208ECB19ABAE680D97" level="section">Sec. 206. West Big Hole National Recreation Area.</toc-entry>
+					<toc-entry idref="id74DA154387794961A9C0B39ED09A0FF0" level="section">Sec. 207. West Pioneers Recreation Management Area.</toc-entry>
+					<toc-entry idref="IDe21cd0de09c44bd7ac1567db69f97a69" level="section">Sec. 208. Thunderbolt Creek Recreation Area.</toc-entry>
+					<toc-entry idref="id42AC564B0C2B40C5B37ED12BE1C7361D" level="section">Sec. 209. Three Rivers Special Management Area.</toc-entry>
+					<toc-entry idref="id592D2BAD94CA46ABB32922C67B833C11" level="section">Sec. 210. Otatsy Recreation Area.</toc-entry>
+				</toc>
+			</subsection></section><section id="ID2a9313d519f74ba1ac094942b8e3fbf3"><enum>2.</enum><header>Findings;
+			 purposes</header>
+			<subsection id="idAAA3819494FD4C1590675B0D2D8FD140"><enum>(a)</enum><header>Findings</header><text>Congress
+			 finds that—</text>
+				<paragraph id="idC199BE012DDE4D7D9358AE51A4FF312A"><enum>(1)</enum><text>forest
+			 restoration would—</text>
+					<subparagraph id="id551864943C43406A8D4C2694E8DA7928"><enum>(A)</enum><text>improve the
+			 habitats of fish and wildlife, including several species of fish and wildlife
+			 that are threatened or are otherwise of concern;</text>
+					</subparagraph><subparagraph id="id568A8187A3B646B3AB9085AD40FE6CF7"><enum>(B)</enum><text>reduce wildfire
+			 management costs by reestablishing natural fire regimes outside of a
+			 wildland-urban interface;</text>
+					</subparagraph><subparagraph id="id79084DE214804013A24ABF5B67EFD6C5"><enum>(C)</enum><text>improve the
+			 protection of property and homes within the wildland-urban interface;
+			 and</text>
+					</subparagraph><subparagraph id="id3F4F69302648479CA817E12F6F4072DB"><enum>(D)</enum><text>demonstrate the
+			 manner by which—</text>
+						<clause id="idA427DD1AF1124A6B9F67801D557E0851"><enum>(i)</enum><text>such actions can
+			 help achieve ecological and watershed health objectives; and</text>
+						</clause><clause id="id74FE9DCC07374A6DB51428679C6CD84A"><enum>(ii)</enum><text>the use of
+			 forest restoration byproducts can offset treatment costs while benefitting
+			 local rural economies; and</text>
+						</clause></subparagraph></paragraph><paragraph id="id455BBE5C044E459FBE3F62CF3C323459"><enum>(2)</enum><text>this Act—</text>
+					<subparagraph id="id9B2110A157E44DD39F7DF8E9E6CD3535"><enum>(A)</enum><text>encourages the
+			 economic, social, and ecological sustainability of the region and nearby
+			 communities; and</text>
+					</subparagraph><subparagraph id="id5CD13EBEAE41460EAD43C65D1744379E"><enum>(B)</enum><text>promotes
+			 collaboration and recognizes the positive relationship between wilderness,
+			 forest restoration activities, and communities by addressing multiple
+			 activities across a landscape, including—</text>
+						<clause id="id3D231CAF7CE34229869C7DA55BB9BE42"><enum>(i)</enum><text>the
+			 implementation of forest restoration;</text>
+						</clause><clause id="id8A72C352737143638E5B378072890FA3"><enum>(ii)</enum><text>the development
+			 of biomass utilization systems that include combined heat and power generation;
+			 and</text>
+						</clause><clause id="idB9523825987F4884B69FF3FA38BD2972"><enum>(iii)</enum><text>the permanent
+			 protection of backcountry areas.</text>
+						</clause></subparagraph></paragraph></subsection><subsection id="id6916D2CB2BD24FEC8662E4F32FD94385"><enum>(b)</enum><header>Purposes</header><text display-inline="yes-display-inline">The purposes of this Act are—</text>
+				<paragraph id="ID688ef643c7dc4ede9af3c4d1cd8055f5"><enum>(1)</enum><text>to sustain the
+			 economic development and recreational use of National Forest System land and
+			 other public land in Montana;</text>
+				</paragraph><paragraph id="ID2971f0c0bf534c67bfeca401417b7e4d"><enum>(2)</enum><text>to reduce
+			 gridlock and promote local cooperation and collaboration in the management of
+			 forest land;</text>
+				</paragraph><paragraph id="IDc79c55e8642a46de833ee88e3b94d775"><enum>(3)</enum><text>to enhance forest
+			 diversity and produce wood fiber—</text>
+					<subparagraph id="id36DAC7CE99134B63AAA4F69581BC2611"><enum>(A)</enum><text>to accomplish
+			 habitat restoration through the use of stewardship forestry practices;
+			 and</text>
+					</subparagraph><subparagraph id="id38881417189840D289DB53CE9FE312F0"><enum>(B)</enum><text>to generate a
+			 more predictable flow of wood products for local communities of the
+			 State;</text>
+					</subparagraph></paragraph><paragraph id="IDca869626e41540c18c091baa5abe685e"><enum>(4)</enum><text>to increase fish
+			 and wildlife populations and better protect and restore key watersheds and
+			 habitats;</text>
+				</paragraph><paragraph id="ID10b744da0b3846e0806ebafc5ef0bbdb"><enum>(5)</enum><text>to improve the
+			 management of wildland fires;</text>
+				</paragraph><paragraph id="idF4394DDCBD774F1EB12116436974A288"><enum>(6)</enum><text>to reduce the
+			 size and severity of uncharacteristic fires on forest land to enhance the
+			 protection of private land, homes, and communities located adjacent to the
+			 affected forest land;</text>
+				</paragraph><paragraph id="ID9a16c33c4d9f4b4d9c5c6550c6a263f9"><enum>(7)</enum><text>to permanently
+			 protect and enhance motorized recreational opportunities in the
+			 Beaverhead-Deerlodge National Forest, the Lolo National Forest, and the
+			 Kootenai National Forest; and</text>
+				</paragraph><paragraph id="ID616af3919a8a499a84f1952825a02c4f"><enum>(8)</enum><text>to protect and
+			 enhance the wild heritage and backcountry traditions of the State
+			 through—</text>
+					<subparagraph id="id8612FD68A8D04D04AEEF01690AF04158"><enum>(A)</enum><text>the addition of
+			 certain land to the National Wilderness Preservation System; and</text>
+					</subparagraph><subparagraph id="idD12056C6F3E44EE8B744CB4F600EA856"><enum>(B)</enum><text>the management of
+			 other land in a manner that preserves existing primitive and semiprimitive
+			 recreational activities.</text>
+					</subparagraph></paragraph></subsection></section><section id="ID6c24401a9d554cfbaef459c9a822b33b"><enum>3.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text>
+			<paragraph id="ID0f41c764468746a397f02996f43b43ae"><enum>(1)</enum><header>Beaverhead-Deerlodge
+			 National Forest</header><text>The term <term>Beaverhead-Deerlodge National
+			 Forest</term> means the National Forest that is—</text>
+				<subparagraph id="IDb2fd02df0e9b4850893bca1bfb3d8ab6"><enum>(A)</enum><text>comprised
+			 of—</text>
+					<clause id="IDd19a48094a4e4b97a82b372df052a290"><enum>(i)</enum><text>the
+			 Beaverhead National Forest; and</text>
+					</clause><clause id="ID41b2117424204ef2b98a098cc0e6845c"><enum>(ii)</enum><text>the Deerlodge
+			 National Forest; and</text>
+					</clause></subparagraph><subparagraph id="IDecd11ee6bfae46e9b904379dc4ac578f"><enum>(B)</enum><text>managed by the
+			 Secretary concerned as a single administrative unit.</text>
+				</subparagraph></paragraph><paragraph id="ID7580f7bb0cb049daa0c31541694774d6"><enum>(2)</enum><header>Forest
+			 plan</header><text>The term <term>forest plan</term> means a land and resource
+			 management plan prepared in accordance with section 6 of the Forest and
+			 Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604).</text>
+			</paragraph><paragraph commented="no" id="idCDBDE624869345FDBCE7AB2DFC8216D0"><enum>(3)</enum><header>Game
+			 cart</header><text>The term <term>game cart</term> means a nonmotorized,
+			 mechanized tool that is used for the retrieval of wild game.</text>
+			</paragraph><paragraph id="id28E09BE51B264EEEB1AF747181D642C3"><enum>(4)</enum><header>Secretary
+			 concerned</header><text>The term <term>Secretary concerned</term> means—</text>
+				<subparagraph id="idA230DA7D1AE64ED5A8965B11429FD3C2"><enum>(A)</enum><text>the Secretary of
+			 Agriculture, acting through the Chief of the Forest Service (including each
+			 contractor of the Forest Service, as appropriate), with respect to National
+			 Forest System land; and</text>
+				</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id7F5D46B4D2C44FA1BE152FE16CD9D388"><enum>(B)</enum><text>the Secretary of
+			 the Interior, with respect to land managed by the Bureau of Land Management
+			 (including land held for the benefit of an Indian tribe).</text>
+				</subparagraph></paragraph><paragraph id="ID084c8667f643448183373c97ced9f48b"><enum>(5)</enum><header>State</header><text>The
+			 term <term>State</term> means the State of Montana.</text>
+			</paragraph><paragraph id="id1CF9255C205D4F769871E1405E7FA0A1"><enum>(6)</enum><header>Wildland-urban
+			 interface</header><text>The term <term>wildland-urban interface</term> has the
+			 meaning given the term in section 101 of the Healthy Forests Restoration Act of
+			 2003 (16 U.S.C. 6511).</text>
+			</paragraph></section><title id="id407686D9CFC14099BC16A41F2B6B1009"><enum>I</enum><header>Stewardship and
+			 restoration</header>
+			<section id="ID4080bf17906d408ba978a4619b6aaa68"><enum>101.</enum><header>Definitions</header><text display-inline="no-display-inline">In this title:</text>
+				<paragraph id="idF488B1C28B1344B483F0C6DE9B68B9F5"><enum>(1)</enum><header>Access
+			 road</header><text>The term <term>access road</term> means a road constructed
+			 in conjunction with a landscape-scale restoration project that is—</text>
+					<subparagraph id="id42843AE1DB7349778E57DB85B37A0AA2"><enum>(A)</enum><text>reclaimed, or
+			 converted into a recreational trail, as soon as practicable, but not later than
+			 5 years, after the date on which the road is constructed; and</text>
+					</subparagraph><subparagraph id="id94302DDE24D74A208136BF75DEA89127"><enum>(B)</enum><text>fully
+			 recontoured, including the removal of the road prism, landings, and each
+			 crossing feature of the road (including any culverts and bridges of the
+			 road).</text>
+					</subparagraph></paragraph><paragraph id="idF5B28E5944E749D59D58EF3BF5F18EAB"><enum>(2)</enum><header>Aggregate
+			 parcel</header><text>The term <term>aggregate parcel</term> means the
+			 cumulative area of land on which a timber harvest activity is conducted.</text>
+				</paragraph><paragraph id="id7105FF183D1A45D4B7808C5763D27D45"><enum>(3)</enum><header>Cooperative
+			 project</header><text>The term <term>cooperative project</term> means a project
+			 that—</text>
+					<subparagraph id="idDB8386CF2D1B486FB10349CF9852FAD6"><enum>(A)</enum><text>is consistent
+			 with section 323 of the Department of the Interior and Related Agencies
+			 Appropriations Act, 1999 (16 U.S.C. 1011 note; Public Law 105–277); and</text>
+					</subparagraph><subparagraph id="idEFA92CA180DF48BE92897A6D95251E26"><enum>(B)</enum><text>authorizes
+			 parties to a watershed restoration or enhancement agreement to spend
+			 appropriated funds on projects on private or public land that benefit the
+			 resources of National Forest System land.</text>
+					</subparagraph></paragraph><paragraph id="ID61932c8df3f64b479e36e00c673938a4"><enum>(4)</enum><header>Fund</header><text>The
+			 term <term>Fund</term> means the Collaborative Forest Landscape Restoration
+			 Fund established by section 4003(f) of the Omnibus Public Land Management Act
+			 of 2009 (16 U.S.C. 7303(f)).</text>
+				</paragraph><paragraph id="id9CE6CFA4256B43DC98B49412ACF54C74"><enum>(5)</enum><header>Landscape-scale</header><text>The
+			 term <term>landscape-scale</term> means, with respect to a landscape-scale
+			 restoration project carried out in a watershed or subwatershed, of at least
+			 50,000 acres.</text>
+				</paragraph><paragraph id="id787BF971771C464EA55B5D90E88F7F3C"><enum>(6)</enum><header>Landscape-scale
+			 restoration project</header>
+					<subparagraph id="id504CCD86464B4C6F89DDED6261BC9512"><enum>(A)</enum><header>In
+			 general</header><text>The term <term>landscape-scale restoration project</term>
+			 means a project that is—</text>
+						<clause id="idD4D70C8FC0EB4BBAAD99E664C2756AEF"><enum>(i)</enum><text>planned and
+			 carried out—</text>
+							<subclause id="id0B3FB3A2943A4AFDA33C8103CBC08A5A"><enum>(I)</enum><text>on a
+			 landscape-scale; and</text>
+							</subclause><subclause id="id05CE4CED817F400FB47D9DA538A6E0BE"><enum>(II)</enum><text>through the use
+			 of—</text>
+								<item id="idD81233CB0D45451E962948F66DA6D51E"><enum>(aa)</enum><text>a
+			 stewardship contract; or</text>
+								</item><item id="id80E02F54E29F4486999EE555130DC784"><enum>(bb)</enum><text>with
+			 respect to the Seeley Lake Ranger District, any other contracting mechanism
+			 that the Secretary concerned determines to be most effective in achieving the
+			 goals of this Act; and</text>
+								</item></subclause></clause><clause id="idC9627CE7A13C4520B9F031A3F1D5F631"><enum>(ii)</enum><text>carried out in
+			 an area comprised primarily of forested National Forest System land (but which
+			 may also include land under the jurisdiction of the Bureau of Land Management,
+			 land under the jurisdiction of the Bureau of Indian Affairs, or other Federal,
+			 State, tribal, or private land)—</text>
+							<subclause id="IDb4b7b40c20314d5e97ac5b0952f67091"><enum>(I)</enum><text>through the use
+			 of—</text>
+								<item id="id5C5BC3500DE2457E8CF7E06CCB74DA40"><enum>(aa)</enum><text>a
+			 combination of commercial and noncommercial vegetative management techniques,
+			 including—</text>
+									<subitem id="idC9D929A9215C43B581A882C64C336C6F"><enum>(AA)</enum><text>prescribed
+			 burning;</text>
+									</subitem><subitem id="id5F0EB87D80854739AB9C0452BF751404"><enum>(BB)</enum><text>tree
+			 removal;</text>
+									</subitem><subitem id="id7269C37DE101434D90CAE5F792A8D2B9"><enum>(CC)</enum><text>the piling and
+			 burning of slash; and</text>
+									</subitem><subitem id="id4E92FE28452D4DA19672C721548AC096"><enum>(DD)</enum><text>any other
+			 silvicultural techniques that incorporate ecological restoration goals;
+			 and</text>
+									</subitem></item><item id="id8E9E93EE64794CA581EE84462D6D1C38"><enum>(bb)</enum><text>any
+			 other restoration technique (including invasive species mitigation) or tool
+			 that the Secretary concerned determines to be appropriate;</text>
+								</item></subclause><subclause id="ID6ce5587475624ed8a661bf06a92660e8"><enum>(II)</enum><text>to reclaim, or
+			 if appropriate convert into recreational trails, roads that are no longer
+			 needed or maintained as of the date of enactment of this Act;</text>
+							</subclause><subclause id="IDceb704aa89ed493192a39431f7b5382c"><enum>(III)</enum><text>to restore fish
+			 and wildlife habitat through the use of prescribed burning that is—</text>
+								<item id="idEA78CE83A92E457B9565164857F7DCB9"><enum>(aa)</enum><text>carried out to
+			 mimic natural fire appropriate to specific forest types; and</text>
+								</item><item id="id015DD36830874D69B6E1F120F46E9559"><enum>(bb)</enum><text>allowed to burn
+			 beyond harvest units located in close proximity to the habitat;</text>
+								</item></subclause><subclause id="IDae08b61e26d447e1bd0f13e1c3071e03"><enum>(IV)</enum><text>to replace or
+			 resize culverts;</text>
+							</subclause><subclause id="id5F68A7E9FC5A46E3A0B5CC8C8708D825"><enum>(V)</enum><text>to generate
+			 revenue for the investment of funds in fish and wildlife restoration and
+			 maintenance initiatives; and</text>
+							</subclause><subclause id="idD101F03382CD437B98942AFF463BFA5F"><enum>(VI)</enum><text>to maintain the
+			 infrastructure of wood products manufacturing facilities that provide economic
+			 stability to local communities of the State.</text>
+							</subclause></clause></subparagraph><subparagraph id="idD7D83CFEC61E47A6ACA5B75640A694AF"><enum>(B)</enum><header>Inclusion</header><text>The
+			 term <term>landscape-scale restoration project</term> includes any activity
+			 carried out in a stewardship area in accordance with this Act.</text>
+					</subparagraph></paragraph><paragraph commented="no" id="ID114f4ef71c4b4dd2ab788780932cdb8e"><enum>(7)</enum><header>Permanent
+			 road</header>
+					<subparagraph commented="no" id="id9456B4E8137C433D98D53CF491B50F8C"><enum>(A)</enum><header>In
+			 general</header><text>The term <term>permanent road</term> means a road in
+			 which the road prism of the road remains permanently in place following the
+			 construction of the road.</text>
+					</subparagraph><subparagraph commented="no" id="id6610D352A94447B4B5B65CEC76BDEDD5"><enum>(B)</enum><header>Exclusions</header><text>The
+			 term <term>permanent road</term> does not include—</text>
+						<clause commented="no" id="id40CD0ADCC0E4474AABA57294A8F340D9"><enum>(i)</enum><text>an access road;
+			 or</text>
+						</clause><clause commented="no" id="idB50D969ED9574327B8EC2D01B12765AA"><enum>(ii)</enum><text>a relocated
+			 permanent road.</text>
+						</clause></subparagraph></paragraph><paragraph commented="no" id="idD888A5F5877246CC9D0153C26178E460"><enum>(8)</enum><header>Relocated
+			 permanent road</header><text>The term <term>relocated permanent road</term>
+			 means a road that is relocated to address a resource problem if—</text>
+					<subparagraph commented="no" id="id62A05B09FB384C81AB398A0745B01E87"><enum>(A)</enum><text>the relocated
+			 permanent road provides access to each destination, the access of which was
+			 provided by the permanent road that the relocated permanent road replaced;
+			 and</text>
+					</subparagraph><subparagraph commented="no" id="idF992DD09980E4E0CA9264918C68A2192"><enum>(B)</enum><text>the replaced road
+			 is recontoured, seeded, and abandoned.</text>
+					</subparagraph></paragraph><paragraph id="ID9cc9e5a65be649d6b9e13eb0dcfcca9a"><enum>(9)</enum><header>Restoration
+			 activity</header>
+					<subparagraph id="id31F91C9108F043869C24AFE1CC15B1D5"><enum>(A)</enum><header>In
+			 general</header><text>The term <term>restoration activity</term> means a
+			 stewardship activity that promotes—</text>
+						<clause id="id25545FC86E324211969A3D0F36D54350"><enum>(i)</enum><text>ecological
+			 health;</text>
+						</clause><clause id="idE83EB3DDCF76432CB168BBEFE193C65A"><enum>(ii)</enum><text>habitat
+			 restoration;</text>
+						</clause><clause id="id142A0B3CBAF8480ABD641F21817764C3"><enum>(iii)</enum><text>water quality
+			 restoration;</text>
+						</clause><clause id="id2221A6956A3C4091B6B1F428EBC89B4D"><enum>(iv)</enum><text>sediment control
+			 or reduction;</text>
+						</clause><clause id="idD1D7491F0CA448A0B2DF67F9CD9C98FD"><enum>(v)</enum><text>forest stand
+			 structure;</text>
+						</clause><clause id="idE966689C8F0942959A6BDC85A0D77F6D"><enum>(vi)</enum><text>endangered
+			 species protection; or</text>
+						</clause><clause id="idF7B5C2E85B6D4EE78B14D592BC41BC32"><enum>(vii)</enum><text>adaptation to
+			 climate change.</text>
+						</clause></subparagraph><subparagraph id="id7D3A13E4C7CF457B984008662DA58765"><enum>(B)</enum><header>Inclusions</header><text>The
+			 term <term>restoration activity</term> includes—</text>
+						<clause id="id9997D24B29684142B9EC36CD752C4F6D"><enum>(i)</enum><text>road relocation
+			 and closures;</text>
+						</clause><clause id="id2978FC8DA1774D85B48E163A5FAFA86E"><enum>(ii)</enum><text>culvert and
+			 bridge replacements;</text>
+						</clause><clause id="id9286275FE94746A0B62ACBE313E06299"><enum>(iii)</enum><text>stream
+			 restoration and bank stabilization;</text>
+						</clause><clause id="idCB71541597604064A4C379A0B029033F"><enum>(iv)</enum><text>invasive species
+			 management;</text>
+						</clause><clause id="idA374CC9E764B44958EA99FAAB70EC256"><enum>(v)</enum><text>trail head and
+			 campground improvements;</text>
+						</clause><clause id="id0E882F9F37D8447994C0A330605146F0"><enum>(vi)</enum><text>understory
+			 removal and vegetation treatments;</text>
+						</clause><clause id="id2CDE478444DD48C5BDF4C55EDE143C9F"><enum>(vii)</enum><text>tree
+			 planting;</text>
+						</clause><clause id="id05D1B54FFE794813BBA0B08CD67134C6"><enum>(viii)</enum><text>precommercial
+			 thinning;</text>
+						</clause><clause id="idB5A2DF2C24FC42CC8DCC34DF8E54D2CA"><enum>(ix)</enum><text>commercial
+			 timber harvesting;</text>
+						</clause><clause id="id186CE275EC3A4FC3B9EA2D7BCE403D53"><enum>(x)</enum><text>prescribed
+			 burning;</text>
+						</clause><clause id="id2E21615978F346A1BED2D96035DF9B3A"><enum>(xi)</enum><text>trail
+			 reclamation and relocation; and</text>
+						</clause><clause id="id66AA7DB6DAAF4984A0861A6A53AE18E8"><enum>(xii)</enum><text>other
+			 stewardship activities that incorporate ecological restoration strategies
+			 determined by the Secretary concerned.</text>
+						</clause></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idD6D2B8433D59425A9CD6A8C7EC2605C5"><enum>(10)</enum><header>Seeley Lake
+			 Ranger District</header><text>The term <term>Seeley Lake Ranger District</term>
+			 means the Seeley Lake Ranger District in the Lolo National Forest.</text>
+				</paragraph><paragraph id="id2AD33ADF66DD4DBAA8C516CE32E426E4"><enum>(11)</enum><header>Stewardship
+			 area</header><text>The term <term>stewardship area</term> means—</text>
+					<subparagraph id="idA2F464FA94184F0BB5615D5E7C022AA7"><enum>(A)</enum><text>with respect to
+			 the Beaverhead-Deerlodge National Forest, a parcel of land that is designated
+			 as <quote>Suitable for Timber Production and Timber Harvest Is Allowed</quote>
+			 as depicted on the map entitled <quote>Beaverhead-Deerlodge National Forest,
+			 Revised Forest Plan, Modeled Timber Harvest Classification</quote> of
+			 approximately 1,900,000 acres and dated December 10, 2008;</text>
+					</subparagraph><subparagraph id="id3EAA0032CC444575B9827B05AC73562E"><enum>(B)</enum><text>with respect to
+			 the Seeley Lake Ranger District, a parcel of land that is—</text>
+						<clause id="idACE9B21A0459448DAB68C27403ACBFD3"><enum>(i)</enum><text>selected by the
+			 Secretary concerned;</text>
+						</clause><clause id="id0569C66FFA11496D847209412476ABF5"><enum>(ii)</enum><text>consistent with
+			 the forest plan;</text>
+						</clause><clause id="id0C5F690F3FBB4F6D9FF401D2AFCA2D6A"><enum>(iii)</enum><text>suitable for
+			 timber production; or</text>
+						</clause><clause id="id4DDDDCFDB7004DE194944220E9794F44"><enum>(iv)</enum><text>eligible for
+			 timber harvest activities; and</text>
+						</clause></subparagraph><subparagraph id="id1E562E836C634E04A4C47A37DCCC2B55"><enum>(C)</enum><text>with respect to
+			 the Three Rivers Ranger District, a parcel of land that is—</text>
+						<clause id="id6AE16E54731347BE868BEB88A6B8789F"><enum>(i)</enum><text>selected by the
+			 Secretary concerned;</text>
+						</clause><clause id="idA3FE147A665346ABB93D553F8C076DF8"><enum>(ii)</enum><text>consistent with
+			 the forest plan;</text>
+						</clause><clause id="idB7B848DC046E4F12946835BB03AE302B"><enum>(iii)</enum><text>suitable for
+			 timber production; or</text>
+						</clause><clause id="id93F263BB39D24FCAADCA5537DA88AC70"><enum>(iv)</enum><text>eligible for
+			 timber harvest activities.</text>
+						</clause></subparagraph></paragraph><paragraph id="IDd441755e0c574f80b7ae77dcf3299880"><enum>(12)</enum><header>Stewardship
+			 contract</header><text>The term <term>stewardship contract</term> means a
+			 contract that—</text>
+					<subparagraph id="idD5F8212391AB43698A392779415B4C66"><enum>(A)</enum><text>is authorized
+			 under section 332 of the Department of the Interior and Related Agencies
+			 Appropriations Act, 2002 (16 U.S.C. 2104 note; Public Law 107–63); and</text>
+					</subparagraph><subparagraph id="id55CFE1C49665488A8E54028D12B7F570"><enum>(B)</enum><text>is entered into
+			 by 2 or more parties—</text>
+						<clause id="id9733DAF5F4394367BCDFF5625BC19DE0"><enum>(i)</enum><text>to
+			 carry out vegetation treatment, including mechanical treatment using commercial
+			 timber harvest of vegetation—</text>
+							<subclause id="id0317429A869249D3BFF0BD4954B88643"><enum>(I)</enum><text>to reduce fire
+			 and insect risks;</text>
+							</subclause><subclause id="id92C53BFC2F4B4A0CB0770280D317D623"><enum>(II)</enum><text>to restore
+			 impaired watersheds;</text>
+							</subclause><subclause id="idAE34260628E845AFAC28E847C50327AA"><enum>(III)</enum><text>to enhance fish
+			 and wildlife habitats; or</text>
+							</subclause><subclause id="idB7B9FF37D573425FBD2F052209167D09"><enum>(IV)</enum><text>to reduce road
+			 densities; and</text>
+							</subclause></clause><clause id="idA1C69CACC8F44AB68DA426F4A2EDE57B"><enum>(ii)</enum><text>under which a
+			 party shall—</text>
+							<subclause id="id1EADD27021404A33BEDC3A65A18F2322"><enum>(I)</enum><text>offset the value
+			 of goods (including timber for services);</text>
+							</subclause><subclause id="idBF7664E11237429A85C996749715BEBF"><enum>(II)</enum><text>retain and
+			 reinvest receipts resulting from the landscape-scale restoration project that
+			 is the subject of the contract in the same or a different landscape-scale
+			 restoration project that is located in a stewardship area;</text>
+							</subclause><subclause id="idDDD2CC50A1F3457C9C5FFFD3F5A0912A"><enum>(III)</enum><text>designate
+			 timber for cutting by description or prescription; and</text>
+							</subclause><subclause id="id339F5AAA13B64789BB18622657A6C222"><enum>(IV)</enum><text>enter into a
+			 multiyear contract, the period of which shall not exceed 10 years.</text>
+							</subclause></clause></subparagraph></paragraph><paragraph id="id582CB355D442449A833779E9538B9390"><enum>(13)</enum><header>Three Rivers
+			 Ranger District</header><text>The term <term>Three Rivers Ranger
+			 District</term> means the Three Rivers Ranger District in the Kootenai National
+			 Forest.</text>
+				</paragraph><paragraph id="idEB0364B9E93E4336BFABACD971464F0A"><enum>(14)</enum><header>Vegetative
+			 management</header><text>The term <term>vegetative management</term> means any
+			 restoration activity involving vegetation.</text>
+				</paragraph></section><section id="idCAE8DB6EC99A4E6B972E7C02A4D1C124"><enum>102.</enum><header>Stewardship
+			 and restoration projects</header>
+				<subsection id="idEF6C46503945413EA8914782661DC12D"><enum>(a)</enum><header>Duty of
+			 Secretary concerned</header>
+					<paragraph id="idF41A9F8209B2429A86B2D5007B21197E"><enum>(1)</enum><header>Selection</header><text>In
+			 accordance with paragraph (2), the Secretary concerned shall select areas on
+			 which to carry out landscape-scale restoration projects under subsection (b),
+			 consistent with laws (including regulations) and forest plans and appropriate
+			 to forest types.</text>
+					</paragraph><paragraph id="id0918A3020A994A1A8E81985917E09F78"><enum>(2)</enum><header>Priority</header><text>In
+			 selecting areas on which to carry out landscape-scale restoration projects
+			 under subsection (b), the Secretary concerned, in coordination with applicable
+			 advisory committees or local collaborative groups, shall give priority to
+			 areas—</text>
+						<subparagraph id="id037CD2492B6142BFB5CB318DF6354EA1"><enum>(A)</enum><text>on the
+			 Beaverhead-Deerlodge National Forest in which—</text>
+							<clause id="id2BE57DD32546459E9FCF5C7A6445F5AF"><enum>(i)</enum><text>the
+			 road densities of which exceed 1.5 miles per square mile of land;</text>
+							</clause><clause id="idBCFFEDA6389E40C59EA6DD70A6582D73"><enum>(ii)</enum><text>the habitat
+			 connectivity of which are compromised as a result of past timber harvest
+			 patterns on the parcels of land; and</text>
+							</clause><clause id="id077D122330644175904BEE235279A005"><enum>(iii)</enum><text>that contain
+			 forests that are at high risk from insect epidemics or high-severity wildfires,
+			 as determined by the Secretary concerned; or</text>
+							</clause></subparagraph><subparagraph id="idF2D7F8A1674C470592FEA27E1CF1693D"><enum>(B)</enum><text>on the Seeley
+			 Lake Ranger District and the Three Rivers Ranger District, in which—</text>
+							<clause id="id2B0946D2497D483DB2E7304BB1401D24"><enum>(i)</enum><text>portions of a
+			 project contain a road density that exceeds the objectives of Grizzly Bear
+			 Management Units; and</text>
+							</clause><clause id="id2AD4DD714651499C82B78061341EBAC6"><enum>(ii)</enum><text>a
+			 reduction in road density would benefit affected wildlife.</text>
+							</clause></subparagraph></paragraph></subsection><subsection id="idBC6ADC8ED49B4ACB9F9A76048ECBBCCE"><enum>(b)</enum><header>Planning;
+			 implementation</header>
+					<paragraph id="idD7B1BCE4D9F640A78C71DC00236CBC5A"><enum>(1)</enum><header>In
+			 general</header><text>Not later than 1 year after the date of enactment of this
+			 Act and annually thereafter, in accordance with paragraph (2), the Secretary
+			 concerned shall plan, and issue a record of decision for, 1 or more
+			 landscape-scale restoration projects that shall be implemented on parcels of
+			 land selected by the Secretary concerned under subsection (a).</text>
+					</paragraph><paragraph id="id9FE0ED173EED4C959C3F5906D3661A60"><enum>(2)</enum><header>Requirements</header>
+						<subparagraph id="idD9726703A18A488AAB6B310E5BCD7D3D"><enum>(A)</enum><header>Road and
+			 motorized trail density</header>
+							<clause id="id7325849E5ED843B28C44D70546EF5943"><enum>(i)</enum><header>In
+			 general</header><text>As determined in accordance with clause (ii), each
+			 landscape-scale restoration project carried out under this subsection shall
+			 not, with respect to the stewardship area that is the subject of—</text>
+								<subclause id="id8FEF48EFF32A4CE19793D83F7C759D03"><enum>(I)</enum><text>a project located
+			 in the Beaverhead-Deerlodge National Forest, result in a road and motorized
+			 trail density in excess of 1.5 miles per square mile; or</text>
+								</subclause><subclause id="IDada4745e721448789c8a4713dae172fd"><enum>(II)</enum><text>a project
+			 located within the Grizzly Bear Management Units on the Seeley Lake Ranger
+			 District and the Three Rivers Ranger District, exceed the road density
+			 objectives of the Grizzly Bear management plans.</text>
+								</subclause></clause><clause id="id031BF8C20BD7438AA7C653732FEE3794"><enum>(ii)</enum><header>Calculation</header><text>In
+			 determining compliance with the requirement described in clause (i), the road
+			 and motorized trail density of a stewardship area that is the subject of a
+			 landscape-scale restoration project implemented under this subsection shall be
+			 determined—</text>
+								<subclause id="idD0CD8080943546EA85DC9F1CDC2D3CDB"><enum>(I)</enum><text>on the date on
+			 which the project is completed; and</text>
+								</subclause><subclause id="idEB5208D94D254B8798D126D01FF4049D"><enum>(II)</enum><text>through a
+			 measurement taken in accordance with the project scale.</text>
+								</subclause></clause><clause id="idEE7F9BD142A54B6999D74FB0C2CF3D3D"><enum>(iii)</enum><header>Enhanced
+			 recreational trail opportunities</header><text>The Secretary concerned, in
+			 consultation with each interested party, may develop a plan to provide enhanced
+			 recreational trail opportunities as part of a landscape-scale restoration
+			 project—</text>
+								<subclause id="idDEE9D0CFE1C84E1FA2B82E17722039F0"><enum>(I)</enum><text>to convert
+			 reclaimed roads into recreational trails in a manner consistent with this
+			 section;</text>
+								</subclause><subclause id="idC8105DAE8C954E8E80E5B6D4C3D92AB9"><enum>(II)</enum><text>to provide
+			 enhanced motorized and nonmotorized recreational trail opportunities;</text>
+								</subclause><subclause id="idAF2C517B3EA946D69A80379B45B3F51B"><enum>(III)</enum><text>to increase
+			 trail connectivity; and</text>
+								</subclause><subclause id="id22584C91CEB8466A8366694B80C21912"><enum>(IV)</enum><text>to promote
+			 recreational opportunities in—</text>
+									<item id="id77B31410EF184821B29D2542A3FB8E8C"><enum>(aa)</enum><text>the
+			 Beaverhead-Deerlodge National Forest;</text>
+									</item><item id="id7F59934ACB2A4A28B4871BB2689FC645"><enum>(bb)</enum><text>the
+			 Seeley Lake Ranger District; and</text>
+									</item><item id="idC70FE07659114834A5423DA04E25606E"><enum>(cc)</enum><text>the
+			 Three Rivers Ranger District.</text>
+									</item></subclause></clause></subparagraph><subparagraph id="id94FEC3CC43FC43208D61DE04971E94D5"><enum>(B)</enum><header>Restriction
+			 relating to permanent roads</header><text>In carrying out a landscape-scale
+			 restoration project, the Secretary concerned shall not construct any permanent
+			 road on an area that is the subject of the project.</text>
+						</subparagraph><subparagraph id="id246DD5B902CA4A5CB86F82410CE82C6D"><enum>(C)</enum><header>Inland native
+			 fish strategy</header><text>Each landscape-scale restoration project shall be
+			 carried out in accordance with each standard described in the inland native
+			 fish strategy relating to the conservation and management of riparian
+			 habitat.</text>
+						</subparagraph><subparagraph id="id4E0B98449BE34770BB21A60F63D798FB"><enum>(D)</enum><header>Forest
+			 management</header><text>On the aggregate parcel of land that is the subject of
+			 the stewardship areas selected by the Secretary concerned under subsection (a),
+			 the Secretary concerned shall—</text>
+							<clause id="idF332948D8AAC4BD3A8F7CFB3FDF5E3B3"><enum>(i)</enum><text>produce
+			 commercial wood products and accomplish landscape-scale restoration
+			 objectives;</text>
+							</clause><clause id="id282718CEBEE5405FB08B283F0652B399"><enum>(ii)</enum><text>carry out
+			 activities to reduce the risk and severity of uncharacteristic wildland fire
+			 and insect infestations;</text>
+							</clause><clause id="id1EB3AEAAA6B04D54BD813613F7CE93DF"><enum>(iii)</enum><text>manage
+			 vegetation through timber harvest activities in a manner to ensure that the
+			 timber harvest activities are limited to stewardship areas;</text>
+							</clause><clause id="id7284CE346C8949E8B12BCD0427E48398"><enum>(iv)</enum><text>use prescribed
+			 burning and other silvicultural techniques to mimic mixed severity, natural
+			 fires when appropriate to the forest type that is the subject of the prescribed
+			 burning or other silvicultural technique;</text>
+							</clause><clause id="id89F43C5DD28E46BDA81BCE00674DB0C2"><enum>(v)</enum><text>when a commercial
+			 timber harvest activity is used to implement the vegetation management of the
+			 aggregate parcel, design the commercial timber harvest activity—</text>
+								<subclause id="idA0E71B0BBD8F48EB8771F451934EE523"><enum>(I)</enum><text>to reduce the
+			 long-term risk and severity of fire and insect infestations;</text>
+								</subclause><subclause id="idED655ED6C4EA47548FA65DDC83FB158B"><enum>(II)</enum><text>to maintain and
+			 restore healthy sustainable forests;</text>
+								</subclause><subclause id="idEC32169CF0994D638407CC2282CDBDE9"><enum>(III)</enum><text>to generate
+			 revenue to reinvest in fish and wildlife habitat maintenance and restoration;
+			 and</text>
+								</subclause><subclause id="id77FB28C674A94DD697EEC2284537747A"><enum>(IV)</enum><text>to maintain the
+			 infrastructure of wood products manufacturing facilities that provide economic
+			 stability to communities located in close proximity to the aggregate parcel;
+			 and</text>
+								</subclause></clause><clause id="idEB6802588C4D40DEB4BB960759E168B7"><enum>(vi)</enum><text>subject to
+			 paragraph (6)(C)(ii)(III), to produce commercial wood products and accomplish
+			 landscape-scale restoration objectives—</text>
+								<subclause id="id3E65FBBBDD624108AF0384558F5552D2"><enum>(I)</enum><text>with respect to
+			 the stewardship area located in the Beaverhead-Deerlodge National
+			 Forest—</text>
+									<item id="id85EDFE10A6B44F77902090BEF10156C1"><enum>(aa)</enum><text>during the
+			 2-year period beginning on the date of enactment of this Act, mechanically
+			 treat timber on not less than 14,000 acres of the stewardship area, during
+			 which, to the maximum extent practicable, the Secretary concerned shall
+			 mechanically treat timber on approximately 7,000 acres of the stewardship area
+			 during each year of the period;</text>
+									</item><item id="idF72CFDD1D7A440E3A12ADA6E692EA0D9"><enum>(bb)</enum><text>not
+			 later than 5 years after the date of enactment of this Act, mechanically treat
+			 timber on not less than 35,000 acres of the stewardship area; and</text>
+									</item><item id="id2D4697F36B31441EB216D3AE4892BA5C"><enum>(cc)</enum><text>not
+			 later than 10 years after the date of enactment of this Act, mechanically treat
+			 timber on a minimum of 70,000 acres of the stewardship area;</text>
+									</item></subclause><subclause id="id3C0C62226677442BA8944FCBA8B005C1"><enum>(II)</enum><text>with respect to
+			 the stewardship area located in the Three Rivers Ranger District—</text>
+									<item id="idA5EB8C0D7E5D4ABCB7F5E1DA5F0309B8"><enum>(aa)</enum><text>during the
+			 2-year period beginning on the date of enactment of this Act, mechanically
+			 treat timber on not less than 6,000 acres of the stewardship area;</text>
+									</item><item id="id908C657DD78E46259178FFD4F6BA9E39"><enum>(bb)</enum><text>not
+			 later than 5 years after the date of enactment of this Act, mechanically treat
+			 timber on not less than 15,000 acres of the stewardship area; and</text>
+									</item><item id="id415E394338394FB29CD1DC41530DC160"><enum>(cc)</enum><text>not
+			 later than 10 years after the date of enactment of this Act, mechanically treat
+			 timber on not less than 30,000 acres of the stewardship area; and</text>
+									</item></subclause><subclause id="idD9B62CC3A48E4BF6B813C936D943C8A4"><enum>(III)</enum><text>with respect to
+			 the stewardship area located in the Seeley Lake Ranger District, carry out
+			 projects described in paragraph (3).</text>
+								</subclause></clause></subparagraph></paragraph><paragraph id="id0EAC4054F0A04EAD92AEBE2272F74311"><enum>(3)</enum><header>Projects</header>
+						<subparagraph id="ID25efd980eaa94a1281352078cd7ca02b"><enum>(A)</enum><header>Cooperative
+			 projects</header><text>The Secretary concerned may plan and carry out
+			 cooperative projects on Federal and non-Federal land in the Seeley Lake Ranger
+			 District for the protection, restoration, or enhancement of fish or wildlife
+			 habitat or other resource objectives on the land if the projects will benefit
+			 resources on Federal land.</text>
+						</subparagraph><subparagraph id="id81D697697533401F9EDAAE1E5E654681"><enum>(B)</enum><header>Community
+			 projects</header><text>The Secretary concerned may appoint the Seeley Lake
+			 Ranger District Ranger of the Lolo National Forest and the Lincoln District
+			 Ranger of the Helena National Forest—</text>
+							<clause id="idAEFAE770351644CEBBE5C12004860F70"><enum>(i)</enum><text>to
+			 serve in an official capacity on the Board of Directors of the Blackfoot
+			 Challenge; and</text>
+							</clause><clause id="id794547427F04478989D3C286DE187148"><enum>(ii)</enum><text>to
+			 participate in—</text>
+								<subclause id="id8D6DFAAB5CCD4191AC76B7C3C7AEE415"><enum>(I)</enum><text>a Blackfoot
+			 Community Project; and</text>
+								</subclause><subclause id="idA3DBB243F03C4E81BFCB79E4F34FD652"><enum>(II)</enum><text>the Seeley Lake
+			 Coordinated Forest Management Project.</text>
+								</subclause></clause></subparagraph></paragraph><paragraph id="IDd1c031042c9f45f080b90ca9799408ee"><enum>(4)</enum><header>Restoration
+			 activities</header>
+						<subparagraph id="idBC2A9FC460DA4A56BDFA2EEFAC24A710"><enum>(A)</enum><header>In
+			 general</header><text>The Secretary concerned may provide grants to pay the
+			 Federal share of the cost of restoration activities in the Seeley Lake Ranger
+			 District.</text>
+						</subparagraph><subparagraph id="id4E6710B3DA2E4E9586666F33D36923AF"><enum>(B)</enum><header>Non-Federal
+			 share</header>
+							<clause id="idBABD504850DE4850AF7A23CF96050D9E"><enum>(i)</enum><header>In
+			 general</header><text>The Secretary concerned shall allow non-Federal matching
+			 contributions to cover the cost of restoration activities under this
+			 paragraph.</text>
+							</clause><clause id="id82F7E9D499FA4BE7B9E5C330E10896B2"><enum>(ii)</enum><header>Form</header><text>Non-Federal
+			 contributions may be in the form of cash or an in-kind contribution.</text>
+							</clause></subparagraph></paragraph><paragraph id="idC9A3C00A7E144039B021F8E2222399A1"><enum>(5)</enum><header>Disposition of
+			 appeal</header><text display-inline="yes-display-inline">Notwithstanding
+			 section 322(d)(1)(B) of the Department of the Interior and Related Agencies
+			 Appropriations Act, 1993 (16 U.S.C. 1612 note; Public Law 102–381), each
+			 meeting between a designated Forest Service employee and an individual who
+			 files an appeal of a landscape-scale restoration project carried out under this
+			 section shall—</text>
+						<subparagraph id="id6565E171222F4BC8BCBD46E9E24F8105"><enum>(A)</enum><text>take place not
+			 later than 30 days after the closing date for filing an appeal;</text>
+						</subparagraph><subparagraph id="id6111997AD686448DBACDF4B5340486BE"><enum>(B)</enum><text>occur in person
+			 at a location agreed to by the appellant and the Forest Service that is in the
+			 vicinity of the land affected by the decision; and</text>
+						</subparagraph><subparagraph id="id5E7A740C7AB449308B9A8EAED17CEF6E"><enum>(C)</enum><text>at the option of
+			 the Secretary concerned, include other individuals involved in monitoring of
+			 the landscape-scale restoration project (including the applicable project
+			 advisory committee or local collaborative group) to provide input to the Forest
+			 Service regarding the final decision of the Forest Service.</text>
+						</subparagraph></paragraph><paragraph id="idD503218C51454FD082ACDD50CFB3B860"><enum>(6)</enum><header>Compliance with
+			 National Environmental Policy Act of 1969</header>
+						<subparagraph id="idB2BBE58793C2421195C209A59AE1D6ED"><enum>(A)</enum><header>Compliance</header>
+							<clause id="idF1E745C3376C4C9CB17C87CA0EE2DB95"><enum>(i)</enum><header>In
+			 general</header><text>Each landscape-scale restoration project carried out
+			 under this section shall be carried out in accordance with the
+			 <act-name parsable-cite="NEPA69">National Environmental Policy Act of
+			 1969</act-name> (42 U.S.C. 4321 et seq.).</text>
+							</clause><clause id="idF828DDB0C3D64AE1A72CA99028128A53"><enum>(ii)</enum><header>Duty of
+			 Secretary concerned</header><text>To comply with the
+			 <act-name parsable-cite="NEPA69">National Environmental Policy Act of
+			 1969</act-name> (42 U.S.C. 4321 et seq.) under clause (i), the Secretary
+			 concerned shall prepare 1 environmental impact statement that covers all
+			 components of the landscape-scale restoration project that is the subject of
+			 the environmental impact statement to ensure that any additional analysis will
+			 not be required.</text>
+							</clause><clause id="idE0B1029FE29048CEAE447F185CE2B7C1"><enum>(iii)</enum><header>Number of
+			 required environmental impact statements</header><text>Except as provided in
+			 subparagraph (C), with respect to an approved landscape-scale restoration
+			 project under this section, any environmental impact statement in addition to
+			 an environmental impact statement described in clause (ii) shall not be
+			 required to implement the approved landscape-scale restoration project.</text>
+							</clause></subparagraph><subparagraph id="id37283EE3CBA24A5DB0F6B50923BA9359"><enum>(B)</enum><header>Implementation
+			 of landscape-scale restoration project</header><text>Upon the later of the
+			 completion of an environmental impact statement for a landscape-scale
+			 restoration project under subparagraph (A), and the issuance of a record of
+			 decision for the landscape-scale restoration project under paragraph (1), the
+			 Secretary concerned shall implement the landscape-scale restoration
+			 project.</text>
+						</subparagraph><subparagraph id="ID83056f06ce514dee801b52d421a7ad76"><enum>(C)</enum><header>Additional
+			 environmental analysis</header>
+							<clause id="idE94A3FB231F9416EB98A55438FF47EAD"><enum>(i)</enum><header>In
+			 general</header><text>The Secretary concerned may, after consultation with
+			 resource advisory committees or local collaborative groups, and based on a
+			 monitoring of the applicable landscape-scale restoration project, conduct
+			 additional environmental analyses on the landscape-scale restoration project
+			 after activities have begun, if the Secretary concerned determines that changes
+			 to the original document would help to better accomplish the purposes of this
+			 Act.</text>
+							</clause><clause id="id41F674771DAF4971A15C95AFAC570745"><enum>(ii)</enum><header>Modifications
+			 to environmental impact statements</header>
+								<subclause id="idDC25EC6153EA4040B8CE868F15C7CA36"><enum>(I)</enum><header>In
+			 general</header><text>Any modification to an environmental impact statement
+			 regarding a landscape-scale restoration project under this section shall be
+			 subject to valid existing rights.</text>
+								</subclause><subclause id="id1CA4214BFEBF424AB3CB8FE099B3EB4C"><enum>(II)</enum><header>Continuation
+			 of landscape-scale restoration project</header><text>The implementation of a
+			 landscape-scale restoration project that is the subject of 1 or more
+			 modifications under this clause shall continue until the date on which the 1 or
+			 more modifications are approved by, as appropriate—</text>
+									<item id="id4F50F13295C94B38868ACF837591847B"><enum>(aa)</enum><text>an
+			 appropriate United States district court; or</text>
+									</item><item id="id09555A2225EC46209F8105C0B4DB58BC"><enum>(bb)</enum><text>the
+			 Secretary concerned.</text>
+									</item></subclause><subclause id="idC79ADF16418749C88B356F77BBB148B4"><enum>(III)</enum><header>Mechanical
+			 treatment</header><text>If any acreage scheduled to be mechanically treated
+			 through a landscape-scale restoration project under paragraph (2)(D)(vi) is
+			 eliminated from the landscape-scale restoration project through a modification
+			 under this clause, the Secretary concerned may not include the acreage in
+			 calculating the applicable acreage total required to be mechanically treated
+			 under paragraph (2)(D)(vi).</text>
+								</subclause></clause></subparagraph><subparagraph id="IDee7aa6310727417f8cec09071154b137"><enum>(D)</enum><header>Consultation</header><text>The
+			 Secretary concerned shall consult with resource advisory committees or local
+			 collaborative groups before any environmental analysis is conducted to reduce
+			 conflict and expedite project implementation.</text>
+						</subparagraph></paragraph><paragraph id="id7717F6A7A6FE4306897D0C1F20C67421"><enum>(7)</enum><header>Ecological
+			 restoration treatments</header><text>An ecological restoration treatment
+			 selected by the Secretary concerned under the Collaborative Forest Landscape
+			 Restoration Program in accordance with section 4003 of the Omnibus Public Land
+			 Management Act of 2009 (16 U.S.C. 7303) shall qualify as a landscape-scale
+			 restoration project under this section.</text>
+					</paragraph><paragraph id="id8E835AE7E4874EDF856DDA1A6B19FE67"><enum>(8)</enum><header>Priority
+			 regarding design of landscape-scale restoration projects</header><text>In
+			 planning a landscape-scale restoration project under this subsection, the
+			 Secretary concerned shall give priority to any proposal that is
+			 designed—</text>
+						<subparagraph id="id64C5D974A73848868446E894E91A1F32"><enum>(A)</enum><text>to benefit local
+			 communities through the creation or establishment of employment or training
+			 opportunities through the conduct of the landscape-scale restoration
+			 project;</text>
+						</subparagraph><subparagraph id="idCB72B9BA64864057AC67B8C6D6661D13"><enum>(B)</enum><text>to ensure that
+			 wood and other by-products of the landscape-scale restoration project—</text>
+							<clause id="idB3AEA16A7CC74A6EAD369E2300BF8052"><enum>(i)</enum><text>are
+			 processed in the State; and</text>
+							</clause><clause id="idE55771F639824E50879A07C7C9F73BD4"><enum>(ii)</enum><text>contribute to
+			 the development or retention of value-added products for an existing or
+			 emerging market;</text>
+							</clause></subparagraph><subparagraph id="id8670A209B338491E900CA187E85B67F5"><enum>(C)</enum><text>to establish
+			 partnerships with State, local, and private nonprofit youth groups; and</text>
+						</subparagraph><subparagraph id="ID10e2f115ba0f4438b469c71c409687b8"><enum>(D)</enum><text>to result in
+			 ecological benefits to the landscape.</text>
+						</subparagraph></paragraph><paragraph id="id53820A666CD54844B4BBFFDA8C6158A9"><enum>(9)</enum><header>Receipts</header>
+						<subparagraph id="IDB87E6EB3E15A423C9459B522069F2D1F"><enum>(A)</enum><header>Establishment</header><text>There
+			 is established in the Treasury of the United States an account (referred to in
+			 this paragraph as the <quote>Account</quote>) consisting of such amounts as are
+			 appropriated to the Account under subparagraph (B).</text>
+						</subparagraph><subparagraph id="ID75847D4BD6B24B8E83CBB81F88EF90BB"><enum>(B)</enum><header>Transfers to
+			 Account</header><text>There are appropriated to the Account, out of funds of
+			 the Treasury not otherwise appropriated, amounts equivalent to amounts
+			 collected as receipts under this section.</text>
+						</subparagraph><subparagraph id="ID72CBA45BD1F440E4B3F4FD55F33AAC30"><enum>(C)</enum><header>Expenditures
+			 from Account</header><text>On request by the Secretary concerned, the Secretary
+			 of the Treasury shall transfer from the Account to the Secretary concerned such
+			 amounts as the Secretary concerned determines are necessary to carry out this
+			 section.</text>
+						</subparagraph><subparagraph id="ID990781DF86FA4B5A8ADACB8C3C4C49B3"><enum>(D)</enum><header>Transfers of
+			 amounts</header>
+							<clause id="IDEA15210E59234B4AB0176880E4E2B3F6"><enum>(i)</enum><header>In
+			 general</header><text>The amounts required to be transferred to the Fund under
+			 this paragraph shall be transferred at least monthly from the general fund of
+			 the Treasury to the Fund on the basis of estimates made by the Secretary of the
+			 Treasury.</text>
+							</clause><clause commented="no" display-inline="no-display-inline" id="IDCF3824F211E742E7A61FAAF06623B01E"><enum>(ii)</enum><header>Adjustments</header><text>Proper
+			 adjustment shall be made in amounts subsequently transferred to the extent
+			 prior estimates were in excess of or less than the amounts required to be
+			 transferred.</text>
+							</clause></subparagraph></paragraph><paragraph id="idDE0BE840CCCF48A39DDEA5F66D4C11CE"><enum>(10)</enum><header>Effect on
+			 other projects</header><text>Nothing in this section affects the authority of
+			 the Secretary concerned with respect to the conduct of any other project of the
+			 Secretary concerned on a stewardship area that is not carried out pursuant to
+			 this title.</text>
+					</paragraph><paragraph id="id8FB9DC4FC439426BAD3F093668E58380"><enum>(11)</enum><header>Existing
+			 landscape-scale restoration projects</header><text>Landscape-scale restoration
+			 projects for which the Secretary concerned has, as of the date of enactment of
+			 this Act, initiated the preparation of an environmental impact statement or
+			 similar analysis in accordance with the <act-name parsable-cite="NEPA69">National Environmental Policy Act of 1969</act-name> (42
+			 U.S.C. 4321 et seq.) may be carried out in accordance with applicable law
+			 (including regulations).</text>
+					</paragraph><paragraph id="id920950E7EEBD4D43B72266DEBAA5E03B"><enum>(12)</enum><header>Effect</header><text>Except
+			 as otherwise provided in this Act, the Secretary concerned shall manage, in
+			 accordance with each applicable law (including regulations)—</text>
+						<subparagraph id="id244B90E9093342328E8ABFE3518AC566"><enum>(A)</enum><text>the
+			 Beaverhead-Deerlodge National Forest;</text>
+						</subparagraph><subparagraph id="idB8587D9249264FDA9F0CB1BD66A6DCCB"><enum>(B)</enum><text>the Seeley Lake
+			 Ranger District; and</text>
+						</subparagraph><subparagraph id="id914CBC66DC9F41169A7DF17DBDA53500"><enum>(C)</enum><text>the Three Rivers
+			 Ranger District.</text>
+						</subparagraph></paragraph></subsection></section><section id="id5E511259033E434B9B4A467D1ABC3C65"><enum>103.</enum><header>Resource
+			 advisory committees</header>
+				<subsection id="idBAD2440001D44772BF802EC4F6DBAD1F"><enum>(a)</enum><header>Establishment;
+			 selection for use</header>
+					<paragraph id="idC40E59CB9A5044CF9A8D1C8851B9F55E"><enum>(1)</enum><header>Establishment
+			 of resource advisory committees</header><text>Subject to paragraph (2), in
+			 accordance with section 205 of the Secure Rural Schools and Community
+			 Self-Determination Act of 2000 (16 U.S.C. 7125), the Secretary concerned shall
+			 establish—</text>
+						<subparagraph id="id2CEBDBCDC80B40C6A8E10D38AAA19C44"><enum>(A)</enum><text>a resource
+			 advisory committee for the Beaverhead-Deerlodge National Forest; and</text>
+						</subparagraph><subparagraph id="id45C42831A1D841D8B2E06D828084B5D4"><enum>(B)</enum><text>a resource
+			 advisory committee for the Three Rivers Ranger District.</text>
+						</subparagraph></paragraph><paragraph id="id6DDF8605895E43178F8F7904B4DA19D3"><enum>(2)</enum><header>Selection of
+			 existing advisory committee</header><text>In establishing a resource advisory
+			 committee for each entity described in paragraph (1), the Secretary concerned
+			 may select an advisory committee in existence as of the date of enactment of
+			 this Act if the Secretary concerned determines that the advisory
+			 committee—</text>
+						<subparagraph id="id162A7193CC4C4E509D22E0A7D8CF2DEB"><enum>(A)</enum><text>is capable of
+			 carrying out the applicable requirements of this Act; and</text>
+						</subparagraph><subparagraph id="id4BCE1C3E05DB41D29BF21848BA38FFBD"><enum>(B)</enum><text>meets each
+			 requirement described in section 205 of the Secure Rural Schools and Community
+			 Self-Determination Act of 2000 (16 U.S.C. 7125).</text>
+						</subparagraph></paragraph></subsection><subsection id="id99E00FA570AC4A209C15A708FF920A02"><enum>(b)</enum><header>Duties</header>
+					<paragraph id="id0C9D1040A15241B5AA2C5219B89EC640"><enum>(1)</enum><header>Establishment
+			 of advisory committees</header>
+						<subparagraph id="id26797C1D9C214761A382B89BEEFD2135"><enum>(A)</enum><header>In
+			 general</header><text>Each resource advisory committee established under
+			 subsection (a)(1) shall establish an advisory committee for each
+			 landscape-scale restoration project implemented by the Secretary concerned
+			 under section 102(b) to assist the Secretary concerned in determining the
+			 location for, completing the design of, and implementing each landscape-scale
+			 restoration project under the jurisdiction of the advisory committee.</text>
+						</subparagraph><subparagraph id="id5E06F651F94747FBAEDCE316A3CC5356"><enum>(B)</enum><header>Composition</header><text>Each
+			 advisory committee established by a resource advisory committee under
+			 subparagraph (A) shall be comprised of representatives from—</text>
+							<clause id="id694A17F4BB7D4125AC86AA5C8EEDF832"><enum>(i)</enum><text>industrial,
+			 recreational, conservation, and livestock organizations; and</text>
+							</clause><clause id="id85D66965A6D94362ABCC6398FDF13D23"><enum>(ii)</enum><text>applicable local
+			 collaborative forest management groups.</text>
+							</clause></subparagraph></paragraph><paragraph id="idCDB3002433DD4D1CB99F349DDE9264CA"><enum>(2)</enum><header>Guidance</header><text>Each
+			 resource advisory committee shall advise each entity under the jurisdiction of
+			 the resource advisory committee on issues relating to the disbursement of
+			 excess receipts that result from the completion of each landscape-scale
+			 restoration project implemented by the Secretary concerned under section
+			 102(b), as appropriate.</text>
+					</paragraph></subsection></section><section id="IDd40a01b1f832410fa95874d2acbec446"><enum>104.</enum><header>Monitoring;
+			 reporting</header>
+				<subsection id="id8D2594388C0F492896C0C89F6E8FAB5A"><enum>(a)</enum><header>Reports</header><text display-inline="yes-display-inline">Not later than 5 years after the date of
+			 enactment of this Act and every 5 years thereafter, the Secretary concerned
+			 shall submit to the appropriate committees of Congress a report on the
+			 implementation of landscape-scale restoration projects under this title.</text>
+				</subsection><subsection id="idDEC85B32F49649C1AEDE3470F6426250"><enum>(b)</enum><header>Contents</header><text display-inline="yes-display-inline">Each report required under subsection (a)
+			 shall, for the entity covered by the report—</text>
+					<paragraph id="id4E57EE510D504BA6869EEEF106739ABF"><enum>(1)</enum><text display-inline="yes-display-inline">assess the effectiveness of stewardship
+			 contracts in meeting vegetative management goals and funding restoration
+			 goals;</text>
+					</paragraph><paragraph id="idA5823EAE3D0A4B8A9E484788D60F5A36"><enum>(2)</enum><text display-inline="yes-display-inline">provide information on—</text>
+						<subparagraph id="id5DABD654DB5A48ADB2F13141D23A232F"><enum>(A)</enum><text display-inline="yes-display-inline">the number of landscape-scale restoration
+			 projects designed, implemented, and completed;</text>
+						</subparagraph><subparagraph id="idFC0678F64D67416D9D954EEA5FE181F0"><enum>(B)</enum><text display-inline="yes-display-inline">the cost effectiveness of each
+			 landscape-scale restoration project, including the costs of planning and
+			 environmental analysis and the benefits resulting from restoration activities;
+			 and</text>
+						</subparagraph><subparagraph id="idF5107FB7F98E4E598E15AF159B7527F6"><enum>(C)</enum><text display-inline="yes-display-inline">the number of acres treated and restoration
+			 projects accomplished;</text>
+						</subparagraph></paragraph><paragraph id="id8B3B367210064A3FB276056046328362"><enum>(3)</enum><text>evaluate whether
+			 the use of stewardship contracts and the participation of local collaborative
+			 groups and other forms of public involvement have reduced the number of
+			 administrative appeals and legal challenges or otherwise impacted the outcome
+			 of appeals and litigation;</text>
+					</paragraph><paragraph id="ID605438807e704647aa1e5b01bfbda2d2"><enum>(4)</enum><text>make
+			 recommendations on legislative or administrative actions that might better
+			 achieve the goals and purposes of the restoration efforts carried out by the
+			 Secretary concerned;</text>
+					</paragraph><paragraph id="IDfaf9ebf726884491b0e2bb7b0251f2e9"><enum>(5)</enum><text>identify any
+			 additional resources and authorities that are necessary to implement fully the
+			 initiatives carried out by the Secretary concerned under this title;</text>
+					</paragraph><paragraph id="IDaa1b2de110324ad2a126f85c947fe39a"><enum>(6)</enum><text>evaluate the
+			 effectiveness of restoration activities on ecological health; and</text>
+					</paragraph><paragraph id="ID2ea0f7b184d14c06b14b5d7316b96639"><enum>(7)</enum><text>consider and
+			 implement adaptive management tools to improve management under this Act,
+			 including impacts of climate change on the effectiveness of restoration
+			 activities.</text>
+					</paragraph></subsection></section><section id="idFF86D1A163B442FCB6E6DB31CBD13877"><enum>105.</enum><header>Biomass
+			 combined heat and power system projects</header>
+				<subsection id="id66F4E469E1F9433289EC544B868132D2"><enum>(a)</enum><header>Use of
+			 funds</header><text display-inline="yes-display-inline">The Secretary concerned
+			 may use funds made available under section 106(a) and other funds available to
+			 the Secretary concerned for fiscal year 2010, to pay the Federal share of the
+			 cost of installation of combined heat and power biomass systems that can use
+			 materials made available from the landscape-scale restoration projects carried
+			 out under this title.</text>
+				</subsection><subsection id="idC08DA81D39CF49B885C8E42CCAAB097E"><enum>(b)</enum><header>Biomass
+			 study</header>
+					<paragraph id="idB456A47C6088435ABF18326EA230181D"><enum>(1)</enum><header>Study</header><text>As
+			 soon as practicable after the date of enactment of this Act, the Secretary
+			 concerned shall conduct a study—</text>
+						<subparagraph id="idACD4B0FE25A74000815B7DF6DE5129AE"><enum>(A)</enum><text>to examine the
+			 feasibility of the sustainable development of biomass supplies and combined
+			 heat and power energy generation in the areas covered by this title; and</text>
+						</subparagraph><subparagraph id="id129F673627EF4BEAAB4765A4579658E9"><enum>(B)</enum><text>to develop a
+			 means by which to facilitate and encourage the use of biomass recovered from
+			 forest land as an energy source to reduce the risk of severe wildfire
+			 to—</text>
+							<clause id="idC4A240428EA04A05BF45A3F59012A2C3"><enum>(i)</enum><text>communities;</text>
+							</clause><clause id="idD0375EBD39E9440B9C8BC3E59B2800F1"><enum>(ii)</enum><text>infrastructure;
+			 and</text>
+							</clause><clause id="idD593F030323444D89EC5C28FD590D0D2"><enum>(iii)</enum><text>water
+			 supplies.</text>
+							</clause></subparagraph></paragraph><paragraph id="id611F1C084CA344449BC0AB661E854E39"><enum>(2)</enum><header>Plan</header><text>Not
+			 later than 18 months after the date of enactment of this Act, the Secretary
+			 concerned shall propose a plan that is based on the results of the study
+			 carried out under paragraph (1).</text>
+					</paragraph></subsection></section><section id="IDb5dea39e8bec472eafb02fd7808b5428"><enum>106.</enum><header>Funding</header>
+				<subsection id="ID2617ba2a254844c7a0e6f41d02eb2dcc"><enum>(a)</enum><header>Authorization
+			 of appropriations</header><text>There are authorized to be appropriated such
+			 sums as are necessary to carry out this title.</text>
+				</subsection><subsection id="id5F4F141D06284A1CB6DC95830C1EA81E"><enum>(b)</enum><header>Fund</header><text>In
+			 addition to funds made available under subsection (a), the Secretary concerned
+			 may use such amounts in the Fund as are necessary to carry out this
+			 title.</text>
+				</subsection><subsection id="id1A8761E5CBDB4B3C8A59920023BC99AE"><enum>(c)</enum><header>Cost-Effective
+			 planning and implementation</header><text>In planning and implementing
+			 landscape-scale restoration projects under this title, the Secretary concerned
+			 shall use the most cost-effective means available.</text>
+				</subsection><subsection id="id6F7E1C8C6D73464AB2B20BEE2E5B5679"><enum>(d)</enum><header>Reprogramming</header><text>Subject
+			 to the relevant reprogramming guidelines of the Committee on Appropriations of
+			 the Senate and the Committee on Appropriations of the House of Representatives,
+			 funds specifically provided to the Forest Service by the Secretary concerned to
+			 implement resource management activities according to this title may be made
+			 available.</text>
+				</subsection><subsection id="id1B9006C628A7472BB9519B89DBF5187F"><enum>(e)</enum><header>Unobligated
+			 balances</header><text>Subject to normal reprogramming guidelines, the forest
+			 supervisors of the Beaverhead-Deerlodge National Forest, the Lolo National
+			 Forest, and the Kootenai National Forest may allocate and use all accounts that
+			 contain year-end excess funds, and all other available excess funds, for the
+			 administration and management of the National Forest under the jurisdiction of
+			 the forest supervisor to implement projects to achieve the goals and objectives
+			 of this title.</text>
+				</subsection><subsection id="id70354E1F05844328AED2546DE66104F4"><enum>(f)</enum><header>Landscape-Scale
+			 restoration projects</header>
+					<paragraph id="id73170F47215948FDAF06B577B7CACC61"><enum>(1)</enum><header>In
+			 general</header><text>Subject to paragraph (2), the Secretary concerned may
+			 retain any receipts derived from the implementation of landscape-scale
+			 restoration projects under this title for use in planning and implementing
+			 additional landscape-scale restoration projects.</text>
+					</paragraph><paragraph id="idAD9CF7F74FE54186A146E438D91E5AD5"><enum>(2)</enum><header>Limitation</header>
+						<subparagraph id="id5A323345D8664552AFA5A872F2908569"><enum>(A)</enum><header>In
+			 general</header><text>Except as provided in subparagraph (B), funds generated
+			 by a landscape-scale restoration project under this title may not be expended
+			 by the Secretary concerned on a landscape-scale restoration project carried out
+			 on an administrative unit of a National Forest other than the administrative
+			 unit on which the landscape-scale restoration project that is the source of the
+			 funds is carried out.</text>
+						</subparagraph><subparagraph id="id531AAF022A784DDFB39C4C97095A4A71"><enum>(B)</enum><header>Exception</header><text>Funds
+			 generated by a landscape-scale restoration project under this title in the
+			 Beaverhead-Deerlodge National Forest may be expended by the Secretary concerned
+			 on a landscape-scale restoration project carried out in any other
+			 administrative unit of a National Forest.</text>
+						</subparagraph></paragraph></subsection><subsection id="idDEDF5EF19E084BDDA6D74D31ECA26C34"><enum>(g)</enum><header>Administration</header><text>Of
+			 the amounts available to carry out this title for each fiscal year, the
+			 Secretary concerned shall ensure that—</text>
+					<paragraph id="id74CD0EB11C644478ADAC9EE6521523EC"><enum>(1)</enum><text>not more than 10
+			 percent is used or allocated for general administration, planning, or other
+			 overhead; and</text>
+					</paragraph><paragraph id="id45426F74611540DE947BED4DDC011732"><enum>(2)</enum><text>not less than 10
+			 percent is used to carry out projects authorized under this title.</text>
+					</paragraph></subsection></section><section id="idAFA737BDB4B84132B9642C0874B53243"><enum>107.</enum><header>Administration</header><text display-inline="no-display-inline">Except as otherwise provided in this title,
+			 the Secretary concerned shall administer the Beaverhead-Deerlodge National
+			 Forest, the Seeley Lake Ranger District, and the Three Rivers Ranger District
+			 in accordance with applicable laws (including regulations).</text>
+			</section><section id="idE5553FFB09414897B66C22B21707F320"><enum>108.</enum><header>Termination of
+			 authority</header>
+				<subsection id="id79A1E2E378744975BF50D80DDA6200F4"><enum>(a)</enum><header>In
+			 general</header><text display-inline="yes-display-inline">Subject to subsection
+			 (b), the authority of the Secretary concerned to plan and implement
+			 landscape-scale restoration projects under this title shall terminate on the
+			 later of—</text>
+					<paragraph id="ID3aa7a94629574255842a8491d6911d19"><enum>(1)</enum><text>the date that is
+			 15 years after the date of enactment of this Act; or</text>
+					</paragraph><paragraph id="IDcd75a9dc30784a7e8761dd4e14d83759"><enum>(2)</enum><subparagraph commented="no" display-inline="yes-display-inline" id="id685C5A733C5343CCA811E3E68E67C670"><enum>(A)</enum><text>in the case of the
+			 Beaverhead-Deerlodge National Forest, the date on which 70,000 acres of land in
+			 the Beaverhead-Deerlodge National Forest have been mechanically treated in
+			 accordance with section 102(b)(2)(D)(vi)(I); or</text>
+						</subparagraph><subparagraph id="idDDD097D04B574822AFC7C4D181E00422" indent="up1"><enum>(B)</enum><text>in the case of the Three Rivers Ranger
+			 District, the date on which 30,000 acres of land in the Three Rivers Ranger
+			 District have been mechanically treated in accordance with section
+			 102(b)(2)(D)(vi)(II).</text>
+						</subparagraph></paragraph></subsection><subsection id="id07819BC9C1FC45D78A9E7D87670E9E06"><enum>(b)</enum><header>Contracts</header><text>The
+			 termination of the authority of the Secretary concerned under subsection (a)
+			 shall not affect any contract entered into by the Secretary concerned to carry
+			 out this title.</text>
+				</subsection></section></title><title id="id11A0F982E1C041198DFD8CB2E1A31FC0"><enum>II</enum><header>Designation of
+			 wilderness and national recreation areas</header>
+			<section id="ID1174439a382645fc8b6558f83dc00701"><enum>201.</enum><header>Designation of
+			 wilderness and national recreation areas</header>
+				<subsection id="idD0C15B5E1FDA4C0AA4F3141766142A5F"><enum>(a)</enum><header>Beaverhead-Deerlodge
+			 National Forest</header><text display-inline="yes-display-inline">In accordance
+			 with, and in furtherance of the purposes of, the Wilderness Act (<external-xref legal-doc="usc" parsable-cite="usc/16/1131">16 U.S.C. 1131</external-xref> et
+			 seq.), the following areas in the State are designated as wilderness areas and
+			 as components of the National Wilderness Preservation System:</text>
+					<paragraph id="IDba261ba2e29b4a69bcf52055797fb49a"><enum>(1)</enum><header>Anaconda
+			 Pintlar Wilderness Additions</header><text>Certain land in the
+			 Beaverhead-Deerlodge National Forest, comprising approximately 56,680 acres, as
+			 generally depicted on the map entitled <quote>Anaconda-Pintlar Proposed
+			 Wilderness Additions</quote> and dated July 16, 2009, is incorporated in, and
+			 shall be considered to be a part of, the Anaconda-Pintlar Wilderness.</text>
+					</paragraph><paragraph id="id111B5537E6D24C7190A4CD18318E2EEA"><enum>(2)</enum><header>Dolus Lakes
+			 Wilderness</header><text>Certain land in the Beaverhead-Deerlodge National
+			 Forest, comprising approximately 9,367 acres, as generally depicted on the map
+			 entitled <quote>Dolus Lakes Proposed Wilderness</quote> and dated July 16,
+			 2009, to be known as the <quote>Dolus Lakes Wilderness</quote>.</text>
+					</paragraph><paragraph id="idBAF85C6B26DA4BAAA652ED600093F8CC"><enum>(3)</enum><header>East Pioneers
+			 Wilderness</header><text>Certain land in the Beaverhead-Deerlodge National
+			 Forest, comprising approximately 76,775 acres, as generally depicted on the map
+			 entitled <quote>East Pioneers Proposed Wilderness</quote> and dated July 16,
+			 2009, to be known as the <quote>East Pioneers Wilderness</quote>.</text>
+					</paragraph><paragraph id="ID93b8d1b5828143b1a87b793e444b7709"><enum>(4)</enum><header>Electric Peak
+			 Wilderness</header><text>Certain land in the Beaverhead-Deerlodge National
+			 Forest, comprising approximately 4,653 acres, as generally depicted on the map
+			 entitled <quote>Electric Peak Proposed Wilderness</quote> and dated July 16,
+			 2009, to be known as the <quote>Electric Peak Wilderness</quote>.</text>
+					</paragraph><paragraph id="ID543499d3743a46aaa9d080ce80615703"><enum>(5)</enum><header>Lee Metcalf
+			 Wilderness Additions</header><text>Certain land in the Beaverhead-Deerlodge
+			 National Forest, comprising approximately 18,950 acres, as generally depicted
+			 on the map entitled <quote>Lee Metcalf Proposed Wilderness Additions</quote>
+			 and dated July 16, 2009, is incorporated in, and shall be considered to be a
+			 part of, the Lee Metcalf Wilderness.</text>
+					</paragraph><paragraph id="IDebb8d9ec3f32406cb0fde3094a366662"><enum>(6)</enum><header>Highlands
+			 Wilderness</header><text>Certain land in the Beaverhead-Deerlodge National
+			 Forest, comprising approximately 20,392 acres, as generally depicted on the map
+			 entitled <quote>Highlands Proposed Wilderness</quote> and dated July 16, 2009,
+			 to be known as the <quote>Highlands Wilderness</quote>.</text>
+					</paragraph><paragraph id="ID8fa3175a188a43b79e2a3b565619c491"><enum>(7)</enum><header>Italian Peaks
+			 Wilderness</header><text>Certain land in the Beaverhead-Deerlodge National
+			 Forest, comprising approximately 29,508 acres, as generally depicted on the map
+			 entitled <quote>Italian Peaks Proposed Wilderness</quote> and dated July 16,
+			 2009, to be known as the <quote>Italian Peaks Wilderness</quote>.</text>
+					</paragraph><paragraph id="IDc09772874c8e451bab93bd06db9ed110"><enum>(8)</enum><header>Lima Peaks
+			 Wilderness</header><text>Certain land in the Beaverhead-Deerlodge National
+			 Forest, comprising approximately 35,120 acres, as generally depicted on the map
+			 entitled <quote>Lima Peaks Proposed Wilderness</quote> and dated July 16, 2009,
+			 to be known as the <quote>Lima Peaks Wilderness</quote>.</text>
+					</paragraph><paragraph id="IDd0beaef53cd04196aab297a9059790a4"><enum>(9)</enum><header>Lost Cabin
+			 Wilderness</header><text>Certain land in the Beaverhead-Deerlodge National
+			 Forest, comprising approximately 5,223 acres, as generally depicted on the map
+			 entitled <quote>Lost Cabin Lake Proposed Wilderness</quote> and dated July 16,
+			 2009, to be known as the <quote>Lost Cabin Wilderness</quote>.</text>
+					</paragraph><paragraph id="ID0553dc7ec41e4d07a49cdae7f967f55a"><enum>(10)</enum><header>Mount
+			 Jefferson Wilderness</header><text>Certain land in the Beaverhead-Deerlodge
+			 National Forest, comprising approximately 4,465 acres, as generally depicted on
+			 the map entitled <quote>Mount Jefferson Proposed Wilderness</quote> and dated
+			 July 16, 2009, to be known as the <quote>Mount Jefferson
+			 Wilderness</quote>.</text>
+					</paragraph><paragraph id="IDb1da97cc5586446f87ea12505b5b5be0"><enum>(11)</enum><header>Quigg Peak
+			 Wilderness</header><text>Certain land in the Beaverhead-Deerlodge National
+			 Forest, comprising approximately 8,388 acres, as generally depicted on the map
+			 entitled <quote>Quigg Peak Proposed Wilderness</quote> and dated July 16, 2009,
+			 to be known as the <quote>Quigg Peak Wilderness</quote>.</text>
+					</paragraph><paragraph id="ID7039941065e049358adef0266530f4b8"><enum>(12)</enum><header>Sapphires
+			 Wilderness</header><text>Certain land in the Beaverhead-Deerlodge National
+			 Forest, comprising approximately 53,327 acres, as generally depicted on the map
+			 entitled <quote>Sapphires Proposed Wilderness</quote> and dated July 16, 2009,
+			 to be known as the <quote>Sapphires Wilderness</quote>.</text>
+					</paragraph><paragraph id="ID8cf2d59a078c471697d9839a1a337452"><enum>(13)</enum><header>Snowcrest
+			 wilderness</header><text>Certain land in the Beaverhead-Deerlodge National
+			 Forest, comprising approximately 89,798 acres, as generally depicted on the map
+			 entitled <quote>Snowcrest Proposed Wilderness</quote> and dated July 16, 2009,
+			 to be known as the <quote>Snowcrest Wilderness</quote>.</text>
+					</paragraph><paragraph id="ID3b566917b32941b3aeb59e3a440bdf45"><enum>(14)</enum><header>Stony Mountain
+			 Wilderness</header><text>Certain land in the Beaverhead-Deerlodge National
+			 Forest, comprising approximately 14,261 acres, as generally depicted on the map
+			 entitled <quote>Stony Mountain Proposed Wilderness</quote> and dated July 16,
+			 2009, to be known as the <quote>Stony Mountain Wilderness</quote>.</text>
+					</paragraph><paragraph id="ID30a7b6f3a9a442a58f5a9b1b7f14bb1f"><enum>(15)</enum><header>West Big Hole
+			 Wilderness</header><text>Certain land in the Beaverhead-Deerlodge National
+			 Forest, comprising approximately 44,084 acres, as generally depicted on the map
+			 entitled <quote>West Big Hole Proposed Wilderness</quote> and dated July 16,
+			 2009, to be known as the <quote>West Big Hole Wilderness</quote>.</text>
+					</paragraph><paragraph id="ID6a3f4abb4ac048868234babed0e3d1ca"><enum>(16)</enum><header>West Pioneers
+			 Wilderness</header><text>Certain land in the Beaverhead-Deerlodge National
+			 Forest, comprising approximately 25,742 acres, as generally depicted on the map
+			 entitled <quote>West Pioneers Proposed Wilderness</quote> and dated July 16,
+			 2009, to be known as the <quote>West Pioneers Wilderness</quote>.</text>
+					</paragraph></subsection><subsection id="idC2D1242882F64C28AA88D1E6140FBD99"><enum>(b)</enum><header>Lolo National
+			 Forest</header><text display-inline="yes-display-inline">In furtherance of the
+			 purposes of the Wilderness Act (16 U.S.C. 1131 et seq.), the following land is
+			 designated as wilderness and as components of the National Wilderness
+			 Preservation System:</text>
+					<paragraph id="idAD3481530F954082BCD990507716FA3A"><enum>(1)</enum><header>Bob Marshall
+			 and Scapegoat Wilderness additions</header><text>Certain land in the Lolo
+			 National Forest, which comprises approximately 71,378 acres, as generally
+			 depicted as the <quote>North Fork Blackfoot-Monture Creek Wilderness
+			 Addition</quote> on the map entitled <quote>Location of the Seeley Lake
+			 Wilderness Additions and the Otatsy National Recreation Area</quote> and dated
+			 July 16, 2009, which is incorporated in, and shall be considered part of, the
+			 Bob Marshall and Scapegoat Wilderness designated by Public Law 92–395 (86 Stat.
+			 578).</text>
+					</paragraph><paragraph id="id90C1EB846C064392B38BDB2794F908E3"><enum>(2)</enum><header>Bob Marshall
+			 Wilderness addition</header><text>Certain land in the Lolo National Forest,
+			 which comprises approximately 7,599 acres, as generally depicted as the
+			 <quote>Grizzly Basin of the Swan Range Wilderness Addition</quote> on the map
+			 entitled <quote>Location of the Seeley Lake Wilderness Additions and the Otatsy
+			 National Recreation Area</quote> and dated July 16, 2009, which is incorporated
+			 in, and shall be considered part of, the Bob Marshall Wilderness designated
+			 under the Wilderness Act (16 U.S.C. 1131 et seq.).</text>
+					</paragraph><paragraph id="id74AD5379E28740B2B666769BF44EF7F2"><enum>(3)</enum><header>Mission
+			 Mountains Wilderness addition</header><text>Certain land in the Lolo National
+			 Forest, which comprises approximately 4,501 acres, as generally depicted as the
+			 <quote>West Fork Clearwater Wilderness Addition</quote> on the map entitled
+			 <quote>Location of the Seeley Lake Wilderness Additions and the Otatsy National
+			 Recreation Area</quote> and dated July 16, 2009, which is incorporated in, and
+			 shall be considered part of, the Mission Mountains Wilderness designated by
+			 Public Law 93–632 (88 Stat. 2153).</text>
+					</paragraph></subsection><subsection id="ID4b5937fd55e04f1680a3e9b2f9ae32d9"><enum>(c)</enum><header>Kootenai
+			 National Forest</header><text>In furtherance of the purposes of the Wilderness
+			 Act (16 U.S.C. 1131 et seq.), certain land in the Kootenai National Forest,
+			 which comprises approximately 29,869 acres, as generally depicted as the
+			 <quote>Roderick Wilderness Area</quote> on the map entitled <quote>Three Rivers
+			 Special Management Area and Roderick Wilderness</quote> and dated July 16,
+			 2009, is—</text>
+					<paragraph id="idA370B7976BD34123B5E87998EB1ACE59"><enum>(1)</enum><text>designated as
+			 wilderness and as a component of the National Wilderness Preservation System;
+			 and</text>
+					</paragraph><paragraph id="idBE3E132D9A8442BFA8C72142D226F16B"><enum>(2)</enum><text>to be known as
+			 the <quote>Roderick Wilderness</quote>.</text>
+					</paragraph></subsection><subsection id="ID119aca140ee8455e9c49a1e01058ce53"><enum>(d)</enum><header>Dillon Field
+			 Office</header><text>In accordance with, and in furtherance of the purposes of,
+			 the Wilderness Act (<external-xref legal-doc="usc" parsable-cite="usc/16/1131">16 U.S.C. 1131</external-xref> et seq.), the
+			 following areas of Bureau of Land Management land in the State are designated
+			 as wilderness areas and as components of the National Wilderness Preservation
+			 System:</text>
+					<paragraph id="ID281f408ab7ca47b2b64a2c156552b806"><enum>(1)</enum><header>Blacktail
+			 mountains wilderness</header><text>Certain land under the jurisdiction of the
+			 Dillon Field Office, comprising approximately 10,667 acres, as generally
+			 depicted on the map entitled <quote>Blacktail Mountains Proposed
+			 Wilderness</quote> and dated June 29, 2009, to be known as the <quote>Blacktail
+			 Mountains Wilderness</quote>.</text>
+					</paragraph><paragraph id="ID7359108d79554b0dafd48bdbd222a4b3"><enum>(2)</enum><header>Centennial
+			 mountains wilderness</header><text>Certain land under the jurisdiction of the
+			 Dillon Field Office, comprising approximately 23,256 acres, as generally
+			 depicted on the map entitled <quote>Centennial Mountains Proposed
+			 Wilderness</quote> and dated June 29, 2009, to be known as the
+			 <quote>Centennial Mountains Wilderness</quote>.</text>
+					</paragraph><paragraph id="id9218C1C9CCD847C5B12BF703F180C3C0"><enum>(3)</enum><header>Farlin Creek
+			 wilderness</header><text>Certain land under the jurisdiction of the Dillon
+			 Field Office, comprising approximately 661 acres, as generally depicted on the
+			 map entitled <quote>Farlin Creek Proposed Wilderness</quote> and dated June 29,
+			 2009, to be known as the <quote>Farlin Creek Wilderness</quote>.</text>
+					</paragraph><paragraph id="ID64fe0cf52e8e430cb8bc3859d4b4b709"><enum>(4)</enum><header>Ruby mountains
+			 wilderness</header><text>Certain land under the jurisdiction of the Dillon
+			 Field Office, comprising approximately 15,504 acres, as generally depicted on
+			 the map entitled <quote>Ruby Mountains Proposed Wilderness</quote> and dated
+			 June 29, 2009, to be known as the <quote>Ruby Mountains
+			 Wilderness</quote>.</text>
+					</paragraph></subsection><subsection id="id1991CE4C68344DB2B66CD387A0CD3285"><enum>(e)</enum><header>Butte Field
+			 Office</header>
+					<paragraph id="id0717FA3703A2416580215D53888AD62D"><enum>(1)</enum><header>In
+			 general</header><text>In accordance with, and in furtherance of the purposes
+			 of, the Wilderness Act (<external-xref legal-doc="usc" parsable-cite="usc/16/1131">16 U.S.C. 1131</external-xref> et seq.), the area
+			 of Bureau of Land Management land in the State described in paragraph (2) is
+			 designated as a wilderness area and as a component of the National Wilderness
+			 Preservation System.</text>
+					</paragraph><paragraph commented="no" id="id6AB1C9FE17364BE7A41863272A193942"><enum>(2)</enum><header>Humbug Spires
+			 Wilderness</header><text display-inline="yes-display-inline">Certain land under
+			 the jurisdiction of the Butte Field Office, comprising approximately 8,892
+			 acres, as generally depicted on the map entitled <quote>Humbug Spires Proposed
+			 Wilderness</quote> and dated June 29, 2009, to be known as the <quote>Humbug
+			 Spires Wilderness</quote>.</text>
+					</paragraph></subsection></section><section id="ID1cb9e90c78ec403baed3504f54b9489e"><enum>202.</enum><header>Administration</header>
+				<subsection id="ID7ffc3c6048c74e3ca267fe0893b31df3"><enum>(a)</enum><header>Management</header><text>Subject
+			 to valid existing rights, each area designated as wilderness by section 201
+			 shall be administered by the Secretary concerned in accordance with the
+			 Wilderness Act (16 U.S.C. 1131 et seq.), except that any reference in that Act
+			 to the effective date shall be considered to be a reference to the date of
+			 enactment of this Act.</text>
+				</subsection><subsection id="IDa6468828af34453282309d1b4bffc187"><enum>(b)</enum><header>Map; legal
+			 description</header>
+					<paragraph id="ID002364668a674f2182484dec4f5608c4"><enum>(1)</enum><header>In
+			 general</header><text>As soon as practicable after the date of enactment of
+			 this Act, the Secretary concerned shall file a map and a legal description of
+			 each wilderness area designated by section 201 with—</text>
+						<subparagraph id="idE6F91958A7FE462AA02E10A4A1EFDF49"><enum>(A)</enum><text>the Committee on
+			 Natural Resources of the House of Representatives; and</text>
+						</subparagraph><subparagraph id="ID7e6b295577f54dd5b0e0555c6a8721a9"><enum>(B)</enum><text>the Committee on
+			 Energy and Natural Resources of the Senate.</text>
+						</subparagraph></paragraph><paragraph id="IDdc1950c7ec8343be8a5f336319e891ac"><enum>(2)</enum><header>Force of
+			 law</header><text>A map and legal description filed under paragraph (1) shall
+			 have the same force and effect as if included in this title, except that the
+			 Secretary concerned may correct errors in the map and legal description.</text>
+					</paragraph><paragraph id="ID10a29f278681455e87e4022d43bcddd8"><enum>(3)</enum><header>Public
+			 availability</header><text>Each map and legal description filed under paragraph
+			 (1) shall be filed and made available for public inspection in the appropriate
+			 office of the Secretary concerned.</text>
+					</paragraph></subsection><subsection id="idD42D7D0766194E00B5CE0FB73965B922"><enum>(c)</enum><header>Incorporation
+			 of acquired land and interests</header><text>Any land within the boundary of a
+			 wilderness area designated by section 201 that is acquired by the Federal
+			 Government shall—</text>
+					<paragraph id="idA01586D8B6D245F6AF134E1A53539524"><enum>(1)</enum><text>become part of
+			 the wilderness area in which the land is located; and</text>
+					</paragraph><paragraph id="id7DFAB8D9CD5447DD9F7B8DC8E93C9246"><enum>(2)</enum><text>be managed in
+			 accordance with—</text>
+						<subparagraph id="id087B90F86C62479B8C9B900966BC6208"><enum>(A)</enum><text>this
+			 title;</text>
+						</subparagraph><subparagraph id="id15E4C3123D1048BD9B3FD2504162FAEF"><enum>(B)</enum><text>the Wilderness
+			 Act (16 U.S.C. 1131 et seq.); and</text>
+						</subparagraph><subparagraph id="idC71A6DB98FAF488DA753A56EF567C1FD"><enum>(C)</enum><text>any other
+			 applicable law (including regulations).</text>
+						</subparagraph></paragraph></subsection><subsection id="id569BB1F888A44F6CBA23ED95C06FD62B"><enum>(d)</enum><header>Withdrawal</header><text>Subject
+			 to valid existing rights, each parcel of Federal land designated as a
+			 wilderness area by section 201 is withdrawn from—</text>
+					<paragraph id="idE251D014F1424BA1B3ABCA7B94C10F96"><enum>(1)</enum><text>all forms of
+			 entry, appropriation, or disposal under the public land laws;</text>
+					</paragraph><paragraph id="idB06B6A9923D24CA1B4E3D0F2B854D72F"><enum>(2)</enum><text>location, entry,
+			 and patent under the mining laws; and</text>
+					</paragraph><paragraph id="id6A7CAD50C393442C9C6C91807172FB1F"><enum>(3)</enum><text>operation of the
+			 mineral leasing, mineral materials and geothermal leasing laws.</text>
+					</paragraph></subsection><subsection id="idCEFAD7EC5C3746AE99F25C14B8EE01FD"><enum>(e)</enum><header>Fire, insect,
+			 and disease management activities</header>
+					<paragraph id="id1D3CCD36B8CF49DC8B245BB331F4C185"><enum>(1)</enum><header>In
+			 general</header><text>The Secretary concerned may take such measures in each
+			 wilderness area designated by section 201 as the Secretary concerned determines
+			 to be necessary for the control and prevention of fire, insects, and diseases,
+			 in accordance with—</text>
+						<subparagraph id="id28C6FF7108A8434F99301D4C6D6ACD48"><enum>(A)</enum><text>section 4(d)(1)
+			 of the Wilderness Act (16 U.S.C. 1133(d)(1)); and</text>
+						</subparagraph><subparagraph id="idEE498CA66D324C9BAAE6DF47BDCE1F82"><enum>(B)</enum><text>House Report No.
+			 98–40.</text>
+						</subparagraph></paragraph><paragraph id="id54DF182AA7C74BC7BBBBC5D7624653EB"><enum>(2)</enum><header>Review</header><text>Not
+			 later than 1 year after the date of enactment of this Act, the Secretary
+			 concerned shall review each policy in existence as of that date that is
+			 applicable to each wilderness area designated by section 201 to ensure that
+			 each authorized approval procedure for any fire management measure provides a
+			 timely and efficient response to fire emergencies in the wilderness
+			 area.</text>
+					</paragraph></subsection><subsection id="id03D7AB94D53A483B8C4DBFE9FBC9F635"><enum>(f)</enum><header>Access to
+			 private property</header><text>In accordance with section 5(a) of the
+			 Wilderness Act (16 U.S.C. 1134(a)), the Secretary concerned shall provide each
+			 owner of private property located in a wilderness area designated by section
+			 201 adequate access to the private property to ensure the reasonable use and
+			 enjoyment of the property by the owner.</text>
+				</subsection><subsection id="idBEE1DB83F8AC485D9CB4F241F1EAC7D2"><enum>(g)</enum><header>Snow sensors
+			 and stream gauges</header><text>Nothing in this title prevents the installation
+			 or maintenance of hydrological, meteorological, or climatological
+			 instrumentation in each wilderness area designated by section 201 if the
+			 Secretary concerned determines that the installation or maintenance of the
+			 instrumentation is appropriate to further the scientific, educational, or
+			 conservation purposes of the wilderness areas.</text>
+				</subsection><subsection id="idD0A278715EF34671B6F0A55E0DA3B001"><enum>(h)</enum><header>Military
+			 activities</header>
+					<paragraph id="id210374F9A874482DBE0E5703890BE6EB"><enum>(1)</enum><header>In
+			 general</header><text>With respect to each wilderness area designated by
+			 section 201, nothing in this title precludes or restricts—</text>
+						<subparagraph id="idF32FDD323A1D45519A0C01E85E06BE40"><enum>(A)</enum><text>low-level
+			 overflights of military aircraft;</text>
+						</subparagraph><subparagraph id="id1567226EFDC44DDDAF98B1FCF8A846FE"><enum>(B)</enum><text>the designation
+			 of new units of special airspace; or</text>
+						</subparagraph><subparagraph id="idA81668028DEC4DBFB3E4F4F351F22211"><enum>(C)</enum><text>the use or
+			 establishment of military flight training routes over the wilderness
+			 areas.</text>
+						</subparagraph></paragraph><paragraph id="id815AAA051B224B7C97713EE67928890F"><enum>(2)</enum><header>Highlands
+			 Wilderness Area</header><text>Nothing in this title precludes or restricts the
+			 authority of the Secretary concerned to enter into agreements with the
+			 Secretary of Defense or the Montana National Guard to permit limited and
+			 scheduled landings of aircraft in the Highlands Wilderness Area.</text>
+					</paragraph></subsection><subsection id="idB4657833F8214CC5830921E49DF88318"><enum>(i)</enum><header>Grazing</header><text>The
+			 grazing of livestock (including the maintenance of any facility in existence as
+			 of the date of enactment of this Act that is used in connection with the
+			 grazing of livestock) in each wilderness area designated by section 201 shall
+			 be administered in accordance with—</text>
+					<paragraph id="id7CE41A30F6E64081AAD6282BDA37B800"><enum>(1)</enum><text>section 4(d)(4)
+			 of the Wilderness Act (16 U.S.C. 1133(d)(4)); and</text>
+					</paragraph><paragraph id="idC44B3D8008F64EA7AF87C9C7397F5218"><enum>(2)</enum><text>the guidelines
+			 set forth in Appendix A of House Report 101–405.</text>
+					</paragraph></subsection><subsection id="id182E0A697C2D465DA14B68E65818C098"><enum>(j)</enum><header>Fish and
+			 wildlife management</header>
+					<paragraph id="id6681CDF5028547EFBE7C7A2271E67DC0"><enum>(1)</enum><header>In
+			 general</header><text>In furtherance of the purposes and principles of the
+			 management activities under the Wilderness Act (16 U.S.C. 1131 et seq.), the
+			 Secretary concerned may carry out management activities to maintain or restore
+			 fish and wildlife populations (including activities to maintain and restore
+			 fish and wildlife habitats to support the populations) in any wilderness area
+			 designated by section 201 if the activities are—</text>
+						<subparagraph id="id88DB602BB6C24C2687D2952EADF649EE"><enum>(A)</enum><text>consistent with
+			 applicable wilderness management plans; and</text>
+						</subparagraph><subparagraph id="idBF120E36CDEF4D41894A51E56B630C49"><enum>(B)</enum><text>carried out in
+			 accordance with applicable guidelines and policies.</text>
+						</subparagraph></paragraph><paragraph id="IDef10e78444164beca6c9b75b50467ed9"><enum>(2)</enum><header>State
+			 management; recreational use</header><text>Nothing in this Act—</text>
+						<subparagraph id="id0937BBAD156D42DD8F70539E0CCBC0B0"><enum>(A)</enum><text>affects the
+			 authority, jurisdiction, or responsibility of the State to manage, control, or
+			 regulate fish and resident wildlife under State law (including regulations),
+			 including the regulation of hunting, fishing, trapping, and recreational
+			 shooting on public land managed by—</text>
+							<clause id="id94C8B421BB494730BFB75F70D52CDCAF"><enum>(i)</enum><text>the
+			 Forest Service; or</text>
+							</clause><clause id="idF4AB7C5785F8420FB30B98ED7BBB9A5D"><enum>(ii)</enum><text>the Bureau of
+			 Land Management; or</text>
+							</clause></subparagraph><subparagraph id="id9739C6E6851544EE8205BAF8815C9A16"><enum>(B)</enum><text>affects access
+			 for any recreational activity allowed by any law (including regulations),
+			 including—</text>
+							<clause id="idC12A9C793CF849BBB4508F168839C75A"><enum>(i)</enum><text>hunting;</text>
+							</clause><clause id="id8AAE625A09254B9782B5844213D5AF10"><enum>(ii)</enum><text>fishing;</text>
+							</clause><clause id="id6641C03EADC844BF836DDDA411CA1157"><enum>(iii)</enum><text>trapping;
+			 and</text>
+							</clause><clause id="idA540D51730CA4AD5B8BE11E3BE2D685E"><enum>(iv)</enum><text>recreational
+			 shooting.</text>
+							</clause></subparagraph></paragraph></subsection><subsection id="id13D18091B8CA4301AC4818362D1FA144"><enum>(k)</enum><header>Adjacent
+			 management</header>
+					<paragraph id="id3C5F4E5656494CA696A258C181A60094"><enum>(1)</enum><header>In
+			 general</header><text>Nothing in this title creates any protective perimeter or
+			 buffer zone around any wilderness area designated by section 201.</text>
+					</paragraph><paragraph id="idD1F53AD0760E4D7F8DA86B1F922B3A8A"><enum>(2)</enum><header>Nonwilderness
+			 activities</header><text>The fact that a nonwilderness activity or use can be
+			 seen or heard from an area within a wilderness area designated by section 201
+			 shall not preclude the conduct of the activity or use outside the boundary of
+			 the wilderness area.</text>
+					</paragraph></subsection><subsection id="id84BFD9A2BC7A467890B93649A276C5BD"><enum>(l)</enum><header>Memorandums of
+			 understanding</header><text>Not later than 1 year after the date of enactment
+			 of this Act, the Secretary concerned shall offer to enter into a memorandum of
+			 understanding with each law enforcement, emergency medical responder, and
+			 search and rescue organization of each political subdivision of the State, the
+			 jurisdiction of which includes any wilderness area designated by section 201,
+			 to ensure that each organization is authorized to enter each wilderness area to
+			 conduct emergency operations.</text>
+				</subsection><subsection id="id9A43A98877B34748A9886AD63B3FC874"><enum>(m)</enum><header>Outfitter and
+			 guide activities</header><text>Outfitter and guide activities conducted under
+			 permits of the Forest Service in effect on the date of enactment of this Act in
+			 any wilderness area designated by section 201 shall be considered to have met
+			 all requirements for necessary analysis for the permits.</text>
+				</subsection><subsection id="idFA9C2711A0F94DDC9C9FA1938089EACB"><enum>(n)</enum><header>Effect</header>
+					<paragraph id="IDc9ed38ec8e6c433f920c16efe766b376"><enum>(1)</enum><header>East Pioneers
+			 Wilderness Area</header><text>With respect to the East Pioneers Wilderness
+			 Area, nothing in this title affects the right of any owner of 1 or more water
+			 impoundment structures to customary and usual access to the 1 or more water
+			 impoundment structures, including—</text>
+						<subparagraph id="idA8AB3C0ECB464456AD74C134BC5A5D3F"><enum>(A)</enum><text>necessary
+			 motorized use over and along roads and trails in existence as of the date of
+			 enactment of this Act to the 1 or more water impoundment structures; and</text>
+						</subparagraph><subparagraph id="id40CE30C547A243B0956103EFBC645249"><enum>(B)</enum><text>the right to
+			 operate and maintain the 1 or more water impoundment structures.</text>
+						</subparagraph></paragraph><paragraph id="ID67982e56f9ad40f19d8da43136b1d42d"><enum>(2)</enum><header>Highlands
+			 Wilderness Area</header><text>With respect to the Highlands Wilderness Area,
+			 nothing in this title affects—</text>
+						<subparagraph id="ID88831dbd48284a0f810bbc296db1c321"><enum>(A)</enum><text>the customary and
+			 usual access of Beaverhead County to operate and maintain the communication
+			 site located on Table Mountain under a special use permit issued by the Forest
+			 Service; and</text>
+						</subparagraph><subparagraph id="IDf093126971cc4568bd040e70f6b9c05b"><enum>(B)</enum><text>the water supply
+			 pipeline in existence as of the date of enactment of this Act for the city of
+			 Butte (including the surrounding community of the city of Butte)—</text>
+							<clause id="id18F2B995E3D84F79B4ED1A6FD887135F"><enum>(i)</enum><text>including the
+			 right of the city of Butte of ingress and egress with respect to the water
+			 supply pipeline; and</text>
+							</clause><clause id="id4D8F1AEB6B85463082AE02640C0B3AB4"><enum>(ii)</enum><text>which may be
+			 operated, maintained, and upgraded by the city of Butte, subject to reasonable
+			 requirements to protect the wilderness values of the Highlands Wilderness
+			 Area.</text>
+							</clause></subparagraph></paragraph><paragraph id="ID96d46c21ba8142378fbbde9d4d4e1e26"><enum>(3)</enum><header>Snowcrest
+			 Wilderness Area</header><text>With respect to the Snowcrest Wilderness Area,
+			 nothing in this title affects—</text>
+						<subparagraph id="IDef5c4adcc5b545cebb70041e99c78676"><enum>(A)</enum><text>motorized access
+			 to water infrastructure for cattle, which—</text>
+							<clause id="id82826B39B2CF4BA780FBB052F21F21D4"><enum>(i)</enum><text>was
+			 constructed—</text>
+								<subclause id="idD629C95B78874500BBFBF493259860D8"><enum>(I)</enum><text>to protect the
+			 Ruby River; and</text>
+								</subclause><subclause id="id430B2195BC224CADAA8594161A451673"><enum>(II)</enum><text>to preserve
+			 historic access for other ranching activities; and</text>
+								</subclause></clause><clause id="idED0DFBAD58BD43DE99AF9592F0788875"><enum>(ii)</enum><text>shall continue
+			 under the permit system in existence as of the date of enactment of this Act;
+			 and</text>
+							</clause></subparagraph><subparagraph id="ID9c315d8bb37e4782a170740592ce11bf"><enum>(B)</enum><text>subject to
+			 reasonable requirements to protect the wilderness values of the Snowcrest
+			 Wilderness Area, historical motorized access to trail sheep.</text>
+						</subparagraph></paragraph></subsection></section><section id="id42EFEA23DCA044B581672CE7C77196E6"><enum>203.</enum><header>Release of
+			 Bureau of Land Management study areas</header>
+				<subsection id="id9BF78F66FDB2411AABD876EB62953DA2"><enum>(a)</enum><header>Finding</header><text>Congress
+			 finds that, for purposes of section 603 of the Federal Land Policy and
+			 Management Act of 1976 (43 U.S.C. 1782), any portion of a wilderness study area
+			 described in subsection (b) that is not designated as a wilderness area by
+			 section 201 or any other Act enacted before the date of enactment of this Act
+			 has been adequately studied for wilderness.</text>
+				</subsection><subsection id="id6FC756AD5E864BB3B7B67A056E0FFD6B"><enum>(b)</enum><header>Description of
+			 study areas</header><text>The study areas referred to in subsection (a)
+			 are—</text>
+					<paragraph id="idDC01C886CDCD42808F487D7511A7DFCC"><enum>(1)</enum><text>the Axolotl Lakes
+			 Wilderness Study Area;</text>
+					</paragraph><paragraph id="id71A98C44BD9F4B3F903B6675B2879CD6"><enum>(2)</enum><text>the Bell and
+			 Limekiln Canyons Wilderness Study Area;</text>
+					</paragraph><paragraph id="id29D1F8FBABA7425A9BE515CC6038A7D2"><enum>(3)</enum><text>the Blacktail
+			 Mountains Wilderness Study Area;</text>
+					</paragraph><paragraph id="id7AACD79C57874B508B9C8171594523E0"><enum>(4)</enum><text>the Centennial
+			 Mountains Wilderness Study Area;</text>
+					</paragraph><paragraph id="ID5a3b14df84774fc1855d536869f25305"><enum>(5)</enum><text>the East Fork
+			 Blacktail Wilderness Study Area;</text>
+					</paragraph><paragraph id="ID17f055d4239b4daf8c06f8be70a4264b"><enum>(6)</enum><text>the Farlin Creek
+			 Wilderness Study Area;</text>
+					</paragraph><paragraph id="ID6ec880d1cbcf4bbcbf12340e1e1b7fa1"><enum>(7)</enum><text>the Henneberry
+			 Ridge Wilderness Study Area;</text>
+					</paragraph><paragraph id="IDb59c4e7e36f3497e922b0ed1bd97723a"><enum>(8)</enum><text>the Hidden
+			 Pasture Wilderness Study Area;</text>
+					</paragraph><paragraph id="id85D31E1641074D00BE3B16B72BFEFC79"><enum>(9)</enum><text>the Humbug Spires
+			 Wilderness Study Area; and</text>
+					</paragraph><paragraph id="id1208E52DBEB240E0AC2F5650A6D148E2"><enum>(10)</enum><text>the Ruby
+			 Mountains Wilderness Study Area.</text>
+					</paragraph></subsection><subsection id="ID5c87c83313b1434287d11fcdf7a0cf5a"><enum>(c)</enum><header>Release</header><text>Any
+			 study area described in subsection (b) that is not designated as a wilderness
+			 area by section 201—</text>
+					<paragraph id="IDb3f496ac9e9f40308ae15450f0522312"><enum>(1)</enum><text>is no longer
+			 subject to section 603(c) of the Federal Land Policy and Management Act of 1976
+			 (43 U.S.C. 1782(c)); and</text>
+					</paragraph><paragraph id="IDbf7852bb75f8439e96172a2d8e56b18e"><enum>(2)</enum><text>shall be managed
+			 in accordance with the applicable land management plans adopted under section
+			 202 of that Act (43 U.S.C. 1712).</text>
+					</paragraph></subsection></section><section id="ID220a7e202ff3481bb3871ed8a4c74355"><enum>204.</enum><header>Release of
+			 Sapphire and West Pioneer Wilderness study areas</header>
+				<subsection id="ID2b4b0369ddd34cdcbc228a1d8273ecac"><enum>(a)</enum><header>Findings</header><text>Congress
+			 finds that—</text>
+					<paragraph id="idA0E68A28851C4E8B92899E4A613ED520"><enum>(1)</enum><text>for purposes of
+			 section 603 of the Federal Land Policy and Management Act of 1976 (43 U.S.C.
+			 1782), any portion of a wilderness study area described in subsection (b) that
+			 is not designated as a wilderness area by section 201 or any other Act enacted
+			 before the date of enactment of this Act has been adequately studied for
+			 wilderness;</text>
+					</paragraph><paragraph id="id2CC14223D07343859AB0E589E13FA7D6"><enum>(2)</enum><text>the studies
+			 conducted under section 2 of the Montana Wilderness Study Act of 1977 (Public
+			 Law 95–150; 91 Stat. 1243) regarding each study area described in subsection
+			 (b) are adequate for the consideration of the suitability of each study area
+			 for inclusion as a component of the National Wilderness Preservation System;
+			 and</text>
+					</paragraph><paragraph id="id0314556369CE43D9939B49DEAE0B5046"><enum>(3)</enum><text>the Secretary of
+			 Agriculture is not required—</text>
+						<subparagraph id="idC452A323E233486F92239E5AC38B39C9"><enum>(A)</enum><text>to review the
+			 wilderness option for each study area described in subsection (b) prior to the
+			 revision of the forest plan required for each land that comprises each study
+			 area in accordance with the <act-name parsable-cite="FRRRP">Forest and
+			 Rangeland Renewable Resources Planning Act of 1974</act-name> (16 U.S.C. 1600
+			 et seq.); and</text>
+						</subparagraph><subparagraph id="id321A711DAF054F719000C08C1A27DF58"><enum>(B)</enum><text>to manage each
+			 study area described in subsection (b) to ensure the suitability of each study
+			 area for designation as a component of the National Wilderness Preservation
+			 System pending revision of the forest plan that comprises the study
+			 area.</text>
+						</subparagraph></paragraph></subsection><subsection id="idBAD206371454499099EA31E402450C62"><enum>(b)</enum><header>Description of
+			 study areas</header><text>The study areas referred to in subsection (a)
+			 are—</text>
+					<paragraph id="ID83900bf6a39e4a22a5c2460a983af9c4"><enum>(1)</enum><text>the portion of
+			 the Sapphire Wilderness Study Area that is—</text>
+						<subparagraph id="id233EC5C20DB548BDA787784F98D333DE"><enum>(A)</enum><text>located within
+			 the Beaverhead-Deerlodge National Forest, as described in section 2(4) of the
+			 Montana Wilderness Study Act of 1977 (Public Law 95–150; 91 Stat. 1243);
+			 and</text>
+						</subparagraph><subparagraph id="id084D38266F8C405FB1E07E6EC9989EB6"><enum>(B)</enum><text>not designated as
+			 a wilderness area by section 201; and</text>
+						</subparagraph></paragraph><paragraph id="ID2783b87db2ba4b69ab5a70ae6628ca85"><enum>(2)</enum><text>the portion of
+			 the West Pioneer Wilderness Study Area, as described in section 2(1) of the
+			 Montana Wilderness Study Act of 1977 (Public Law 95–150; 91 Stat. 1243), that
+			 is not designated as a wilderness area by section 201.</text>
+					</paragraph></subsection></section><section id="id89A75E4CFDD9445A8A95A4FC4F5D3077"><enum>205.</enum><header>Lost Creek
+			 Protection Area</header>
+				<subsection id="idCB97D8377DC14730AEB676A156CE3735"><enum>(a)</enum><header>Designation</header><text>Certain
+			 Federal land located in the Beaverhead-Deerlodge National Forest, comprising
+			 approximately 15,134 acres, as generally depicted on the map entitled
+			 <quote>Lost Creek Protection Area</quote> and dated July 16, 2009, is
+			 designated as the <quote>Lost Creek Protection Area</quote>.</text>
+				</subsection><subsection id="IDb57fea7b9aaa427eba6db48b87c22e81"><enum>(b)</enum><header>Administration</header><text>The
+			 Secretary concerned shall administer the protection area in accordance with
+			 this section and any laws (including regulations) relating to the National
+			 Forest System.</text>
+				</subsection><subsection id="id20C064F36CA548258F290A5C84C94342"><enum>(c)</enum><header>Withdrawal</header><text>Subject
+			 to valid existing rights, the Federal land designated as the protection area is
+			 withdrawn from—</text>
+					<paragraph id="idE63280E6BC02473DACAD1B0DB0FB0C57"><enum>(1)</enum><text>all forms of
+			 entry, appropriation, or disposal under the public land laws;</text>
+					</paragraph><paragraph id="id71CF06CA835A422BA26E82B6E816A1BA"><enum>(2)</enum><text>location, entry,
+			 and patent under the mining laws; and</text>
+					</paragraph><paragraph id="id68EC8874E1F74A7B8B485A4D2D89F7FC"><enum>(3)</enum><text>operation of the
+			 mineral leasing, mineral materials, and geothermal leasing laws.</text>
+					</paragraph></subsection><subsection id="IDbd5fdc7907cc41f3a0717dc517321566"><enum>(d)</enum><header>Development
+			 restrictions</header><text>After the date of enactment of this Act, no
+			 developed campground, road, or trail may be constructed in the protection
+			 area.</text>
+				</subsection><subsection id="idFD8450F28D384657992E882C57F501D4"><enum>(e)</enum><header>Timber
+			 harvesting</header>
+					<paragraph id="id88848C15936443E5A85082D1C6B3DB66"><enum>(1)</enum><header>In
+			 general</header><text>Except as provided in paragraph (2), timber harvesting
+			 shall not be permitted within the protection area.</text>
+					</paragraph><paragraph id="id8C3DBD175367476FA1BE39CA4CB3C390"><enum>(2)</enum><header>Maintenance of
+			 protection area</header><text>Timber harvesting may be permitted in the
+			 protection area to the extent allowed under section 4(d)(1) of the Wilderness
+			 Act (16 U.S.C. 1133(d)(1)) for purposes relating to the necessary control of
+			 fire, insects, and diseases, and for public safety.</text>
+					</paragraph></subsection><subsection id="ID5bf60f2586c247d09cf1313e04242eb5"><enum>(f)</enum><header>Snowmobiles</header>
+					<paragraph id="id3AD61D1FB09C4442989CC2FF822CD22B"><enum>(1)</enum><header>In
+			 general</header><text>Subject to paragraph (2), the use of snowmobiles shall be
+			 permitted within the protection area only—</text>
+						<subparagraph id="id8A6F3C530BBF407192DF7F53B78CBC69"><enum>(A)</enum><text>on designated
+			 trails and routes in existence as of July 16, 2009;</text>
+						</subparagraph><subparagraph id="idAD85EC200D524AC7AA8CBF7130F12DCD"><enum>(B)</enum><text>during periods of
+			 adequate snow cover, as determined by the forest plan in effect as of the date
+			 of enactment of this Act.</text>
+						</subparagraph></paragraph><paragraph commented="no" id="ID1f02b40fffa149fca623e4200f516a15"><enum>(2)</enum><header>Resource
+			 protection or public safety</header><text>Nothing in this subsection precludes
+			 the Secretary concerned from closing any trail or route from use for the
+			 purposes of resource protection or public safety.</text>
+					</paragraph><paragraph id="id31847B23C73C494DA33A23D88A175EDC"><enum>(3)</enum><header>Mechanized,
+			 nonmotorized vehicles</header><text>The use of mechanized, nonmotorized
+			 vehicles shall be permitted within the protection area.</text>
+					</paragraph><paragraph id="ID7c2708bf4bc24962a3ff856fa2e43ab0"><enum>(4)</enum><header>Land-based
+			 motorized vehicles</header><text>The use of land-based motorized vehicles shall
+			 be prohibited within the protection area.</text>
+					</paragraph></subsection><subsection id="ID79452db4e5ff4afca8a325569e8d78d6"><enum>(g)</enum><header>Management
+			 plan</header>
+					<paragraph id="idC44EF44E8A52493BBABD501D3C9172CB"><enum>(1)</enum><header>In
+			 general</header><text>The Secretary concerned shall include a management plan
+			 for the protection area in the first revision of the forest plan of the
+			 Beaverhead-Deerlodge National Forest that is carried out by the Secretary
+			 concerned after the date of enactment of this Act.</text>
+					</paragraph><paragraph id="id90AFA84F2E4E41519D87AA2556E3C728"><enum>(2)</enum><header>Requirement for
+			 public comment</header><text>In developing a management plan for the protection
+			 area under paragraph (1), the Secretary concerned shall provide public notice
+			 and an opportunity for comment.</text>
+					</paragraph></subsection></section><section id="idDDBEE2EC51C54E208ECB19ABAE680D97"><enum>206.</enum><header>West Big Hole
+			 National Recreation Area</header>
+				<subsection id="id1159BF5E019E4A7093711FF75D450047"><enum>(a)</enum><header>Purpose</header><text display-inline="yes-display-inline">The purpose of this section is to designate
+			 the West Big Hole National Recreation Area—</text>
+					<paragraph id="id7C5EDE545F734B5EB20C32F1D4AF68D6"><enum>(1)</enum><text display-inline="yes-display-inline">to ensure the preservation and protection
+			 of the natural, scenic, historic, pastoral, and fish and wildlife values of the
+			 National Recreation Area; and</text>
+					</paragraph><paragraph id="id5AEF916B89434D93AF47182E999AB005"><enum>(2)</enum><text display-inline="yes-display-inline">to provide for the enhancement of the
+			 recreational values of the National Recreation Area.</text>
+					</paragraph></subsection><subsection id="id837CC08548F941498EBFD38773EDB6C0"><enum>(b)</enum><header>Definitions</header><text>In
+			 this section:</text>
+					<paragraph id="id6330262D54E04B0A9CB22E202305722C"><enum>(1)</enum><header>Map</header><text>The
+			 term <term>map</term> means the map entitled <quote>West Big Hole Proposed
+			 Wilderness</quote> and dated July 16, 2009.</text>
+					</paragraph><paragraph id="idF9C4DFAA3AB7460CA5123F96C68B6396"><enum>(2)</enum><header>National
+			 Recreation Area</header><text>The term <term>National Recreation Area</term>
+			 means the West Big Hole National Recreation Area that is—</text>
+						<subparagraph id="id5BB502F701DC4500A1179E3CFC271222"><enum>(A)</enum><text>comprised of
+			 certain land that is—</text>
+							<clause id="id0C84FA0A5C534E24BFC5146A31F285B7"><enum>(i)</enum><text>located in the
+			 Beaverhead-Deerlodge National Forest;</text>
+							</clause><clause id="id1D57C24D4E9B4918B4D034E86FFF4B13"><enum>(ii)</enum><text>comprised of
+			 approximately 94,237 acres; and</text>
+							</clause><clause id="id26F0D0CF4F60457383DF9251AC4D9632"><enum>(iii)</enum><text>generally
+			 depicted on the map; and</text>
+							</clause></subparagraph><subparagraph id="id763C40A9881A409ABFEA9C14F805DDFE"><enum>(B)</enum><text>designated by
+			 subsection (c).</text>
+						</subparagraph></paragraph></subsection><subsection id="id1D2FEC41FEF04F9DA14320063BFA8F3A"><enum>(c)</enum><header>Designation</header><text display-inline="yes-display-inline">Each parcel of land depicted on the map is
+			 designated as the National Recreation Area.</text>
+				</subsection><subsection id="idADD786E5FE894794856BA40BAB8A3305"><enum>(d)</enum><header>Administration</header>
+					<paragraph id="id2994F66B92A3443B817EDB0B4DDD03AB"><enum>(1)</enum><header>In
+			 general</header><text>The Secretary concerned shall administer the National
+			 Recreation Area—</text>
+						<subparagraph id="id5D249F9753EB455B9D1D078FD44DCFAC"><enum>(A)</enum><text>in accordance
+			 with any laws (including regulations) relating to the National Forest System;
+			 and</text>
+						</subparagraph><subparagraph id="id4783BEDF312343429396A102A28D76FB"><enum>(B)</enum><text>in a manner to
+			 ensure most effectively—</text>
+							<clause id="id457775DDD92D4715B684E4E46566DB65"><enum>(i)</enum><text>the
+			 protection and conservation of fish and wildlife located in the National
+			 Recreation Area;</text>
+							</clause><clause id="id7CA299B7BEE94AB185456748B10BDF92"><enum>(ii)</enum><text>the conservation
+			 and development of scenic, natural historic, pastoral, and other values
+			 that—</text>
+								<subclause id="id041D2CA603DE4E6DA7C61F78399732C2"><enum>(I)</enum><text>contribute to,
+			 and are available for, public recreation; and</text>
+								</subclause><subclause id="idA0912C3EA37747F6ABAC1345DF4EEB9C"><enum>(II)</enum><text>represent the
+			 economic and social history of the American West; and</text>
+								</subclause></clause><clause id="id2B706EAD24AE4D98B215EC2692DFC4B1"><enum>(iii)</enum><text>the proper
+			 management, utilization, and disposal of natural resources located in the
+			 National Recreation Area (including timber, grazing, and mineral resources) to
+			 the extent that the use of the resources would not substantially impair the
+			 purposes of the National Recreation Area.</text>
+							</clause></subparagraph></paragraph><paragraph id="id1C6FB300B39749CC82261091057F259F"><enum>(2)</enum><header>Acquisition
+			 authority</header>
+						<subparagraph id="idEFF7F762CCFC40469E6FD7BDF316CB8C"><enum>(A)</enum><header>In
+			 general</header><text>Subject to subparagraph (B), in accordance with
+			 applicable laws (including regulations), the Secretary concerned may acquire
+			 from willing sellers, or through a voluntary donation or exchange, any land or
+			 interest in land (including any mineral interest or scenic easement) that is
+			 located in the National Recreation Area that the Secretary concerned determines
+			 is necessary to carry out this section.</text>
+						</subparagraph><subparagraph id="id61DC6479FD6B4BE39B452498107C8BCB"><enum>(B)</enum><header>Limitation</header><text>No
+			 land or interest in land may be acquired by the Secretary concerned under
+			 subparagraph (A) through condemnation.</text>
+						</subparagraph></paragraph><paragraph id="id43A743EB423D435BAF15280A1B1C6CEB"><enum>(3)</enum><header>Hunting;
+			 fishing</header><text>The Secretary concerned shall allow individuals to hunt,
+			 trap, and fish within the National Recreation Area in accordance with each
+			 applicable law (including regulations) of—</text>
+						<subparagraph id="idB4C6C05D4A0640759569F3957C388D5A"><enum>(A)</enum><text>the Federal
+			 Government; and</text>
+						</subparagraph><subparagraph id="id22339B61C83D46AF931AD28477906E9A"><enum>(B)</enum><text>the State.</text>
+						</subparagraph></paragraph><paragraph id="IDeeb5a2527e5940959f0d83d6c919da9a"><enum>(4)</enum><header>Grazing</header><text>The
+			 grazing of livestock in the National Recreation Area, if authorized before the
+			 date of enactment of this Act, shall be permitted to continue in accordance
+			 with—</text>
+						<subparagraph id="id96EF5995444B4F9C8E345F4CA7F4B204"><enum>(A)</enum><text>section 4(d)(4)
+			 of the Wilderness Act (16 U.S.C. 1133(d)(4)); and</text>
+						</subparagraph><subparagraph id="ID984dc3153b38406393a700834bf3d1fe"><enum>(B)</enum><text>the guidelines
+			 set forth in Appendix A of House Report 101–405.</text>
+						</subparagraph></paragraph></subsection><subsection id="id3B5321F0999B4A11BD3325B7306F0408"><enum>(e)</enum><header>Off-Road
+			 recreation</header>
+					<paragraph id="id33DBA51C8DEE43329D9840432B437804"><enum>(1)</enum><header>In
+			 general</header><text>Subject to any forest plan or travel management plan,
+			 except for administrative purposes or to respond to an emergency, motorized
+			 travel shall be permitted within the National Recreation Area only on approved,
+			 designated trails and routes.</text>
+					</paragraph><paragraph id="idA141AD702B3442459C72CBCEF401589B"><enum>(2)</enum><header>Mechanized,
+			 nonmotorized vehicles</header><text>The use of mechanized, nonmotorized
+			 vehicles shall be permitted within the National Recreation Area.</text>
+					</paragraph></subsection><subsection id="id61356FEF84404EA4AA5C2077AFBDD5B2"><enum>(f)</enum><header>Availability of
+			 map</header><text display-inline="yes-display-inline">The map shall be filed
+			 and made available for public inspection in the appropriate office of the
+			 Secretary concerned.</text>
+				</subsection></section><section id="id74DA154387794961A9C0B39ED09A0FF0"><enum>207.</enum><header>West Pioneers
+			 Recreation Management Area</header>
+				<subsection id="id8563795C48194543A5D13B50DE13B746"><enum>(a)</enum><header>Definitions</header><text>In
+			 this section:</text>
+					<paragraph id="id1BCDE9AF9B5C452BA405B295696CD0E4"><enum>(1)</enum><header>Map</header><text>The
+			 term <term>map</term> means the map entitled <quote>West Pioneers Proposed
+			 Wilderness</quote> and dated July 16, 2009.</text>
+					</paragraph><paragraph id="id84D0F26E401340CCAB18C85E25C44EF9"><enum>(2)</enum><header>Recreation
+			 management area</header><text>The term <term>recreation management area</term>
+			 means the West Pioneers Recreation Management Area that is—</text>
+						<subparagraph id="id15BEA0A23AFC44618B651FDD699F0887"><enum>(A)</enum><text>comprised of
+			 certain land in the Beaverhead-Deerlodge National Forest that is—</text>
+							<clause id="id5CCA780213DF4497A60321DDFE513D07"><enum>(i)</enum><text>comprised of
+			 approximately 129,252 acres; and</text>
+							</clause><clause id="id72BBFB2B71E243A5B5503CC444D4B225"><enum>(ii)</enum><text>generally
+			 depicted on the map; and</text>
+							</clause></subparagraph><subparagraph id="id62F922ABCFCF423D968286215ADA471C"><enum>(B)</enum><text>established by
+			 subsection (b).</text>
+						</subparagraph></paragraph></subsection><subsection id="id810BABEF2DF74281A592F5205846389D"><enum>(b)</enum><header>Establishment</header><text>To
+			 conserve, protect, and enhance the scenic, wildlife, recreational, and other
+			 natural resource values of the West Pioneers area of the State, there is
+			 established the West Pioneers Recreation Management Area.</text>
+				</subsection><subsection id="id591ADCE6DC9D4B76B4E38A72EA3487E4"><enum>(c)</enum><header>Administration</header>
+					<paragraph id="id3BFCD8657862466AA4862E718A8D2CA1"><enum>(1)</enum><header>In
+			 general</header><text>The Secretary concerned shall administer the recreation
+			 management area in accordance with this section and any laws (including
+			 regulations) relating to the National Forest System.</text>
+					</paragraph><paragraph id="id7EC76165E9E64A20AE380B129F9080DF"><enum>(2)</enum><header>Grazing</header><text>Nothing
+			 in this section prohibits, or affects the administration of, the grazing of
+			 livestock on land within the boundaries of the recreation management
+			 area.</text>
+					</paragraph></subsection><subsection id="id9F2F5935B0DF46D3A7CE1B2D476FED81"><enum>(d)</enum><header>Withdrawal</header><text>Subject
+			 to valid existing rights, the recreation management area is withdrawn
+			 from—</text>
+					<paragraph id="id65261ADD9121487585F71FDFF5C1F882"><enum>(1)</enum><text>all forms of
+			 entry, appropriation, or disposal under the public land laws;</text>
+					</paragraph><paragraph id="id7BDB587E7C704802A881E0DC1C9BD255"><enum>(2)</enum><text>location, entry,
+			 and patent under the mining laws; and</text>
+					</paragraph><paragraph id="id25EE26F92BD5491388C4D4A8EA969288"><enum>(3)</enum><text>operation of the
+			 mineral leasing, mineral materials, and geothermal leasing laws.</text>
+					</paragraph></subsection><subsection id="id924C45E10BC54471ABB5A21B9DF4D6F1"><enum>(e)</enum><header>Timber
+			 harvesting</header>
+					<paragraph id="id9CE576D307764E20A5C1297A05B3B7AA"><enum>(1)</enum><header>In
+			 general</header><text>Except as provided in paragraph (2), timber harvesting
+			 shall not be permitted within the recreation management area.</text>
+					</paragraph><paragraph id="id0BF739CC16C6415481BF822D737F4C5A"><enum>(2)</enum><header>Maintenance of
+			 recreation management area</header><text>Timber harvesting may be permitted in
+			 the recreation management area to the extent allowed under section 4(d)(1) of
+			 the Wilderness Act (16 U.S.C. 1133(d)(1)) for purposes relating to the
+			 necessary control of fire, insects, and diseases, and for public safety.</text>
+					</paragraph></subsection><subsection id="idFA17BE29FF4546EF8648383FB7943110"><enum>(f)</enum><header>Development
+			 limitations</header><text>Effective on the date of enactment of this Act, no
+			 permanent campground, or road or trail, may be constructed in the recreation
+			 management area.</text>
+				</subsection><subsection id="id0CC787EF3C3D4240BE9812F827C24328"><enum>(g)</enum><header>Off-Road
+			 recreation</header>
+					<paragraph id="id9613CCAB98724899ADA7EC6FD05986B7"><enum>(1)</enum><header>In
+			 general</header><text>Except for administrative purposes or to respond to an
+			 emergency, the use of mechanized and motorized travel shall be permitted within
+			 the recreation management area only on approved, designated trails and routes
+			 in existence as of the date of enactment of this Act.</text>
+					</paragraph><paragraph id="id4EC7628E22754AA2927B00CCBD9B668D"><enum>(2)</enum><header>Map</header><text>Not
+			 later than 1 year after the date of enactment of this Act, the Secretary
+			 concerned shall prepare and make available to the public a map that depicts
+			 each trail and route described in paragraph (1).</text>
+					</paragraph><paragraph id="id11C677B3370F41409D8BB60F96D467EC"><enum>(3)</enum><header>Effect</header><text>Nothing
+			 in this subsection precludes the Secretary concerned from closing from public
+			 use any trail or route described in paragraph (1)—</text>
+						<subparagraph id="id25BD7B32E4304EBEA6052B12D181F7D0"><enum>(A)</enum><text>to protect a
+			 natural resource; or</text>
+						</subparagraph><subparagraph id="id5A68F82BFADF4EA494726558DAB2C239"><enum>(B)</enum><text>to help ensure
+			 public safety.</text>
+						</subparagraph></paragraph></subsection></section><section id="IDe21cd0de09c44bd7ac1567db69f97a69"><enum>208.</enum><header>Thunderbolt
+			 Creek Recreation Area</header>
+				<subsection id="IDd6d0c58cd2514c3284cae242549920ef"><enum>(a)</enum><header>Designation</header><text>Certain
+			 Federal land located in the Beaverhead-Deerlodge National Forest, comprising
+			 approximately 22,037 acres, as generally depicted on the map entitled
+			 <quote>Electric Peak Proposed Wilderness</quote> and dated July 16, 2009, is
+			 designated as the <quote>Thunderbolt Creek Recreation Area</quote>.</text>
+				</subsection><subsection id="IDe59ef9f4c9e0407080c7e038fda3c7ee"><enum>(b)</enum><header>Administration</header><text>The
+			 Secretary concerned shall administer the recreation area in accordance with
+			 this section and any laws (including regulations) relating to the National
+			 Forest System.</text>
+				</subsection><subsection id="ID058f41d746074f76babda448f80d0318"><enum>(c)</enum><header>Withdrawal</header><text>Subject
+			 to valid existing rights, the Federal land designated as the recreation area is
+			 withdrawn from—</text>
+					<paragraph id="IDd0184236e305443db33257201c893244"><enum>(1)</enum><text>all forms of
+			 entry, appropriation, or disposal under the public land laws;</text>
+					</paragraph><paragraph id="ID1bde82c454bf4100a5694a38fade9776"><enum>(2)</enum><text>location, entry,
+			 and patent under the mining laws; and</text>
+					</paragraph><paragraph id="IDc019f91618a14e0eb385b5799736a4ec"><enum>(3)</enum><text>operation of the
+			 mineral leasing, mineral materials, and geothermal leasing laws.</text>
+					</paragraph></subsection><subsection id="IDc88952ae16c94a86a3e820b879f1e3b4"><enum>(d)</enum><header>Development
+			 restrictions</header><text>Effective on or after the date of enactment of this
+			 Act, no developed campground or road may be constructed in the recreation
+			 area.</text>
+				</subsection><subsection id="IDc2dd3980581e4b409be9ab295d9965ba"><enum>(e)</enum><header>Timber
+			 harvesting</header>
+					<paragraph id="ID7734bd8c33d54570924b52745305603e"><enum>(1)</enum><header>In
+			 general</header><text>Except as provided in paragraph (2), timber harvesting
+			 shall not be permitted within the recreation area.</text>
+					</paragraph><paragraph id="ID2b9ce0f87b964ca3bc01904e4e085d13"><enum>(2)</enum><header>Maintenance of
+			 recreation area</header><text>Timber harvesting may be permitted in the
+			 recreation area to the extent allowed under section 4(d)(1) of the Wilderness
+			 Act (16 U.S.C. 1133(d)(1)) for purposes relating to the necessary control of
+			 fire, insects, and diseases, and for public safety.</text>
+					</paragraph></subsection><subsection id="ID0b29ef0c32754c6e8bc6a21e583c7c37"><enum>(f)</enum><header>Vehicles</header>
+					<paragraph id="ID9c79cbe7dc2d402594216bc08f0efb46"><enum>(1)</enum><header>Motorized
+			 vehicles</header>
+						<subparagraph id="idBB7E31D420744A9A99EDF9B3750F831C"><enum>(A)</enum><header>In
+			 general</header><text>Except as provided in subparagraph (B), motorized travel
+			 shall be permitted within the recreation area only on those established trails
+			 and routes existing as of the date of enactment of this Act, on which motorized
+			 travel was permitted as of that date.</text>
+						</subparagraph><subparagraph id="id5C637749EDFA439B9611441633C6C007"><enum>(B)</enum><header>Other trails
+			 and routes</header><text>Other trails and routes may be used when necessary for
+			 administrative purposes or to respond to an emergency.</text>
+						</subparagraph><subparagraph id="id345B1D4474194693898EDBCCE97CE1B9"><enum>(C)</enum><header>Identification
+			 and map</header><text>Not later than 1 year after the date of enactment of this
+			 Act, the Secretary concerned shall—</text>
+							<clause id="idD0677953185B4430B533F8A84488A97A"><enum>(i)</enum><text>identify routes
+			 and trails described in subparagraph (A); and</text>
+							</clause><clause id="idF6680629667D41F4BF479FA17FA2A27A"><enum>(ii)</enum><text>prepare and make
+			 available to the public a map showing the routes and trails.</text>
+							</clause></subparagraph><subparagraph id="id30D0AE2F83AD438B8E73686F83EB65A1"><enum>(D)</enum><header>Resource
+			 protection or public safety</header><text>Nothing in this subsection precludes
+			 the Secretary concerned from closing any trail or route from use for the
+			 purposes of resource protection or public safety.</text>
+						</subparagraph></paragraph><paragraph id="IDd4919e07d196461187472bef66602d7b"><enum>(2)</enum><header>Mechanized,
+			 nonmotorized vehicles</header><text>The use of mechanized, nonmotorized
+			 vehicles shall be permitted within the recreation area.</text>
+					</paragraph></subsection><subsection id="IDbee23bd8b80141b4b63aa9843b399e97"><enum>(g)</enum><header>Management
+			 plan</header>
+					<paragraph id="IDbce364e690384b42ad660f3458d32052"><enum>(1)</enum><header>In
+			 general</header><text>The Secretary concerned shall include a management plan
+			 for the recreation area in the first revision of the forest plan of the
+			 Beaverhead-Deerlodge National Forest that is carried out by the Secretary
+			 concerned after the date of enactment of this Act.</text>
+					</paragraph><paragraph id="ID0927dffc7e9b44f9b82f77e93f73ef2e"><enum>(2)</enum><header>Requirement for
+			 public comment</header><text>In developing a management plan for the recreation
+			 area under paragraph (1), the Secretary concerned shall provide public notice
+			 and an opportunity for comment.</text>
+					</paragraph></subsection></section><section id="id42AC564B0C2B40C5B37ED12BE1C7361D"><enum>209.</enum><header>Three Rivers
+			 Special Management Area</header>
+				<subsection id="id5E4BC4302B9E443795A11F9B11BC30AF"><enum>(a)</enum><header>Definitions</header><text>In
+			 this section:</text>
+					<paragraph id="idBF74750A586D4B29ABA23B238DDF9ECA"><enum>(1)</enum><header>Map</header><text>The
+			 term <term>map</term> means the map entitled <quote>Three Rivers Special
+			 Management Area and Roderick Wilderness</quote> and dated July 16, 2009.</text>
+					</paragraph><paragraph id="idC8ABEDB2A7CF4C6E978303338219C0B2"><enum>(2)</enum><header>Special
+			 management area</header><text>The term <term>special management area</term>
+			 means the Three Rivers Special Management Area that is—</text>
+						<subparagraph id="id25AAA66BF0DC48C5ACA87611D0F445EB"><enum>(A)</enum><text>comprised of
+			 certain land in the Kootenai National Forest that is—</text>
+							<clause id="id5DB791E074FE4ED19677FF0D2483D52D"><enum>(i)</enum><text>comprised of
+			 approximately 74,274 acres; and</text>
+							</clause><clause id="id0C01B866BA61455680E3287E65F30B9C"><enum>(ii)</enum><text>generally
+			 depicted on the map; and</text>
+							</clause></subparagraph><subparagraph id="id6C9C9AACD8F54128AFB7917318384FDB"><enum>(B)</enum><text>established by
+			 subsection (b).</text>
+						</subparagraph></paragraph></subsection><subsection id="idB49294B711A54C698B17C0FC33D5CFD1"><enum>(b)</enum><header>Establishment</header><text>To
+			 conserve, protect, and enhance the scenic, wildlife, recreational, backcountry
+			 heritage, and other natural resource values of the Three Rivers Management Area
+			 of the State, there is established the Three Rivers Special Management
+			 Area.</text>
+				</subsection><subsection id="id759F9A2980F34AE5ADD60203F55621DD"><enum>(c)</enum><header>Administration</header>
+					<paragraph id="id47F24BD4420042E5BFCE101ADC101F88"><enum>(1)</enum><header>In
+			 general</header><text>The Secretary concerned shall administer the special
+			 management area in accordance with this section and any laws (including
+			 regulations) relating to the National Forest System.</text>
+					</paragraph><paragraph id="id4B95578DDCCF44E98C07AC3E7316573C"><enum>(2)</enum><header>Grazing</header><text>Nothing
+			 in this section prohibits, or affects the administration of, the grazing of
+			 livestock on land within the boundaries of the special management area.</text>
+					</paragraph></subsection><subsection id="ID13633dbad5a04d9789bd270fab186bbd"><enum>(d)</enum><header>Withdrawal</header><text>Subject
+			 to valid existing rights, the special management area is withdrawn from—</text>
+					<paragraph id="ID82f3aa2cdd2941b2be5bae221d5974c8"><enum>(1)</enum><text>all forms of
+			 entry, appropriation, or disposal under the public land laws;</text>
+					</paragraph><paragraph id="ID83b3861659794f64a41e5e9dac0efa55"><enum>(2)</enum><text>location, entry,
+			 and patent under the mining laws; and</text>
+					</paragraph><paragraph id="IDff94fc50888c45afbf85565f79a3cc6c"><enum>(3)</enum><text>operation of the
+			 mineral leasing, mineral materials, and geothermal leasing laws.</text>
+					</paragraph></subsection><subsection id="idE6FFD9E1D90C4DE8885B02C7D9C1FDE1"><enum>(e)</enum><header>Snowmobile
+			 recreation</header>
+					<paragraph id="id205F8CCBC01B4902901F9ABD8E7335D4"><enum>(1)</enum><header>In
+			 general</header><text>Except as provided in paragraph (2), the use of
+			 snowmobiles shall be permitted within the special management area only in the
+			 areas designated as the <quote>NW Peaks Snowmobile Area</quote> and the
+			 <quote>Mount Henry Snowmobile Area</quote>, as generally depicted on the
+			 map.</text>
+					</paragraph><paragraph id="idCAC0704B5D564C37B9B1330E61389892"><enum>(2)</enum><header>Effect</header><text>Nothing
+			 in this subsection precludes the Secretary concerned from closing from public
+			 use any trail located in an area described in paragraph (1)—</text>
+						<subparagraph id="idAD3FE26B2CDC417FA899749E516F1355"><enum>(A)</enum><text>to protect a
+			 natural resource; or</text>
+						</subparagraph><subparagraph id="idDA5CEF4EE7F24C1290231D55FB2A55C7"><enum>(B)</enum><text>to help ensure
+			 public safety.</text>
+						</subparagraph></paragraph></subsection><subsection id="IDa849d34471684271a29e172cc2d5826d"><enum>(f)</enum><header>Timber
+			 harvesting</header>
+					<paragraph id="idE4756003E61B468F8A226FE156EC4318"><enum>(1)</enum><header>In
+			 general</header><text>Except as provided in paragraph (2), timber harvesting
+			 shall not be permitted within the special management area.</text>
+					</paragraph><paragraph id="idE226B0CF65544FA5BEB96EA0B306F986"><enum>(2)</enum><header>Maintenance of
+			 special management area</header><text>Timber harvesting may be permitted in the
+			 special management area to the extent allowed under section 4(d)(1) of the
+			 Wilderness Act (16 U.S.C. 1133(d)(1)) for purposes relating to the necessary
+			 control of fire, insects, and diseases, and for public safety.</text>
+					</paragraph></subsection><subsection id="idB0AD66EF3A7C44E5A6A29D8E80AD5BA5"><enum>(g)</enum><header>Development
+			 limitation</header><text>Effective on the date of enactment of this Act, no
+			 permanent campground may be constructed in the special management area.</text>
+				</subsection><subsection id="idD3A309C0414F46408CA5A3725404DEF5"><enum>(h)</enum><header>Off-Road
+			 recreation</header>
+					<paragraph id="id24D444113D024634B846852F2F6B6C94"><enum>(1)</enum><header>In
+			 general</header><text>Except for administrative purposes or to respond to an
+			 emergency, the use of mechanized and motorized travel shall be prohibited
+			 within the special management area in the areas designated as <quote>NW Peaks
+			 Backcountry</quote>, <quote>Murphy Mountain Backcountry</quote>, <quote>Mount
+			 Henry Backcountry</quote>, and <quote>Roderick Backcountry</quote>, as
+			 generally depicted on the map.</text>
+					</paragraph><paragraph id="id3F58B69148B24AA0803D4BC84350F177"><enum>(2)</enum><header>Map</header><text>Not
+			 later than 1 year after the date of enactment of this Act, the Secretary
+			 concerned shall prepare and make available to the public a map that depicts
+			 each area described in paragraph (1).</text>
+					</paragraph><paragraph id="id22128FB762D84F56A7AA0E92F4441C28"><enum>(3)</enum><header>Effect</header><text>Nothing
+			 in this subsection precludes the Secretary concerned from closing from public
+			 use any trail or route located in the special management area—</text>
+						<subparagraph id="id2B60E3DCB9CD4E74A6F884A1B80A9E04"><enum>(A)</enum><text>to protect a
+			 natural resource; or</text>
+						</subparagraph><subparagraph id="id007EF2989CE743D98089C53122D39436"><enum>(B)</enum><text>to help ensure
+			 public safety.</text>
+						</subparagraph></paragraph></subsection><subsection id="idF09CA852B9EA4A909621B276D73D446D"><enum>(i)</enum><header>Hunting;
+			 fishing</header><text>The Secretary concerned shall allow individuals to hunt,
+			 trap, and fish within the special management area in accordance with each
+			 applicable law (including regulations) of—</text>
+					<paragraph id="idBE8CA09454064EEE9255E01ACC6D3FC2"><enum>(1)</enum><text>the Federal
+			 Government; and</text>
+					</paragraph><paragraph id="id15235E888F2E44B09298282FC41B6EC8"><enum>(2)</enum><text>the State.</text>
+					</paragraph></subsection><subsection id="ID4e7b1496c956431fb742af05d5c8be27"><enum>(j)</enum><header>Game
+			 carts</header><text>Nothing in this section prohibits the use of game carts in
+			 areas of the special management area allowed as of the date of enactment of
+			 this Act.</text>
+				</subsection><subsection id="ID19e3226abf40400184c4604ada9ec102"><enum>(k)</enum><header>Firewood</header><text>The
+			 collection of firewood (including the use of chainsaws) shall be allowed in
+			 certain areas within the special management area, as determined by the
+			 Secretary concerned in consultation with the resource advisory
+			 committee.</text>
+				</subsection><subsection id="id9B2D08FE0717485B892C8145E9986540"><enum>(l)</enum><header>All-Terrain
+			 vehicle study</header>
+					<paragraph id="IDfed41392e376473e83819050b058e66a"><enum>(1)</enum><header>In
+			 general</header><text>Not later than 1 year after the date of enactment of this
+			 Act, the Secretary concerned shall study and report on—</text>
+						<subparagraph id="IDdf345cb4031242a5b3ff87fc33e61236"><enum>(A)</enum><text>the opportunities
+			 for expanded all-terrain vehicles routes and trails across the Three Rivers
+			 District and adjacent areas on the Kootenai National Forest;</text>
+						</subparagraph><subparagraph id="IDd98d975739ba4c518ef6eea0237f4e95"><enum>(B)</enum><text>the
+			 interconnectedness of routes on private or State land; and</text>
+						</subparagraph><subparagraph id="IDef9130035849405b8e0876a20f3c4235"><enum>(C)</enum><text>the opportunities
+			 for expanded access points to existing trails.</text>
+						</subparagraph></paragraph><paragraph id="ID38c1578488034e089e812f2d83cc967e"><enum>(2)</enum><header>Consultation</header><text>The
+			 study shall be conducted in consultation with—</text>
+						<subparagraph id="id3EB4DD61BA5A4573A187636A5BF42369"><enum>(A)</enum><text>the resource
+			 advisory committee for the Three Rivers District;</text>
+						</subparagraph><subparagraph id="idE12C8C3AFFA043A582E22B358775BA32"><enum>(B)</enum><text>local
+			 collaborative land management organizations;</text>
+						</subparagraph><subparagraph id="id24B428093C364438B2CF9E0053DCC41E"><enum>(C)</enum><text>representatives
+			 from motorized user groups; and</text>
+						</subparagraph><subparagraph id="id569E2360DECF4B79929C885F3028EA3C"><enum>(D)</enum><text>any other
+			 interested party.</text>
+						</subparagraph></paragraph></subsection></section><section id="id592D2BAD94CA46ABB32922C67B833C11"><enum>210.</enum><header>Otatsy
+			 Recreation Area</header>
+				<subsection id="id82944CFCD6C84164A466DC14ECB49178"><enum>(a)</enum><header>Definitions</header><text>In
+			 this section:</text>
+					<paragraph id="idCC5FBAB5AA114CE98B9BED15486D07A2"><enum>(1)</enum><header>Map</header><text>The
+			 term <term>map</term> means the map entitled <quote>Location of the Seeley Lake
+			 Wilderness Additions and Otatsy National Recreation Area</quote> and dated July
+			 16, 2009.</text>
+					</paragraph><paragraph id="idEF828B5BC3E3459097B630DD554C74E8"><enum>(2)</enum><header>Recreation
+			 Area</header><text>The term <term>recreation area</term> means the Otatsy
+			 Recreation Area that is—</text>
+						<subparagraph id="idD47918CC283944DBA356E75D8AEEB22B"><enum>(A)</enum><text>established by
+			 subsection (b)(1);</text>
+						</subparagraph><subparagraph id="id6D4064D05F01469D9B85CCA8B3F8FF5E"><enum>(B)</enum><text>comprised
+			 of—</text>
+							<clause id="idD22B33A007BA4C86BC1878B9AA6738E5"><enum>(i)</enum><text>certain land
+			 located in the Seeley Lake Ranger District of the Lolo National Forest;
+			 and</text>
+							</clause><clause id="id5F49E16A57374BFE828C14EA120398D5"><enum>(ii)</enum><text>approximately
+			 1,271 acres; and</text>
+							</clause></subparagraph><subparagraph id="id03DBEC8FD3264EBCB53E9352E058FCBC"><enum>(C)</enum><text>generally
+			 depicted on the map.</text>
+						</subparagraph></paragraph></subsection><subsection id="idDEDF897AC2B44A27A97B3CDA9529E85B"><enum>(b)</enum><header>Recreation
+			 Area</header>
+					<paragraph id="idCBA559BAB039448494C391FCC1059D8C"><enum>(1)</enum><header>Establishment</header><text>To
+			 conserve, protect, and enhance the scenic, wildlife, recreational, backcountry
+			 heritage, and other natural resource values of the Blackfoot watershed, there
+			 is established the Otatsy Recreation Area.</text>
+					</paragraph><paragraph id="id80F3A9221DE649D9B13FEF1DAE8F15AA"><enum>(2)</enum><header>Administration</header>
+						<subparagraph id="id8F356AB7ACCD466D8BB50480EF52ACA5"><enum>(A)</enum><header>In
+			 general</header><text>The Secretary concerned shall administer the recreation
+			 area in accordance with this section and any laws (including regulations)
+			 relating to the National Forest System.</text>
+						</subparagraph><subparagraph id="IDc8c21118f36c428fbb80370409bc7902"><enum>(B)</enum><header>Authorized
+			 uses</header><text>The Secretary concerned shall only allow uses of the
+			 recreation area that the Secretary concerned determines will further the
+			 purposes of the recreation area, as described in paragraph (1).</text>
+						</subparagraph><subparagraph id="idF08A1FDEED3D409DABA7E6927F522737"><enum>(C)</enum><header>Grazing</header><text>Nothing
+			 in this subsection prohibits, or affects the administration of, the grazing of
+			 livestock on land within the boundaries of the recreation area.</text>
+						</subparagraph></paragraph><paragraph id="idA0A85CC26663439C85C4F17E33C3005C"><enum>(3)</enum><header>Snowmobile
+			 recreation</header>
+						<subparagraph id="id782C9D547B7C42B8829841718366C128"><enum>(A)</enum><header>In
+			 general</header><text>Except as provided in subparagraph (B), and subject to
+			 any forest plan, the use of snowmobiles shall be permitted in areas located
+			 within the recreation area, as designated by the Secretary concerned in the map
+			 described in paragraph (7).</text>
+						</subparagraph><subparagraph id="id39376DBD80D4449D88E82EC2F777EF3A"><enum>(B)</enum><header>Effect</header><text>Nothing
+			 in this subsection precludes the Secretary concerned from closing from public
+			 use any trail located in the recreation area—</text>
+							<clause id="idBB38B9463DA44484B7CD0438D1293F0E"><enum>(i)</enum><text>to
+			 protect a natural resource;</text>
+							</clause><clause id="idB6A16AD0D76F4AA882A2EEC4AA859843"><enum>(ii)</enum><text>to
+			 help ensure public safety;</text>
+							</clause><clause id="id78CC606986884F41A986136AB2FA51C7"><enum>(iii)</enum><text>for
+			 administrative purposes; or</text>
+							</clause><clause id="id3A1DBD83F8954F7AB0470408791AF193"><enum>(iv)</enum><text>to
+			 respond to an emergency.</text>
+							</clause></subparagraph></paragraph><paragraph id="IDc6846ee8a3a24c24bb98fa64d1aa3279"><enum>(4)</enum><header>Management
+			 plan</header>
+						<subparagraph id="id4B6F987FE3DA438B9C597E54300CA1A6"><enum>(A)</enum><header>In
+			 general</header><text>Not later than 3 years after the date of enactment of
+			 this Act, the Secretary concerned shall prepare, and may periodically amend, a
+			 comprehensive management plan for the recreation area.</text>
+						</subparagraph><subparagraph id="id5A0A2990D45F487BADD01DCCF88EEC49"><enum>(B)</enum><header>Requirements</header><text>In
+			 preparing the management plan under subparagraph (A), the Secretary concerned
+			 shall—</text>
+							<clause id="id0A7E33CCBCF740DB8251FF7E36887F6C"><enum>(i)</enum><text>design the
+			 management plan—</text>
+								<subclause id="idFA0D9C018EA941B7B9F6D4CDCFF55012"><enum>(I)</enum><text>to fulfill the
+			 purposes of the recreation area; and</text>
+								</subclause><subclause id="id189E341A494A4076BA18FCE54781DEEF"><enum>(II)</enum><text>to ensure the
+			 sound management and enforcement of the recreation area; and</text>
+								</subclause></clause><clause id="id7049875FD992477D8E52D4FA7AAB3599"><enum>(ii)</enum><text>carry out a
+			 public process to develop the management plan to provide for—</text>
+								<subclause id="IDdb68297140ba462e8eabcf4f2e011dd4"><enum>(I)</enum><text>adequate
+			 signage;</text>
+								</subclause><subclause id="ID2c87e5dadeec4c988c37d0454518eca8"><enum>(II)</enum><text>a public
+			 education program on allowable usage areas; and</text>
+								</subclause><subclause id="IDe714c34c8352459a904b7cbdcf647d20"><enum>(III)</enum><text>a monitoring
+			 and enforcement strategy.</text>
+								</subclause></clause></subparagraph></paragraph><paragraph id="IDd6a3969aa5df4540b33b466447d6da0c"><enum>(5)</enum><header>Enforcement
+			 priority</header><text>The Secretary concerned shall prioritize the conduct of
+			 enforcement activities in the recreation area—</text>
+						<subparagraph id="ID7de5f2db8d0748ed87456e5bdc9bda7c"><enum>(A)</enum><text>to prohibit the
+			 degradation of the natural resources of the recreation area; and</text>
+						</subparagraph><subparagraph id="ID95be6053291646d4a3b1f7a91f3b5b2a"><enum>(B)</enum><text>to prevent entry
+			 of motorized vehicles into adjacent wilderness areas and portions of public
+			 land that are closed to motorized vehicles.</text>
+						</subparagraph></paragraph><paragraph id="ID6b4774371e994241aab760e48d5f3dd6"><enum>(6)</enum><header>Notice of open
+			 routes</header><text>The Secretary concerned shall ensure that visitors to the
+			 recreation area have access to adequate notice relating to the open routes
+			 within the recreation area through—</text>
+						<subparagraph id="ID3b5c750b4de74d7db989bbc14e0bcae0"><enum>(A)</enum><text>the provision of
+			 appropriate signage within the recreation area; and</text>
+						</subparagraph><subparagraph id="IDad2369e7bfac445b8c5def73cd8ef51d"><enum>(B)</enum><text>the distribution
+			 of maps, safety education materials, and any other information that the
+			 Secretary concerned determines to be appropriate.</text>
+						</subparagraph></paragraph><paragraph id="id74FEEF5D328049AAA38980679F129F33"><enum>(7)</enum><header>Map</header><text>Not
+			 later than 1 year after the date of enactment of this Act, the Secretary
+			 concerned shall prepare and make available to the public a map that depicts
+			 each area described in paragraph (3)(A).</text>
+					</paragraph><paragraph id="idE53C1E7458BC4AC6BEAFF656B398DDBC"><enum>(8)</enum><header>Withdrawal</header><text>Subject
+			 to valid existing rights, the Federal land designated as the recreation area is
+			 withdrawn from—</text>
+						<subparagraph id="id925FF8DB694B405D86E13B241D15E63C"><enum>(A)</enum><text>all forms of
+			 entry, appropriation, or disposal under the public land laws;</text>
+						</subparagraph><subparagraph id="idB63A8CA2FE1E4A63B163D086FDCCFE59"><enum>(B)</enum><text>location, entry,
+			 and patent under the mining laws; and</text>
+						</subparagraph><subparagraph id="idB3304E8FFC5F44F39D60944FA4A5AC43"><enum>(C)</enum><text>disposition under
+			 all laws pertaining to mineral and geothermal leasing or mineral
+			 materials.</text>
+						</subparagraph></paragraph></subsection></section></title></legis-body>
+</bill>

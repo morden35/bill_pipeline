@@ -1,0 +1,817 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+	<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>112th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 159</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20110125" legis-day="20110105">January 25
+			 (legislative day, January 5), 2011</action-date>
+			<action-desc><sponsor name-id="S209">Mr. Kohl</sponsor> (for himself,
+			 <cosponsor name-id="S247">Mr. Wyden</cosponsor>, and <cosponsor name-id="S311">Ms. Klobuchar</cosponsor>) introduced the following bill; which
+			 was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To improve consumer protections for purchasers of
+		  long-term care insurance, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="idBFA4459E507B4C32921346AC75C8D43B" section-type="section-one"><enum>1.</enum><header>Short title; table of
+			 contents</header>
+			<subsection id="id39E6415B8E0B4B38B796764A254F3743"><enum>(a)</enum><header>Short
+			 title</header><text display-inline="yes-display-inline">This Act may be cited
+			 as the <quote><short-title>Confidence in Long-Term Care
+			 Insurance Act of 2011</short-title></quote>.</text>
+			</subsection><subsection id="idB13C1EF42D3A4E73AF38E611AD0806D4"><enum>(b)</enum><header>Table of
+			 contents</header><text>The table of contents of this Act is as follows:</text>
+				<toc>
+					<toc-entry idref="idBFA4459E507B4C32921346AC75C8D43B" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="idED2BF4FC49114DA0BA721A19FB10298F" level="title">TITLE I—National Market Survey; Model Disclosures and
+				Definitions; LTC Insurance Compare</toc-entry>
+					<toc-entry idref="id82820DF995964F9AAF89B111F5A8E66C" level="section">Sec. 101. NAIC National Market Survey.</toc-entry>
+					<toc-entry idref="id1E8123D82A414BD4BFA3450750005ABE" level="section">Sec. 102. Model disclosure form.</toc-entry>
+					<toc-entry idref="id9081EA47D7E0419BA0D7455BAD463498" level="section">Sec. 103. LTC Insurance Compare.</toc-entry>
+					<toc-entry idref="id24E1C6B38F874B25A8C8D59D97BFD69F" level="title">TITLE II—Improved State Consumer Protections for Qualified
+				Long-Term Care Insurance Contracts and Medicaid Partnership
+				Policies</toc-entry>
+					<toc-entry idref="id1330B09E8F7041CBAEC2F7ED0C98E3AF" level="section">Sec. 201. Application of Medicaid partnership required model
+				provisions to all tax-qualified long-term care insurance contracts.</toc-entry>
+					<toc-entry idref="id07F65DF1FD2C4E238B564B93D54E31E1" level="section">Sec. 202. Streamlined process for applying new or updated model
+				provisions.</toc-entry>
+					<toc-entry idref="id1BC509D418C6436DADDCFE128C36D9D3" level="title">TITLE III—Improved Consumer Protections for Medicaid Partnership
+				Policies</toc-entry>
+					<toc-entry idref="id4B43FB42AA2D4ADCADDDE65D89395B41" level="section">Sec. 301. Biennial reports on impact of Medicaid long-term care
+				insurance partnerships.</toc-entry>
+					<toc-entry idref="idF4515423773C4341805CE658F010F755" level="section">Sec. 302. Additional consumer protections for Medicaid
+				partnerships.</toc-entry>
+					<toc-entry idref="id37364CA503FF4AD189A094EB0D05222B" level="section">Sec. 303. Report to Congress regarding need for minimum annual
+				compound inflation protection.</toc-entry>
+					<toc-entry idref="id62F98ABD4ABE47B596DD84A1DD1A4463" level="title">TITLE IV—Preservation of State Authority</toc-entry>
+					<toc-entry idref="idD3E170E7815E460B93C85753559325E2" level="section">Sec. 401. Preservation of State authority.</toc-entry>
+				</toc>
+			</subsection></section><title id="idED2BF4FC49114DA0BA721A19FB10298F"><enum>I</enum><header>National Market
+			 Survey; Model Disclosures and Definitions; LTC Insurance Compare</header>
+			<section id="id82820DF995964F9AAF89B111F5A8E66C"><enum>101.</enum><header>NAIC National
+			 Market Survey</header>
+				<subsection id="idDC2AAEB9A6D44423854BB0C539527B7B"><enum>(a)</enum><header>In
+			 general</header><text>The Secretary shall request the NAIC to conduct reviews
+			 of the national and State-specific markets for long-term care insurance
+			 policies and to submit reports to the Secretary on the results of such reviews
+			 every 5 years.</text>
+				</subsection><subsection id="id4DC0DBEF5EEB40C99FDA2B3B341270DE"><enum>(b)</enum><header>Content</header><text>The
+			 Secretary shall request that the reviews include, with respect to the period
+			 occurring since any prior review, analysis of the following:</text>
+					<paragraph id="idE83C8E7664594C438A6A559D71D460B4"><enum>(1)</enum><text>Information on
+			 key market parameters, including the number of carriers offering long-term care
+			 insurance, and the scope of coverage offered under those policies (such as
+			 policies offering nursing-home only benefits, policies offering comprehensive
+			 coverage, cash plans, and reimbursement plans, and hybrid products in which
+			 long-term care benefits are present).</text>
+					</paragraph><paragraph id="idB8A3EC28E1CA42C38C039F75BBB32B0A"><enum>(2)</enum><text>The number of
+			 complaints received and resolved, including benefit denials.</text>
+					</paragraph><paragraph id="id021C1966C5504E29848FBEF5ADB789F8"><enum>(3)</enum><text>The number of
+			 policies that have lapsed.</text>
+					</paragraph><paragraph id="id9B318993DDE84B93AA919A96D18E797E"><enum>(4)</enum><text>The number of
+			 agents trained and whether the training included competency tests.</text>
+					</paragraph><paragraph id="id888C019BDB8D41AA94DDAD1ED7DAECFD"><enum>(5)</enum><text>The number of
+			 policyholders exhausting benefits.</text>
+					</paragraph><paragraph id="id6C945F092C9A41EA9138CD7C88293D96"><enum>(6)</enum><text>The number of
+			 premium rate increases filed by carriers on a policy basis with the States,
+			 including the ranges of the increases approved for or finally used.</text>
+					</paragraph><paragraph id="idEF844B0EA20A4F9AA0627E4D93E659A5"><enum>(7)</enum><text>The number of
+			 policyholders affected by any premium rate increases.</text>
+					</paragraph><paragraph id="idFF71C6A1B1434D72AA2E40E7174C7CF9"><enum>(8)</enum><text>Requests for
+			 exceptions to State permitted accounting practices, as defined by the
+			 NAIC.</text>
+					</paragraph></subsection><subsection id="idFAEFF86FFE9447D7A68C4D74436C292F"><enum>(c)</enum><header>Timing for
+			 reviews and reports</header><text>The Secretary shall request the NAIC
+			 to—</text>
+					<paragraph id="idD86BD16B76734C049D77000E86D4956C"><enum>(1)</enum><text>complete the
+			 initial market review under this section not later than 2 years after the date
+			 of enactment of this Act;</text>
+					</paragraph><paragraph id="id69EF50CAC6724AF098ECAD85E4A8A92C"><enum>(2)</enum><text>submit a report
+			 to the Secretary on the results of the initial review not later than December
+			 31, 2012; and</text>
+					</paragraph><paragraph id="id5722C05F05C941C88F22595F00899BD6"><enum>(3)</enum><text>complete each
+			 subsequent review and submit each subsequent report not later than December 31
+			 of the fifth succeeding year.</text>
+					</paragraph></subsection><subsection commented="no" display-inline="no-display-inline" id="id1F7406CB813546F5BD1F604B8D74BBBB"><enum>(d)</enum><header>Consultation
+			 required</header><text>The Secretary shall request the NAIC to consult with
+			 State insurance commissioners, appropriate Federal agencies, issuers of
+			 long-term care insurance, States with experience in long-term care insurance
+			 partnership plans, other States, representatives of consumer groups, consumers
+			 of long-term care insurance policies, and such other stakeholders as the
+			 Secretary or the NAIC determine appropriate, to conduct the market reviews
+			 requested under this section.</text>
+				</subsection><subsection id="id110B6650E7E64322856BD63404775157"><enum>(e)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section and section 102:</text>
+					<paragraph id="idAF98D0B24802437583D27FB6C7BBB442"><enum>(1)</enum><header>Long-term care
+			 insurance policy</header><text>The term <term>long-term care insurance
+			 policy</term>—</text>
+						<subparagraph id="idB7B08473947746618C0FDE7BB113C118"><enum>(A)</enum><text>means—</text>
+							<clause id="id7A32BF0FD9D2441DAE3EFFECCCEB2B27"><enum>(i)</enum><text>a
+			 qualified long-term care insurance contract (as defined in section 7702B(b) of
+			 the Internal Revenue Code of 1986); and</text>
+							</clause><clause id="id6A7BCB6BD13F446FA7D8FE676C219739"><enum>(ii)</enum><text>a
+			 qualified long-term care insurance contract that covers an insured who is a
+			 resident of a State with a qualified State long-term care insurance partnership
+			 under clause (iii) of section 1917(b)(1)(C) of the Social Security Act (42
+			 U.S.C. 1396p(b)(1)(C)) or a long-term care insurance policy offered in
+			 connection with a State plan amendment described in clause (iv) of such
+			 section; and</text>
+							</clause></subparagraph><subparagraph id="idD11CB2C7FC1748DF8DFD7BC02BD1DBEE"><enum>(B)</enum><text>includes any
+			 other insurance policy or rider described in the definition of <term>long-term
+			 care insurance</term> in section 4 of the model Act promulgated by the National
+			 Association of Insurance Commissioners (as adopted December 2006).</text>
+						</subparagraph></paragraph><paragraph id="id0B4BFE1DFA6444D68DD383B58C88066D"><enum>(2)</enum><header>NAIC</header><text>The
+			 term <term>NAIC</term> means the National Association of Insurance
+			 Commissioners.</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id667AA05EC5FF4555A61B32953D9CAE6D"><enum>(3)</enum><header>Secretary</header><text>The
+			 term <term>Secretary</term> means the Secretary of Health and Human
+			 Services.</text>
+					</paragraph></subsection></section><section id="id1E8123D82A414BD4BFA3450750005ABE"><enum>102.</enum><header>Model
+			 disclosure form</header>
+				<subsection id="id52130FAFED1D48BCA9FDF88CB296C03C"><enum>(a)</enum><header>NAIC study and
+			 report on State disclosure requirements for long-Term care insurance</header>
+					<paragraph id="id2632BCE3E93341018B0730E73D0FAA81"><enum>(1)</enum><header>In
+			 general</header><text>The Secretary shall request the NAIC to carry out the
+			 activities described in paragraph (2) and issue the report described in
+			 paragraph (3).</text>
+					</paragraph><paragraph id="id0AB3DCCDFA254F8FBE175457C95D6E0B"><enum>(2)</enum><header>Review and
+			 development of proposed model disclosure requirements</header><text>The
+			 activities described in this paragraph are the following:</text>
+						<subparagraph id="idC36CC9690AE94F72BABDB780D7462585"><enum>(A)</enum><header>Model act and
+			 regulation disclosure requirements</header><text>Review and describe disclosure
+			 requirements for long-term care insurance policies under the Model Act and
+			 regulation.</text>
+						</subparagraph><subparagraph id="idA5692CF0663043C1BE36283047C149A8"><enum>(B)</enum><header>State law
+			 disclosure requirements</header><text>Review and describe disclosure
+			 requirements for long-term care insurance policies under State laws, including
+			 as part of such description an analysis of the effectiveness of the various
+			 existing disclosures.</text>
+						</subparagraph><subparagraph id="idFD2E723DC1954E7785CCC57E355AE54C"><enum>(C)</enum><header>Long-term care
+			 services</header><text>Review and describe differences in long-term care
+			 services, including with respect to providers of such services and the settings
+			 in which such services are provided among States and develop standardized
+			 definitions for long-term care services.</text>
+						</subparagraph><subparagraph id="id042F263C90D54F399BE91A527D4784D9"><enum>(D)</enum><header>Identification
+			 of key issues for development of model disclosure marketing
+			 form</header><text>Identify and describe key issues to consider in the
+			 development of a proposed form for marketing long-term care insurance
+			 policies.</text>
+						</subparagraph></paragraph><paragraph id="ID1438d463c788474bb93158e29d057a87"><enum>(3)</enum><header>Report</header><text>The
+			 report described in this paragraph is an NAIC White Paper that is issued not
+			 later than 12 months after the date of enactment of this Act and contains the
+			 results of the reviews conducted under paragraph (2) and the descriptions
+			 required under that paragraph.</text>
+					</paragraph></subsection><subsection id="id317FB9C02B5140259DD0876F0CF13904"><enum>(b)</enum><header>NAIC Working
+			 Group To develop model disclosure form for long-Term care insurance</header>
+					<paragraph id="id3B13C01B407D4CC28F0206071C3B6B2D"><enum>(1)</enum><header>In
+			 general</header><text>The Secretary shall request the NAIC to establish, not
+			 later than 60 days after the date on which the NAIC White Paper described in
+			 subsection (a)(3) is issued and in consultation with the Secretary and the
+			 Secretary of the Treasury, a Working Group to develop a model disclosure form
+			 for marketing long-term care insurance policies.</text>
+					</paragraph><paragraph id="id5BF32D30F6C14528BE88DF166AB02233"><enum>(2)</enum><header>Working Group
+			 members</header><text>The Working Group established under paragraph (1) shall
+			 be composed of the following:</text>
+						<subparagraph id="idAE764149F486434F8A768DA4153A8E75"><enum>(A)</enum><text>Representatives
+			 from State Departments of Health (or the most appropriate State agencies with
+			 responsibility for oversight of the provision of long-term care).</text>
+						</subparagraph><subparagraph id="ID271d1dd53f3342259515c80057feb5ee"><enum>(B)</enum><text>Representatives
+			 of long-term care providers and facilities.</text>
+						</subparagraph><subparagraph id="id0370C3A3A8AD48E485C494FAADEFA5E5"><enum>(C)</enum><text>Consumer
+			 advocates.</text>
+						</subparagraph><subparagraph id="id140D9B558A9F423BAC1BD98A78BDB9C0"><enum>(D)</enum><text>Representatives
+			 of issuers of long-term care insurance policies.</text>
+						</subparagraph><subparagraph id="idECF67D64737043E9B50B43180CBB704C"><enum>(E)</enum><text>Representatives
+			 of the NAIC or State insurance commissioners.</text>
+						</subparagraph><subparagraph id="id5AC89C25BBC944DD8744918A43F3B650"><enum>(F)</enum><text>Other experts in
+			 long-term care and long-term care insurance policies selected by the Secretary
+			 and Secretary of the Treasury or the NAIC.</text>
+						</subparagraph></paragraph><paragraph id="idBC34B4EEE7EB47598856FA3CC823C502"><enum>(3)</enum><header>Requirements
+			 for development of form</header>
+						<subparagraph id="idE18B20388469435583310C1E94CCDFD9"><enum>(A)</enum><header>Considerations</header><text>In
+			 developing the model form, the Working Group shall consider the
+			 following:</text>
+							<clause id="id9280226B96BF4205ADBA7FAB30A77E0A"><enum>(i)</enum><text>Variations among
+			 providers, services, and facilities in the long-term care and long-term care
+			 insurance markets.</text>
+							</clause><clause id="ID822f7ac75f384b86826ffae7cc7afd1a"><enum>(ii)</enum><text>The results of
+			 the reviews and the descriptions included in the NAIC White Paper issued under
+			 subsection (a)(3).</text>
+							</clause><clause id="idEB9FB48EC6BB4D4D8B32D503AABA2FCD"><enum>(iii)</enum><text>Such other
+			 information and factors as the Working Group determines appropriate.</text>
+							</clause></subparagraph><subparagraph id="id32113747761C44AC8EDD48657831A185"><enum>(B)</enum><header>Minimum
+			 standards</header><text>The Working Group shall ensure that the model
+			 has—</text>
+							<clause id="IDc718d31849f0465fa035b163c0cde296"><enum>(i)</enum><text>minimum standard
+			 definitions for coverage of the various types of services and benefits provided
+			 under long-term care insurance policies;</text>
+							</clause><clause id="ID34df8dbadc5744c19f0b02f412f0e05f"><enum>(ii)</enum><text>minimum standard
+			 language for use by issuers of such policies, and for agents selling such
+			 policies, in explaining the services and benefits covered under the policies
+			 and restrictions on the services and benefits;</text>
+							</clause><clause id="IDa4935c61c8714592898d4c64fa7a958e"><enum>(iii)</enum><text>minimum
+			 standard format, color and type size for disclosure documents; and</text>
+							</clause><clause id="id64AC8F3E472B45F8B312DC341AF2EF7E"><enum>(iv)</enum><text>such other
+			 minimum standards as the Working Group determines appropriate.</text>
+							</clause></subparagraph></paragraph><paragraph id="idC4954A050CEA48268D3FA1933060FDB4"><enum>(4)</enum><header>Deadline for
+			 development</header><text>The Working Group shall issue a proposed model
+			 disclosure form for marketing long-term care insurance policies not later than
+			 1 year after the date on which the Working Group is established.</text>
+					</paragraph><paragraph id="id35F4A266006C4B53B228210696F0FF2A"><enum>(5)</enum><header>Adoption and
+			 incorporation into model act and regulation</header><text>The Secretary shall
+			 request the NAIC to amend the Model Act and regulation to incorporate the use
+			 of the proposed model disclosure form issued by the Working Group, not later
+			 than 1 year after the date on which the Working Group issues the form.</text>
+					</paragraph></subsection><subsection id="id197E8313E9C6455CA7AC7EE9506E5035"><enum>(c)</enum><header>Required use of
+			 model disclosure form in marketing long-Term care insurance policies</header>
+					<paragraph id="idA3AC77C410DB4811908F061FADFAE6F7"><enum>(1)</enum><header>Application to
+			 tax-qualified and medicaid partnership policies</header><text>Not later than 1
+			 year after the date on which the Working Group issues the proposed model
+			 disclosure form for marketing long-term care insurance policies under
+			 subsection (b):</text>
+						<subparagraph id="idAF9302C00EE048D1B0310A0FC109AD3B"><enum>(A)</enum><header>Tax-qualified
+			 policies</header><text>The Secretary of the Treasury shall promulgate a
+			 regulation requiring, not later than 1 year after the date on which the
+			 regulation is final, any issuer of a qualified long-term care insurance
+			 contract (as defined in section 7702B(b) of the Internal Revenue Code of 1986)
+			 to use the proposed model disclosure form for marketing such contracts, to the
+			 extent such disclosure is not inconsistent with State law.</text>
+						</subparagraph><subparagraph id="id720E89EE58BC494295E3DEC59D57E048"><enum>(B)</enum><header>Medicaid
+			 partnership policies</header><text>The Secretary shall promulgate a regulation
+			 requiring, not later than 1 year after the date on which the regulation is
+			 final, any issuer that markets a qualified long-term care insurance contract
+			 intended to cover an insured who is a resident of a State with a qualified
+			 State long-term care insurance partnership under clause (iii) of section
+			 1917(b)(1)(C) of the Social Security Act (42 U.S.C. 1396p(b)(1)(C)) or a
+			 long-term care insurance policy offered in connection with a State plan
+			 amendment described in clause (iv) of such section to use the proposed model
+			 disclosure form for marketing such contracts.</text>
+						</subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idE4AAF6471D1C4DB89C7F53E06D51D16D"><enum>(2)</enum><header>Application to
+			 all other long-term care insurance policies</header><text>Not later than 18
+			 months, or the earliest date on which an amendment could be enacted for those
+			 States with legislatures which meet only every other year, after the date on
+			 which the NAIC adopts an amended Model Act and regulation to require the use of
+			 the proposed model disclosure form issued by the Working Group under subsection
+			 (b), each State shall require by statute or regulation any issuer of a
+			 long-term care insurance policy to use the proposed model disclosure form when
+			 marketing such a policy in the State.</text>
+					</paragraph></subsection></section><section id="id9081EA47D7E0419BA0D7455BAD463498"><enum>103.</enum><header>LTC Insurance
+			 Compare</header>
+				<subsection id="id24635DEE642E4B05B6762DF9B6BDF1EA"><enum>(a)</enum><header>In
+			 general</header><text display-inline="yes-display-inline">Section 6021(d) of
+			 the Deficit Reduction Act of 2005 (42 U.S.C. 1396p note) is amended—</text>
+					<paragraph id="id9C77FD72DD0C4F61BD4A8E8195D10DCD"><enum>(1)</enum><text display-inline="yes-display-inline">in paragraph (2)—</text>
+						<subparagraph id="id5DE4D5E4DAB94C77AED4695118994415"><enum>(A)</enum><text display-inline="yes-display-inline">in subparagraph (A)—</text>
+							<clause id="id12F2DF914E6F41C1969C17C9544CEF8E"><enum>(i)</enum><text display-inline="yes-display-inline">in clause (ii), by striking
+			 <quote>and</quote> at the end;</text>
+							</clause><clause id="id3E1E7D116F1A4F9F90BD236E7D1B429C"><enum>(ii)</enum><text>in
+			 clause (iii), by striking the period at the end and inserting <quote>;
+			 and</quote>; and</text>
+							</clause><clause id="idE941F5E60DE14DDB9D482C7D52720C98"><enum>(iii)</enum><text>by adding at
+			 the end the following:</text>
+								<quoted-block display-inline="no-display-inline" id="id7F73A8987C9B4E3D87316B7084BBB7C5" style="OLC">
+									<clause id="idF06BD116C36A4F99956862E5C21DFEB0"><enum>(iv)</enum><text>establish an
+				Internet directory of information regarding long-term care insurance, to be
+				known as <quote>LTC Insurance Compare</quote>, that shall include the
+				following:</text>
+										<subclause id="id0E8953696AF2441EAF15BDEBC6D72F5E"><enum>(I)</enum><text>Comparison tools
+				to assist consumers in evaluating long-term care insurance policies (as defined
+				in subparagraph (D)) with different benefits and features and that allow
+				consumers to compare the price, long-term premium stability, and carrier
+				financial strength of such policies.</text>
+										</subclause><subclause id="idEA5A05D65CC74F1790EC3CFD37A2CE92"><enum>(II)</enum><text>State-specific
+				information about the long-term care insurance policies marketed in a State,
+				including the following:</text>
+											<item id="id59DE8D7D1F004343BCBCFBB51D50649B"><enum>(aa)</enum><text>Whether a State
+				has promulgated rate stability provisions or has rate stability procedures in
+				place, and how the standards or procedures work.</text>
+											</item><item id="id2E2A4247AE0B47D78F06E70BB3F5412F"><enum>(bb)</enum><text>The rating
+				history for at least the most recent preceding 5 years for issuers selling
+				long-term care insurance policies in the State.</text>
+											</item><item id="id55DE8AC0FD324C7F9E1D1FBA52283228"><enum>(cc)</enum><text>An
+				appropriate sampling of the policy forms marketed in the State.</text>
+											</item></subclause><subclause id="id2F3ABBFC69464619B0672C8C9BEA271D"><enum>(III)</enum><text>Links to State
+				information regarding long-term care under State Medicaid programs (which may
+				be provided, as appropriate, through Internet linkages to the websites of State
+				Medicaid programs) that includes the following:</text>
+											<item id="idDA021CB183E4454BB8CF8989803104D6"><enum>(aa)</enum><text>The medical
+				assistance provided under each State's Medicaid program for nursing facility
+				services and other long-term care services (including any functional criteria
+				imposed for receipt of such services, as reported in accordance with section
+				1902(a)(28)(D) of the Social Security Act) and any differences from benefits
+				and services offered under long-term care insurance policies in the State and
+				the criteria for triggering receipt of such benefits and services.</text>
+											</item><item id="id23831A37BC0F4FBFA02F205B34E18655"><enum>(bb)</enum><text>If
+				the State has a qualified State long-term care insurance partnership under
+				section 1917(b)(1)(C)(iii) of the Social Security Act, information regarding
+				how and when an individual with a partnership long-term care insurance policy
+				who is receiving benefits under the policy should apply for medical assistance
+				for nursing facility services or other long-term care services under the State
+				Medicaid program and information regarding about how Medicaid asset protection
+				is accumulated over time.</text>
+											</item></subclause></clause><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+							</clause></subparagraph><subparagraph id="id7B75E167183746B7819B603955C3FED0"><enum>(B)</enum><text>by adding at the
+			 end the following:</text>
+							<quoted-block display-inline="no-display-inline" id="id1990FCFE40F344D482068303BFFD0EDC" style="OLC">
+								<subparagraph id="idD3E1ECB9DF634F06A623B49EAAE22280"><enum>(C)</enum><header>Current
+				information</header><text>The Secretary of Health and Human Services shall
+				ensure that, to the greatest extent practicable, the information maintained in
+				the National Clearinghouse for Long-Term Care Information, including the
+				information required for LTC Insurance Compare, is the most recent information
+				available.</text>
+								</subparagraph><subparagraph id="id907F079F511847C486952F9117C43949"><enum>(D)</enum><header>Long-term care
+				insurance policy defined</header><text>In subparagraph (A)(iv), the term
+				<term>long-term care insurance policy</term> means a qualified long-term care
+				insurance contract (as defined in section 7702B(b) of the Internal Revenue Code
+				of 1986), a qualified long-term care insurance contract that covers an insured
+				who is a resident of a State with a qualified State long-term care insurance
+				partnership under clause (iii) of section 1917(b)(1)(C) of the Social Security
+				Act (42 U.S.C. 1396p(b)(1)(C)) or a long-term care insurance policy offered in
+				connection with a State plan amendment described in clause (iv) of such
+				section, and includes any other insurance policy or rider described in the
+				definition of <term>long-term care insurance</term> in section 4 of the model
+				Act promulgated by the National Association of Insurance Commissioners (as
+				adopted December 2006).</text>
+								</subparagraph><after-quoted-block>;
+				</after-quoted-block></quoted-block>
+						</subparagraph></paragraph><paragraph id="id84DE67B1AD0F42E7BCFE046E0A653423"><enum>(2)</enum><text>in paragraph
+			 (3)—</text>
+						<subparagraph commented="no" id="id6ECDD8162ED3488EBE065DE03D2D8F15"><enum>(A)</enum><text>by striking
+			 <quote>2010</quote> and inserting <quote>2015</quote>; and</text>
+						</subparagraph><subparagraph id="id76DC7CCD46E4412398A9F84B9E63D51A"><enum>(B)</enum><text>by redesignating
+			 such paragraph as paragraph (4); and</text>
+						</subparagraph></paragraph><paragraph id="idBD38EC0161C344AAA33835E81C827870"><enum>(3)</enum><text>by inserting
+			 after paragraph (2) the following:</text>
+						<quoted-block display-inline="no-display-inline" id="id505CAF7E7B5E4B49844F333B9F66CC1C" style="OLC">
+							<paragraph id="idBC8E66AF65564D11A44C211E73261D80"><enum>(3)</enum><header>Consultation on
+				LTC Insurance Compare</header><text>The Secretary of Health and Human Services
+				shall consult with the National Association of Insurance Commissioners and the
+				entities and stakeholders specified in section 101(d) of the
+				<short-title>Confidence in Long-Term Care Insurance Act of
+				2011</short-title> in designing and implementing the LTC Insurance Compare
+				required under paragraph
+				(2)(A)(iv).</text>
+							</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="id62E2DD74E7AE4EA180631116C0FDACAA"><enum>(b)</enum><header>Medicaid state
+			 plan requirement To submit nursing facility services functional criteria
+			 data</header><text>Section 1902(a)(28) of the Social Security Act (42 U.S.C.
+			 1396a(a)(28)) is amended—</text>
+					<paragraph id="id352D80A473D64ECDA562CC4F86EDC408"><enum>(1)</enum><text>in subparagraph
+			 (C), by striking <quote>and</quote> after the semicolon;</text>
+					</paragraph><paragraph id="id4D7CEBF7FDB540F6B396E38376FFB31C"><enum>(2)</enum><text>in subparagraph
+			 (D)(iii), by adding <quote>and</quote> after the semicolon; and</text>
+					</paragraph><paragraph id="id1C2413440CAF4755B56AE88830614BA6"><enum>(3)</enum><text>by inserting
+			 after subparagraph (D)(iii), the following new subparagraph:</text>
+						<quoted-block display-inline="no-display-inline" id="id20776A7A68294E8493A603E813076519" style="OLC">
+							<subparagraph id="id936D1DFC085B49C197169BA0D58F0910"><enum>(E)</enum><text>for the annual
+				submission of data relating to functional criteria for the receipt of nursing
+				facility services under the plan (in such form and manner as the Secretary
+				shall
+				specify);</text>
+							</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="idACD70F847F314EA58BD4EF80C5D1179A"><enum>(c)</enum><header>Effective
+			 date</header>
+					<paragraph id="id08119CF331B44F18B64C504D504B5002"><enum>(1)</enum><header>In
+			 general</header><text>Except as provided in paragraph (2), the amendments made
+			 by this section take effect on the date of enactment of this Act.</text>
+					</paragraph><paragraph id="id0AA31D3A49BA404CB4AE87544134597F"><enum>(2)</enum><header>Extension of
+			 effective date for state law amendment</header><text>In the case of a State
+			 plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) which
+			 the Secretary of Health and Human Services determines requires State
+			 legislation or State regulation in order for the plan to meet the additional
+			 requirements imposed by the amendments made by subsection (b), the State plan
+			 shall not be regarded as failing to comply with the requirements of such title
+			 solely on the basis of its failure to meet these additional requirements before
+			 the first day of the first calendar quarter beginning after the close of the
+			 first regular session of the State legislature that begins after the date of
+			 enactment of this Act. For purposes of the previous sentence, in the case of a
+			 State that has a 2-year legislative session, each year of the session is
+			 considered to be a separate regular session of the State legislature.</text>
+					</paragraph></subsection></section></title><title id="id24E1C6B38F874B25A8C8D59D97BFD69F"><enum>II</enum><header>Improved State
+			 Consumer Protections for Qualified Long-Term Care Insurance Contracts and
+			 Medicaid Partnership Policies</header>
+			<section id="id1330B09E8F7041CBAEC2F7ED0C98E3AF"><enum>201.</enum><header>Application of
+			 Medicaid partnership required model provisions to all tax-qualified long-term
+			 care insurance contracts</header>
+				<subsection id="id141EFDD354F24B6CA06555731182BE90"><enum>(a)</enum><header>In
+			 general</header><text>Section 7702B(g)(1) of the Internal Revenue Code of 1986
+			 (relating to consumer protection provisions) is amended—</text>
+					<paragraph id="id034A6B632B18496CB21EC3C4344EBE4C"><enum>(1)</enum><text>in subparagraph
+			 (A), by inserting <quote>(but only to the extent such requirements do not
+			 conflict with requirements applicable under subparagraph (B)),</quote> after
+			 <quote>paragraph (2)</quote>,</text>
+					</paragraph><paragraph id="id82978A0414B6465A9C4CFFBBDD445600"><enum>(2)</enum><text>by redesignating
+			 subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively,
+			 and</text>
+					</paragraph><paragraph id="idA10E9C8EF47540F89284861381FE0E5F"><enum>(3)</enum><text>by inserting
+			 after subparagraph (A), the following new subparagraph:</text>
+						<quoted-block display-inline="no-display-inline" id="idE9A70F18A2F54551B366A96FC9C5CB73" style="OLC">
+							<subparagraph id="id7A3A4CCD1A9E4ABFA3310C87E60D484C"><enum>(B)</enum><text>the requirements
+				of the model regulation and model Act described in section 1917(b)(5) of the
+				Social Security
+				Act,</text>
+							</subparagraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="idDB4747F4283F46E3B946C825BFD163E3"><enum>(b)</enum><header>Effective
+			 date</header><text>The amendments made by subsection (a) shall apply to
+			 contracts issued on or after the date that is 1 year after the date of
+			 enactment of this Act.</text>
+				</subsection></section><section id="id07F65DF1FD2C4E238B564B93D54E31E1"><enum>202.</enum><header>Streamlined
+			 process for applying new or updated model provisions</header>
+				<subsection id="id98374FC060164BFF881DF5F794E937FE"><enum>(a)</enum><header>Secretarial
+			 review</header>
+					<paragraph id="id7A9417FA51B1460ABE5F41A7436306A8"><enum>(1)</enum><header>Tax-qualified
+			 policies</header>
+						<subparagraph id="id920581A7027541BA9D8104A31DD79301"><enum>(A)</enum><header>2000 and 2006
+			 model provisions</header><text>Not later than 12 months after the date of
+			 enactment of this Act, the Secretary of the Treasury, in consultation with the
+			 Secretary of Health and Human Services, shall review the model provisions
+			 specified in subsection (c)(1) for purposes of determining whether updating any
+			 such provisions for a provision specified in section 7702B(g)(2) of the
+			 Internal Revenue Code of 1986, or the inclusion of any such provisions in such
+			 section, for purposes of an insurance contract qualifying for treatment as a
+			 qualified long-term care insurance contract under such Code, would improve
+			 consumer protections for insured individuals under such contracts.</text>
+						</subparagraph><subparagraph id="idF694C4486FAD4A96AE87DB236038F39F"><enum>(B)</enum><header>Subsequent
+			 model provisions</header><text>Not later than 12 months after model provisions
+			 described in paragraph (2) or (3) of subsection (c) are adopted by the National
+			 Association of Insurance Commissioners, the Secretary of the Treasury, in
+			 consultation with the Secretary of Health and Human Services, shall review the
+			 model provisions to determine whether the application of such provisions to an
+			 insurance contract for purposes of qualifying for treatment as a qualified
+			 long-term care insurance contract under section 7702B(g)(2) of the Internal
+			 Revenue Code of 1986, would improve consumer protections for insured
+			 individuals under such contracts.</text>
+						</subparagraph></paragraph><paragraph id="id64635CCF13D244D38AC61A9C1357DE80"><enum>(2)</enum><header>Medicaid
+			 partnership policies</header>
+						<subparagraph id="id05C37769333B44EEA506CA8650C61107"><enum>(A)</enum><header>Subsequent
+			 model provisions</header><text>Not later than 12 months after model provisions
+			 described in paragraph (2) or (3) of subsection (c) are adopted by the National
+			 Association of Insurance Commissioners, the Secretary of Health and Human
+			 Services, in consultation with the Secretary of the Treasury, shall review the
+			 model provisions to determine whether the application of such provisions to an
+			 insurance contract for purposes of satisfying the requirements for
+			 participation in a qualified State long-term care insurance partnership under
+			 section 1917(b)(1)(C)(iii) of such Act (42 U.S.C. 1396p(b)(1)(C)(iii)) would
+			 improve consumer protections for insured individuals under such
+			 contracts.</text>
+						</subparagraph><subparagraph id="idD294304177014E5F90FA8086127D4103"><enum>(B)</enum><header>Review of other
+			 partnership requirements</header><text>The Secretary of Health and Human
+			 Services, in consultation with the Secretary of the Treasury, shall review
+			 clauses (iii) and (iv) of section 1917(b)(1)(C) for purposes of determining
+			 whether the requirements specified in such clauses should be modified to
+			 provide improved consumer protections or, as appropriate, to resolve any
+			 conflicts with the application of the 2006 model provisions under paragraph (5)
+			 of section 1917(b) (as amended by section 302(a)) or with the application of
+			 any model provisions that the Secretary determines should apply to an insurance
+			 contract as a result of a review required under subparagraph (A).</text>
+						</subparagraph></paragraph></subsection><subsection id="idAF5BABACCEA74367BE15A1F101FF1EF3"><enum>(b)</enum><header>Expedited
+			 rulemaking</header>
+					<paragraph id="id91DFE6EF9D8540C3A98F7DC21B22AB42"><enum>(1)</enum><header>Tax-qualified
+			 policies</header><text>Subject to paragraph (3), if the Secretary of the
+			 Treasury determines that any model provisions reviewed under subsection (a)(1)
+			 should apply for purposes of an insurance contract qualifying for treatment as
+			 a qualified long-term care insurance contract under the Internal Revenue Code
+			 of 1986, the Secretary shall promulgate an interim final rule applying such
+			 provisions for such purposes not later than 3 months after making such
+			 determination.</text>
+					</paragraph><paragraph id="id25E09B56571D4BB6B69C6DFA210D8C03"><enum>(2)</enum><header>Medicaid
+			 partnership policies</header><text>Subject to paragraph (3), if the Secretary
+			 of Health and Human Services determines that any model provisions or
+			 requirements reviewed under subsection (a)(2) should apply for purposes of an
+			 insurance contract satisfying the requirements for participation in a qualified
+			 State long-term care insurance partnership under section 1917(b)(1)(C)(iii) of
+			 such Act (42 U.S.C. 1396p(b)(1)(C)(iii)), the Secretary shall promulgate an
+			 interim final rule applying such provisions for such purposes not later than 3
+			 months after making such determination.</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id3979AC06F4A6459188CA15E4D7C684AC"><enum>(3)</enum><header>Consultation
+			 required</header><text>The Secretary of the Treasury and the Secretary of
+			 Health and Human Services, respectively, shall consult with the National
+			 Association of Insurance Commissioners and the entities and stakeholders
+			 specified in section 101(d) regarding the extent to which it is appropriate to
+			 apply the model provisions described in paragraph (1) or (2) (as applicable) to
+			 insurance contracts described in such paragraphs through promulgation of an
+			 interim final rule. If, after such consultation—</text>
+						<subparagraph commented="no" display-inline="no-display-inline" id="id30A90BE0E6364E2D8142DCCF7A1EF2EC"><enum>(A)</enum><text>the Secretary of
+			 the Treasury determines it would be appropriate to promulgate an interim final
+			 rule, the Secretary of the Treasury shall use notice and comment rulemaking to
+			 promulgate a rule applying such provisions to insurance contracts described in
+			 paragraph (1); and</text>
+						</subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id75E43634415F49D4A3767ECBAA06D81A"><enum>(B)</enum><text>the Secretary of
+			 Health and Human Services determines it would be appropriate to promulgate an
+			 interim final rule, the Secretary of Health and Human Services shall use notice
+			 and comment rulemaking to promulgate a rule applying such provisions to
+			 insurance contracts described in paragraph (2).</text>
+						</subparagraph></paragraph><paragraph id="ID87f717f10a3744f9a431db2b2fccaf02"><enum>(4)</enum><header>Rule of
+			 construction relating to application of congressional review
+			 act</header><text>Nothing in paragraphs (1), (2), or (3) shall be construed as
+			 affecting the application of the sections 801 through 808 of title 5, United
+			 States Code (commonly known as the <quote>Congressional Review Act</quote>) to
+			 any interim final rule issued in accordance with such paragraphs.</text>
+					</paragraph><paragraph id="idCA669CEA800947A3891B44229461759E"><enum>(5)</enum><header>Technical
+			 amendment eliminating prior review standard made obsolete</header><text>Section
+			 1917(b)(5) of the Social Security Act (42 U.S.C. 1396p(b)(5)) is amended by
+			 striking subparagraph (C).</text>
+					</paragraph></subsection><subsection id="idF885C349CE8B4383B672722093C99FB4"><enum>(c)</enum><header>Model
+			 provisions</header><text>In this section, the term <term>model
+			 provisions</term> means—</text>
+					<paragraph id="id11412D02E20946BEB5E5982F96920BAA"><enum>(1)</enum><text>each provision of
+			 the long-term care insurance model regulation, and the long-term care insurance
+			 model Act, respectively, promulgated by the National Association of Insurance
+			 Commissioners (as adopted as of October 2000 and as of December 2006);</text>
+					</paragraph><paragraph id="id30461D01CDEB451887169932C6ED7082"><enum>(2)</enum><text>each provision of
+			 the model language relating to marketing disclosures and definitions developed
+			 under section 102(b)(1); and</text>
+					</paragraph><paragraph id="id959C9F32AF4D4EDF9E031F4B41917FD4"><enum>(3)</enum><text>each provision of
+			 any long-term care insurance model regulation, or the long-term care insurance
+			 model Act, respectively, promulgated by the National Association of Insurance
+			 Commissioners and adopted after December 2006.</text>
+					</paragraph></subsection></section></title><title id="id1BC509D418C6436DADDCFE128C36D9D3"><enum>III</enum><header>Improved
+			 Consumer Protections for Medicaid Partnership Policies</header>
+			<section id="id4B43FB42AA2D4ADCADDDE65D89395B41"><enum>301.</enum><header>Biennial
+			 reports on impact of Medicaid long-term care insurance
+			 partnerships</header><text display-inline="no-display-inline">Section 6021(c)
+			 of the Deficit Reduction Act of 2005 (42 U.S.C. 1396p note) is amended to read
+			 as follows:</text>
+				<quoted-block display-inline="no-display-inline" id="id5A79A654C80B43D1B5170BF594D4ACFD" style="OLC">
+					<subsection id="idCBF127F748284A89B292203E9FD93999"><enum>(c)</enum><header>Biennial
+				reports</header>
+						<paragraph id="idA73AB507D0FE42ECB72B59883613754B"><enum>(1)</enum><header>In
+				general</header><text>Not later than January 1, 2012, and biennially
+				thereafter, the Secretary of Health and Human Services (in this subsection
+				referred to as the <term>Secretary</term>) shall issue a report to States and
+				Congress on the long-term care insurance partnerships established in accordance
+				with section 1917(b)(1)(C)(ii) of the Social Security Act (42 U.S.C.
+				1396p(b)(1)(C)(ii)). Each report shall include (with respect to the period the
+				report addresses) the following information, nationally and on a State-specific
+				basis:</text>
+							<subparagraph id="idE9BD96C8BF5440FB92D236F4524798B2"><enum>(A)</enum><text>Analyses of the
+				extent to which such partnerships improve access of individuals to affordable
+				long-term care services and benefits and the impact of such partnerships on
+				Federal and State expenditures on long-term care under the Medicare and
+				Medicaid programs.</text>
+							</subparagraph><subparagraph id="idC3FAD72BA40F49EA9D5607CED0F11BBF"><enum>(B)</enum><text>Analyses of the
+				impact of such partnerships on consumer decisionmaking with respect to
+				purchasing, accessing, and retaining coverage under long-term care insurance
+				policies (as defined in subsection (d)(2)(D)), including a description of the
+				benefits and services offered under such policies, the average premiums for
+				coverage under such policies, the number of policies sold and at what ages, the
+				number of policies retained and for how long, the number of policies for which
+				coverage was exhausted, and the number of insured individuals who were
+				determined eligible for medical assistance under the State Medicaid
+				program.</text>
+							</subparagraph></paragraph><paragraph id="idF713FC2FCB164575B739D426FDD864B6"><enum>(2)</enum><header>Data</header><text>The
+				reports by issuers of partnership long-term care insurance policies required
+				under section 1917(b)(1)(C)(iii)(VI) of the Social Security Act shall include
+				such data as the Secretary shall specify in order to conduct the analyses
+				required under paragraph (1).</text>
+						</paragraph><paragraph id="idC94C815EE23449488D02ADFAEBF5F375"><enum>(3)</enum><header>Public
+				availability</header><text>The Secretary shall make each report issued under
+				this subsection publicly available through the LTC Insurance Compare website
+				required under subsection (d).</text>
+						</paragraph><paragraph id="idAC1EBD7BB5D244E9A62B564A1F5A462F"><enum>(4)</enum><header>Rule of
+				construction</header><text>Nothing in this section shall be construed as
+				requiring the Secretary to conduct an independent review of each long-term care
+				insurance policy offered under or in connection with such a
+				partnership.</text>
+						</paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+			</section><section id="idF4515423773C4341805CE658F010F755"><enum>302.</enum><header>Additional
+			 consumer protections for Medicaid partnerships</header>
+				<subsection id="id7A7459D7DB404CC4921003920B036B26"><enum>(a)</enum><header>Application of
+			 2006 Model Provisions</header>
+					<paragraph id="idE854A16102D0462783F7DE51BEA26539"><enum>(1)</enum><header>Updating of
+			 2000 requirements</header>
+						<subparagraph id="id8F677334689441BBAB76EE123F8D889E"><enum>(A)</enum><header>In
+			 general</header><text>Section 1917(b)(5)(B)(i) of the Social Security Act (42
+			 U.S.C. 1396p(b)(5)(B)(i)) is amended by striking <quote>October 2000</quote>
+			 and inserting <quote>December 2006</quote>.</text>
+						</subparagraph><subparagraph id="idA382BE8412DD4A9EB90F9A2C6C58F9E5"><enum>(B)</enum><header>Conforming
+			 amendments</header>
+							<clause id="id8D87F6F5A2274C86882B6EA6BD3BDF3B"><enum>(i)</enum><text>Subclause (XVII)
+			 of such section is amended by striking <quote>section 26</quote> and inserting
+			 <quote>section 28</quote>.</text>
+							</clause><clause id="idC2802C92DB56496F9BE52454273C8C7F"><enum>(ii)</enum><text>Subclause
+			 (XVIII) of such section is amended by striking <quote>section 29</quote> and
+			 inserting <quote>section 31</quote>.</text>
+							</clause><clause id="id1A44C86E6F55402E820245F35666CBFC"><enum>(iii)</enum><text>Subclause (XIX)
+			 of such section is amended by striking <quote>section 30</quote> and inserting
+			 <quote>section 32</quote>.</text>
+							</clause></subparagraph></paragraph><paragraph id="id4A4ADEBBF0834B06B4CFCA3C43754BF4"><enum>(2)</enum><header>Application to
+			 grandfathered partnerships</header><text>Section 1917(b)(1)(C)(iv) of such Act
+			 (42 U.S.C. 1396p(b)(1)(C)(iv)) is amended by inserting <quote>, and the State
+			 satisfies the requirements of paragraph (5)</quote> after
+			 <quote>2005</quote>.</text>
+					</paragraph></subsection><subsection id="idE540F21A4EE448829A3A9E177B81566C"><enum>(b)</enum><header>Application of
+			 producer training model act requirements</header><text>Section 1917(b)(1)(C) of
+			 such Act (42 U.S.C. 1396p(b)(1)(C)) is amended—</text>
+					<paragraph id="idC63B08A7048746E48146443360FD9231"><enum>(1)</enum><text>in clause
+			 (iii)(V), by inserting <quote>and satisfies the producer training requirements
+			 specified in section 9 of the model Act specified in paragraph (5)</quote>
+			 after <quote>coverage of long-term care</quote>; and</text>
+					</paragraph><paragraph id="id456049C96E32492EA4765AF9164C485B"><enum>(2)</enum><text>in clause (iv),
+			 as amended by subsection (a)(2), by inserting <quote>clause (iii)(V)
+			 and</quote> before <quote>paragraph (5)</quote>.</text>
+					</paragraph></subsection><subsection id="idE074D3ED487546E1B4F4291E7A3CA520"><enum>(c)</enum><header>Application of
+			 additional requirements for all partnerships</header><text>Section 1917(b) of
+			 the Social Security Act (42 U.S.C. 1396p(b)) is amended—</text>
+					<paragraph id="idDC8FBE014C3044ABA6363C38F4550388"><enum>(1)</enum><text>in paragraph
+			 (1)(C)—</text>
+						<subparagraph id="idAF032957C5CB4BC2A4BB1709C9184373"><enum>(A)</enum><text>in clause
+			 (iii)—</text>
+							<clause id="id78435EA379BD4004AB3AD9036B5F0ACF"><enum>(i)</enum><text>by
+			 inserting after subclause (VII) the following new subclause:</text>
+								<quoted-block display-inline="no-display-inline" id="id25BF700AB8CB4CE5B0D61769CF30FFB3" style="OLC">
+									<subclause id="idEBB900461C4A4880BDDC1C43FF526902" indent="up1"><enum>(VIII)</enum><text>The State satisfies the requirements
+				of paragraph (6).</text>
+									</subclause><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+							</clause><clause id="id4484C11C8EDA41A4B1AF9072CA2D9AD3"><enum>(ii)</enum><text>in
+			 the flush sentence at the end, by striking <quote>paragraph (5)</quote> and
+			 inserting <quote>paragraphs (5) and (6)</quote>; and</text>
+							</clause></subparagraph><subparagraph id="id501238BDAFFB478AA012FF88DA1862E8"><enum>(B)</enum><text>in clause (iv),
+			 as amended by subsections (a)(2) and (b)(2), by striking <quote>paragraph
+			 (5)</quote> and inserting <quote>paragraphs (5) and (6)</quote>; and</text>
+						</subparagraph></paragraph><paragraph id="idCF16FB619DE6440F8992D45759397053"><enum>(2)</enum><text>by adding at the
+			 end the following new paragraph:</text>
+						<quoted-block display-inline="no-display-inline" id="idC0C9AB43A66E4C70B5774757959FFEEB" style="OLC">
+							<paragraph id="id95460EEB36AA41F3AB9A58B170B8A85A" indent="up1"><enum>(6)</enum><text>For purposes of clauses (iii)(VIII)
+				and (iv) of paragraph (1)(C), the requirements of this paragraph are the
+				following:</text>
+								<subparagraph id="id2B2E125D85C0491CA1FD3038A563C384"><enum>(A)</enum><text>The State requires issuers of
+				long-term care insurance policies to—</text>
+									<clause id="id8BAF916A725A4AEA9A4D87818D4DE01E"><enum>(i)</enum><text>use marketing materials filed with
+				the State for purposes of the partnership in all sales and marketing activities
+				conducted or supported by the issuers in the State with respect to any
+				long-term care insurance policies marketed by the issuer in the State;</text>
+									</clause><clause id="idD4C64C0F113A49F5AC1F880D0401DE7E"><enum>(ii)</enum><text>provide such materials to all
+				agents selling long-term care insurance policies in the State;</text>
+									</clause><clause id="id2FC5D92A566444469D86D7A6DD6304F2"><enum>(iii)</enum><text>ensure that agent training and
+				education courses conducted or supported by the issuers incorporate discussion
+				of marketing materials; and</text>
+									</clause><clause id="idF116A1EB561C4ABEAFB0E42377833C69"><enum>(iv)</enum><text>make such materials available to
+				any consumer upon request, and to make such materials available to all
+				prospective purchasers of a policy offered under a qualified State long-term
+				care insurance partnership before submission of an application for coverage
+				under that policy.</text>
+									</clause></subparagraph><subparagraph id="id7373D5DDBC85477DB82B1DE50AE7D05C"><enum>(B)</enum><text>The State requires issuers of
+				long-term care insurance policies sold in the State to require agents to use
+				any inflation protection comparison form developed by the National Association
+				of Insurance Commissioners when selling the policies in the State.</text>
+								</subparagraph><subparagraph id="idC54B7B8B5FFD4536A7EFC330440D5428"><enum>(C)</enum><text>The State requires issuers of
+				long-term care insurance policies sold in the State to comply with the
+				provisions of section 8 of the model Act specified in paragraph (5) relating to
+				contingent nonforfeiture benefits.</text>
+								</subparagraph><subparagraph id="id8EAF334CE149476CA309F06D0134E642"><enum>(D)</enum><text>The State enacts legislation, not
+				later than January 1, 2013, that establishes rating standards for all issuers
+				of long-term care insurance policies sold in the State that result in rates
+				over the life of the policy that are no less protective of consumers than those
+				produced by the premium rate schedule increase standards specified in section
+				20 of the model regulation specified in paragraph (5), unless the State has
+				more stringent procedures or requirements.</text>
+								</subparagraph><subparagraph id="id55620F157C0A4556AE43A9F557BDBB01"><enum>(E)</enum><text>The State develops and updates
+				marketing materials filed with the State whenever changes are made under the
+				State plan that relate to eligibility for medical assistance for nursing
+				facility services, including other long-term care services or the amount,
+				duration, or scope of medical assistance for nursing facility services, and
+				also provides to individuals at the time of application for medical assistance
+				under the State plan, or under a waiver of the plan materials that describe in
+				clear, simple language the terms of eligibility, the benefits and services
+				provided as such assistance, and rules relating to adjustment or recovery from
+				the estate of an individual who receives such assistance. Such materials shall
+				include a clear disclosure that medical assistance is not guaranteed to
+				partnership policyholders who exhaust benefits under a partnership policy, and
+				that Federal changes to the program under this title or State changes to the
+				State plan may affect an individual's eligibility for, or receipt of, such
+				assistance.</text>
+								</subparagraph><subparagraph id="idABCF301FDF3548EAA5943F5C465A2A0B"><enum>(F)</enum><text>The State—</text>
+									<clause id="id23941C3545654FF981066B8AD8C5D2FC"><enum>(i)</enum><text>through the State Medicaid agency
+				under section 1902(a)(5) and in consultation with the State insurance
+				department, develops materials explaining how the benefits and rules of
+				long-term care policies offered by issuers participating in the partnership
+				interact with the benefits and rules under the State plan under this
+				title;</text>
+									</clause><clause id="id95D44940F39447BD97394E18301B70CC"><enum>(ii)</enum><text>requires agents to use such
+				materials when selling or otherwise discussing how long-term care policies
+				offered by issuers participating in the partnership work with potential
+				purchasers and to provide the materials to any such purchasers upon
+				request;</text>
+									</clause><clause id="idC699E211CC4841E998FF65C9288911F1"><enum>(iii)</enum><text>informs holders of such policies
+				of any changes in eligibility requirements under the State plan under this
+				title and of any changes in estate recovery rules under the State plan as soon
+				as practicable after such changes are made at the time or at the time of
+				application for medical assistance; and</text>
+									</clause><clause id="id14B84985DA70452AA16DFDBF00C609D4"><enum>(iv)</enum><text>agrees to honor the asset
+				protections of any such policy that were provided under the policy when
+				purchased, regardless of whether the State subsequently terminates a
+				partnership program under the State plan.</text>
+									</clause></subparagraph><subparagraph id="id4ABD850AD5C64AE6BE9436D648E5557E"><enum>(G)</enum><text>The State Medicaid agency under
+				section 1902(a)(5) and the State insurance department enter into a memorandum
+				of understanding to—</text>
+									<clause id="id25C8F6B926FE443C9ACEB2520DF7159D"><enum>(i)</enum><text>inform consumers about long-term
+				care policies offered by issuers participating in the partnership, the amount,
+				duration, or scope of medical assistance for nursing facility services or other
+				long-term care services offered under the State plan, consumer protections, and
+				any other issues such agency and department determine appropriate through such
+				means as the State determines appropriate; and</text>
+									</clause><clause id="idF58055C826C04A3A8B7212C5EABA92EB"><enum>(ii)</enum><text>jointly facilitate coordination in
+				eligibility determinations for medical assistance under the State plan and the
+				provision of benefits or other services under such policies and medical
+				assistance provided under the State plan that includes—</text>
+										<subclause id="id64B1DEACA0634A5F9686522D74F9E53B"><enum>(I)</enum><text>the number of policyholders applying for
+				medical assistance under the State plan; and</text>
+										</subclause><subclause id="idF10EBD57FDCF4CE98954866078861CF1"><enum>(II)</enum><text>the number of policyholders deemed
+				eligible (and, if applicable, ineligible) for such assistance.</text>
+										</subclause></clause></subparagraph><subparagraph id="idF615DB9FDC0E4536962E3D202F2CA5AF"><enum>(H)</enum><text>Subject to subparagraph (I), the State
+				enters into agreements with other States that have established qualified State
+				long-term care insurance partnerships under which such States agree to provide
+				reciprocity for policyholders under such partnerships, including providing
+				guaranteed asset protection to all individuals covered under a policy offered
+				under a qualified State long-term care insurance partnership who bought such a
+				policy in the State or in another State with such a partnership and with which
+				the State has a reciprocity agreement.</text>
+								</subparagraph><subparagraph id="id6832499CAF7840FA80C6E0EE3F1C5BF2"><enum>(I)</enum><clause commented="no" display-inline="yes-display-inline" id="id7E62ED692D344A3DBA66C406D6170747"><enum>(i)</enum><text>In the case of a State
+				described in paragraph (1)(C)(iv) (in this subparagraph referred to as a
+				<term>grandfathered partnership State</term>)—</text>
+										<subclause id="id2AD2551EE9264B9189C29652E77CC737" indent="up1"><enum>(I)</enum><text>the grandfathered partnership State
+				may, in lieu of entering into agreements that satisfy subparagraph (I), enter
+				into individual reciprocity agreements with other States that have established
+				qualified State long-term care insurance partnerships; and</text>
+										</subclause><subclause id="idD2C3CA635E38422B87CA66C68D20D725" indent="up1"><enum>(II)</enum><text>if the grandfathered partnership
+				State has not, as of January 1, 2014, entered into a reciprocity agreement with
+				each State that has a qualified State long-term care insurance partnership, the
+				grandfathered partnership State shall enter into and comply with a reciprocity
+				agreement developed by the Secretary in accordance with clause (ii) for each
+				partnership State that the grandfathered State does not have a reciprocity
+				agreement with and, with respect to each such State, for so long as the
+				grandfathered partnership State does not have an individual reciprocity
+				agreement with that State.</text>
+										</subclause></clause><clause id="id64A43D429FF4412FB14F607678D9CBE2" indent="up1"><enum>(ii)</enum><text>In developing a reciprocity agreement
+				for purposes of clause (i)(II), the Secretary shall take into account—</text>
+										<subclause id="idF5D0474BC8B94717B48C368E9A21F25E"><enum>(I)</enum><text>the difference in consumer
+				protections under the partnership program of the grandfathered partnership
+				State and the other partnership State that will be covered by the agreement,
+				and, to the greatest extent possible, preserve the more protective
+				requirements; and</text>
+										</subclause><subclause id="id4B14A79F4B244E879567501BF760FBBE"><enum>(II)</enum><text>the impact the reciprocity
+				agreement will have on expenditures under the State plan under this title
+				(including under any waivers of such plan) of each such State and, to the
+				greatest extent possible, minimize any negative impact on such expenditures and
+				States.</text>
+										</subclause></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					</paragraph></subsection><subsection id="id350C7C5668DF4AA4B44F983A29356CD9"><enum>(d)</enum><header>Effective
+			 date</header>
+					<paragraph id="idBFA91048E00447FB886C16DCD4A2F3B0"><enum>(1)</enum><header>In
+			 general</header><text>Except as provided in paragraph (2), the amendments made
+			 by this section take effect on the date that is 1 year after the date of
+			 enactment of this Act.</text>
+					</paragraph><paragraph commented="no" display-inline="no-display-inline" id="id192B0D24BFF24758943FB5BA61EF27A6"><enum>(2)</enum><header>Extension of
+			 effective date for state law amendment</header><text>In the case of a State
+			 plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) which
+			 the Secretary of Health and Human Services determines requires State
+			 legislation in order for the plan to meet the additional requirements imposed
+			 by the amendments made by this section, the State plan shall not be regarded as
+			 failing to comply with the requirements of such title solely on the basis of
+			 its failure to meet these additional requirements before the first day of the
+			 first calendar quarter beginning after the close of the first regular session
+			 of the State legislature that begins after the date of enactment of this Act.
+			 For purposes of the previous sentence, in the case of a State that has a 2-year
+			 legislative session, each year of the session is considered to be a separate
+			 regular session of the State legislature.</text>
+					</paragraph></subsection></section><section id="id37364CA503FF4AD189A094EB0D05222B"><enum>303.</enum><header>Report to
+			 Congress regarding need for minimum annual compound inflation
+			 protection</header><text display-inline="no-display-inline">Not later than 18
+			 months after the date of enactment of this Act, the Secretary of Health and
+			 Human Services (in this section referred to as the <quote>Secretary</quote>)
+			 shall submit a report to Congress that includes the Secretary's recommendation
+			 regarding whether legislative or other administrative action should be taken to
+			 require all long-term care insurance policies sold after a date determined by
+			 the Secretary in connection with a qualified State long-term care insurance
+			 partnership under clause (iii) of section 1917(b)(1)(C) of the Social Security
+			 Act (42 U.S.C. 1396p(b)(1)(C)) or a long-term care insurance policy offered in
+			 connection with a State plan amendment described in clause (iv) of such
+			 section, provide a minimum level of annual compound inflation protection, and
+			 if so, whether such requirements should be imposed on a basis related to the
+			 age of the policyholder at the time of purchase. The Secretary shall include in
+			 the report information on the various levels of inflation protection available
+			 under such long-term care insurance partnerships and the methodologies used by
+			 issuers of such policies to calculate and present various inflation protection
+			 options under such policies, including policies with a future purchase option
+			 feature.</text>
+			</section></title><title id="id62F98ABD4ABE47B596DD84A1DD1A4463"><enum>IV</enum><header>Preservation of
+			 State Authority</header>
+			<section id="idD3E170E7815E460B93C85753559325E2"><enum>401.</enum><header>Preservation
+			 of State authority</header><text display-inline="no-display-inline">Nothing in
+			 this Act, any amendments made by this Act, or any rules promulgated to carry
+			 out this Act or such amendments, shall be construed to limit the authority of a
+			 State to enact, adopt, promulgate, and enforce any law, rule, regulation, or
+			 other measure with respect to long-term care insurance that is in addition to,
+			 or more stringent than, requirements established under this Act and the
+			 amendments made by this Act.</text>
+			</section></title></legis-body>
+</bill>

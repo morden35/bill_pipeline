@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-print="no" public-private="public" stage-count="1" star-print="no-star-print">
+	<form display="yes">
+		<distribution-code display="yes">II</distribution-code>
+		<congress display="yes">112th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num display="yes">S. 515</legis-num>
+		<current-chamber display="yes">IN THE SENATE OF THE UNITED
+		  STATES</current-chamber>
+		<action display="yes">
+			<action-date date="20110308">March 8, 2011</action-date>
+			<action-desc><sponsor name-id="S314">Mr. Tester</sponsor> introduced
+			 the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSAP00">Committee on
+			 Appropriations</committee-name></action-desc>
+		</action>
+		<legis-type display="yes">A BILL</legis-type>
+		<official-title display="yes">To rescind amounts made available for water
+		  treatment improvements for the Flathead County Water and Sewer District and
+		  make the amounts available for Federal deficit reduction.</official-title>
+	</form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC">
+		<section commented="no" display-inline="no-display-inline" id="id1CB8497BA6C74123A2D399274098ABF5" section-type="section-one"><enum>1.</enum><header display-inline="yes-display-inline">Recission of amounts for water treatment
+			 improvements</header>
+			<subsection commented="no" display-inline="no-display-inline" id="id8EA2E65EDB254A968C905011C99E1C11"><enum>(a)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law,
+			 the amounts provided to the Flathead County Water and Sewer District No.
+			 1––Evergreen, for water treatment improvements, identified as project number
+			 283 on page 1143 of the conference report to accompany H.R. 2673 of the 108th
+			 Congress (Conference Report No. 108–401; 118 Stat. 3331) are rescinded.</text>
+			</subsection><subsection commented="no" display-inline="no-display-inline" id="id8CB1FE3C481A45689265E46868EE1324"><enum>(b)</enum><header display-inline="yes-display-inline">Deficit reduction</header><text display-inline="yes-display-inline">Amounts rescinded under subsection (a)
+			 shall be used to reduce the Federal deficit.</text>
+			</subsection></section></legis-body>
+</bill>

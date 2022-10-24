@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-private="public"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>114 S3138 IS: No Ex-Im Financing for Iran Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2016-07-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>114th CONGRESS</congress><session>2d Session</session><legis-num>S. 3138</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20160707">July 7, 2016</action-date><action-desc><sponsor name-id="S350">Mr. Rubio</sponsor> (for himself, <cosponsor name-id="S374">Mr. Cotton</cosponsor>, <cosponsor name-id="S287">Mr. Cornyn</cosponsor>, and <cosponsor name-id="S355">Mr. Cruz</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To prevent Iran from directly or indirectly receiving assistance from the Export-Import Bank of the
+			 United States. </official-title></form>
+	<legis-body display-enacting-clause="yes-display-enacting-clause" id="H3C1EF2A0FFDE4934827C04E652B251A1" style="OLC">
+ <section id="HC120FF41311A481D933B3D27ECC529E3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Ex-Im Financing for Iran Act</short-title></quote>.</text> </section><section id="HEEA37EE1C1FA4FF4B124E618E8E984D6"><enum>2.</enum><header>Prohibition on assistance benefitting Iran</header><text display-inline="no-display-inline">Section 2(b) of the Export-Import Bank Act of 1945 (<external-xref legal-doc="usc" parsable-cite="usc/12/635">12 U.S.C. 635(b)</external-xref>) is amended by adding at the end the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H2F5FE51C280B4C24B2A9365D38239021" style="OLC">
+ <paragraph id="H2792647206784CFF8FA38351143643D4" indent="up1"><enum>(14)</enum><header>Prohibition on assistance benefitting Iran</header><text display-inline="yes-display-inline">The Bank may not guarantee, insure, or extend (participate in the extension of) credit in connection with a transaction, with respect to which credit assistance from the Bank is first sought after the effective date of this paragraph, involving any entity that does business with, or provides credit or a guarantee to any other entity in connection with a transaction involving—</text>
+ <subparagraph id="H257972AE3B7144F7935A60F74B7257B7"><enum>(A)</enum><text>the Government of Iran, or an entity in which the Government of Iran participates;</text> </subparagraph><subparagraph id="H2EB5BFB744C540A99D7D8C2AF1E9C7B1"><enum>(B)</enum><text>an entity that is created under Iran law; or</text>
+ </subparagraph><subparagraph id="HC475F08A7CD04733913F3157137A8AF1"><enum>(C)</enum><text>an operation in Iran.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill> 
+
