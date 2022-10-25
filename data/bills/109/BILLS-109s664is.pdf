@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" public-private="public">
+
+	<form>
+
+		<distribution-code>II</distribution-code>
+
+		<congress>109th CONGRESS</congress>
+
+		<session>1st Session</session>
+
+		<legis-num>S. 664</legis-num>
+
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+
+		<action>
+
+			<action-date date="20050317">March 17, 2005</action-date>
+
+			<action-desc><sponsor name-id="S057">Mr. Leahy</sponsor> introduced the
+
+			 following bill; which was read twice and referred to the
+
+			 <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and
+
+			 Forestry</committee-name></action-desc>
+
+		</action>
+
+		<legis-type>A BILL</legis-type>
+
+		<official-title>To adjust the boundaries of Green Mountain National
+
+		  Forest.</official-title>
+
+	</form>
+
+	<legis-body>
+
+		<section id="id1CFF340EBCEB4AA6AE886B364E619156" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+
+			 <quote><short-title>Green Mountain National Forest
+
+			 Adjustment Act of 2005</short-title></quote>.</text>
+
+		</section><section id="IDE5E51859A4464B419CAF2403AFAD0479" section-type="subsequent-section"><enum>2.</enum><header>Green Mountain
+
+			 National Forest adjustment</header>
+
+			<subsection id="IDA0C85685151947F1AD00BC001EB07542"><enum>(a)</enum><header>In
+
+			 general</header><text>The boundaries of the Green Mountain National Forest are
+
+			 modified to include all parcels of land depicted on the forest maps entitled
+
+			 <quote>Green Mountain Expansion Area Map I</quote> and <quote>Green Mountain
+
+			 Expansion Area Map II</quote>, each dated February 20, 2002, which shall be on
+
+			 file and available for public inspection in the Office of the Chief of the
+
+			 Forest Service, Washington, District of Columbia.</text>
+
+			</subsection><subsection id="IDFDEBA44DA228490683F58D609BADFEE0"><enum>(b)</enum><header>Management</header><text>Federally
+
+			 owned land delineated on the maps acquired for National Forest purposes shall
+
+			 continue to be managed in accordance with the laws (including regulations)
+
+			 applicable to the National Forest System.</text>
+
+			</subsection><subsection id="IDFD59F47F4AB24055A5C54B1843C2F21E"><enum>(c)</enum><header>Land and water
+
+			 conservation fund</header><text>For the purposes of
+
+			 <external-xref legal-doc="act" parsable-cite="LWCFA/7">section
+
+			 7</external-xref> of the <act-name parsable-cite="LWCFA">Land and Water
+
+			 Conservation Fund Act of 1965</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/16/460">16 U.S.C. 460</external-xref><italic>l</italic>–9),
+
+			 the boundaries of the Green Mountain National Forest, as adjusted by this Act,
+
+			 shall be considered to be the boundaries of the national forest as of January
+
+			 1, 1965.</text>
+
+			</subsection></section></legis-body>
+
+</bill>
+

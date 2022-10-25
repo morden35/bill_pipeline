@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" bill-type="olc" dms-id="A1" public-private="public" star-print="no-star-print">
+
+	<form display="yes">
+
+		<distribution-code display="yes">II </distribution-code>
+
+		<congress display="yes">109th CONGRESS</congress>
+
+		<session display="yes">1st Session</session>
+
+		<legis-num>S. 643</legis-num>
+
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+
+		<action display="yes">
+
+			<action-date date="20050316">March 16, 2005</action-date>
+
+			<action-desc><sponsor name-id="S260">Mr. Roberts</sponsor> (for himself
+
+			 and <cosponsor name-id="S172">Mr. Harkin</cosponsor>) introduced the following
+
+			 bill; which was read twice and referred to the
+
+			 <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and
+
+			 Forestry</committee-name></action-desc>
+
+		</action>
+
+		<legis-type>A BILL</legis-type>
+
+		<official-title display="yes">To amend the Agricultural Credit Act of
+
+		  1987 to reauthorize State mediation programs.</official-title>
+
+	</form>
+
+	<legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC">
+
+		<section commented="no" display-inline="no-display-inline" id="id2524760C26594F79B1F0B3227D551EB3" section-type="section-one">
+
+			<enum>1.</enum>
+
+			<header>Reauthorization of State mediation programs</header>
+
+			<text display-inline="no-display-inline">Section 506 of the
+
+			 Agricultural Credit Act of 1987 (7 U.S.C. 5106) is amended by striking
+
+			 <quote>2005</quote> and inserting <quote>2010</quote>.</text>
+
+		</section></legis-body>
+
+</bill>
+

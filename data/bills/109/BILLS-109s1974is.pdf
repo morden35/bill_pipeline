@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+
+	<form>
+
+		<distribution-code display="yes">II</distribution-code>
+
+		<congress>109th CONGRESS</congress>
+
+		<session>1st Session</session>
+
+		<legis-num>S. 1974</legis-num>
+
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+
+		<action>
+
+			<action-date date="20051108">November 8, 2005</action-date>
+
+			<action-desc><sponsor name-id="S282">Mr. Nelson of Florida</sponsor>
+
+			 introduced the following bill; which was read twice and referred to the
+
+			 <committee-name committee-id="SSHR00">Committee on Health, Education, Labor,
+
+			 and Pensions</committee-name></action-desc>
+
+		</action>
+
+		<legis-type>A BILL</legis-type>
+
+		<official-title>To provide States with the resources needed to rid our
+
+		  schools of performance-enhancing drug use.</official-title>
+
+	</form>
+
+	<legis-body>
+
+		<section id="S1" section-type="section-one"><enum>1.</enum><header>Short
+
+			 title</header><text display-inline="no-display-inline">This Act may be cited as
+
+			 the <quote><short-title>Drug Free Varsity Sports Act of
+
+			 2005</short-title></quote>.</text>
+
+		</section><section id="idA071E17581AC4E13921EE2A90E6B0C44"><enum>2.</enum><header>
+
+			 Pilot drug-testing programs for performance-enhancing drugs</header>
+
+			<subsection id="IDbf5822c546c2472cbd1f6ff2c27e38c5"><enum>(a)</enum><header>Purpose</header><text>The
+
+			 purpose of this section is to supplement the other student drug-testing
+
+			 programs assisted by the Office of Safe and Drug-Free Schools of the Department
+
+			 of Education by establishing, through the Office, a grant program that will
+
+			 allow State educational agencies to test secondary school students for
+
+			 performance-enhancing drug use.</text>
+
+			</subsection><subsection id="id8C9158639D8E4CCC9429F79930CFC7DC"><enum>(b)</enum><header>Program
+
+			 authorized</header><text>The Secretary of Education, acting through the
+
+			 Assistant Deputy Secretary of the Office of Safe and Drug-Free Schools, shall
+
+			 award, on a competitive basis, grants to State educational agencies to enable
+
+			 the State educational agencies to develop and carry out statewide pilot
+
+			 programs that test secondary school students for performance-enhancing drug
+
+			 use.</text>
+
+			</subsection><subsection id="id9E724CD0FB364525B8542C82AB1C3A05"><enum>(c)</enum><header>Application</header><text>A
+
+			 State educational agency that desires to receive a grant under this section
+
+			 shall submit an application to the Secretary of Education at such time, in such
+
+			 manner, and containing such information as the Secretary may require.</text>
+
+			</subsection><subsection commented="no" id="idE2D5CB62C9AB4A2584B0FB98139C7DD8"><enum>(d)</enum><header>Priority</header><text>In
+
+			 awarding grants under this section, the Secretary of Education shall give
+
+			 priority to State educational agencies that incorporate community organizations
+
+			 in carrying out the recovery, counseling, and treatment programs described in
+
+			 subsection (e)(1)(B).</text>
+
+			</subsection><subsection id="id5C847B2457604F86A931D65C911DAD26"><enum>(e)</enum><header>Use of
+
+			 funds</header>
+
+				<paragraph id="idEF6B0AC488684808A8E004D151252A52"><enum>(1)</enum><header>Drug-testing
+
+			 program for performance-enhancing drugs</header><text>A State educational
+
+			 agency that receives a grant under this section shall use not more than 90
+
+			 percent of the grant funds to carry out the following:</text>
+
+					<subparagraph id="id3C1E32F0F74F4D058CD35B5D50E3F009"><enum>(A)</enum><text>Implement a
+
+			 drug-testing program for performance-enhancing drugs that is limited to testing
+
+			 secondary school students who meet 1 or more of the following criteria:</text>
+
+						<clause id="idDE32F4D57EC646B99CCC916F08BEF8EB"><enum>(i)</enum><text>The
+
+			 student participates in the school’s athletic program.</text>
+
+						</clause><clause id="ID0c974d4e6569461d815c391f2ba2c0f9"><enum>(ii)</enum><text>The student is
+
+			 engaged in a competitive, extracurricular, school-sponsored activity.</text>
+
+						</clause><clause id="ID0b89b0af72a649dc9805652140ec35c3"><enum>(iii)</enum><text>The student and
+
+			 the student's parent or guardian provides written consent for the student to
+
+			 participate in a voluntary random drug-testing program for
+
+			 performance-enhancing drugs.</text>
+
+						</clause></subparagraph><subparagraph id="idAFD94321703143A9A5D19638DFE77217"><enum>(B)</enum><text>Provide recovery,
+
+			 counseling, and treatment programs for secondary school students tested in the
+
+			 program who test positive for performance-enhancing drugs.</text>
+
+					</subparagraph></paragraph><paragraph id="id6AE0B81AEF5A4D979DB6FDD30D53F999"><enum>(2)</enum><header>Prevention</header><text>A
+
+			 State educational agency that receives a grant under this section shall use not
+
+			 less than 10 percent of the grant funds to establish statewide policies that
+
+			 discourage the use of performance-enhancing drugs, through educational or other
+
+			 related means.</text>
+
+				</paragraph></subsection><subsection id="IDa8a2f27d9bc64426b3b813d1eb9fd508"><enum>(f)</enum><header>Report</header><text>For
+
+			 each year of the grant period, a State educational agency that receives a grant
+
+			 under this section shall prepare and submit an annual report to the Assistant
+
+			 Deputy Secretary of the Office of Safe and Drug-Free Schools on the impact of
+
+			 the pilot program, which report shall include—</text>
+
+				<paragraph id="id1C7C24A0BB2D404E93B9ADF1CE09BBB0"><enum>(1)</enum><text>the number and
+
+			 percentage of students who test positive for performance-enhancing
+
+			 drugs;</text>
+
+				</paragraph><paragraph id="idFD1BB19F20D04091911EBA861A059C85"><enum>(2)</enum><text>the cost of the
+
+			 pilot program; and</text>
+
+				</paragraph><paragraph id="id1A8EA381200847019F4C58C8F557DC68"><enum>(3)</enum><text>a description of
+
+			 any barriers to the pilot program, as well as aspects of the pilot program that
+
+			 were successful.</text>
+
+				</paragraph></subsection><subsection commented="no" id="idB3991CDD5B78494194972F20173AF069"><enum>(g)</enum><header>Definitions</header><text>In
+
+			 this section, the terms <term>State educational agency</term> and
+
+			 <term>secondary school</term> have the meanings given the terms in section 9101
+
+			 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).</text>
+
+			</subsection><subsection id="id9788F64CACC440D58902BB9D020F2029"><enum>(h)</enum><header>Authorization
+
+			 of appropriations</header>
+
+				<paragraph id="id18ED8137EF654034AF69A56D97006428"><enum>(1)</enum><header>In
+
+			 general</header><text>There is authorized to be appropriated to carry out this
+
+			 section $20,000,000 for fiscal year 2006.</text>
+
+				</paragraph><paragraph id="idFE678CA68D2B4B41A8D6CE4444A62517"><enum>(2)</enum><header>Separation of
+
+			 funds</header><text>The Secretary of Education shall keep any funds authorized
+
+			 for this section under paragraph (1) separate from any funds available to the
+
+			 Secretary for other student drug-testing programs.</text>
+
+				</paragraph></subsection></section></legis-body>
+
+</bill>
+
