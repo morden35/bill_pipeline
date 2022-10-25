@@ -34,7 +34,7 @@ To run the pipeline, run the following from the command line:\
 
 ## Pipeline description
 
-![Depiction of the pipeline](pipeline.png)
+![Depiction of the pipeline](pipeline.png) \
 This pipeline is relatively simple and is made up of 2 functions, get_bill_ids() and get_bills().
 
 ### get_bill_ids()
@@ -62,6 +62,11 @@ Once we have a file containing the bill ids of interest, we can finally get the 
 
 ## Data Schema
 
+The retrieved bill id files and bill text files are saved locally to disk. In this repository, you will find a [\/data](https://github.com/morden35/bill_pipeline/tree/main/data) folder. The \/data folder contains two additional folders, [\/ids](https://github.com/morden35/bill_pipeline/tree/main/data/ids) and [\/bills](https://github.com/morden35/bill_pipeline/tree/main/data/bills). Id files and bill text files are stored using the following paths:
+
+data\/ids\/<congress>\/<congress>\_<docClass>_<billVersion>.json \
+data\/bills\/<congress>\/<bill_id>.pdf
+
 ## Future Work
 
 1. Parallelization
@@ -74,10 +79,15 @@ At the moment, bill ids and bill texts (pdf) are store locally in the \/data\/id
 
 3. More Robust Input Checks
 
+At the moment, I am doing some simple checks to see if the user provided arguments are valid individually. However, these checks could be more robust and take into account different combinations of user input. For example, providing the docClass 's' and billVersion 'ath' is not a valid combination as 's' refers to Senate Bill and 'ath' refers to bills agreed to by the House (see [About Congressional Bills](https://www.govinfo.gov/help/bills#about) for complete list of abbreviations). Requests with invalid combinations of arguments will result in zero bill ids and zero bill texts. It would be nice to catch these invalid combinations and print a more informative error to the user.
+
 4. More Robust Error Handling
+
+I am currently wrapping my GovInfo API requests in try\/except blocks. If a request fails, I return 500 error codes. More detailed error messages could be provided to users in the future based on the potential [GovInfo Error Messages](https://github.com/usgpo/api#error-messages).
 
 ## Citations
 
 This pipeline was adapted from a previous project: https://github.com/morden35/bills_nlp_large_scale \
 https://api.govinfo.gov/docs/ \
 https://github.com/usgpo/api
+https://www.govinfo.gov/help/bills#about
