@@ -32,11 +32,43 @@ The pipeline takes in 4 optional arguments:
 To run the pipeline, run the following from the command line:\
 `$ python3 bills.py <num_bills> <congress> <docClass> <billVersion>`
 
-## Code description
+## Pipeline description
+
+Arguments -> get_bill_ids() -> get_bills() -> Storage
+
+This pipeline is relatively simple and is made up of 2 functions, get_bill_ids() and get_bills().
+
+### get_bill_ids()
+
+In order to request and download bill texts from the GovInfo API, we first need to know the bill ids (aka 'packageID') of interest. The goal of get_bill_ids() is to retrieve the bill ids of interest from the API before calling get_bills(). It does so through the following steps:
+
+- Take in the user provided argments (if any) and check if those arguments are valid.
+- Check if the file with the bill ids of interest is already saved to disk as to avoid extra API calls.
+- If the file already exists, call get_bills().
+- If the file with the bill ids does not exists, make a request to the GovInfo API \/collections endpoint.
+- If the request succeeds, save the bill ids to disk and call get_bills().
+- If the request fails, return the status code.
+
+### get_bills()
+
+Once we have a file containing the bill ids of interest, we can finally get the bill texts of interest. get_bills() does so through the following steps:
+
+- Open and read the file contents.
+- Retrieve the bill ids of interest and the number of total bills.
+- For each bill id, check that the bill text is not already saved to disk as to avoid extra API calls.
+- If the bill text is already saved, move on to the next bill id.
+- If the bill text is not already saved, make a request to the GovInfo API \/packages endpoint.
+- If the request succeeds, save the bill text (.pdf) to disk.
+- If the request fails, return the status code.
 
 ## Decisions
 
 ## Future Work
+
+1. Parallelization
+2. More Robust Storage
+3. More Robust Input Checks
+4. More Robust Error Handling
 
 ## Citations
 
