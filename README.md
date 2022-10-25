@@ -10,7 +10,7 @@ The pipeline requires the following modules. These modules are built into [Pytho
 - math
 - os.path
 
-Additionally, the pipeline requires the installation of the requests library. To install, run the following from the command line:
+Additionally, the pipeline requires the installation of the [requests library](https://pypi.org/project/requests/). To install, run the following from the command line:\
 `$ pip install -r requirements.txt`
 
 ## How to run
