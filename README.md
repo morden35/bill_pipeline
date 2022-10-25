@@ -34,8 +34,7 @@ To run the pipeline, run the following from the command line:\
 
 ## Pipeline description
 
-Arguments -> get_bill_ids() -> get_bills() -> Storage
-
+![Depiction of the pipeline](pipeline.png)
 This pipeline is relatively simple and is made up of 2 functions, get_bill_ids() and get_bills().
 
 ### get_bill_ids()
