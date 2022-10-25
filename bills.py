@@ -38,16 +38,20 @@ def get_bill_ids(num_bills=25,
     '''
     # Check user inputs
     if int(num_bills) > 999:
-        print("Max number of API requests reached. Try again with fewer bills.")
+        print("Max number of API requests reached. "
+              "Try again with fewer bills.")
         return 400
     if congress not in CONGRESS_YRS:
-        print("Invalid congress entered. Please try again with valid congress.")
+        print("Invalid congress entered. "
+              "Please try again with valid congress.")
         return 400
     if docClass not in DOC_CLASSES:
-        print("Invalid docClass entered. Please try again with valid docClass.")
+        print("Invalid docClass entered. "
+              "Please try again with valid docClass.")
         return 400
     if billVersion not in BILL_VERSIONS:
-        print("Invalid billVersion entered. Please try again with valid billVersion.")
+        print("Invalid billVersion entered. "
+              "Please try again with valid billVersion.")
         return 400
     
     bill_id_file = (f"data/ids/{congress}/{congress}_{docClass}_{billVersion}"
@@ -65,8 +69,8 @@ def get_bill_ids(num_bills=25,
            f'?offset={offset}&pageSize={pageSize}&congress={congress}&docClass'
            f'={docClass}&billVersion={billVersion}&api_key={API_KEY}')
     PARAMS = {'headers': 'accept: application/json'}
-    print(f"Requesting bill ids for congress '{congress}', docClass '{docClass}', "
-          f"billVersion '{billVersion}'.")
+    print(f"Requesting bill ids for congress '{congress}', docClass "
+          f"'{docClass}', billVersion '{billVersion}'.")
     
     # Request bill ids
     try:
@@ -111,7 +115,8 @@ def get_bills(bill_id_file, num_bills):
     # Future work would parallelize here.
     max_bills = 999
     num_machines = math.ceil(bill_count / max_bills)
-    print(f"At least {num_machines} machines required to reqeust all {bill_count} bills.")
+    print(f"At least {num_machines} machines required to reqeust all "
+          f"{bill_count} bills.")
     print(f"Requesting {num_bills} bill texts.")
 
     bill_ids_saved = []
