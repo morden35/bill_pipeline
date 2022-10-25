@@ -53,7 +53,7 @@ def get_bill_ids(num_bills=25,
         print("Invalid billVersion entered. "
               "Please try again with valid billVersion.")
         return 400
-    
+
     bill_id_file = (f"data/ids/{congress}/{congress}_{docClass}_{billVersion}"
                     ".json")
     if exists(bill_id_file):
@@ -71,7 +71,7 @@ def get_bill_ids(num_bills=25,
     PARAMS = {'headers': 'accept: application/json'}
     print(f"Requesting bill ids for congress '{congress}', docClass "
           f"'{docClass}', billVersion '{billVersion}'.")
-    
+
     # Request bill ids
     try:
         r = requests.get(url=url, params=PARAMS)
