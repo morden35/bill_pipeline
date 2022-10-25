@@ -28,7 +28,7 @@ def get_bill_ids(num_bills=25,
     The requested bill ids are saved as json to disk.
 
     Inputs:
-        num_bills (int) - The number of bill texts to retrieve (default 25).
+        num_bills (str) - The number of bill texts to retrieve (default 25).
         congress (str) - congress number (116 default)
         docClass (str) - bill/collection categories (s, hr, hres, sconres)
         billVersion (str) - the bill version (there are 53 possible types)
@@ -37,7 +37,7 @@ def get_bill_ids(num_bills=25,
             and get_bills() is called
         if the requests does not succeed, returns status code
     '''
-    if num_bills > 999:
+    if int(num_bills) > 999:
         print("Max number of API requests reached. Try again with fewer bills.")
         return 400
 
@@ -60,18 +60,22 @@ def get_bill_ids(num_bills=25,
 
     print(f"Requesting bill ids for congress '{congress}', docClass '{docClass}', "
           f"billVersion '{billVersion}'.")
-    r = requests.get(url=url, params=PARAMS)
+    
+    try:
+        r = requests.get(url=url, params=PARAMS)
+    except:
+        return "API request failed. Try again with valid arguments."
+
     if r.status_code == 200:
         data = r.json()
         # Save bill ids to disk
         with open((f"data/ids/{congress}/{congress}_{docClass}_{billVersion}"
-                   ".json"), "w") as outfile:
+                    ".json"), "w") as outfile:
             json.dump(data, outfile)
         print(f"{data['count']} bill ids for congress '{congress}', docClass "
-              f"'{docClass}', billVersion '{billVersion}' saved to disk.")
+                f"'{docClass}', billVersion '{billVersion}' saved to disk.")
         # Get bill texts
         return get_bills(outfile.name, int(num_bills))
-    print(f"Status code: {r.status_code}")
     return r.status_code
 
 
@@ -113,16 +117,20 @@ def get_bills(bill_id_file, num_bills):
         url = (f"https://api.govinfo.gov/packages/{bill_id}/xml?api_key="
                f"{API_KEY}")
         PARAMS = {'headers': 'accept: */*'}
-        r = requests.get(url = url, params = PARAMS)
+
+        # Request bill pdfs
+        try:
+            r = requests.get(url = url, params = PARAMS)
+        except:
+            return r.status_code
+
         # Save bill pdf
         with open(bill_pdf_path, "wb") as outfile:
             outfile.write(r.content)
+            print(f"{bill_id} saved")
     print(f"{len(bill_ids_saved)} bill texts (.pdfs) for congress '{congress}'"
-          f" saved to disk: {bill_ids_saved}")
+          f" saved to disk.")
 
 
 if __name__ == '__main__':
-    try:
-        get_bill_ids(*sys.argv[1:])
-    except:
-        print("Please try again with valid command line arguments.")
+    get_bill_ids(*sys.argv[1:])
