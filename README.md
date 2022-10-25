@@ -65,7 +65,7 @@ Once we have a file containing the bill ids of interest, we can finally get the 
 The retrieved bill id files and bill text files are saved locally to disk. In this repository, you will find a [\/data](https://github.com/morden35/bill_pipeline/tree/main/data) folder. The \/data folder contains two additional folders, [\/ids](https://github.com/morden35/bill_pipeline/tree/main/data/ids) and [\/bills](https://github.com/morden35/bill_pipeline/tree/main/data/bills). Id files and bill text files are stored using the following paths:
 
 data\/ids\/\<congress>\/\<congress>\_\<docClass>_\<billVersion>.json \
-data\/bills\/<congress>\/<bill_id>.pdf
+data\/bills\/\<congress>\/\<bill_id>.pdf
 
 ## Future Work
 
