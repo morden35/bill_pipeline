@@ -75,7 +75,7 @@ The main challenge of downloading bill texts in bulk is that the GovInfo API has
 
 2. More Robust Storage
 
-At the moment, bill ids and bill texts (pdf) are store locally in the \/data\/ids\/ and \/data\/bills\/ folders respectively. This is fine for smaller scale projects, however it is not ideal to store large number of bill texts on a user's local machine. If a user was interested in doing analyses on all available bill texts (+240,000), a more robust storage solution would be needed. [Previous iterations of this project](https://github.com/morden35/bills_nlp_large_scale) used AWS S3 buckets to store bill texts. S3 buckets are ideal for storing large unstructured data (e.g. text files, images, video, etc), so they could be a good solution for this issue.
+At the moment, bill ids and bill texts (pdf) are store locally. This is fine for smaller scale projects, however it is not ideal to store large numbers of bill texts on a user's local machine. If a user was interested in doing analyses on all available bill texts (+240,000), a more robust storage solution would be needed. [Previous iterations of this project](https://github.com/morden35/bills_nlp_large_scale) used AWS S3 buckets to store bill texts. S3 buckets are ideal for storing large unstructured data (e.g. text files, images, video, etc), so they could be a good solution for this issue.
 
 3. More Robust Input Checks
 
