@@ -61,13 +61,20 @@ Once we have a file containing the bill ids of interest, we can finally get the 
 - If the request succeeds, save the bill text (.pdf) to disk.
 - If the request fails, return the status code.
 
-## Decisions
+## Data Schema
 
 ## Future Work
 
 1. Parallelization
+
+The main challenge of downloading bill texts in bulk is that the GovInfo API has a maximum request limit of 1000 requests per hour per API key. In the future, I would like to handle this issue through the use of parallelization. For a given user request, we can divide the total number of bills by 1000 to determine the number of API keys and machines needed to download all of the bills of interest. Technologies such as Dask, Spark, and/or cloud computing services could be used to accomplish this.
+
 2. More Robust Storage
+
+At the moment, bill ids and bill texts (pdf) are store locally in the \/data\/ids\/ and \/data\/bills\/ folders respectively. This is fine for smaller scale projects, however it is not ideal to store large number of bill texts on a user's local machine. If a user was interested in doing analyses on all available bill texts (+240,000), a more robust storage solution would be needed. [Previous iterations of this project](https://github.com/morden35/bills_nlp_large_scale) used AWS S3 buckets to store bill texts. S3 buckets are ideal for storing large unstructured data (e.g. text files, images, video, etc), so they could be a good solution for this issue.
+
 3. More Robust Input Checks
+
 4. More Robust Error Handling
 
 ## Citations
