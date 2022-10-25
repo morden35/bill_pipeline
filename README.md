@@ -40,6 +40,6 @@ To run the pipeline, run the following from the command line:\
 
 ## Citations
 
-This pipeline was adapted from a previous project: https://github.com/morden35/bills_nlp_large_scale
-https://api.govinfo.gov/docs/
+This pipeline was adapted from a previous project: https://github.com/morden35/bills_nlp_large_scale \
+https://api.govinfo.gov/docs/ \
 https://github.com/usgpo/api
