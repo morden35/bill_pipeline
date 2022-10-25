@@ -5,18 +5,17 @@ import math
 from os.path import exists
 
 API_KEY = 'nt5nhSpwSqMbrGJ7hcsBkXFI1mfk80X0fexbnt45'
-
-# CONGRESS_YRS = ['103', '104', '105', '106', '107', '108', '109', '110',
-#                 '111', '112', '113', '114', '115', '116', '117']
-# DOC_CLASSES = ['s', 'sres', 'sconres', 'sjres', 'hr', 'hres', 'hconres',
-#                'hjres']
-# BILL_VERSIONS = ['as', 'ash', 'ath', 'ats', 'cdh', 'cds', 'cph', 'cps', 'eah',
-#                    'eas', 'eh', 'eph', 'phs', 'enr', 'es', 'fah', 'fph', 'fps',
-#                    'hdh', 'hds', 'ih', 'iph', 'ips', 'is', 'lth', 'lts', 'oph',
-#                    'ops', 'pav', 'pch', 'pcs', 'pp', 'pap', 'pwah', 'rah',
-#                    'ras', 'rch', 'rcs', 'rdh', 'rds', 'reah', 'res', 'renr',
-#                    'rfh', 'rfs', 'rh', 'rih', 'ris', 'rs', 'rth', 'rts', 'sas',
-#                    'sc']
+CONGRESS_YRS = ['103', '104', '105', '106', '107', '108', '109', '110',
+                '111', '112', '113', '114', '115', '116', '117']
+DOC_CLASSES = ['s', 'sres', 'sconres', 'sjres', 'hr', 'hres', 'hconres',
+               'hjres']
+BILL_VERSIONS = ['as', 'ash', 'ath', 'ats', 'cdh', 'cds', 'cph', 'cps', 'eah',
+                   'eas', 'eh', 'eph', 'phs', 'enr', 'es', 'fah', 'fph', 'fps',
+                   'hdh', 'hds', 'ih', 'iph', 'ips', 'is', 'lth', 'lts', 'oph',
+                   'ops', 'pav', 'pch', 'pcs', 'pp', 'pap', 'pwah', 'rah',
+                   'ras', 'rch', 'rcs', 'rdh', 'rds', 'reah', 'res', 'renr',
+                   'rfh', 'rfs', 'rh', 'rih', 'ris', 'rs', 'rth', 'rts', 'sas',
+                   'sc']
 
 def get_bill_ids(num_bills=25,
                  congress='116',
@@ -37,15 +36,24 @@ def get_bill_ids(num_bills=25,
             and get_bills() is called
         if the requests does not succeed, returns status code
     '''
+    # Check user inputs
     if int(num_bills) > 999:
         print("Max number of API requests reached. Try again with fewer bills.")
         return 400
-
+    if congress not in CONGRESS_YRS:
+        print("Invalid congress entered. Please try again with valid congress.")
+        return 400
+    if docClass not in DOC_CLASSES:
+        print("Invalid docClass entered. Please try again with valid docClass.")
+        return 400
+    if billVersion not in BILL_VERSIONS:
+        print("Invalid billVersion entered. Please try again with valid billVersion.")
+        return 400
+    
     bill_id_file = (f"data/ids/{congress}/{congress}_{docClass}_{billVersion}"
                     ".json")
     if exists(bill_id_file):
-        # Skip getting bill ids
-        # Just get bill texts
+        # Skip getting bill ids. Just get bill texts.
         print(f"Id file already exitst for congress '{congress}', docClass "
               f"'{docClass}', billVersion '{billVersion}'.")
         return get_bills(bill_id_file, int(num_bills))
@@ -57,14 +65,15 @@ def get_bill_ids(num_bills=25,
            f'?offset={offset}&pageSize={pageSize}&congress={congress}&docClass'
            f'={docClass}&billVersion={billVersion}&api_key={API_KEY}')
     PARAMS = {'headers': 'accept: application/json'}
-
     print(f"Requesting bill ids for congress '{congress}', docClass '{docClass}', "
           f"billVersion '{billVersion}'.")
     
+    # Request bill ids
     try:
         r = requests.get(url=url, params=PARAMS)
     except:
-        return "API request failed. Try again with valid arguments."
+        print("API request failed. Try again with valid arguments.")
+        return 500
 
     if r.status_code == 200:
         data = r.json()
@@ -88,7 +97,7 @@ def get_bills(bill_id_file, num_bills):
         bill_id_file (str) - Path to a file containing json with all bill ids
         num_bills (int) - The number of bill texts to retrieve (default 25).
     Returns:
-        This function dumps pdf files containing bill texts into their
+        This function saves pdf files containing bill texts into their
         respective folders on disk.
     '''
     congress = bill_id_file.split("/")[2]
@@ -99,6 +108,7 @@ def get_bills(bill_id_file, num_bills):
         bill_count = id_content['count']
 
     # The API allows a maximum of 1000 requests per hour for a given API key.
+    # Future work would parallelize here.
     max_bills = 999
     num_machines = math.ceil(bill_count / max_bills)
     print(f"At least {num_machines} machines required to reqeust all {bill_count} bills.")
@@ -122,7 +132,8 @@ def get_bills(bill_id_file, num_bills):
         try:
             r = requests.get(url = url, params = PARAMS)
         except:
-            return r.status_code
+            print("API request failed.")
+            return 500
 
         # Save bill pdf
         with open(bill_pdf_path, "wb") as outfile:
